@@ -1,0 +1,116 @@
+codigo_bcra,nombre_banco,tipo_entidad,fuente,variable,periodo,valor,scraping_fecha
+00312,BANCO VOII S.A.,privado_nacional,situacion_deudores,TOTAL DE FINANCIACIONES Y GARANTIAS OTORGADAS ($),Dic-2023,5184.42,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,situacion_deudores,TF.Sit.1: En situación normal (%),Dic-2023,94.53,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,situacion_deudores,TF.Sit.2: Con seguimiento especial/Riesgo bajo (%),Dic-2023,1.45,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,situacion_deudores,TF.Sit.3: Con problemas/Riesgo medio (%),Dic-2023,2.09,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,situacion_deudores,TF.Sit.4: Con alto riesgo de insolvencia/Riesgo alto (%),Dic-2023,1.3,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,situacion_deudores,TF.Sit.5: Irrecuperable (%),Dic-2023,0.63,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,situacion_deudores,Previsiones por riesgo de incobrabilidad constituídas,Dic-2023,195.29,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,situacion_deudores,CARTERA COMERCIAL ($),Dic-2023,1071.22,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,situacion_deudores,Total cartera sobre financiaciones (%),Dic-2023,20.66,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,situacion_deudores,C.COM.Sit.1: En situación normal (%),Dic-2023,98.62,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,situacion_deudores,C.COM.Sit.2: Con seguimiento especial (%),Dic-2023,0.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,situacion_deudores,C.COM.Sit.3: Con problemas (%),Dic-2023,1.38,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,situacion_deudores,C.COM.Sit.4: Con alto riesgo de insolvencia (%),Dic-2023,0.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,situacion_deudores,CARTERA DE CONSUMO O VIVIENDA ($),Dic-2023,4113.2,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,situacion_deudores,Total cartera sobre financiaciones (%),Dic-2023,79.34,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,situacion_deudores,C.CON.Sit.1: En situación normal (%),Dic-2023,93.47,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,situacion_deudores,C.CON.Sit.2: Riesgo bajo (%),Dic-2023,1.83,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,situacion_deudores,C.CON.Sit.3: Riesgo medio (%),Dic-2023,2.27,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,situacion_deudores,C.CON.Sit.4: Riesgo alto (%),Dic-2023,1.64,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,situacion_deudores,C.CON.Sit.5: Irrecuperable (%),Dic-2023,0.8,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,situacion_deudores,CARTERA COMERCIAL ASIMILABLE A CONSUMO ($),Dic-2023,0.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,situacion_deudores,Total cartera sobre financiaciones (%),Dic-2023,0.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,situacion_deudores,C.CAC.Sit.1: En situación normal (%),Dic-2023,100.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,situacion_deudores,TOTAL DE FINANCIACIONES Y GARANTIAS OTORGADAS ($),Dic-2024,19200.11,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,situacion_deudores,TF.Sit.1: En situación normal (%),Dic-2024,97.47,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,situacion_deudores,TF.Sit.2: Con seguimiento especial/Riesgo bajo (%),Dic-2024,0.81,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,situacion_deudores,TF.Sit.3: Con problemas/Riesgo medio (%),Dic-2024,1.12,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,situacion_deudores,TF.Sit.4: Con alto riesgo de insolvencia/Riesgo alto (%),Dic-2024,0.5,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,situacion_deudores,TF.Sit.5: Irrecuperable (%),Dic-2024,0.1,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,situacion_deudores,Previsiones por riesgo de incobrabilidad constituídas,Dic-2024,174.1,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,situacion_deudores,CARTERA COMERCIAL ($),Dic-2024,1846.94,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,situacion_deudores,Total cartera sobre financiaciones (%),Dic-2024,9.62,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,situacion_deudores,C.COM.Sit.1: En situación normal (%),Dic-2024,99.55,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,situacion_deudores,C.COM.Sit.2: Con seguimiento especial (%),Dic-2024,0.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,situacion_deudores,C.COM.Sit.3: Con problemas (%),Dic-2024,0.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,situacion_deudores,C.COM.Sit.4: Con alto riesgo de insolvencia (%),Dic-2024,0.45,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,situacion_deudores,CARTERA DE CONSUMO O VIVIENDA ($),Dic-2024,17353.17,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,situacion_deudores,Total cartera sobre financiaciones (%),Dic-2024,90.38,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,situacion_deudores,C.CON.Sit.1: En situación normal (%),Dic-2024,97.25,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,situacion_deudores,C.CON.Sit.2: Riesgo bajo (%),Dic-2024,0.9,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,situacion_deudores,C.CON.Sit.3: Riesgo medio (%),Dic-2024,1.24,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,situacion_deudores,C.CON.Sit.4: Riesgo alto (%),Dic-2024,0.51,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,situacion_deudores,C.CON.Sit.5: Irrecuperable (%),Dic-2024,0.11,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,situacion_deudores,CARTERA COMERCIAL ASIMILABLE A CONSUMO ($),Dic-2024,0.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,situacion_deudores,Total cartera sobre financiaciones (%),Dic-2024,0.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,situacion_deudores,C.CAC.Sit.1: En situación normal (%),Dic-2024,0.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,situacion_deudores,TOTAL DE FINANCIACIONES Y GARANTIAS OTORGADAS ($),Nov-2025,58660.99,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,situacion_deudores,TF.Sit.1: En situación normal (%),Nov-2025,93.86,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,situacion_deudores,TF.Sit.2: Con seguimiento especial/Riesgo bajo (%),Nov-2025,2.38,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,situacion_deudores,TF.Sit.3: Con problemas/Riesgo medio (%),Nov-2025,2.69,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,situacion_deudores,TF.Sit.4: Con alto riesgo de insolvencia/Riesgo alto (%),Nov-2025,1.02,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,situacion_deudores,TF.Sit.5: Irrecuperable (%),Nov-2025,0.06,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,situacion_deudores,Previsiones por riesgo de incobrabilidad constituídas,Nov-2025,762.06,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,situacion_deudores,CARTERA COMERCIAL ($),Nov-2025,5670.91,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,situacion_deudores,Total cartera sobre financiaciones (%),Nov-2025,9.67,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,situacion_deudores,C.COM.Sit.1: En situación normal (%),Nov-2025,99.9,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,situacion_deudores,C.COM.Sit.2: Con seguimiento especial (%),Nov-2025,0.01,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,situacion_deudores,C.COM.Sit.3: Con problemas (%),Nov-2025,0.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,situacion_deudores,C.COM.Sit.4: Con alto riesgo de insolvencia (%),Nov-2025,0.09,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,situacion_deudores,CARTERA DE CONSUMO O VIVIENDA ($),Nov-2025,52981.8,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,situacion_deudores,Total cartera sobre financiaciones (%),Nov-2025,90.32,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,situacion_deudores,C.CON.Sit.1: En situación normal (%),Nov-2025,93.21,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,situacion_deudores,C.CON.Sit.2: Riesgo bajo (%),Nov-2025,2.63,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,situacion_deudores,C.CON.Sit.3: Riesgo medio (%),Nov-2025,2.97,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,situacion_deudores,C.CON.Sit.4: Riesgo alto (%),Nov-2025,1.12,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,situacion_deudores,C.CON.Sit.5: Irrecuperable (%),Nov-2025,0.06,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,situacion_deudores,CARTERA COMERCIAL ASIMILABLE A CONSUMO ($),Nov-2025,8.28,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,situacion_deudores,Total cartera sobre financiaciones (%),Nov-2025,0.01,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,situacion_deudores,C.CAC.Sit.1: En situación normal (%),Nov-2025,100.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,situacion_deudores,TOTAL DE FINANCIACIONES Y GARANTIAS OTORGADAS ($),Dic-2025,54224.87,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,situacion_deudores,TF.Sit.1: En situación normal (%),Dic-2025,92.15,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,situacion_deudores,TF.Sit.2: Con seguimiento especial/Riesgo bajo (%),Dic-2025,3.18,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,situacion_deudores,TF.Sit.3: Con problemas/Riesgo medio (%),Dic-2025,3.1,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,situacion_deudores,TF.Sit.4: Con alto riesgo de insolvencia/Riesgo alto (%),Dic-2025,1.51,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,situacion_deudores,TF.Sit.5: Irrecuperable (%),Dic-2025,0.06,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,situacion_deudores,Previsiones por riesgo de incobrabilidad constituídas,Dic-2025,707.86,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,situacion_deudores,CARTERA COMERCIAL ($),Dic-2025,4170.45,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,situacion_deudores,Total cartera sobre financiaciones (%),Dic-2025,7.69,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,situacion_deudores,C.COM.Sit.1: En situación normal (%),Dic-2025,99.89,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,situacion_deudores,C.COM.Sit.2: Con seguimiento especial (%),Dic-2025,0.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,situacion_deudores,C.COM.Sit.3: Con problemas (%),Dic-2025,0.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,situacion_deudores,C.COM.Sit.4: Con alto riesgo de insolvencia (%),Dic-2025,0.11,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,situacion_deudores,CARTERA DE CONSUMO O VIVIENDA ($),Dic-2025,50054.42,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,situacion_deudores,Total cartera sobre financiaciones (%),Dic-2025,92.31,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,situacion_deudores,C.CON.Sit.1: En situación normal (%),Dic-2025,91.5,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,situacion_deudores,C.CON.Sit.2: Riesgo bajo (%),Dic-2025,3.45,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,situacion_deudores,C.CON.Sit.3: Riesgo medio (%),Dic-2025,3.36,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,situacion_deudores,C.CON.Sit.4: Riesgo alto (%),Dic-2025,1.63,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,situacion_deudores,C.CON.Sit.5: Irrecuperable (%),Dic-2025,0.07,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,situacion_deudores,CARTERA COMERCIAL ASIMILABLE A CONSUMO ($),Dic-2025,0.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,situacion_deudores,Total cartera sobre financiaciones (%),Dic-2025,0.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,situacion_deudores,C.CAC.Sit.1: En situación normal (%),Dic-2025,0.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,situacion_deudores,TOTAL DE FINANCIACIONES Y GARANTIAS OTORGADAS ($),Ene-2026,55924.64,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,situacion_deudores,TF.Sit.1: En situación normal (%),Ene-2026,90.93,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,situacion_deudores,TF.Sit.2: Con seguimiento especial/Riesgo bajo (%),Ene-2026,3.92,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,situacion_deudores,TF.Sit.3: Con problemas/Riesgo medio (%),Ene-2026,3.22,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,situacion_deudores,TF.Sit.4: Con alto riesgo de insolvencia/Riesgo alto (%),Ene-2026,1.85,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,situacion_deudores,TF.Sit.5: Irrecuperable (%),Ene-2026,0.08,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,situacion_deudores,Previsiones por riesgo de incobrabilidad constituídas,Ene-2026,657.09,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,situacion_deudores,CARTERA COMERCIAL ($),Ene-2026,2037.18,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,situacion_deudores,Total cartera sobre financiaciones (%),Ene-2026,3.64,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,situacion_deudores,C.COM.Sit.1: En situación normal (%),Ene-2026,99.82,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,situacion_deudores,C.COM.Sit.2: Con seguimiento especial (%),Ene-2026,0.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,situacion_deudores,C.COM.Sit.3: Con problemas (%),Ene-2026,0.02,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,situacion_deudores,C.COM.Sit.4: Con alto riesgo de insolvencia (%),Ene-2026,0.16,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,situacion_deudores,CARTERA DE CONSUMO O VIVIENDA ($),Ene-2026,53887.4,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,situacion_deudores,Total cartera sobre financiaciones (%),Ene-2026,96.36,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,situacion_deudores,C.CON.Sit.1: En situación normal (%),Ene-2026,90.6,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,situacion_deudores,C.CON.Sit.2: Riesgo bajo (%),Ene-2026,4.07,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,situacion_deudores,C.CON.Sit.3: Riesgo medio (%),Ene-2026,3.34,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,situacion_deudores,C.CON.Sit.4: Riesgo alto (%),Ene-2026,1.91,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,situacion_deudores,C.CON.Sit.5: Irrecuperable (%),Ene-2026,0.08,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,situacion_deudores,CARTERA COMERCIAL ASIMILABLE A CONSUMO ($),Ene-2026,0.06,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,situacion_deudores,Total cartera sobre financiaciones (%),Ene-2026,0.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,situacion_deudores,C.CAC.Sit.1: En situación normal (%),Ene-2026,100.0,2026-04-19

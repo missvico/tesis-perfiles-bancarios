@@ -1,0 +1,156 @@
+codigo_bcra,nombre_banco,tipo_entidad,fuente,variable,periodo,valor,scraping_fecha
+00285,BANCO MACRO S.A.,privado_nacional,indicadores_economicos,capital: C1 - Apalancamiento (en veces),Dic-2023,1.89,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,indicadores_economicos,capital: C1 - Apalancamiento (en veces),Dic-2024,2.41,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,indicadores_economicos,capital: C1 - Apalancamiento (en veces),Nov-2025,3.16,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,indicadores_economicos,capital: C1 - Apalancamiento (en veces),Dic-2025,3.26,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,indicadores_economicos,capital: C1 - Apalancamiento (en veces),Ene-2026,3.16,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,indicadores_economicos,capital: C2 - Pérdida Potencial de Cartera en Situación 2 a 5 (%),Dic-2023,-0.15,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,indicadores_economicos,capital: C2 - Pérdida Potencial de Cartera en Situación 2 a 5 (%),Dic-2024,0.18,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,indicadores_economicos,capital: C2 - Pérdida Potencial de Cartera en Situación 2 a 5 (%),Nov-2025,4.45,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,indicadores_economicos,capital: C2 - Pérdida Potencial de Cartera en Situación 2 a 5 (%),Dic-2025,4.34,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,indicadores_economicos,capital: C2 - Pérdida Potencial de Cartera en Situación 2 a 5 (%),Ene-2026,5.14,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,indicadores_economicos,capital: C3 - Pérdida Potencial de Cartera en Situación 3 a 5 (%),Dic-2023,-0.66,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,indicadores_economicos,capital: C3 - Pérdida Potencial de Cartera en Situación 3 a 5 (%),Dic-2024,-1.11,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,indicadores_economicos,capital: C3 - Pérdida Potencial de Cartera en Situación 3 a 5 (%),Nov-2025,-1.1,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,indicadores_economicos,capital: C3 - Pérdida Potencial de Cartera en Situación 3 a 5 (%),Dic-2025,-1.28,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,indicadores_economicos,capital: C3 - Pérdida Potencial de Cartera en Situación 3 a 5 (%),Ene-2026,-0.42,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,indicadores_economicos,activos: A9 - Total Cartera Irregular / Total Financiaciones (%),Dic-2023,1.42,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,indicadores_economicos,activos: A9 - Total Cartera Irregular / Total Financiaciones (%),Dic-2024,1.28,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,indicadores_economicos,activos: A9 - Total Cartera Irregular / Total Financiaciones (%),Nov-2025,3.73,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,indicadores_economicos,activos: A9 - Total Cartera Irregular / Total Financiaciones (%),Dic-2025,3.88,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,indicadores_economicos,activos: A9 - Total Cartera Irregular / Total Financiaciones (%),Ene-2026,4.43,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,indicadores_economicos,activos: A11 - Cartera Irregular Sector Privado (%),Dic-2023,1.43,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,indicadores_economicos,activos: A11 - Cartera Irregular Sector Privado (%),Dic-2024,1.31,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,indicadores_economicos,activos: A11 - Cartera Irregular Sector Privado (%),Nov-2025,3.85,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,indicadores_economicos,activos: A11 - Cartera Irregular Sector Privado (%),Dic-2025,4.0,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,indicadores_economicos,activos: A11 - Cartera Irregular Sector Privado (%),Ene-2026,4.58,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,indicadores_economicos,activos: A12 - Participación Cartera Comercial Sector Privado (%),Dic-2023,46.58,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,indicadores_economicos,activos: A12 - Participación Cartera Comercial Sector Privado (%),Dic-2024,45.22,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,indicadores_economicos,activos: A12 - Participación Cartera Comercial Sector Privado (%),Nov-2025,47.94,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,indicadores_economicos,activos: A12 - Participación Cartera Comercial Sector Privado (%),Dic-2025,47.92,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,indicadores_economicos,activos: A12 - Participación Cartera Comercial Sector Privado (%),Ene-2026,47.86,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,indicadores_economicos,activos: A13 - Participación Cartera Consumo Sector Privado (%),Dic-2023,53.5,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,indicadores_economicos,activos: A13 - Participación Cartera Consumo Sector Privado (%),Dic-2024,54.85,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,indicadores_economicos,activos: A13 - Participación Cartera Consumo Sector Privado (%),Nov-2025,52.07,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,indicadores_economicos,activos: A13 - Participación Cartera Consumo Sector Privado (%),Dic-2025,52.08,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,indicadores_economicos,activos: A13 - Participación Cartera Consumo Sector Privado (%),Ene-2026,52.17,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,indicadores_economicos,activos: A14 - Previsiones sobre Cartera Irregular Total (%),Dic-2023,154.43,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,indicadores_economicos,activos: A14 - Previsiones sobre Cartera Irregular Total (%),Dic-2024,156.59,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,indicadores_economicos,activos: A14 - Previsiones sobre Cartera Irregular Total (%),Nov-2025,113.06,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,indicadores_economicos,activos: A14 - Previsiones sobre Cartera Irregular Total (%),Dic-2025,114.66,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,indicadores_economicos,activos: A14 - Previsiones sobre Cartera Irregular Total (%),Ene-2026,104.37,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,indicadores_economicos,activos: A16 - Cartera Irregular Consumo Sector Privado (%),Dic-2023,1.55,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,indicadores_economicos,activos: A16 - Cartera Irregular Consumo Sector Privado (%),Dic-2024,1.68,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,indicadores_economicos,activos: A16 - Cartera Irregular Consumo Sector Privado (%),Nov-2025,5.41,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,indicadores_economicos,activos: A16 - Cartera Irregular Consumo Sector Privado (%),Dic-2025,5.79,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,indicadores_economicos,activos: A16 - Cartera Irregular Consumo Sector Privado (%),Ene-2026,6.58,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,indicadores_economicos,activos: A17 - Cartera Irregular Comercial Sector Privado (%),Dic-2023,1.29,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,indicadores_economicos,activos: A17 - Cartera Irregular Comercial Sector Privado (%),Dic-2024,0.86,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,indicadores_economicos,activos: A17 - Cartera Irregular Comercial Sector Privado (%),Nov-2025,2.15,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,indicadores_economicos,activos: A17 - Cartera Irregular Comercial Sector Privado (%),Dic-2025,2.05,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,indicadores_economicos,activos: A17 - Cartera Irregular Comercial Sector Privado (%),Ene-2026,2.38,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,indicadores_economicos,activos: A21 - Posición de Previsiones Mín Sector Priv No Fciero (%),Dic-2023,41.83,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,indicadores_economicos,activos: A21 - Posición de Previsiones Mín Sector Priv No Fciero (%),Dic-2024,29.53,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,indicadores_economicos,activos: A21 - Posición de Previsiones Mín Sector Priv No Fciero (%),Nov-2025,67.24,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,indicadores_economicos,activos: A21 - Posición de Previsiones Mín Sector Priv No Fciero (%),Dic-2025,65.67,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,indicadores_economicos,activos: A21 - Posición de Previsiones Mín Sector Priv No Fciero (%),Ene-2026,60.02,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,indicadores_economicos,activos: AG3 - Importancia de Cartera Vencida del Sector Privado (%),Dic-2023,0.63,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,indicadores_economicos,activos: AG3 - Importancia de Cartera Vencida del Sector Privado (%),Dic-2024,0.78,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,indicadores_economicos,activos: AG3 - Importancia de Cartera Vencida del Sector Privado (%),Nov-2025,2.0,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,indicadores_economicos,activos: AG3 - Importancia de Cartera Vencida del Sector Privado (%),Dic-2025,2.11,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,indicadores_economicos,activos: AG3 - Importancia de Cartera Vencida del Sector Privado (%),Ene-2026,2.33,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,indicadores_economicos,activos: AG29 - Efectivo y Depósito en Bancos / Activo (%),Dic-2023,16.17,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,indicadores_economicos,activos: AG29 - Efectivo y Depósito en Bancos / Activo (%),Dic-2024,18.94,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,indicadores_economicos,activos: AG29 - Efectivo y Depósito en Bancos / Activo (%),Nov-2025,18.52,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,indicadores_economicos,activos: AG29 - Efectivo y Depósito en Bancos / Activo (%),Dic-2025,18.93,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,indicadores_economicos,activos: AG29 - Efectivo y Depósito en Bancos / Activo (%),Ene-2026,19.22,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,indicadores_economicos,eficiencia: E1 - Absorción de Gastos de Ad. con Volúmen de Negocio (%),Dic-2023,11.27,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,indicadores_economicos,eficiencia: E1 - Absorción de Gastos de Ad. con Volúmen de Negocio (%),Dic-2024,7.17,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,indicadores_economicos,eficiencia: E1 - Absorción de Gastos de Ad. con Volúmen de Negocio (%),Nov-2025,6.34,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,indicadores_economicos,eficiencia: E1 - Absorción de Gastos de Ad. con Volúmen de Negocio (%),Dic-2025,6.34,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,indicadores_economicos,eficiencia: E1 - Absorción de Gastos de Ad. con Volúmen de Negocio (%),Ene-2026,6.52,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,indicadores_economicos,eficiencia: E2 - Margen de Rentabilidad Operat./Gastos de Estructura (%),Dic-2023,403.45,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,indicadores_economicos,eficiencia: E2 - Margen de Rentabilidad Operat./Gastos de Estructura (%),Dic-2024,240.54,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,indicadores_economicos,eficiencia: E2 - Margen de Rentabilidad Operat./Gastos de Estructura (%),Nov-2025,91.24,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,indicadores_economicos,eficiencia: E2 - Margen de Rentabilidad Operat./Gastos de Estructura (%),Dic-2025,91.45,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,indicadores_economicos,eficiencia: E2 - Margen de Rentabilidad Operat./Gastos de Estructura (%),Ene-2026,92.11,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,indicadores_economicos,eficiencia: E4 - Depósitos por Empleado (en millones de pesos),Dic-2023,354.58,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,indicadores_economicos,eficiencia: E4 - Depósitos por Empleado (en millones de pesos),Dic-2024,943.79,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,indicadores_economicos,eficiencia: E4 - Depósitos por Empleado (en millones de pesos),Nov-2025,1486.61,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,indicadores_economicos,eficiencia: E4 - Depósitos por Empleado (en millones de pesos),Dic-2025,1634.57,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,indicadores_economicos,eficiencia: E4 - Depósitos por Empleado (en millones de pesos),Ene-2026,1615.01,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,indicadores_economicos,eficiencia: E5 - Financiaciones por Empleado (en millones de pesos),Dic-2023,180.9,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,indicadores_economicos,eficiencia: E5 - Financiaciones por Empleado (en millones de pesos),Dic-2024,618.63,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,indicadores_economicos,eficiencia: E5 - Financiaciones por Empleado (en millones de pesos),Nov-2025,1173.75,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,indicadores_economicos,eficiencia: E5 - Financiaciones por Empleado (en millones de pesos),Dic-2025,1256.91,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,indicadores_economicos,eficiencia: E5 - Financiaciones por Empleado (en millones de pesos),Ene-2026,1274.0,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,indicadores_economicos,rentabilidad: R1 - Rendimiento Anual del Patrimonio ( ROE) (%),Dic-2023,38.12,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,indicadores_economicos,rentabilidad: R1 - Rendimiento Anual del Patrimonio ( ROE) (%),Dic-2024,5.9,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,indicadores_economicos,rentabilidad: R1 - Rendimiento Anual del Patrimonio ( ROE) (%),Nov-2025,6.28,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,indicadores_economicos,rentabilidad: R1 - Rendimiento Anual del Patrimonio ( ROE) (%),Dic-2025,5.71,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,indicadores_economicos,rentabilidad: R1 - Rendimiento Anual del Patrimonio ( ROE) (%),Ene-2026,5.2,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,indicadores_economicos,rentabilidad: R2 - Rendimiento Ordinario del Patrimonio (%),Dic-2023,112.45,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,indicadores_economicos,rentabilidad: R2 - Rendimiento Ordinario del Patrimonio (%),Dic-2024,56.74,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,indicadores_economicos,rentabilidad: R2 - Rendimiento Ordinario del Patrimonio (%),Nov-2025,25.63,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,indicadores_economicos,rentabilidad: R2 - Rendimiento Ordinario del Patrimonio (%),Dic-2025,26.17,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,indicadores_economicos,rentabilidad: R2 - Rendimiento Ordinario del Patrimonio (%),Ene-2026,26.35,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,indicadores_economicos,rentabilidad: R8 - Tasa Implicita Préstamos Totales (%),Dic-2023,66.66,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,indicadores_economicos,rentabilidad: R8 - Tasa Implicita Préstamos Totales (%),Dic-2024,56.22,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,indicadores_economicos,rentabilidad: R8 - Tasa Implicita Préstamos Totales (%),Nov-2025,37.48,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,indicadores_economicos,rentabilidad: R8 - Tasa Implicita Préstamos Totales (%),Dic-2025,37.56,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,indicadores_economicos,rentabilidad: R8 - Tasa Implicita Préstamos Totales (%),Ene-2026,37.58,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,indicadores_economicos,rentabilidad: R9 - Tasa Implicita Depósitos Totales (%),Dic-2023,81.23,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,indicadores_economicos,rentabilidad: R9 - Tasa Implicita Depósitos Totales (%),Dic-2024,26.64,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,indicadores_economicos,rentabilidad: R9 - Tasa Implicita Depósitos Totales (%),Nov-2025,15.14,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,indicadores_economicos,rentabilidad: R9 - Tasa Implicita Depósitos Totales (%),Dic-2025,15.2,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,indicadores_economicos,rentabilidad: R9 - Tasa Implicita Depósitos Totales (%),Ene-2026,15.17,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,indicadores_economicos,rentabilidad: R17 - Gastos en Personal / Gastos de Administración (%),Dic-2023,56.93,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,indicadores_economicos,rentabilidad: R17 - Gastos en Personal / Gastos de Administración (%),Dic-2024,59.28,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,indicadores_economicos,rentabilidad: R17 - Gastos en Personal / Gastos de Administración (%),Nov-2025,60.78,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,indicadores_economicos,rentabilidad: R17 - Gastos en Personal / Gastos de Administración (%),Dic-2025,61.13,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,indicadores_economicos,rentabilidad: R17 - Gastos en Personal / Gastos de Administración (%),Ene-2026,61.08,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,indicadores_economicos,rentabilidad: RG1 - Retorno sobre Activos ( ROA) (%),Dic-2023,10.58,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,indicadores_economicos,rentabilidad: RG1 - Retorno sobre Activos ( ROA) (%),Dic-2024,1.93,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,indicadores_economicos,rentabilidad: RG1 - Retorno sobre Activos ( ROA) (%),Nov-2025,1.66,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,indicadores_economicos,rentabilidad: RG1 - Retorno sobre Activos ( ROA) (%),Dic-2025,1.48,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,indicadores_economicos,rentabilidad: RG1 - Retorno sobre Activos ( ROA) (%),Ene-2026,1.32,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,indicadores_economicos,rentabilidad: RG2_II - Margen Financiero en Términos de Activo (%),Dic-2023,40.25,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,indicadores_economicos,rentabilidad: RG2_II - Margen Financiero en Términos de Activo (%),Dic-2024,27.43,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,indicadores_economicos,rentabilidad: RG2_II - Margen Financiero en Términos de Activo (%),Nov-2025,16.54,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,indicadores_economicos,rentabilidad: RG2_II - Margen Financiero en Términos de Activo (%),Dic-2025,16.71,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,indicadores_economicos,rentabilidad: RG2_II - Margen Financiero en Términos de Activo (%),Ene-2026,16.7,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,indicadores_economicos,rentabilidad: RG3 - Cargos por Incobrabilidad / Activo  (%),Dic-2023,-0.72,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,indicadores_economicos,rentabilidad: RG3 - Cargos por Incobrabilidad / Activo  (%),Dic-2024,-0.83,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,indicadores_economicos,rentabilidad: RG3 - Cargos por Incobrabilidad / Activo  (%),Nov-2025,-2.48,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,indicadores_economicos,rentabilidad: RG3 - Cargos por Incobrabilidad / Activo  (%),Dic-2025,-2.62,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,indicadores_economicos,rentabilidad: RG3 - Cargos por Incobrabilidad / Activo  (%),Ene-2026,-2.77,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,indicadores_economicos,rentabilidad: RG4_II - Resultados por Servicios / Activo (%),Dic-2023,2.44,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,indicadores_economicos,rentabilidad: RG4_II - Resultados por Servicios / Activo (%),Dic-2024,2.19,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,indicadores_economicos,rentabilidad: RG4_II - Resultados por Servicios / Activo (%),Nov-2025,2.63,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,indicadores_economicos,rentabilidad: RG4_II - Resultados por Servicios / Activo (%),Dic-2025,2.65,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,indicadores_economicos,rentabilidad: RG4_II - Resultados por Servicios / Activo (%),Ene-2026,2.61,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,indicadores_economicos,rentabilidad: RG5 - Gastos de Administración / Activo  (%),Dic-2023,-7.74,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,indicadores_economicos,rentabilidad: RG5 - Gastos de Administración / Activo  (%),Dic-2024,-7.69,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,indicadores_economicos,rentabilidad: RG5 - Gastos de Administración / Activo  (%),Nov-2025,-7.41,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,indicadores_economicos,rentabilidad: RG5 - Gastos de Administración / Activo  (%),Dic-2025,-7.42,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,indicadores_economicos,rentabilidad: RG5 - Gastos de Administración / Activo  (%),Ene-2026,-7.29,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,indicadores_economicos,rentabilidad: RG15 - Retorno sobre Activos (ROA) antes Imp. de Gcias (%),Dic-2023,14.89,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,indicadores_economicos,rentabilidad: RG15 - Retorno sobre Activos (ROA) antes Imp. de Gcias (%),Dic-2024,2.08,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,indicadores_economicos,rentabilidad: RG15 - Retorno sobre Activos (ROA) antes Imp. de Gcias (%),Nov-2025,2.4,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,indicadores_economicos,rentabilidad: RG15 - Retorno sobre Activos (ROA) antes Imp. de Gcias (%),Dic-2025,2.32,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,indicadores_economicos,rentabilidad: RG15 - Retorno sobre Activos (ROA) antes Imp. de Gcias (%),Ene-2026,2.15,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,indicadores_economicos,"liquidez: L1-Liquidez Tit c/cot, POS. CALL, LELIQ, LEFIs (netas) (%)",Dic-2023,99999.0,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,indicadores_economicos,"liquidez: L1-Liquidez Tit c/cot, POS. CALL, LELIQ, LEFIs (netas) (%)",Dic-2024,41.32,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,indicadores_economicos,"liquidez: L1-Liquidez Tit c/cot, POS. CALL, LELIQ, LEFIs (netas) (%)",Nov-2025,35.76,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,indicadores_economicos,"liquidez: L1-Liquidez Tit c/cot, POS. CALL, LELIQ, LEFIs (netas) (%)",Dic-2025,36.46,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,indicadores_economicos,"liquidez: L1-Liquidez Tit c/cot, POS. CALL, LELIQ, LEFIs (netas) (%)",Ene-2026,37.64,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,indicadores_economicos,liquidez: L8_II - Liquidez con títulos con cotiz (%),Dic-2023,90.01,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,indicadores_economicos,liquidez: L8_II - Liquidez con títulos con cotiz (%),Dic-2024,37.82,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,indicadores_economicos,liquidez: L8_II - Liquidez con títulos con cotiz (%),Nov-2025,35.2,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,indicadores_economicos,liquidez: L8_II - Liquidez con títulos con cotiz (%),Dic-2025,35.99,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,indicadores_economicos,liquidez: L8_II - Liquidez con títulos con cotiz (%),Ene-2026,37.06,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,indicadores_economicos,"liquidez: L9 -Liq LELIQ, PASES y LEFIs (netos pases activos BCRA) (%)",Dic-2023,55.32,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,indicadores_economicos,"liquidez: L9 -Liq LELIQ, PASES y LEFIs (netos pases activos BCRA) (%)",Dic-2024,34.52,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,indicadores_economicos,"liquidez: L9 -Liq LELIQ, PASES y LEFIs (netos pases activos BCRA) (%)",Nov-2025,30.35,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,indicadores_economicos,"liquidez: L9 -Liq LELIQ, PASES y LEFIs (netos pases activos BCRA) (%)",Dic-2025,31.13,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,indicadores_economicos,"liquidez: L9 -Liq LELIQ, PASES y LEFIs (netos pases activos BCRA) (%)",Ene-2026,32.35,2026-04-19

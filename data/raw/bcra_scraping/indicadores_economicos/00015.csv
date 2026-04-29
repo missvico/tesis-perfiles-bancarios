@@ -1,0 +1,156 @@
+codigo_bcra,nombre_banco,tipo_entidad,fuente,variable,periodo,valor,scraping_fecha
+00015,INDUSTRIAL AND COMMERCIAL BANK OF C,extranjero,indicadores_economicos,capital: C1 - Apalancamiento (en veces),Dic-2023,4.53,2026-04-19
+00015,INDUSTRIAL AND COMMERCIAL BANK OF C,extranjero,indicadores_economicos,capital: C1 - Apalancamiento (en veces),Dic-2024,3.59,2026-04-19
+00015,INDUSTRIAL AND COMMERCIAL BANK OF C,extranjero,indicadores_economicos,capital: C1 - Apalancamiento (en veces),Nov-2025,4.72,2026-04-19
+00015,INDUSTRIAL AND COMMERCIAL BANK OF C,extranjero,indicadores_economicos,capital: C1 - Apalancamiento (en veces),Dic-2025,4.36,2026-04-19
+00015,INDUSTRIAL AND COMMERCIAL BANK OF C,extranjero,indicadores_economicos,capital: C1 - Apalancamiento (en veces),Ene-2026,4.61,2026-04-19
+00015,INDUSTRIAL AND COMMERCIAL BANK OF C,extranjero,indicadores_economicos,capital: C2 - Pérdida Potencial de Cartera en Situación 2 a 5 (%),Dic-2023,-0.84,2026-04-19
+00015,INDUSTRIAL AND COMMERCIAL BANK OF C,extranjero,indicadores_economicos,capital: C2 - Pérdida Potencial de Cartera en Situación 2 a 5 (%),Dic-2024,-1.08,2026-04-19
+00015,INDUSTRIAL AND COMMERCIAL BANK OF C,extranjero,indicadores_economicos,capital: C2 - Pérdida Potencial de Cartera en Situación 2 a 5 (%),Nov-2025,5.56,2026-04-19
+00015,INDUSTRIAL AND COMMERCIAL BANK OF C,extranjero,indicadores_economicos,capital: C2 - Pérdida Potencial de Cartera en Situación 2 a 5 (%),Dic-2025,6.24,2026-04-19
+00015,INDUSTRIAL AND COMMERCIAL BANK OF C,extranjero,indicadores_economicos,capital: C2 - Pérdida Potencial de Cartera en Situación 2 a 5 (%),Ene-2026,6.9,2026-04-19
+00015,INDUSTRIAL AND COMMERCIAL BANK OF C,extranjero,indicadores_economicos,capital: C3 - Pérdida Potencial de Cartera en Situación 3 a 5 (%),Dic-2023,-1.76,2026-04-19
+00015,INDUSTRIAL AND COMMERCIAL BANK OF C,extranjero,indicadores_economicos,capital: C3 - Pérdida Potencial de Cartera en Situación 3 a 5 (%),Dic-2024,-3.09,2026-04-19
+00015,INDUSTRIAL AND COMMERCIAL BANK OF C,extranjero,indicadores_economicos,capital: C3 - Pérdida Potencial de Cartera en Situación 3 a 5 (%),Nov-2025,-1.92,2026-04-19
+00015,INDUSTRIAL AND COMMERCIAL BANK OF C,extranjero,indicadores_economicos,capital: C3 - Pérdida Potencial de Cartera en Situación 3 a 5 (%),Dic-2025,-0.95,2026-04-19
+00015,INDUSTRIAL AND COMMERCIAL BANK OF C,extranjero,indicadores_economicos,capital: C3 - Pérdida Potencial de Cartera en Situación 3 a 5 (%),Ene-2026,0.16,2026-04-19
+00015,INDUSTRIAL AND COMMERCIAL BANK OF C,extranjero,indicadores_economicos,activos: A9 - Total Cartera Irregular / Total Financiaciones (%),Dic-2023,0.76,2026-04-19
+00015,INDUSTRIAL AND COMMERCIAL BANK OF C,extranjero,indicadores_economicos,activos: A9 - Total Cartera Irregular / Total Financiaciones (%),Dic-2024,1.11,2026-04-19
+00015,INDUSTRIAL AND COMMERCIAL BANK OF C,extranjero,indicadores_economicos,activos: A9 - Total Cartera Irregular / Total Financiaciones (%),Nov-2025,2.53,2026-04-19
+00015,INDUSTRIAL AND COMMERCIAL BANK OF C,extranjero,indicadores_economicos,activos: A9 - Total Cartera Irregular / Total Financiaciones (%),Dic-2025,2.56,2026-04-19
+00015,INDUSTRIAL AND COMMERCIAL BANK OF C,extranjero,indicadores_economicos,activos: A9 - Total Cartera Irregular / Total Financiaciones (%),Ene-2026,2.68,2026-04-19
+00015,INDUSTRIAL AND COMMERCIAL BANK OF C,extranjero,indicadores_economicos,activos: A11 - Cartera Irregular Sector Privado (%),Dic-2023,0.76,2026-04-19
+00015,INDUSTRIAL AND COMMERCIAL BANK OF C,extranjero,indicadores_economicos,activos: A11 - Cartera Irregular Sector Privado (%),Dic-2024,1.11,2026-04-19
+00015,INDUSTRIAL AND COMMERCIAL BANK OF C,extranjero,indicadores_economicos,activos: A11 - Cartera Irregular Sector Privado (%),Nov-2025,2.55,2026-04-19
+00015,INDUSTRIAL AND COMMERCIAL BANK OF C,extranjero,indicadores_economicos,activos: A11 - Cartera Irregular Sector Privado (%),Dic-2025,2.61,2026-04-19
+00015,INDUSTRIAL AND COMMERCIAL BANK OF C,extranjero,indicadores_economicos,activos: A11 - Cartera Irregular Sector Privado (%),Ene-2026,2.71,2026-04-19
+00015,INDUSTRIAL AND COMMERCIAL BANK OF C,extranjero,indicadores_economicos,activos: A12 - Participación Cartera Comercial Sector Privado (%),Dic-2023,67.06,2026-04-19
+00015,INDUSTRIAL AND COMMERCIAL BANK OF C,extranjero,indicadores_economicos,activos: A12 - Participación Cartera Comercial Sector Privado (%),Dic-2024,56.88,2026-04-19
+00015,INDUSTRIAL AND COMMERCIAL BANK OF C,extranjero,indicadores_economicos,activos: A12 - Participación Cartera Comercial Sector Privado (%),Nov-2025,71.08,2026-04-19
+00015,INDUSTRIAL AND COMMERCIAL BANK OF C,extranjero,indicadores_economicos,activos: A12 - Participación Cartera Comercial Sector Privado (%),Dic-2025,70.94,2026-04-19
+00015,INDUSTRIAL AND COMMERCIAL BANK OF C,extranjero,indicadores_economicos,activos: A12 - Participación Cartera Comercial Sector Privado (%),Ene-2026,70.73,2026-04-19
+00015,INDUSTRIAL AND COMMERCIAL BANK OF C,extranjero,indicadores_economicos,activos: A13 - Participación Cartera Consumo Sector Privado (%),Dic-2023,32.94,2026-04-19
+00015,INDUSTRIAL AND COMMERCIAL BANK OF C,extranjero,indicadores_economicos,activos: A13 - Participación Cartera Consumo Sector Privado (%),Dic-2024,43.12,2026-04-19
+00015,INDUSTRIAL AND COMMERCIAL BANK OF C,extranjero,indicadores_economicos,activos: A13 - Participación Cartera Consumo Sector Privado (%),Nov-2025,28.92,2026-04-19
+00015,INDUSTRIAL AND COMMERCIAL BANK OF C,extranjero,indicadores_economicos,activos: A13 - Participación Cartera Consumo Sector Privado (%),Dic-2025,29.06,2026-04-19
+00015,INDUSTRIAL AND COMMERCIAL BANK OF C,extranjero,indicadores_economicos,activos: A13 - Participación Cartera Consumo Sector Privado (%),Ene-2026,29.27,2026-04-19
+00015,INDUSTRIAL AND COMMERCIAL BANK OF C,extranjero,indicadores_economicos,activos: A14 - Previsiones sobre Cartera Irregular Total (%),Dic-2023,227.29,2026-04-19
+00015,INDUSTRIAL AND COMMERCIAL BANK OF C,extranjero,indicadores_economicos,activos: A14 - Previsiones sobre Cartera Irregular Total (%),Dic-2024,249.43,2026-04-19
+00015,INDUSTRIAL AND COMMERCIAL BANK OF C,extranjero,indicadores_economicos,activos: A14 - Previsiones sobre Cartera Irregular Total (%),Nov-2025,119.76,2026-04-19
+00015,INDUSTRIAL AND COMMERCIAL BANK OF C,extranjero,indicadores_economicos,activos: A14 - Previsiones sobre Cartera Irregular Total (%),Dic-2025,110.03,2026-04-19
+00015,INDUSTRIAL AND COMMERCIAL BANK OF C,extranjero,indicadores_economicos,activos: A14 - Previsiones sobre Cartera Irregular Total (%),Ene-2026,98.28,2026-04-19
+00015,INDUSTRIAL AND COMMERCIAL BANK OF C,extranjero,indicadores_economicos,activos: A16 - Cartera Irregular Consumo Sector Privado (%),Dic-2023,1.82,2026-04-19
+00015,INDUSTRIAL AND COMMERCIAL BANK OF C,extranjero,indicadores_economicos,activos: A16 - Cartera Irregular Consumo Sector Privado (%),Dic-2024,2.39,2026-04-19
+00015,INDUSTRIAL AND COMMERCIAL BANK OF C,extranjero,indicadores_economicos,activos: A16 - Cartera Irregular Consumo Sector Privado (%),Nov-2025,7.84,2026-04-19
+00015,INDUSTRIAL AND COMMERCIAL BANK OF C,extranjero,indicadores_economicos,activos: A16 - Cartera Irregular Consumo Sector Privado (%),Dic-2025,7.8,2026-04-19
+00015,INDUSTRIAL AND COMMERCIAL BANK OF C,extranjero,indicadores_economicos,activos: A16 - Cartera Irregular Consumo Sector Privado (%),Ene-2026,7.88,2026-04-19
+00015,INDUSTRIAL AND COMMERCIAL BANK OF C,extranjero,indicadores_economicos,activos: A17 - Cartera Irregular Comercial Sector Privado (%),Dic-2023,0.23,2026-04-19
+00015,INDUSTRIAL AND COMMERCIAL BANK OF C,extranjero,indicadores_economicos,activos: A17 - Cartera Irregular Comercial Sector Privado (%),Dic-2024,0.15,2026-04-19
+00015,INDUSTRIAL AND COMMERCIAL BANK OF C,extranjero,indicadores_economicos,activos: A17 - Cartera Irregular Comercial Sector Privado (%),Nov-2025,0.4,2026-04-19
+00015,INDUSTRIAL AND COMMERCIAL BANK OF C,extranjero,indicadores_economicos,activos: A17 - Cartera Irregular Comercial Sector Privado (%),Dic-2025,0.49,2026-04-19
+00015,INDUSTRIAL AND COMMERCIAL BANK OF C,extranjero,indicadores_economicos,activos: A17 - Cartera Irregular Comercial Sector Privado (%),Ene-2026,0.57,2026-04-19
+00015,INDUSTRIAL AND COMMERCIAL BANK OF C,extranjero,indicadores_economicos,activos: A21 - Posición de Previsiones Mín Sector Priv No Fciero (%),Dic-2023,51.18,2026-04-19
+00015,INDUSTRIAL AND COMMERCIAL BANK OF C,extranjero,indicadores_economicos,activos: A21 - Posición de Previsiones Mín Sector Priv No Fciero (%),Dic-2024,112.69,2026-04-19
+00015,INDUSTRIAL AND COMMERCIAL BANK OF C,extranjero,indicadores_economicos,activos: A21 - Posición de Previsiones Mín Sector Priv No Fciero (%),Nov-2025,74.0,2026-04-19
+00015,INDUSTRIAL AND COMMERCIAL BANK OF C,extranjero,indicadores_economicos,activos: A21 - Posición de Previsiones Mín Sector Priv No Fciero (%),Dic-2025,62.77,2026-04-19
+00015,INDUSTRIAL AND COMMERCIAL BANK OF C,extranjero,indicadores_economicos,activos: A21 - Posición de Previsiones Mín Sector Priv No Fciero (%),Ene-2026,54.26,2026-04-19
+00015,INDUSTRIAL AND COMMERCIAL BANK OF C,extranjero,indicadores_economicos,activos: AG3 - Importancia de Cartera Vencida del Sector Privado (%),Dic-2023,0.62,2026-04-19
+00015,INDUSTRIAL AND COMMERCIAL BANK OF C,extranjero,indicadores_economicos,activos: AG3 - Importancia de Cartera Vencida del Sector Privado (%),Dic-2024,0.93,2026-04-19
+00015,INDUSTRIAL AND COMMERCIAL BANK OF C,extranjero,indicadores_economicos,activos: AG3 - Importancia de Cartera Vencida del Sector Privado (%),Nov-2025,2.02,2026-04-19
+00015,INDUSTRIAL AND COMMERCIAL BANK OF C,extranjero,indicadores_economicos,activos: AG3 - Importancia de Cartera Vencida del Sector Privado (%),Dic-2025,2.13,2026-04-19
+00015,INDUSTRIAL AND COMMERCIAL BANK OF C,extranjero,indicadores_economicos,activos: AG3 - Importancia de Cartera Vencida del Sector Privado (%),Ene-2026,2.11,2026-04-19
+00015,INDUSTRIAL AND COMMERCIAL BANK OF C,extranjero,indicadores_economicos,activos: AG29 - Efectivo y Depósito en Bancos / Activo (%),Dic-2023,13.79,2026-04-19
+00015,INDUSTRIAL AND COMMERCIAL BANK OF C,extranjero,indicadores_economicos,activos: AG29 - Efectivo y Depósito en Bancos / Activo (%),Dic-2024,18.93,2026-04-19
+00015,INDUSTRIAL AND COMMERCIAL BANK OF C,extranjero,indicadores_economicos,activos: AG29 - Efectivo y Depósito en Bancos / Activo (%),Nov-2025,17.19,2026-04-19
+00015,INDUSTRIAL AND COMMERCIAL BANK OF C,extranjero,indicadores_economicos,activos: AG29 - Efectivo y Depósito en Bancos / Activo (%),Dic-2025,17.22,2026-04-19
+00015,INDUSTRIAL AND COMMERCIAL BANK OF C,extranjero,indicadores_economicos,activos: AG29 - Efectivo y Depósito en Bancos / Activo (%),Ene-2026,18.05,2026-04-19
+00015,INDUSTRIAL AND COMMERCIAL BANK OF C,extranjero,indicadores_economicos,eficiencia: E1 - Absorción de Gastos de Ad. con Volúmen de Negocio (%),Dic-2023,9.37,2026-04-19
+00015,INDUSTRIAL AND COMMERCIAL BANK OF C,extranjero,indicadores_economicos,eficiencia: E1 - Absorción de Gastos de Ad. con Volúmen de Negocio (%),Dic-2024,9.37,2026-04-19
+00015,INDUSTRIAL AND COMMERCIAL BANK OF C,extranjero,indicadores_economicos,eficiencia: E1 - Absorción de Gastos de Ad. con Volúmen de Negocio (%),Nov-2025,5.48,2026-04-19
+00015,INDUSTRIAL AND COMMERCIAL BANK OF C,extranjero,indicadores_economicos,eficiencia: E1 - Absorción de Gastos de Ad. con Volúmen de Negocio (%),Dic-2025,5.38,2026-04-19
+00015,INDUSTRIAL AND COMMERCIAL BANK OF C,extranjero,indicadores_economicos,eficiencia: E1 - Absorción de Gastos de Ad. con Volúmen de Negocio (%),Ene-2026,5.45,2026-04-19
+00015,INDUSTRIAL AND COMMERCIAL BANK OF C,extranjero,indicadores_economicos,eficiencia: E2 - Margen de Rentabilidad Operat./Gastos de Estructura (%),Dic-2023,172.03,2026-04-19
+00015,INDUSTRIAL AND COMMERCIAL BANK OF C,extranjero,indicadores_economicos,eficiencia: E2 - Margen de Rentabilidad Operat./Gastos de Estructura (%),Dic-2024,155.74,2026-04-19
+00015,INDUSTRIAL AND COMMERCIAL BANK OF C,extranjero,indicadores_economicos,eficiencia: E2 - Margen de Rentabilidad Operat./Gastos de Estructura (%),Nov-2025,50.84,2026-04-19
+00015,INDUSTRIAL AND COMMERCIAL BANK OF C,extranjero,indicadores_economicos,eficiencia: E2 - Margen de Rentabilidad Operat./Gastos de Estructura (%),Dic-2025,52.81,2026-04-19
+00015,INDUSTRIAL AND COMMERCIAL BANK OF C,extranjero,indicadores_economicos,eficiencia: E2 - Margen de Rentabilidad Operat./Gastos de Estructura (%),Ene-2026,28.01,2026-04-19
+00015,INDUSTRIAL AND COMMERCIAL BANK OF C,extranjero,indicadores_economicos,eficiencia: E4 - Depósitos por Empleado (en millones de pesos),Dic-2023,669.81,2026-04-19
+00015,INDUSTRIAL AND COMMERCIAL BANK OF C,extranjero,indicadores_economicos,eficiencia: E4 - Depósitos por Empleado (en millones de pesos),Dic-2024,1338.16,2026-04-19
+00015,INDUSTRIAL AND COMMERCIAL BANK OF C,extranjero,indicadores_economicos,eficiencia: E4 - Depósitos por Empleado (en millones de pesos),Nov-2025,1852.47,2026-04-19
+00015,INDUSTRIAL AND COMMERCIAL BANK OF C,extranjero,indicadores_economicos,eficiencia: E4 - Depósitos por Empleado (en millones de pesos),Dic-2025,2010.62,2026-04-19
+00015,INDUSTRIAL AND COMMERCIAL BANK OF C,extranjero,indicadores_economicos,eficiencia: E4 - Depósitos por Empleado (en millones de pesos),Ene-2026,2016.15,2026-04-19
+00015,INDUSTRIAL AND COMMERCIAL BANK OF C,extranjero,indicadores_economicos,eficiencia: E5 - Financiaciones por Empleado (en millones de pesos),Dic-2023,251.81,2026-04-19
+00015,INDUSTRIAL AND COMMERCIAL BANK OF C,extranjero,indicadores_economicos,eficiencia: E5 - Financiaciones por Empleado (en millones de pesos),Dic-2024,724.01,2026-04-19
+00015,INDUSTRIAL AND COMMERCIAL BANK OF C,extranjero,indicadores_economicos,eficiencia: E5 - Financiaciones por Empleado (en millones de pesos),Nov-2025,1814.94,2026-04-19
+00015,INDUSTRIAL AND COMMERCIAL BANK OF C,extranjero,indicadores_economicos,eficiencia: E5 - Financiaciones por Empleado (en millones de pesos),Dic-2025,1862.6,2026-04-19
+00015,INDUSTRIAL AND COMMERCIAL BANK OF C,extranjero,indicadores_economicos,eficiencia: E5 - Financiaciones por Empleado (en millones de pesos),Ene-2026,1817.08,2026-04-19
+00015,INDUSTRIAL AND COMMERCIAL BANK OF C,extranjero,indicadores_economicos,rentabilidad: R1 - Rendimiento Anual del Patrimonio ( ROE) (%),Dic-2023,27.61,2026-04-19
+00015,INDUSTRIAL AND COMMERCIAL BANK OF C,extranjero,indicadores_economicos,rentabilidad: R1 - Rendimiento Anual del Patrimonio ( ROE) (%),Dic-2024,3.35,2026-04-19
+00015,INDUSTRIAL AND COMMERCIAL BANK OF C,extranjero,indicadores_economicos,rentabilidad: R1 - Rendimiento Anual del Patrimonio ( ROE) (%),Nov-2025,-2.0,2026-04-19
+00015,INDUSTRIAL AND COMMERCIAL BANK OF C,extranjero,indicadores_economicos,rentabilidad: R1 - Rendimiento Anual del Patrimonio ( ROE) (%),Dic-2025,4.01,2026-04-19
+00015,INDUSTRIAL AND COMMERCIAL BANK OF C,extranjero,indicadores_economicos,rentabilidad: R1 - Rendimiento Anual del Patrimonio ( ROE) (%),Ene-2026,1.6,2026-04-19
+00015,INDUSTRIAL AND COMMERCIAL BANK OF C,extranjero,indicadores_economicos,rentabilidad: R2 - Rendimiento Ordinario del Patrimonio (%),Dic-2023,82.16,2026-04-19
+00015,INDUSTRIAL AND COMMERCIAL BANK OF C,extranjero,indicadores_economicos,rentabilidad: R2 - Rendimiento Ordinario del Patrimonio (%),Dic-2024,62.63,2026-04-19
+00015,INDUSTRIAL AND COMMERCIAL BANK OF C,extranjero,indicadores_economicos,rentabilidad: R2 - Rendimiento Ordinario del Patrimonio (%),Nov-2025,17.47,2026-04-19
+00015,INDUSTRIAL AND COMMERCIAL BANK OF C,extranjero,indicadores_economicos,rentabilidad: R2 - Rendimiento Ordinario del Patrimonio (%),Dic-2025,18.24,2026-04-19
+00015,INDUSTRIAL AND COMMERCIAL BANK OF C,extranjero,indicadores_economicos,rentabilidad: R2 - Rendimiento Ordinario del Patrimonio (%),Ene-2026,9.42,2026-04-19
+00015,INDUSTRIAL AND COMMERCIAL BANK OF C,extranjero,indicadores_economicos,rentabilidad: R8 - Tasa Implicita Préstamos Totales (%),Dic-2023,48.78,2026-04-19
+00015,INDUSTRIAL AND COMMERCIAL BANK OF C,extranjero,indicadores_economicos,rentabilidad: R8 - Tasa Implicita Préstamos Totales (%),Dic-2024,38.98,2026-04-19
+00015,INDUSTRIAL AND COMMERCIAL BANK OF C,extranjero,indicadores_economicos,rentabilidad: R8 - Tasa Implicita Préstamos Totales (%),Nov-2025,27.81,2026-04-19
+00015,INDUSTRIAL AND COMMERCIAL BANK OF C,extranjero,indicadores_economicos,rentabilidad: R8 - Tasa Implicita Préstamos Totales (%),Dic-2025,27.43,2026-04-19
+00015,INDUSTRIAL AND COMMERCIAL BANK OF C,extranjero,indicadores_economicos,rentabilidad: R8 - Tasa Implicita Préstamos Totales (%),Ene-2026,27.33,2026-04-19
+00015,INDUSTRIAL AND COMMERCIAL BANK OF C,extranjero,indicadores_economicos,rentabilidad: R9 - Tasa Implicita Depósitos Totales (%),Dic-2023,106.87,2026-04-19
+00015,INDUSTRIAL AND COMMERCIAL BANK OF C,extranjero,indicadores_economicos,rentabilidad: R9 - Tasa Implicita Depósitos Totales (%),Dic-2024,24.28,2026-04-19
+00015,INDUSTRIAL AND COMMERCIAL BANK OF C,extranjero,indicadores_economicos,rentabilidad: R9 - Tasa Implicita Depósitos Totales (%),Nov-2025,15.36,2026-04-19
+00015,INDUSTRIAL AND COMMERCIAL BANK OF C,extranjero,indicadores_economicos,rentabilidad: R9 - Tasa Implicita Depósitos Totales (%),Dic-2025,15.27,2026-04-19
+00015,INDUSTRIAL AND COMMERCIAL BANK OF C,extranjero,indicadores_economicos,rentabilidad: R9 - Tasa Implicita Depósitos Totales (%),Ene-2026,15.3,2026-04-19
+00015,INDUSTRIAL AND COMMERCIAL BANK OF C,extranjero,indicadores_economicos,rentabilidad: R17 - Gastos en Personal / Gastos de Administración (%),Dic-2023,53.05,2026-04-19
+00015,INDUSTRIAL AND COMMERCIAL BANK OF C,extranjero,indicadores_economicos,rentabilidad: R17 - Gastos en Personal / Gastos de Administración (%),Dic-2024,50.87,2026-04-19
+00015,INDUSTRIAL AND COMMERCIAL BANK OF C,extranjero,indicadores_economicos,rentabilidad: R17 - Gastos en Personal / Gastos de Administración (%),Nov-2025,45.8,2026-04-19
+00015,INDUSTRIAL AND COMMERCIAL BANK OF C,extranjero,indicadores_economicos,rentabilidad: R17 - Gastos en Personal / Gastos de Administración (%),Dic-2025,46.88,2026-04-19
+00015,INDUSTRIAL AND COMMERCIAL BANK OF C,extranjero,indicadores_economicos,rentabilidad: R17 - Gastos en Personal / Gastos de Administración (%),Ene-2026,44.13,2026-04-19
+00015,INDUSTRIAL AND COMMERCIAL BANK OF C,extranjero,indicadores_economicos,rentabilidad: RG1 - Retorno sobre Activos ( ROA) (%),Dic-2023,4.97,2026-04-19
+00015,INDUSTRIAL AND COMMERCIAL BANK OF C,extranjero,indicadores_economicos,rentabilidad: RG1 - Retorno sobre Activos ( ROA) (%),Dic-2024,0.83,2026-04-19
+00015,INDUSTRIAL AND COMMERCIAL BANK OF C,extranjero,indicadores_economicos,rentabilidad: RG1 - Retorno sobre Activos ( ROA) (%),Nov-2025,-0.39,2026-04-19
+00015,INDUSTRIAL AND COMMERCIAL BANK OF C,extranjero,indicadores_economicos,rentabilidad: RG1 - Retorno sobre Activos ( ROA) (%),Dic-2025,0.76,2026-04-19
+00015,INDUSTRIAL AND COMMERCIAL BANK OF C,extranjero,indicadores_economicos,rentabilidad: RG1 - Retorno sobre Activos ( ROA) (%),Ene-2026,0.3,2026-04-19
+00015,INDUSTRIAL AND COMMERCIAL BANK OF C,extranjero,indicadores_economicos,rentabilidad: RG2_II - Margen Financiero en Términos de Activo (%),Dic-2023,26.54,2026-04-19
+00015,INDUSTRIAL AND COMMERCIAL BANK OF C,extranjero,indicadores_economicos,rentabilidad: RG2_II - Margen Financiero en Términos de Activo (%),Dic-2024,28.07,2026-04-19
+00015,INDUSTRIAL AND COMMERCIAL BANK OF C,extranjero,indicadores_economicos,rentabilidad: RG2_II - Margen Financiero en Términos de Activo (%),Nov-2025,13.97,2026-04-19
+00015,INDUSTRIAL AND COMMERCIAL BANK OF C,extranjero,indicadores_economicos,rentabilidad: RG2_II - Margen Financiero en Términos de Activo (%),Dic-2025,13.9,2026-04-19
+00015,INDUSTRIAL AND COMMERCIAL BANK OF C,extranjero,indicadores_economicos,rentabilidad: RG2_II - Margen Financiero en Términos de Activo (%),Ene-2026,13.75,2026-04-19
+00015,INDUSTRIAL AND COMMERCIAL BANK OF C,extranjero,indicadores_economicos,rentabilidad: RG3 - Cargos por Incobrabilidad / Activo  (%),Dic-2023,-1.04,2026-04-19
+00015,INDUSTRIAL AND COMMERCIAL BANK OF C,extranjero,indicadores_economicos,rentabilidad: RG3 - Cargos por Incobrabilidad / Activo  (%),Dic-2024,-1.63,2026-04-19
+00015,INDUSTRIAL AND COMMERCIAL BANK OF C,extranjero,indicadores_economicos,rentabilidad: RG3 - Cargos por Incobrabilidad / Activo  (%),Nov-2025,-3.87,2026-04-19
+00015,INDUSTRIAL AND COMMERCIAL BANK OF C,extranjero,indicadores_economicos,rentabilidad: RG3 - Cargos por Incobrabilidad / Activo  (%),Dic-2025,-3.85,2026-04-19
+00015,INDUSTRIAL AND COMMERCIAL BANK OF C,extranjero,indicadores_economicos,rentabilidad: RG3 - Cargos por Incobrabilidad / Activo  (%),Ene-2026,-5.7,2026-04-19
+00015,INDUSTRIAL AND COMMERCIAL BANK OF C,extranjero,indicadores_economicos,rentabilidad: RG4_II - Resultados por Servicios / Activo (%),Dic-2023,1.14,2026-04-19
+00015,INDUSTRIAL AND COMMERCIAL BANK OF C,extranjero,indicadores_economicos,rentabilidad: RG4_II - Resultados por Servicios / Activo (%),Dic-2024,1.16,2026-04-19
+00015,INDUSTRIAL AND COMMERCIAL BANK OF C,extranjero,indicadores_economicos,rentabilidad: RG4_II - Resultados por Servicios / Activo (%),Nov-2025,1.38,2026-04-19
+00015,INDUSTRIAL AND COMMERCIAL BANK OF C,extranjero,indicadores_economicos,rentabilidad: RG4_II - Resultados por Servicios / Activo (%),Dic-2025,1.38,2026-04-19
+00015,INDUSTRIAL AND COMMERCIAL BANK OF C,extranjero,indicadores_economicos,rentabilidad: RG4_II - Resultados por Servicios / Activo (%),Ene-2026,1.37,2026-04-19
+00015,INDUSTRIAL AND COMMERCIAL BANK OF C,extranjero,indicadores_economicos,rentabilidad: RG5 - Gastos de Administración / Activo  (%),Dic-2023,-8.59,2026-04-19
+00015,INDUSTRIAL AND COMMERCIAL BANK OF C,extranjero,indicadores_economicos,rentabilidad: RG5 - Gastos de Administración / Activo  (%),Dic-2024,-10.01,2026-04-19
+00015,INDUSTRIAL AND COMMERCIAL BANK OF C,extranjero,indicadores_economicos,rentabilidad: RG5 - Gastos de Administración / Activo  (%),Nov-2025,-6.68,2026-04-19
+00015,INDUSTRIAL AND COMMERCIAL BANK OF C,extranjero,indicadores_economicos,rentabilidad: RG5 - Gastos de Administración / Activo  (%),Dic-2025,-6.55,2026-04-19
+00015,INDUSTRIAL AND COMMERCIAL BANK OF C,extranjero,indicadores_economicos,rentabilidad: RG5 - Gastos de Administración / Activo  (%),Ene-2026,-6.24,2026-04-19
+00015,INDUSTRIAL AND COMMERCIAL BANK OF C,extranjero,indicadores_economicos,rentabilidad: RG15 - Retorno sobre Activos (ROA) antes Imp. de Gcias (%),Dic-2023,6.54,2026-04-19
+00015,INDUSTRIAL AND COMMERCIAL BANK OF C,extranjero,indicadores_economicos,rentabilidad: RG15 - Retorno sobre Activos (ROA) antes Imp. de Gcias (%),Dic-2024,1.34,2026-04-19
+00015,INDUSTRIAL AND COMMERCIAL BANK OF C,extranjero,indicadores_economicos,rentabilidad: RG15 - Retorno sobre Activos (ROA) antes Imp. de Gcias (%),Nov-2025,-0.3,2026-04-19
+00015,INDUSTRIAL AND COMMERCIAL BANK OF C,extranjero,indicadores_economicos,rentabilidad: RG15 - Retorno sobre Activos (ROA) antes Imp. de Gcias (%),Dic-2025,1.39,2026-04-19
+00015,INDUSTRIAL AND COMMERCIAL BANK OF C,extranjero,indicadores_economicos,rentabilidad: RG15 - Retorno sobre Activos (ROA) antes Imp. de Gcias (%),Ene-2026,0.8,2026-04-19
+00015,INDUSTRIAL AND COMMERCIAL BANK OF C,extranjero,indicadores_economicos,"liquidez: L1-Liquidez Tit c/cot, POS. CALL, LELIQ, LEFIs (netas) (%)",Dic-2023,99999.0,2026-04-19
+00015,INDUSTRIAL AND COMMERCIAL BANK OF C,extranjero,indicadores_economicos,"liquidez: L1-Liquidez Tit c/cot, POS. CALL, LELIQ, LEFIs (netas) (%)",Dic-2024,54.07,2026-04-19
+00015,INDUSTRIAL AND COMMERCIAL BANK OF C,extranjero,indicadores_economicos,"liquidez: L1-Liquidez Tit c/cot, POS. CALL, LELIQ, LEFIs (netas) (%)",Nov-2025,41.92,2026-04-19
+00015,INDUSTRIAL AND COMMERCIAL BANK OF C,extranjero,indicadores_economicos,"liquidez: L1-Liquidez Tit c/cot, POS. CALL, LELIQ, LEFIs (netas) (%)",Dic-2025,43.78,2026-04-19
+00015,INDUSTRIAL AND COMMERCIAL BANK OF C,extranjero,indicadores_economicos,"liquidez: L1-Liquidez Tit c/cot, POS. CALL, LELIQ, LEFIs (netas) (%)",Ene-2026,41.8,2026-04-19
+00015,INDUSTRIAL AND COMMERCIAL BANK OF C,extranjero,indicadores_economicos,liquidez: L8_II - Liquidez con títulos con cotiz (%),Dic-2023,24.42,2026-04-19
+00015,INDUSTRIAL AND COMMERCIAL BANK OF C,extranjero,indicadores_economicos,liquidez: L8_II - Liquidez con títulos con cotiz (%),Dic-2024,46.94,2026-04-19
+00015,INDUSTRIAL AND COMMERCIAL BANK OF C,extranjero,indicadores_economicos,liquidez: L8_II - Liquidez con títulos con cotiz (%),Nov-2025,41.61,2026-04-19
+00015,INDUSTRIAL AND COMMERCIAL BANK OF C,extranjero,indicadores_economicos,liquidez: L8_II - Liquidez con títulos con cotiz (%),Dic-2025,43.18,2026-04-19
+00015,INDUSTRIAL AND COMMERCIAL BANK OF C,extranjero,indicadores_economicos,liquidez: L8_II - Liquidez con títulos con cotiz (%),Ene-2026,41.76,2026-04-19
+00015,INDUSTRIAL AND COMMERCIAL BANK OF C,extranjero,indicadores_economicos,"liquidez: L9 -Liq LELIQ, PASES y LEFIs (netos pases activos BCRA) (%)",Dic-2023,69.79,2026-04-19
+00015,INDUSTRIAL AND COMMERCIAL BANK OF C,extranjero,indicadores_economicos,"liquidez: L9 -Liq LELIQ, PASES y LEFIs (netos pases activos BCRA) (%)",Dic-2024,36.72,2026-04-19
+00015,INDUSTRIAL AND COMMERCIAL BANK OF C,extranjero,indicadores_economicos,"liquidez: L9 -Liq LELIQ, PASES y LEFIs (netos pases activos BCRA) (%)",Nov-2025,31.57,2026-04-19
+00015,INDUSTRIAL AND COMMERCIAL BANK OF C,extranjero,indicadores_economicos,"liquidez: L9 -Liq LELIQ, PASES y LEFIs (netos pases activos BCRA) (%)",Dic-2025,29.01,2026-04-19
+00015,INDUSTRIAL AND COMMERCIAL BANK OF C,extranjero,indicadores_economicos,"liquidez: L9 -Liq LELIQ, PASES y LEFIs (netos pases activos BCRA) (%)",Ene-2026,32.2,2026-04-19

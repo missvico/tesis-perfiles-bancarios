@@ -1,0 +1,116 @@
+codigo_bcra,nombre_banco,tipo_entidad,fuente,variable,periodo,valor,scraping_fecha
+00340,BACS BANCO DE CREDITO Y SECURITIZAC,privado_nacional,situacion_deudores,TOTAL DE FINANCIACIONES Y GARANTIAS OTORGADAS ($),Dic-2023,8486.81,2026-04-19
+00340,BACS BANCO DE CREDITO Y SECURITIZAC,privado_nacional,situacion_deudores,TF.Sit.1: En situación normal (%),Dic-2023,99.88,2026-04-19
+00340,BACS BANCO DE CREDITO Y SECURITIZAC,privado_nacional,situacion_deudores,TF.Sit.2: Con seguimiento especial/Riesgo bajo (%),Dic-2023,0.0,2026-04-19
+00340,BACS BANCO DE CREDITO Y SECURITIZAC,privado_nacional,situacion_deudores,TF.Sit.3: Con problemas/Riesgo medio (%),Dic-2023,0.0,2026-04-19
+00340,BACS BANCO DE CREDITO Y SECURITIZAC,privado_nacional,situacion_deudores,TF.Sit.4: Con alto riesgo de insolvencia/Riesgo alto (%),Dic-2023,0.11,2026-04-19
+00340,BACS BANCO DE CREDITO Y SECURITIZAC,privado_nacional,situacion_deudores,TF.Sit.5: Irrecuperable (%),Dic-2023,0.0,2026-04-19
+00340,BACS BANCO DE CREDITO Y SECURITIZAC,privado_nacional,situacion_deudores,TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Dic-2023,2.69,2026-04-19
+00340,BACS BANCO DE CREDITO Y SECURITIZAC,privado_nacional,situacion_deudores,Previsiones por riesgo de incobrabilidad constituídas,Dic-2023,56.38,2026-04-19
+00340,BACS BANCO DE CREDITO Y SECURITIZAC,privado_nacional,situacion_deudores,CARTERA COMERCIAL ($),Dic-2023,8483.93,2026-04-19
+00340,BACS BANCO DE CREDITO Y SECURITIZAC,privado_nacional,situacion_deudores,Total cartera sobre financiaciones (%),Dic-2023,99.97,2026-04-19
+00340,BACS BANCO DE CREDITO Y SECURITIZAC,privado_nacional,situacion_deudores,C.COM.Sit.1: En situación normal (%),Dic-2023,99.89,2026-04-19
+00340,BACS BANCO DE CREDITO Y SECURITIZAC,privado_nacional,situacion_deudores,C.COM.Sit.2: Con seguimiento especial (%),Dic-2023,0.0,2026-04-19
+00340,BACS BANCO DE CREDITO Y SECURITIZAC,privado_nacional,situacion_deudores,C.COM.Sit.4: Con alto riesgo de insolvencia (%),Dic-2023,0.11,2026-04-19
+00340,BACS BANCO DE CREDITO Y SECURITIZAC,privado_nacional,situacion_deudores,C.COM.Sit.5: Irrecuperable (%),Dic-2023,0.0,2026-04-19
+00340,BACS BANCO DE CREDITO Y SECURITIZAC,privado_nacional,situacion_deudores,C.COM.TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Dic-2023,2.66,2026-04-19
+00340,BACS BANCO DE CREDITO Y SECURITIZAC,privado_nacional,situacion_deudores,CARTERA DE CONSUMO O VIVIENDA ($),Dic-2023,2.88,2026-04-19
+00340,BACS BANCO DE CREDITO Y SECURITIZAC,privado_nacional,situacion_deudores,Total cartera sobre financiaciones (%),Dic-2023,0.03,2026-04-19
+00340,BACS BANCO DE CREDITO Y SECURITIZAC,privado_nacional,situacion_deudores,C.CON.Sit.1: En situación normal (%),Dic-2023,79.59,2026-04-19
+00340,BACS BANCO DE CREDITO Y SECURITIZAC,privado_nacional,situacion_deudores,C.CON.Sit.2: Riesgo bajo (%),Dic-2023,1.46,2026-04-19
+00340,BACS BANCO DE CREDITO Y SECURITIZAC,privado_nacional,situacion_deudores,C.CON.Sit.3: Riesgo medio (%),Dic-2023,4.89,2026-04-19
+00340,BACS BANCO DE CREDITO Y SECURITIZAC,privado_nacional,situacion_deudores,C.CON.Sit.4: Riesgo alto (%),Dic-2023,0.0,2026-04-19
+00340,BACS BANCO DE CREDITO Y SECURITIZAC,privado_nacional,situacion_deudores,C.CON.Sit.5: Irrecuperable (%),Dic-2023,14.06,2026-04-19
+00340,BACS BANCO DE CREDITO Y SECURITIZAC,privado_nacional,situacion_deudores,C.CON.TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Dic-2023,99.9,2026-04-19
+00340,BACS BANCO DE CREDITO Y SECURITIZAC,privado_nacional,situacion_deudores,TOTAL DE FINANCIACIONES Y GARANTIAS OTORGADAS ($),Dic-2024,85911.33,2026-04-19
+00340,BACS BANCO DE CREDITO Y SECURITIZAC,privado_nacional,situacion_deudores,TF.Sit.1: En situación normal (%),Dic-2024,97.51,2026-04-19
+00340,BACS BANCO DE CREDITO Y SECURITIZAC,privado_nacional,situacion_deudores,TF.Sit.2: Con seguimiento especial/Riesgo bajo (%),Dic-2024,2.44,2026-04-19
+00340,BACS BANCO DE CREDITO Y SECURITIZAC,privado_nacional,situacion_deudores,TF.Sit.3: Con problemas/Riesgo medio (%),Dic-2024,0.01,2026-04-19
+00340,BACS BANCO DE CREDITO Y SECURITIZAC,privado_nacional,situacion_deudores,TF.Sit.4: Con alto riesgo de insolvencia/Riesgo alto (%),Dic-2024,0.02,2026-04-19
+00340,BACS BANCO DE CREDITO Y SECURITIZAC,privado_nacional,situacion_deudores,TF.Sit.5: Irrecuperable (%),Dic-2024,0.01,2026-04-19
+00340,BACS BANCO DE CREDITO Y SECURITIZAC,privado_nacional,situacion_deudores,TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Dic-2024,2.39,2026-04-19
+00340,BACS BANCO DE CREDITO Y SECURITIZAC,privado_nacional,situacion_deudores,Previsiones por riesgo de incobrabilidad constituídas,Dic-2024,663.8,2026-04-19
+00340,BACS BANCO DE CREDITO Y SECURITIZAC,privado_nacional,situacion_deudores,CARTERA COMERCIAL ($),Dic-2024,75514.34,2026-04-19
+00340,BACS BANCO DE CREDITO Y SECURITIZAC,privado_nacional,situacion_deudores,Total cartera sobre financiaciones (%),Dic-2024,87.9,2026-04-19
+00340,BACS BANCO DE CREDITO Y SECURITIZAC,privado_nacional,situacion_deudores,C.COM.Sit.1: En situación normal (%),Dic-2024,97.21,2026-04-19
+00340,BACS BANCO DE CREDITO Y SECURITIZAC,privado_nacional,situacion_deudores,C.COM.Sit.2: Con seguimiento especial (%),Dic-2024,2.77,2026-04-19
+00340,BACS BANCO DE CREDITO Y SECURITIZAC,privado_nacional,situacion_deudores,C.COM.Sit.4: Con alto riesgo de insolvencia (%),Dic-2024,0.0,2026-04-19
+00340,BACS BANCO DE CREDITO Y SECURITIZAC,privado_nacional,situacion_deudores,C.COM.Sit.5: Irrecuperable (%),Dic-2024,0.01,2026-04-19
+00340,BACS BANCO DE CREDITO Y SECURITIZAC,privado_nacional,situacion_deudores,C.COM.TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Dic-2024,2.71,2026-04-19
+00340,BACS BANCO DE CREDITO Y SECURITIZAC,privado_nacional,situacion_deudores,CARTERA DE CONSUMO O VIVIENDA ($),Dic-2024,10396.99,2026-04-19
+00340,BACS BANCO DE CREDITO Y SECURITIZAC,privado_nacional,situacion_deudores,Total cartera sobre financiaciones (%),Dic-2024,12.1,2026-04-19
+00340,BACS BANCO DE CREDITO Y SECURITIZAC,privado_nacional,situacion_deudores,C.CON.Sit.1: En situación normal (%),Dic-2024,99.66,2026-04-19
+00340,BACS BANCO DE CREDITO Y SECURITIZAC,privado_nacional,situacion_deudores,C.CON.Sit.2: Riesgo bajo (%),Dic-2024,0.04,2026-04-19
+00340,BACS BANCO DE CREDITO Y SECURITIZAC,privado_nacional,situacion_deudores,C.CON.Sit.3: Riesgo medio (%),Dic-2024,0.1,2026-04-19
+00340,BACS BANCO DE CREDITO Y SECURITIZAC,privado_nacional,situacion_deudores,C.CON.Sit.4: Riesgo alto (%),Dic-2024,0.2,2026-04-19
+00340,BACS BANCO DE CREDITO Y SECURITIZAC,privado_nacional,situacion_deudores,C.CON.Sit.5: Irrecuperable (%),Dic-2024,0.0,2026-04-19
+00340,BACS BANCO DE CREDITO Y SECURITIZAC,privado_nacional,situacion_deudores,C.CON.TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Dic-2024,0.01,2026-04-19
+00340,BACS BANCO DE CREDITO Y SECURITIZAC,privado_nacional,situacion_deudores,TOTAL DE FINANCIACIONES Y GARANTIAS OTORGADAS ($),Nov-2025,146858.33,2026-04-19
+00340,BACS BANCO DE CREDITO Y SECURITIZAC,privado_nacional,situacion_deudores,TF.Sit.1: En situación normal (%),Nov-2025,98.13,2026-04-19
+00340,BACS BANCO DE CREDITO Y SECURITIZAC,privado_nacional,situacion_deudores,TF.Sit.2: Con seguimiento especial/Riesgo bajo (%),Nov-2025,0.17,2026-04-19
+00340,BACS BANCO DE CREDITO Y SECURITIZAC,privado_nacional,situacion_deudores,TF.Sit.3: Con problemas/Riesgo medio (%),Nov-2025,0.14,2026-04-19
+00340,BACS BANCO DE CREDITO Y SECURITIZAC,privado_nacional,situacion_deudores,TF.Sit.4: Con alto riesgo de insolvencia/Riesgo alto (%),Nov-2025,1.55,2026-04-19
+00340,BACS BANCO DE CREDITO Y SECURITIZAC,privado_nacional,situacion_deudores,TF.Sit.5: Irrecuperable (%),Nov-2025,0.01,2026-04-19
+00340,BACS BANCO DE CREDITO Y SECURITIZAC,privado_nacional,situacion_deudores,TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Nov-2025,1.96,2026-04-19
+00340,BACS BANCO DE CREDITO Y SECURITIZAC,privado_nacional,situacion_deudores,Previsiones por riesgo de incobrabilidad constituídas,Nov-2025,1870.03,2026-04-19
+00340,BACS BANCO DE CREDITO Y SECURITIZAC,privado_nacional,situacion_deudores,CARTERA COMERCIAL ($),Nov-2025,123259.84,2026-04-19
+00340,BACS BANCO DE CREDITO Y SECURITIZAC,privado_nacional,situacion_deudores,Total cartera sobre financiaciones (%),Nov-2025,83.93,2026-04-19
+00340,BACS BANCO DE CREDITO Y SECURITIZAC,privado_nacional,situacion_deudores,C.COM.Sit.1: En situación normal (%),Nov-2025,98.29,2026-04-19
+00340,BACS BANCO DE CREDITO Y SECURITIZAC,privado_nacional,situacion_deudores,C.COM.Sit.2: Con seguimiento especial (%),Nov-2025,0.0,2026-04-19
+00340,BACS BANCO DE CREDITO Y SECURITIZAC,privado_nacional,situacion_deudores,C.COM.Sit.4: Con alto riesgo de insolvencia (%),Nov-2025,1.7,2026-04-19
+00340,BACS BANCO DE CREDITO Y SECURITIZAC,privado_nacional,situacion_deudores,C.COM.Sit.5: Irrecuperable (%),Nov-2025,0.01,2026-04-19
+00340,BACS BANCO DE CREDITO Y SECURITIZAC,privado_nacional,situacion_deudores,C.COM.TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Nov-2025,2.33,2026-04-19
+00340,BACS BANCO DE CREDITO Y SECURITIZAC,privado_nacional,situacion_deudores,CARTERA DE CONSUMO O VIVIENDA ($),Nov-2025,23598.49,2026-04-19
+00340,BACS BANCO DE CREDITO Y SECURITIZAC,privado_nacional,situacion_deudores,Total cartera sobre financiaciones (%),Nov-2025,16.07,2026-04-19
+00340,BACS BANCO DE CREDITO Y SECURITIZAC,privado_nacional,situacion_deudores,C.CON.Sit.1: En situación normal (%),Nov-2025,97.26,2026-04-19
+00340,BACS BANCO DE CREDITO Y SECURITIZAC,privado_nacional,situacion_deudores,C.CON.Sit.2: Riesgo bajo (%),Nov-2025,1.07,2026-04-19
+00340,BACS BANCO DE CREDITO Y SECURITIZAC,privado_nacional,situacion_deudores,C.CON.Sit.3: Riesgo medio (%),Nov-2025,0.87,2026-04-19
+00340,BACS BANCO DE CREDITO Y SECURITIZAC,privado_nacional,situacion_deudores,C.CON.Sit.4: Riesgo alto (%),Nov-2025,0.8,2026-04-19
+00340,BACS BANCO DE CREDITO Y SECURITIZAC,privado_nacional,situacion_deudores,C.CON.Sit.5: Irrecuperable (%),Nov-2025,0.0,2026-04-19
+00340,BACS BANCO DE CREDITO Y SECURITIZAC,privado_nacional,situacion_deudores,C.CON.TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Nov-2025,0.0,2026-04-19
+00340,BACS BANCO DE CREDITO Y SECURITIZAC,privado_nacional,situacion_deudores,TOTAL DE FINANCIACIONES Y GARANTIAS OTORGADAS ($),Dic-2025,170478.26,2026-04-19
+00340,BACS BANCO DE CREDITO Y SECURITIZAC,privado_nacional,situacion_deudores,TF.Sit.1: En situación normal (%),Dic-2025,98.16,2026-04-19
+00340,BACS BANCO DE CREDITO Y SECURITIZAC,privado_nacional,situacion_deudores,TF.Sit.2: Con seguimiento especial/Riesgo bajo (%),Dic-2025,0.18,2026-04-19
+00340,BACS BANCO DE CREDITO Y SECURITIZAC,privado_nacional,situacion_deudores,TF.Sit.3: Con problemas/Riesgo medio (%),Dic-2025,0.18,2026-04-19
+00340,BACS BANCO DE CREDITO Y SECURITIZAC,privado_nacional,situacion_deudores,TF.Sit.4: Con alto riesgo de insolvencia/Riesgo alto (%),Dic-2025,1.48,2026-04-19
+00340,BACS BANCO DE CREDITO Y SECURITIZAC,privado_nacional,situacion_deudores,TF.Sit.5: Irrecuperable (%),Dic-2025,0.01,2026-04-19
+00340,BACS BANCO DE CREDITO Y SECURITIZAC,privado_nacional,situacion_deudores,TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Dic-2025,1.71,2026-04-19
+00340,BACS BANCO DE CREDITO Y SECURITIZAC,privado_nacional,situacion_deudores,Previsiones por riesgo de incobrabilidad constituídas,Dic-2025,2075.43,2026-04-19
+00340,BACS BANCO DE CREDITO Y SECURITIZAC,privado_nacional,situacion_deudores,CARTERA COMERCIAL ($),Dic-2025,133087.23,2026-04-19
+00340,BACS BANCO DE CREDITO Y SECURITIZAC,privado_nacional,situacion_deudores,Total cartera sobre financiaciones (%),Dic-2025,78.07,2026-04-19
+00340,BACS BANCO DE CREDITO Y SECURITIZAC,privado_nacional,situacion_deudores,C.COM.Sit.1: En situación normal (%),Dic-2025,98.42,2026-04-19
+00340,BACS BANCO DE CREDITO Y SECURITIZAC,privado_nacional,situacion_deudores,C.COM.Sit.2: Con seguimiento especial (%),Dic-2025,0.0,2026-04-19
+00340,BACS BANCO DE CREDITO Y SECURITIZAC,privado_nacional,situacion_deudores,C.COM.Sit.4: Con alto riesgo de insolvencia (%),Dic-2025,1.57,2026-04-19
+00340,BACS BANCO DE CREDITO Y SECURITIZAC,privado_nacional,situacion_deudores,C.COM.Sit.5: Irrecuperable (%),Dic-2025,0.01,2026-04-19
+00340,BACS BANCO DE CREDITO Y SECURITIZAC,privado_nacional,situacion_deudores,C.COM.TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Dic-2025,2.18,2026-04-19
+00340,BACS BANCO DE CREDITO Y SECURITIZAC,privado_nacional,situacion_deudores,CARTERA DE CONSUMO O VIVIENDA ($),Dic-2025,37391.03,2026-04-19
+00340,BACS BANCO DE CREDITO Y SECURITIZAC,privado_nacional,situacion_deudores,Total cartera sobre financiaciones (%),Dic-2025,21.93,2026-04-19
+00340,BACS BANCO DE CREDITO Y SECURITIZAC,privado_nacional,situacion_deudores,C.CON.Sit.1: En situación normal (%),Dic-2025,97.24,2026-04-19
+00340,BACS BANCO DE CREDITO Y SECURITIZAC,privado_nacional,situacion_deudores,C.CON.Sit.2: Riesgo bajo (%),Dic-2025,0.82,2026-04-19
+00340,BACS BANCO DE CREDITO Y SECURITIZAC,privado_nacional,situacion_deudores,C.CON.Sit.3: Riesgo medio (%),Dic-2025,0.81,2026-04-19
+00340,BACS BANCO DE CREDITO Y SECURITIZAC,privado_nacional,situacion_deudores,C.CON.Sit.4: Riesgo alto (%),Dic-2025,1.14,2026-04-19
+00340,BACS BANCO DE CREDITO Y SECURITIZAC,privado_nacional,situacion_deudores,C.CON.Sit.5: Irrecuperable (%),Dic-2025,0.0,2026-04-19
+00340,BACS BANCO DE CREDITO Y SECURITIZAC,privado_nacional,situacion_deudores,C.CON.TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Dic-2025,0.0,2026-04-19
+00340,BACS BANCO DE CREDITO Y SECURITIZAC,privado_nacional,situacion_deudores,TOTAL DE FINANCIACIONES Y GARANTIAS OTORGADAS ($),Ene-2026,171052.87,2026-04-19
+00340,BACS BANCO DE CREDITO Y SECURITIZAC,privado_nacional,situacion_deudores,TF.Sit.1: En situación normal (%),Ene-2026,97.96,2026-04-19
+00340,BACS BANCO DE CREDITO Y SECURITIZAC,privado_nacional,situacion_deudores,TF.Sit.2: Con seguimiento especial/Riesgo bajo (%),Ene-2026,0.25,2026-04-19
+00340,BACS BANCO DE CREDITO Y SECURITIZAC,privado_nacional,situacion_deudores,TF.Sit.3: Con problemas/Riesgo medio (%),Ene-2026,0.25,2026-04-19
+00340,BACS BANCO DE CREDITO Y SECURITIZAC,privado_nacional,situacion_deudores,TF.Sit.4: Con alto riesgo de insolvencia/Riesgo alto (%),Ene-2026,1.54,2026-04-19
+00340,BACS BANCO DE CREDITO Y SECURITIZAC,privado_nacional,situacion_deudores,TF.Sit.5: Irrecuperable (%),Ene-2026,0.01,2026-04-19
+00340,BACS BANCO DE CREDITO Y SECURITIZAC,privado_nacional,situacion_deudores,TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Ene-2026,0.0,2026-04-19
+00340,BACS BANCO DE CREDITO Y SECURITIZAC,privado_nacional,situacion_deudores,Previsiones por riesgo de incobrabilidad constituídas,Ene-2026,1990.28,2026-04-19
+00340,BACS BANCO DE CREDITO Y SECURITIZAC,privado_nacional,situacion_deudores,CARTERA COMERCIAL ($),Ene-2026,134879.19,2026-04-19
+00340,BACS BANCO DE CREDITO Y SECURITIZAC,privado_nacional,situacion_deudores,Total cartera sobre financiaciones (%),Ene-2026,78.85,2026-04-19
+00340,BACS BANCO DE CREDITO Y SECURITIZAC,privado_nacional,situacion_deudores,C.COM.Sit.1: En situación normal (%),Ene-2026,98.44,2026-04-19
+00340,BACS BANCO DE CREDITO Y SECURITIZAC,privado_nacional,situacion_deudores,C.COM.Sit.2: Con seguimiento especial (%),Ene-2026,0.0,2026-04-19
+00340,BACS BANCO DE CREDITO Y SECURITIZAC,privado_nacional,situacion_deudores,C.COM.Sit.4: Con alto riesgo de insolvencia (%),Ene-2026,1.55,2026-04-19
+00340,BACS BANCO DE CREDITO Y SECURITIZAC,privado_nacional,situacion_deudores,C.COM.Sit.5: Irrecuperable (%),Ene-2026,0.01,2026-04-19
+00340,BACS BANCO DE CREDITO Y SECURITIZAC,privado_nacional,situacion_deudores,C.COM.TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Ene-2026,0.0,2026-04-19
+00340,BACS BANCO DE CREDITO Y SECURITIZAC,privado_nacional,situacion_deudores,CARTERA DE CONSUMO O VIVIENDA ($),Ene-2026,36173.68,2026-04-19
+00340,BACS BANCO DE CREDITO Y SECURITIZAC,privado_nacional,situacion_deudores,Total cartera sobre financiaciones (%),Ene-2026,21.15,2026-04-19
+00340,BACS BANCO DE CREDITO Y SECURITIZAC,privado_nacional,situacion_deudores,C.CON.Sit.1: En situación normal (%),Ene-2026,96.16,2026-04-19
+00340,BACS BANCO DE CREDITO Y SECURITIZAC,privado_nacional,situacion_deudores,C.CON.Sit.2: Riesgo bajo (%),Ene-2026,1.19,2026-04-19
+00340,BACS BANCO DE CREDITO Y SECURITIZAC,privado_nacional,situacion_deudores,C.CON.Sit.3: Riesgo medio (%),Ene-2026,1.17,2026-04-19
+00340,BACS BANCO DE CREDITO Y SECURITIZAC,privado_nacional,situacion_deudores,C.CON.Sit.4: Riesgo alto (%),Ene-2026,1.48,2026-04-19
+00340,BACS BANCO DE CREDITO Y SECURITIZAC,privado_nacional,situacion_deudores,C.CON.Sit.5: Irrecuperable (%),Ene-2026,0.0,2026-04-19
+00340,BACS BANCO DE CREDITO Y SECURITIZAC,privado_nacional,situacion_deudores,C.CON.TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Ene-2026,0.0,2026-04-19

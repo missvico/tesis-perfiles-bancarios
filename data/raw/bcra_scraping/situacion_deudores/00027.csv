@@ -1,0 +1,161 @@
+codigo_bcra,nombre_banco,tipo_entidad,fuente,variable,periodo,valor,scraping_fecha
+00027,BANCO SUPERVIELLE S.A.,privado_nacional,situacion_deudores,TOTAL DE FINANCIACIONES Y GARANTIAS OTORGADAS ($),Dic-2023,628181.54,2026-04-19
+00027,BANCO SUPERVIELLE S.A.,privado_nacional,situacion_deudores,TF.Sit.1: En situación normal (%),Dic-2023,96.59,2026-04-19
+00027,BANCO SUPERVIELLE S.A.,privado_nacional,situacion_deudores,TF.Sit.2: Con seguimiento especial/Riesgo bajo (%),Dic-2023,2.23,2026-04-19
+00027,BANCO SUPERVIELLE S.A.,privado_nacional,situacion_deudores,TF.Sit.3: Con problemas/Riesgo medio (%),Dic-2023,0.53,2026-04-19
+00027,BANCO SUPERVIELLE S.A.,privado_nacional,situacion_deudores,TF.Sit.4: Con alto riesgo de insolvencia/Riesgo alto (%),Dic-2023,0.36,2026-04-19
+00027,BANCO SUPERVIELLE S.A.,privado_nacional,situacion_deudores,TF.Sit.5: Irrecuperable (%),Dic-2023,0.29,2026-04-19
+00027,BANCO SUPERVIELLE S.A.,privado_nacional,situacion_deudores,TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Dic-2023,11.45,2026-04-19
+00027,BANCO SUPERVIELLE S.A.,privado_nacional,situacion_deudores,Previsiones por riesgo de incobrabilidad constituídas,Dic-2023,17887.96,2026-04-19
+00027,BANCO SUPERVIELLE S.A.,privado_nacional,situacion_deudores,CARTERA COMERCIAL ($),Dic-2023,353905.47,2026-04-19
+00027,BANCO SUPERVIELLE S.A.,privado_nacional,situacion_deudores,Total cartera sobre financiaciones (%),Dic-2023,56.34,2026-04-19
+00027,BANCO SUPERVIELLE S.A.,privado_nacional,situacion_deudores,C.COM.Sit.1: En situación normal (%),Dic-2023,97.15,2026-04-19
+00027,BANCO SUPERVIELLE S.A.,privado_nacional,situacion_deudores,C.COM.Sit.2: Con seguimiento especial (%),Dic-2023,2.79,2026-04-19
+00027,BANCO SUPERVIELLE S.A.,privado_nacional,situacion_deudores,C.COM.Sit.3: Con problemas (%),Dic-2023,0.0,2026-04-19
+00027,BANCO SUPERVIELLE S.A.,privado_nacional,situacion_deudores,C.COM.Sit.4: Con alto riesgo de insolvencia (%),Dic-2023,0.0,2026-04-19
+00027,BANCO SUPERVIELLE S.A.,privado_nacional,situacion_deudores,C.COM.Sit.5: Irrecuperable (%),Dic-2023,0.06,2026-04-19
+00027,BANCO SUPERVIELLE S.A.,privado_nacional,situacion_deudores,C.COM.TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Dic-2023,11.81,2026-04-19
+00027,BANCO SUPERVIELLE S.A.,privado_nacional,situacion_deudores,CARTERA DE CONSUMO O VIVIENDA ($),Dic-2023,188272.63,2026-04-19
+00027,BANCO SUPERVIELLE S.A.,privado_nacional,situacion_deudores,Total cartera sobre financiaciones (%),Dic-2023,29.97,2026-04-19
+00027,BANCO SUPERVIELLE S.A.,privado_nacional,situacion_deudores,C.CON.Sit.1: En situación normal (%),Dic-2023,95.28,2026-04-19
+00027,BANCO SUPERVIELLE S.A.,privado_nacional,situacion_deudores,C.CON.Sit.2: Riesgo bajo (%),Dic-2023,1.87,2026-04-19
+00027,BANCO SUPERVIELLE S.A.,privado_nacional,situacion_deudores,C.CON.Sit.3: Riesgo medio (%),Dic-2023,1.4,2026-04-19
+00027,BANCO SUPERVIELLE S.A.,privado_nacional,situacion_deudores,C.CON.Sit.4: Riesgo alto (%),Dic-2023,0.84,2026-04-19
+00027,BANCO SUPERVIELLE S.A.,privado_nacional,situacion_deudores,C.CON.Sit.5: Irrecuperable (%),Dic-2023,0.62,2026-04-19
+00027,BANCO SUPERVIELLE S.A.,privado_nacional,situacion_deudores,C.CON.TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Dic-2023,8.96,2026-04-19
+00027,BANCO SUPERVIELLE S.A.,privado_nacional,situacion_deudores,CARTERA COMERCIAL ASIMILABLE A CONSUMO ($),Dic-2023,86003.44,2026-04-19
+00027,BANCO SUPERVIELLE S.A.,privado_nacional,situacion_deudores,Total cartera sobre financiaciones (%),Dic-2023,13.69,2026-04-19
+00027,BANCO SUPERVIELLE S.A.,privado_nacional,situacion_deudores,C.CAC.Sit.1: En situación normal (%),Dic-2023,97.17,2026-04-19
+00027,BANCO SUPERVIELLE S.A.,privado_nacional,situacion_deudores,C.CAC.Sit.2: Riesgo bajo (%),Dic-2023,0.74,2026-04-19
+00027,BANCO SUPERVIELLE S.A.,privado_nacional,situacion_deudores,C.CAC.Sit.3: Riesgo medio (%),Dic-2023,0.81,2026-04-19
+00027,BANCO SUPERVIELLE S.A.,privado_nacional,situacion_deudores,C.CAC.Sit.4: Riesgo alto (%),Dic-2023,0.76,2026-04-19
+00027,BANCO SUPERVIELLE S.A.,privado_nacional,situacion_deudores,C.CAC.Sit.5: Irrecuperable (%),Dic-2023,0.53,2026-04-19
+00027,BANCO SUPERVIELLE S.A.,privado_nacional,situacion_deudores,C.CAC.TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Dic-2023,15.4,2026-04-19
+00027,BANCO SUPERVIELLE S.A.,privado_nacional,situacion_deudores,TOTAL DE FINANCIACIONES Y GARANTIAS OTORGADAS ($),Dic-2024,2484778.0,2026-04-19
+00027,BANCO SUPERVIELLE S.A.,privado_nacional,situacion_deudores,TF.Sit.1: En situación normal (%),Dic-2024,97.18,2026-04-19
+00027,BANCO SUPERVIELLE S.A.,privado_nacional,situacion_deudores,TF.Sit.2: Con seguimiento especial/Riesgo bajo (%),Dic-2024,1.55,2026-04-19
+00027,BANCO SUPERVIELLE S.A.,privado_nacional,situacion_deudores,TF.Sit.3: Con problemas/Riesgo medio (%),Dic-2024,0.84,2026-04-19
+00027,BANCO SUPERVIELLE S.A.,privado_nacional,situacion_deudores,TF.Sit.4: Con alto riesgo de insolvencia/Riesgo alto (%),Dic-2024,0.34,2026-04-19
+00027,BANCO SUPERVIELLE S.A.,privado_nacional,situacion_deudores,TF.Sit.5: Irrecuperable (%),Dic-2024,0.09,2026-04-19
+00027,BANCO SUPERVIELLE S.A.,privado_nacional,situacion_deudores,TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Dic-2024,20.38,2026-04-19
+00027,BANCO SUPERVIELLE S.A.,privado_nacional,situacion_deudores,Previsiones por riesgo de incobrabilidad constituídas,Dic-2024,49855.76,2026-04-19
+00027,BANCO SUPERVIELLE S.A.,privado_nacional,situacion_deudores,CARTERA COMERCIAL ($),Dic-2024,1075772.04,2026-04-19
+00027,BANCO SUPERVIELLE S.A.,privado_nacional,situacion_deudores,Total cartera sobre financiaciones (%),Dic-2024,43.29,2026-04-19
+00027,BANCO SUPERVIELLE S.A.,privado_nacional,situacion_deudores,C.COM.Sit.1: En situación normal (%),Dic-2024,98.04,2026-04-19
+00027,BANCO SUPERVIELLE S.A.,privado_nacional,situacion_deudores,C.COM.Sit.2: Con seguimiento especial (%),Dic-2024,1.13,2026-04-19
+00027,BANCO SUPERVIELLE S.A.,privado_nacional,situacion_deudores,C.COM.Sit.3: Con problemas (%),Dic-2024,0.8,2026-04-19
+00027,BANCO SUPERVIELLE S.A.,privado_nacional,situacion_deudores,C.COM.Sit.4: Con alto riesgo de insolvencia (%),Dic-2024,0.03,2026-04-19
+00027,BANCO SUPERVIELLE S.A.,privado_nacional,situacion_deudores,C.COM.Sit.5: Irrecuperable (%),Dic-2024,0.0,2026-04-19
+00027,BANCO SUPERVIELLE S.A.,privado_nacional,situacion_deudores,C.COM.TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Dic-2024,5.49,2026-04-19
+00027,BANCO SUPERVIELLE S.A.,privado_nacional,situacion_deudores,CARTERA DE CONSUMO O VIVIENDA ($),Dic-2024,819105.78,2026-04-19
+00027,BANCO SUPERVIELLE S.A.,privado_nacional,situacion_deudores,Total cartera sobre financiaciones (%),Dic-2024,32.96,2026-04-19
+00027,BANCO SUPERVIELLE S.A.,privado_nacional,situacion_deudores,C.CON.Sit.1: En situación normal (%),Dic-2024,96.89,2026-04-19
+00027,BANCO SUPERVIELLE S.A.,privado_nacional,situacion_deudores,C.CON.Sit.2: Riesgo bajo (%),Dic-2024,1.5,2026-04-19
+00027,BANCO SUPERVIELLE S.A.,privado_nacional,situacion_deudores,C.CON.Sit.3: Riesgo medio (%),Dic-2024,0.89,2026-04-19
+00027,BANCO SUPERVIELLE S.A.,privado_nacional,situacion_deudores,C.CON.Sit.4: Riesgo alto (%),Dic-2024,0.63,2026-04-19
+00027,BANCO SUPERVIELLE S.A.,privado_nacional,situacion_deudores,C.CON.Sit.5: Irrecuperable (%),Dic-2024,0.09,2026-04-19
+00027,BANCO SUPERVIELLE S.A.,privado_nacional,situacion_deudores,C.CON.TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Dic-2024,29.19,2026-04-19
+00027,BANCO SUPERVIELLE S.A.,privado_nacional,situacion_deudores,CARTERA COMERCIAL ASIMILABLE A CONSUMO ($),Dic-2024,589900.18,2026-04-19
+00027,BANCO SUPERVIELLE S.A.,privado_nacional,situacion_deudores,Total cartera sobre financiaciones (%),Dic-2024,23.74,2026-04-19
+00027,BANCO SUPERVIELLE S.A.,privado_nacional,situacion_deudores,C.CAC.Sit.1: En situación normal (%),Dic-2024,96.0,2026-04-19
+00027,BANCO SUPERVIELLE S.A.,privado_nacional,situacion_deudores,C.CAC.Sit.2: Riesgo bajo (%),Dic-2024,2.4,2026-04-19
+00027,BANCO SUPERVIELLE S.A.,privado_nacional,situacion_deudores,C.CAC.Sit.3: Riesgo medio (%),Dic-2024,0.86,2026-04-19
+00027,BANCO SUPERVIELLE S.A.,privado_nacional,situacion_deudores,C.CAC.Sit.4: Riesgo alto (%),Dic-2024,0.5,2026-04-19
+00027,BANCO SUPERVIELLE S.A.,privado_nacional,situacion_deudores,C.CAC.Sit.5: Irrecuperable (%),Dic-2024,0.24,2026-04-19
+00027,BANCO SUPERVIELLE S.A.,privado_nacional,situacion_deudores,C.CAC.TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Dic-2024,35.31,2026-04-19
+00027,BANCO SUPERVIELLE S.A.,privado_nacional,situacion_deudores,TOTAL DE FINANCIACIONES Y GARANTIAS OTORGADAS ($),Nov-2025,3883697.45,2026-04-19
+00027,BANCO SUPERVIELLE S.A.,privado_nacional,situacion_deudores,TF.Sit.1: En situación normal (%),Nov-2025,91.19,2026-04-19
+00027,BANCO SUPERVIELLE S.A.,privado_nacional,situacion_deudores,TF.Sit.2: Con seguimiento especial/Riesgo bajo (%),Nov-2025,3.85,2026-04-19
+00027,BANCO SUPERVIELLE S.A.,privado_nacional,situacion_deudores,TF.Sit.3: Con problemas/Riesgo medio (%),Nov-2025,2.22,2026-04-19
+00027,BANCO SUPERVIELLE S.A.,privado_nacional,situacion_deudores,TF.Sit.4: Con alto riesgo de insolvencia/Riesgo alto (%),Nov-2025,2.55,2026-04-19
+00027,BANCO SUPERVIELLE S.A.,privado_nacional,situacion_deudores,TF.Sit.5: Irrecuperable (%),Nov-2025,0.19,2026-04-19
+00027,BANCO SUPERVIELLE S.A.,privado_nacional,situacion_deudores,TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Nov-2025,18.88,2026-04-19
+00027,BANCO SUPERVIELLE S.A.,privado_nacional,situacion_deudores,Previsiones por riesgo de incobrabilidad constituídas,Nov-2025,199527.12,2026-04-19
+00027,BANCO SUPERVIELLE S.A.,privado_nacional,situacion_deudores,CARTERA COMERCIAL ($),Nov-2025,1706760.64,2026-04-19
+00027,BANCO SUPERVIELLE S.A.,privado_nacional,situacion_deudores,Total cartera sobre financiaciones (%),Nov-2025,43.95,2026-04-19
+00027,BANCO SUPERVIELLE S.A.,privado_nacional,situacion_deudores,C.COM.Sit.1: En situación normal (%),Nov-2025,97.78,2026-04-19
+00027,BANCO SUPERVIELLE S.A.,privado_nacional,situacion_deudores,C.COM.Sit.2: Con seguimiento especial (%),Nov-2025,0.63,2026-04-19
+00027,BANCO SUPERVIELLE S.A.,privado_nacional,situacion_deudores,C.COM.Sit.3: Con problemas (%),Nov-2025,0.0,2026-04-19
+00027,BANCO SUPERVIELLE S.A.,privado_nacional,situacion_deudores,C.COM.Sit.4: Con alto riesgo de insolvencia (%),Nov-2025,1.54,2026-04-19
+00027,BANCO SUPERVIELLE S.A.,privado_nacional,situacion_deudores,C.COM.Sit.5: Irrecuperable (%),Nov-2025,0.04,2026-04-19
+00027,BANCO SUPERVIELLE S.A.,privado_nacional,situacion_deudores,C.COM.TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Nov-2025,6.77,2026-04-19
+00027,BANCO SUPERVIELLE S.A.,privado_nacional,situacion_deudores,CARTERA DE CONSUMO O VIVIENDA ($),Nov-2025,1174281.49,2026-04-19
+00027,BANCO SUPERVIELLE S.A.,privado_nacional,situacion_deudores,Total cartera sobre financiaciones (%),Nov-2025,30.24,2026-04-19
+00027,BANCO SUPERVIELLE S.A.,privado_nacional,situacion_deudores,C.CON.Sit.1: En situación normal (%),Nov-2025,87.37,2026-04-19
+00027,BANCO SUPERVIELLE S.A.,privado_nacional,situacion_deudores,C.CON.Sit.2: Riesgo bajo (%),Nov-2025,5.42,2026-04-19
+00027,BANCO SUPERVIELLE S.A.,privado_nacional,situacion_deudores,C.CON.Sit.3: Riesgo medio (%),Nov-2025,3.92,2026-04-19
+00027,BANCO SUPERVIELLE S.A.,privado_nacional,situacion_deudores,C.CON.Sit.4: Riesgo alto (%),Nov-2025,3.05,2026-04-19
+00027,BANCO SUPERVIELLE S.A.,privado_nacional,situacion_deudores,C.CON.Sit.5: Irrecuperable (%),Nov-2025,0.25,2026-04-19
+00027,BANCO SUPERVIELLE S.A.,privado_nacional,situacion_deudores,C.CON.TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Nov-2025,27.19,2026-04-19
+00027,BANCO SUPERVIELLE S.A.,privado_nacional,situacion_deudores,CARTERA COMERCIAL ASIMILABLE A CONSUMO ($),Nov-2025,1002655.32,2026-04-19
+00027,BANCO SUPERVIELLE S.A.,privado_nacional,situacion_deudores,Total cartera sobre financiaciones (%),Nov-2025,25.82,2026-04-19
+00027,BANCO SUPERVIELLE S.A.,privado_nacional,situacion_deudores,C.CAC.Sit.1: En situación normal (%),Nov-2025,84.43,2026-04-19
+00027,BANCO SUPERVIELLE S.A.,privado_nacional,situacion_deudores,C.CAC.Sit.2: Riesgo bajo (%),Nov-2025,7.49,2026-04-19
+00027,BANCO SUPERVIELLE S.A.,privado_nacional,situacion_deudores,C.CAC.Sit.3: Riesgo medio (%),Nov-2025,4.03,2026-04-19
+00027,BANCO SUPERVIELLE S.A.,privado_nacional,situacion_deudores,C.CAC.Sit.4: Riesgo alto (%),Nov-2025,3.69,2026-04-19
+00027,BANCO SUPERVIELLE S.A.,privado_nacional,situacion_deudores,C.CAC.Sit.5: Irrecuperable (%),Nov-2025,0.36,2026-04-19
+00027,BANCO SUPERVIELLE S.A.,privado_nacional,situacion_deudores,C.CAC.TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Nov-2025,29.77,2026-04-19
+00027,BANCO SUPERVIELLE S.A.,privado_nacional,situacion_deudores,TOTAL DE FINANCIACIONES Y GARANTIAS OTORGADAS ($),Dic-2025,4204826.13,2026-04-19
+00027,BANCO SUPERVIELLE S.A.,privado_nacional,situacion_deudores,TF.Sit.1: En situación normal (%),Dic-2025,91.93,2026-04-19
+00027,BANCO SUPERVIELLE S.A.,privado_nacional,situacion_deudores,TF.Sit.2: Con seguimiento especial/Riesgo bajo (%),Dic-2025,3.02,2026-04-19
+00027,BANCO SUPERVIELLE S.A.,privado_nacional,situacion_deudores,TF.Sit.3: Con problemas/Riesgo medio (%),Dic-2025,2.19,2026-04-19
+00027,BANCO SUPERVIELLE S.A.,privado_nacional,situacion_deudores,TF.Sit.4: Con alto riesgo de insolvencia/Riesgo alto (%),Dic-2025,2.64,2026-04-19
+00027,BANCO SUPERVIELLE S.A.,privado_nacional,situacion_deudores,TF.Sit.5: Irrecuperable (%),Dic-2025,0.23,2026-04-19
+00027,BANCO SUPERVIELLE S.A.,privado_nacional,situacion_deudores,TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Dic-2025,17.53,2026-04-19
+00027,BANCO SUPERVIELLE S.A.,privado_nacional,situacion_deudores,Previsiones por riesgo de incobrabilidad constituídas,Dic-2025,232125.76,2026-04-19
+00027,BANCO SUPERVIELLE S.A.,privado_nacional,situacion_deudores,CARTERA COMERCIAL ($),Dic-2025,1972862.48,2026-04-19
+00027,BANCO SUPERVIELLE S.A.,privado_nacional,situacion_deudores,Total cartera sobre financiaciones (%),Dic-2025,46.92,2026-04-19
+00027,BANCO SUPERVIELLE S.A.,privado_nacional,situacion_deudores,C.COM.Sit.1: En situación normal (%),Dic-2025,98.14,2026-04-19
+00027,BANCO SUPERVIELLE S.A.,privado_nacional,situacion_deudores,C.COM.Sit.2: Con seguimiento especial (%),Dic-2025,0.49,2026-04-19
+00027,BANCO SUPERVIELLE S.A.,privado_nacional,situacion_deudores,C.COM.Sit.3: Con problemas (%),Dic-2025,0.0,2026-04-19
+00027,BANCO SUPERVIELLE S.A.,privado_nacional,situacion_deudores,C.COM.Sit.4: Con alto riesgo de insolvencia (%),Dic-2025,1.33,2026-04-19
+00027,BANCO SUPERVIELLE S.A.,privado_nacional,situacion_deudores,C.COM.Sit.5: Irrecuperable (%),Dic-2025,0.04,2026-04-19
+00027,BANCO SUPERVIELLE S.A.,privado_nacional,situacion_deudores,C.COM.TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Dic-2025,5.69,2026-04-19
+00027,BANCO SUPERVIELLE S.A.,privado_nacional,situacion_deudores,CARTERA DE CONSUMO O VIVIENDA ($),Dic-2025,1198155.22,2026-04-19
+00027,BANCO SUPERVIELLE S.A.,privado_nacional,situacion_deudores,Total cartera sobre financiaciones (%),Dic-2025,28.49,2026-04-19
+00027,BANCO SUPERVIELLE S.A.,privado_nacional,situacion_deudores,C.CON.Sit.1: En situación normal (%),Dic-2025,87.55,2026-04-19
+00027,BANCO SUPERVIELLE S.A.,privado_nacional,situacion_deudores,C.CON.Sit.2: Riesgo bajo (%),Dic-2025,4.7,2026-04-19
+00027,BANCO SUPERVIELLE S.A.,privado_nacional,situacion_deudores,C.CON.Sit.3: Riesgo medio (%),Dic-2025,4.11,2026-04-19
+00027,BANCO SUPERVIELLE S.A.,privado_nacional,situacion_deudores,C.CON.Sit.4: Riesgo alto (%),Dic-2025,3.39,2026-04-19
+00027,BANCO SUPERVIELLE S.A.,privado_nacional,situacion_deudores,C.CON.Sit.5: Irrecuperable (%),Dic-2025,0.25,2026-04-19
+00027,BANCO SUPERVIELLE S.A.,privado_nacional,situacion_deudores,C.CON.TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Dic-2025,27.43,2026-04-19
+00027,BANCO SUPERVIELLE S.A.,privado_nacional,situacion_deudores,CARTERA COMERCIAL ASIMILABLE A CONSUMO ($),Dic-2025,1033808.43,2026-04-19
+00027,BANCO SUPERVIELLE S.A.,privado_nacional,situacion_deudores,Total cartera sobre financiaciones (%),Dic-2025,24.59,2026-04-19
+00027,BANCO SUPERVIELLE S.A.,privado_nacional,situacion_deudores,C.CAC.Sit.1: En situación normal (%),Dic-2025,85.16,2026-04-19
+00027,BANCO SUPERVIELLE S.A.,privado_nacional,situacion_deudores,C.CAC.Sit.2: Riesgo bajo (%),Dic-2025,5.9,2026-04-19
+00027,BANCO SUPERVIELLE S.A.,privado_nacional,situacion_deudores,C.CAC.Sit.3: Riesgo medio (%),Dic-2025,4.13,2026-04-19
+00027,BANCO SUPERVIELLE S.A.,privado_nacional,situacion_deudores,C.CAC.Sit.4: Riesgo alto (%),Dic-2025,4.25,2026-04-19
+00027,BANCO SUPERVIELLE S.A.,privado_nacional,situacion_deudores,C.CAC.Sit.5: Irrecuperable (%),Dic-2025,0.55,2026-04-19
+00027,BANCO SUPERVIELLE S.A.,privado_nacional,situacion_deudores,C.CAC.TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Dic-2025,28.67,2026-04-19
+00027,BANCO SUPERVIELLE S.A.,privado_nacional,situacion_deudores,TOTAL DE FINANCIACIONES Y GARANTIAS OTORGADAS ($),Ene-2026,4092760.9,2026-04-19
+00027,BANCO SUPERVIELLE S.A.,privado_nacional,situacion_deudores,TF.Sit.1: En situación normal (%),Ene-2026,91.34,2026-04-19
+00027,BANCO SUPERVIELLE S.A.,privado_nacional,situacion_deudores,TF.Sit.2: Con seguimiento especial/Riesgo bajo (%),Ene-2026,2.89,2026-04-19
+00027,BANCO SUPERVIELLE S.A.,privado_nacional,situacion_deudores,TF.Sit.3: Con problemas/Riesgo medio (%),Ene-2026,2.63,2026-04-19
+00027,BANCO SUPERVIELLE S.A.,privado_nacional,situacion_deudores,TF.Sit.4: Con alto riesgo de insolvencia/Riesgo alto (%),Ene-2026,2.81,2026-04-19
+00027,BANCO SUPERVIELLE S.A.,privado_nacional,situacion_deudores,TF.Sit.5: Irrecuperable (%),Ene-2026,0.32,2026-04-19
+00027,BANCO SUPERVIELLE S.A.,privado_nacional,situacion_deudores,TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Ene-2026,18.07,2026-04-19
+00027,BANCO SUPERVIELLE S.A.,privado_nacional,situacion_deudores,Previsiones por riesgo de incobrabilidad constituídas,Ene-2026,243618.15,2026-04-19
+00027,BANCO SUPERVIELLE S.A.,privado_nacional,situacion_deudores,CARTERA COMERCIAL ($),Ene-2026,1875298.1,2026-04-19
+00027,BANCO SUPERVIELLE S.A.,privado_nacional,situacion_deudores,Total cartera sobre financiaciones (%),Ene-2026,45.82,2026-04-19
+00027,BANCO SUPERVIELLE S.A.,privado_nacional,situacion_deudores,C.COM.Sit.1: En situación normal (%),Ene-2026,97.65,2026-04-19
+00027,BANCO SUPERVIELLE S.A.,privado_nacional,situacion_deudores,C.COM.Sit.2: Con seguimiento especial (%),Ene-2026,0.81,2026-04-19
+00027,BANCO SUPERVIELLE S.A.,privado_nacional,situacion_deudores,C.COM.Sit.3: Con problemas (%),Ene-2026,0.11,2026-04-19
+00027,BANCO SUPERVIELLE S.A.,privado_nacional,situacion_deudores,C.COM.Sit.4: Con alto riesgo de insolvencia (%),Ene-2026,1.28,2026-04-19
+00027,BANCO SUPERVIELLE S.A.,privado_nacional,situacion_deudores,C.COM.Sit.5: Irrecuperable (%),Ene-2026,0.15,2026-04-19
+00027,BANCO SUPERVIELLE S.A.,privado_nacional,situacion_deudores,C.COM.TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Ene-2026,6.18,2026-04-19
+00027,BANCO SUPERVIELLE S.A.,privado_nacional,situacion_deudores,CARTERA DE CONSUMO O VIVIENDA ($),Ene-2026,1206536.03,2026-04-19
+00027,BANCO SUPERVIELLE S.A.,privado_nacional,situacion_deudores,Total cartera sobre financiaciones (%),Ene-2026,29.48,2026-04-19
+00027,BANCO SUPERVIELLE S.A.,privado_nacional,situacion_deudores,C.CON.Sit.1: En situación normal (%),Ene-2026,87.18,2026-04-19
+00027,BANCO SUPERVIELLE S.A.,privado_nacional,situacion_deudores,C.CON.Sit.2: Riesgo bajo (%),Ene-2026,4.36,2026-04-19
+00027,BANCO SUPERVIELLE S.A.,privado_nacional,situacion_deudores,C.CON.Sit.3: Riesgo medio (%),Ene-2026,4.61,2026-04-19
+00027,BANCO SUPERVIELLE S.A.,privado_nacional,situacion_deudores,C.CON.Sit.4: Riesgo alto (%),Ene-2026,3.54,2026-04-19
+00027,BANCO SUPERVIELLE S.A.,privado_nacional,situacion_deudores,C.CON.Sit.5: Irrecuperable (%),Ene-2026,0.31,2026-04-19
+00027,BANCO SUPERVIELLE S.A.,privado_nacional,situacion_deudores,C.CON.TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Ene-2026,27.72,2026-04-19
+00027,BANCO SUPERVIELLE S.A.,privado_nacional,situacion_deudores,CARTERA COMERCIAL ASIMILABLE A CONSUMO ($),Ene-2026,1010926.78,2026-04-19
+00027,BANCO SUPERVIELLE S.A.,privado_nacional,situacion_deudores,Total cartera sobre financiaciones (%),Ene-2026,24.7,2026-04-19
+00027,BANCO SUPERVIELLE S.A.,privado_nacional,situacion_deudores,C.CAC.Sit.1: En situación normal (%),Ene-2026,84.63,2026-04-19
+00027,BANCO SUPERVIELLE S.A.,privado_nacional,situacion_deudores,C.CAC.Sit.2: Riesgo bajo (%),Ene-2026,5.0,2026-04-19
+00027,BANCO SUPERVIELLE S.A.,privado_nacional,situacion_deudores,C.CAC.Sit.3: Riesgo medio (%),Ene-2026,4.94,2026-04-19
+00027,BANCO SUPERVIELLE S.A.,privado_nacional,situacion_deudores,C.CAC.Sit.4: Riesgo alto (%),Ene-2026,4.78,2026-04-19
+00027,BANCO SUPERVIELLE S.A.,privado_nacional,situacion_deudores,C.CAC.Sit.5: Irrecuperable (%),Ene-2026,0.65,2026-04-19
+00027,BANCO SUPERVIELLE S.A.,privado_nacional,situacion_deudores,C.CAC.TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Ene-2026,28.61,2026-04-19

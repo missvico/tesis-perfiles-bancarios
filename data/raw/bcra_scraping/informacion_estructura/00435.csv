@@ -1,0 +1,50 @@
+codigo_bcra,nombre_banco,tipo_entidad,fuente,variable,periodo,valor,scraping_fecha
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,informacion_estructura,Cantidad de cuentas corrientes,Dic-2023,25.0,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,informacion_estructura,Cantidad de cuentas de ahorro,Dic-2023,368.0,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,informacion_estructura,Cantidad de operaciones a plazo fijo Individuos,Dic-2023,21.0,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,informacion_estructura,Cantidad de operaciones a plazo fijo Empresas,Dic-2023,,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,informacion_estructura,Cantidad de operaciones por otros préstamos,Dic-2023,141.0,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,informacion_estructura,Dotación de personal,Dic-2023,3.0,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,informacion_estructura,Cantidad de cuentas corrientes,Dic-2024,110.0,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,informacion_estructura,Cantidad de cuentas de ahorro,Dic-2024,931.0,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,informacion_estructura,Cantidad de operaciones a plazo fijo Individuos,Dic-2024,22.0,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,informacion_estructura,Cantidad de operaciones a plazo fijo Empresas,Dic-2024,3.0,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,informacion_estructura,Cantidad de operaciones por otros préstamos,Dic-2024,513.0,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,informacion_estructura,Dotación de personal,Dic-2024,11.0,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,informacion_estructura,Cantidad de cuentas corrientes,Jun-2025,82.0,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,informacion_estructura,Cantidad de cuentas de ahorro,Jun-2025,1346.0,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,informacion_estructura,Cantidad de operaciones a plazo fijo Individuos,Jun-2025,17.0,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,informacion_estructura,Cantidad de operaciones a plazo fijo Empresas,Jun-2025,3.0,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,informacion_estructura,Cantidad de operaciones por otros préstamos,Jun-2025,734.0,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,informacion_estructura,Dotación de personal,Jun-2025,11.0,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,informacion_estructura,Cantidad de cuentas corrientes,Set-2025,92.0,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,informacion_estructura,Cantidad de cuentas de ahorro,Set-2025,1533.0,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,informacion_estructura,Cantidad de operaciones a plazo fijo Individuos,Set-2025,17.0,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,informacion_estructura,Cantidad de operaciones a plazo fijo Empresas,Set-2025,1.0,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,informacion_estructura,Cantidad de operaciones por otros préstamos,Set-2025,1177.0,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,informacion_estructura,Dotación de personal,Set-2025,12.0,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,informacion_estructura,Cantidad de cuentas corrientes,Dic-2025,97.0,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,informacion_estructura,Cantidad de cuentas de ahorro,Dic-2025,1672.0,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,informacion_estructura,Cantidad de operaciones a plazo fijo Individuos,Dic-2025,17.0,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,informacion_estructura,Cantidad de operaciones a plazo fijo Empresas,Dic-2025,,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,informacion_estructura,Cantidad de operaciones por otros préstamos,Dic-2025,829.0,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,informacion_estructura,Dotación de personal,Dic-2025,15.0,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,informacion_estructura,Cantidad de Cuentas,Dic-2023,197.0,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,informacion_estructura,Cantidad de Empresas,Dic-2023,1.0,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,informacion_estructura,Cantidad de Cuentas,Dic-2024,199.0,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,informacion_estructura,Cantidad de Empresas,Dic-2024,2.0,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,informacion_estructura,Cantidad de Cuentas,Nov-2025,175.0,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,informacion_estructura,Cantidad de Empresas,Nov-2025,1.0,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,informacion_estructura,Cantidad de Cuentas,Dic-2025,180.0,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,informacion_estructura,Cantidad de Empresas,Dic-2025,1.0,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,informacion_estructura,Cantidad de Cuentas,Ene-2026,178.0,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,informacion_estructura,Cantidad de Empresas,Ene-2026,1.0,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,informacion_estructura,TUCUMÁN,Habilitadas,1.0,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,informacion_estructura,TUCUMÁN,Habilitadas,,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,informacion_estructura,TUCUMÁN,Habilitadas,,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,informacion_estructura,TUCUMÁN,Habilitadas,,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,informacion_estructura,TUCUMÁN,Habilitadas,,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,informacion_estructura,TUCUMÁN,Habilitadas,,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,informacion_estructura,TUCUMÁN,Habilitadas,,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,informacion_estructura,TUCUMÁN,Pendientes de habilitación,,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,informacion_estructura,TUCUMÁN,Total,1.0,2026-04-19

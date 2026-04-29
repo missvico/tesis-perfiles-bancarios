@@ -1,0 +1,79 @@
+codigo_bcra,nombre_banco,tipo_entidad,fuente,variable,periodo,valor,scraping_fecha
+00448,BANCO DINO S.A.,privado_nacional,informacion_estructura,Cantidad de cuentas corrientes,Dic-2023,169.0,2026-04-19
+00448,BANCO DINO S.A.,privado_nacional,informacion_estructura,Cantidad de cuentas de ahorro,Dic-2023,6628.0,2026-04-19
+00448,BANCO DINO S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones a plazo fijo Individuos,Dic-2023,734.0,2026-04-19
+00448,BANCO DINO S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones a plazo fijo Empresas,Dic-2023,62.0,2026-04-19
+00448,BANCO DINO S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones por préstamos hipotecarios,Dic-2023,1.0,2026-04-19
+00448,BANCO DINO S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones por otros préstamos,Dic-2023,271097.0,2026-04-19
+00448,BANCO DINO S.A.,privado_nacional,informacion_estructura,Dotación de personal,Dic-2023,38.0,2026-04-19
+00448,BANCO DINO S.A.,privado_nacional,informacion_estructura,Cantidad de titulares por tarjetas de crédito,Dic-2023,7520.0,2026-04-19
+00448,BANCO DINO S.A.,privado_nacional,informacion_estructura,Cantidad de tarjetas de crédito (plásticos),Dic-2023,11204.0,2026-04-19
+00448,BANCO DINO S.A.,privado_nacional,informacion_estructura,Cantidad de tarjetas de débito,Dic-2023,9844.0,2026-04-19
+00448,BANCO DINO S.A.,privado_nacional,informacion_estructura,Cantidad de cuentas corrientes,Dic-2024,546.0,2026-04-19
+00448,BANCO DINO S.A.,privado_nacional,informacion_estructura,Cantidad de cuentas de ahorro,Dic-2024,6915.0,2026-04-19
+00448,BANCO DINO S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones a plazo fijo Individuos,Dic-2024,387.0,2026-04-19
+00448,BANCO DINO S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones a plazo fijo Empresas,Dic-2024,11.0,2026-04-19
+00448,BANCO DINO S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones por préstamos hipotecarios,Dic-2024,6.0,2026-04-19
+00448,BANCO DINO S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones por otros préstamos,Dic-2024,267906.0,2026-04-19
+00448,BANCO DINO S.A.,privado_nacional,informacion_estructura,Dotación de personal,Dic-2024,34.0,2026-04-19
+00448,BANCO DINO S.A.,privado_nacional,informacion_estructura,Cantidad de titulares por tarjetas de crédito,Dic-2024,6097.0,2026-04-19
+00448,BANCO DINO S.A.,privado_nacional,informacion_estructura,Cantidad de tarjetas de crédito (plásticos),Dic-2024,9082.0,2026-04-19
+00448,BANCO DINO S.A.,privado_nacional,informacion_estructura,Cantidad de tarjetas de débito,Dic-2024,5455.0,2026-04-19
+00448,BANCO DINO S.A.,privado_nacional,informacion_estructura,Cantidad de cuentas corrientes,Jun-2025,842.0,2026-04-19
+00448,BANCO DINO S.A.,privado_nacional,informacion_estructura,Cantidad de cuentas de ahorro,Jun-2025,7250.0,2026-04-19
+00448,BANCO DINO S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones a plazo fijo Individuos,Jun-2025,381.0,2026-04-19
+00448,BANCO DINO S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones a plazo fijo Empresas,Jun-2025,19.0,2026-04-19
+00448,BANCO DINO S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones por préstamos hipotecarios,Jun-2025,14.0,2026-04-19
+00448,BANCO DINO S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones por otros préstamos,Jun-2025,127374.0,2026-04-19
+00448,BANCO DINO S.A.,privado_nacional,informacion_estructura,Dotación de personal,Jun-2025,32.0,2026-04-19
+00448,BANCO DINO S.A.,privado_nacional,informacion_estructura,Cantidad de titulares por tarjetas de crédito,Jun-2025,5443.0,2026-04-19
+00448,BANCO DINO S.A.,privado_nacional,informacion_estructura,Cantidad de tarjetas de crédito (plásticos),Jun-2025,8125.0,2026-04-19
+00448,BANCO DINO S.A.,privado_nacional,informacion_estructura,Cantidad de tarjetas de débito,Jun-2025,6278.0,2026-04-19
+00448,BANCO DINO S.A.,privado_nacional,informacion_estructura,Cantidad de cuentas corrientes,Set-2025,940.0,2026-04-19
+00448,BANCO DINO S.A.,privado_nacional,informacion_estructura,Cantidad de cuentas de ahorro,Set-2025,7311.0,2026-04-19
+00448,BANCO DINO S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones a plazo fijo Individuos,Set-2025,361.0,2026-04-19
+00448,BANCO DINO S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones a plazo fijo Empresas,Set-2025,13.0,2026-04-19
+00448,BANCO DINO S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones por préstamos hipotecarios,Set-2025,17.0,2026-04-19
+00448,BANCO DINO S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones por otros préstamos,Set-2025,183939.0,2026-04-19
+00448,BANCO DINO S.A.,privado_nacional,informacion_estructura,Dotación de personal,Set-2025,32.0,2026-04-19
+00448,BANCO DINO S.A.,privado_nacional,informacion_estructura,Cantidad de titulares por tarjetas de crédito,Set-2025,5169.0,2026-04-19
+00448,BANCO DINO S.A.,privado_nacional,informacion_estructura,Cantidad de tarjetas de crédito (plásticos),Set-2025,7750.0,2026-04-19
+00448,BANCO DINO S.A.,privado_nacional,informacion_estructura,Cantidad de tarjetas de débito,Set-2025,7360.0,2026-04-19
+00448,BANCO DINO S.A.,privado_nacional,informacion_estructura,Cantidad de cuentas corrientes,Dic-2025,1032.0,2026-04-19
+00448,BANCO DINO S.A.,privado_nacional,informacion_estructura,Cantidad de cuentas de ahorro,Dic-2025,7271.0,2026-04-19
+00448,BANCO DINO S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones a plazo fijo Individuos,Dic-2025,398.0,2026-04-19
+00448,BANCO DINO S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones a plazo fijo Empresas,Dic-2025,7.0,2026-04-19
+00448,BANCO DINO S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones por préstamos hipotecarios,Dic-2025,17.0,2026-04-19
+00448,BANCO DINO S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones por otros préstamos,Dic-2025,249948.0,2026-04-19
+00448,BANCO DINO S.A.,privado_nacional,informacion_estructura,Dotación de personal,Dic-2025,32.0,2026-04-19
+00448,BANCO DINO S.A.,privado_nacional,informacion_estructura,Cantidad de titulares por tarjetas de crédito,Dic-2025,4850.0,2026-04-19
+00448,BANCO DINO S.A.,privado_nacional,informacion_estructura,Cantidad de tarjetas de crédito (plásticos),Dic-2025,7279.0,2026-04-19
+00448,BANCO DINO S.A.,privado_nacional,informacion_estructura,Cantidad de tarjetas de débito,Dic-2025,7386.0,2026-04-19
+00448,BANCO DINO S.A.,privado_nacional,informacion_estructura,Cantidad de Cuentas,Dic-2023,1791.0,2026-04-19
+00448,BANCO DINO S.A.,privado_nacional,informacion_estructura,Cantidad de Empresas,Dic-2023,24.0,2026-04-19
+00448,BANCO DINO S.A.,privado_nacional,informacion_estructura,Cantidad de Cuentas,Dic-2024,1826.0,2026-04-19
+00448,BANCO DINO S.A.,privado_nacional,informacion_estructura,Cantidad de Empresas,Dic-2024,23.0,2026-04-19
+00448,BANCO DINO S.A.,privado_nacional,informacion_estructura,Cantidad de Cuentas,Nov-2025,111.0,2026-04-19
+00448,BANCO DINO S.A.,privado_nacional,informacion_estructura,Cantidad de Empresas,Nov-2025,6.0,2026-04-19
+00448,BANCO DINO S.A.,privado_nacional,informacion_estructura,Cantidad de Cuentas,Dic-2025,1704.0,2026-04-19
+00448,BANCO DINO S.A.,privado_nacional,informacion_estructura,Cantidad de Empresas,Dic-2025,22.0,2026-04-19
+00448,BANCO DINO S.A.,privado_nacional,informacion_estructura,Cantidad de Cuentas,Ene-2026,1690.0,2026-04-19
+00448,BANCO DINO S.A.,privado_nacional,informacion_estructura,Cantidad de Empresas,Ene-2026,23.0,2026-04-19
+00448,BANCO DINO S.A.,privado_nacional,informacion_estructura,CÓRDOBA,Habilitadas,1.0,2026-04-19
+00448,BANCO DINO S.A.,privado_nacional,informacion_estructura,MENDOZA,Habilitadas,,2026-04-19
+00448,BANCO DINO S.A.,privado_nacional,informacion_estructura,CÓRDOBA,Habilitadas,,2026-04-19
+00448,BANCO DINO S.A.,privado_nacional,informacion_estructura,MENDOZA,Habilitadas,,2026-04-19
+00448,BANCO DINO S.A.,privado_nacional,informacion_estructura,CÓRDOBA,Habilitadas,,2026-04-19
+00448,BANCO DINO S.A.,privado_nacional,informacion_estructura,MENDOZA,Habilitadas,,2026-04-19
+00448,BANCO DINO S.A.,privado_nacional,informacion_estructura,CÓRDOBA,Habilitadas,18.0,2026-04-19
+00448,BANCO DINO S.A.,privado_nacional,informacion_estructura,MENDOZA,Habilitadas,5.0,2026-04-19
+00448,BANCO DINO S.A.,privado_nacional,informacion_estructura,CÓRDOBA,Habilitadas,,2026-04-19
+00448,BANCO DINO S.A.,privado_nacional,informacion_estructura,MENDOZA,Habilitadas,,2026-04-19
+00448,BANCO DINO S.A.,privado_nacional,informacion_estructura,CÓRDOBA,Habilitadas,,2026-04-19
+00448,BANCO DINO S.A.,privado_nacional,informacion_estructura,MENDOZA,Habilitadas,,2026-04-19
+00448,BANCO DINO S.A.,privado_nacional,informacion_estructura,CÓRDOBA,Habilitadas,,2026-04-19
+00448,BANCO DINO S.A.,privado_nacional,informacion_estructura,MENDOZA,Habilitadas,,2026-04-19
+00448,BANCO DINO S.A.,privado_nacional,informacion_estructura,CÓRDOBA,Pendientes de habilitación,,2026-04-19
+00448,BANCO DINO S.A.,privado_nacional,informacion_estructura,MENDOZA,Pendientes de habilitación,,2026-04-19
+00448,BANCO DINO S.A.,privado_nacional,informacion_estructura,CÓRDOBA,Total,1.0,2026-04-19
+00448,BANCO DINO S.A.,privado_nacional,informacion_estructura,MENDOZA,Total,,2026-04-19

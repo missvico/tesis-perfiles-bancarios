@@ -1,0 +1,70 @@
+codigo_bcra,nombre_banco,tipo_entidad,fuente,variable,periodo,valor,scraping_fecha
+00143,BRUBANK S.A.U.,privado_nacional,informacion_estructura,Cantidad de cuentas corrientes,Dic-2023,,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,informacion_estructura,Cantidad de cuentas de ahorro,Dic-2023,5664608.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,informacion_estructura,Cantidad de cajas de ahorro de ayuda social,Dic-2023,492983.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,informacion_estructura,Cantidad de operaciones a plazo fijo Individuos,Dic-2023,77201.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,informacion_estructura,Cantidad de operaciones por préstamos hipotecarios,Dic-2023,,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,informacion_estructura,Cantidad de operaciones por otros préstamos,Dic-2023,1245.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,informacion_estructura,Dotación de personal,Dic-2023,318.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,informacion_estructura,Cantidad de titulares por tarjetas de crédito,Dic-2023,17392.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,informacion_estructura,Cantidad de tarjetas de crédito (plásticos),Dic-2023,17911.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,informacion_estructura,Cantidad de tarjetas de débito,Dic-2023,3156942.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,informacion_estructura,Cantidad de cuentas corrientes,Dic-2024,,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,informacion_estructura,Cantidad de cuentas de ahorro,Dic-2024,6476342.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,informacion_estructura,Cantidad de cajas de ahorro de ayuda social,Dic-2024,504404.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,informacion_estructura,Cantidad de operaciones a plazo fijo Individuos,Dic-2024,37264.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,informacion_estructura,Cantidad de operaciones por préstamos hipotecarios,Dic-2024,,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,informacion_estructura,Cantidad de operaciones por otros préstamos,Dic-2024,3549.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,informacion_estructura,Dotación de personal,Dic-2024,336.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,informacion_estructura,Cantidad de titulares por tarjetas de crédito,Dic-2024,64251.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,informacion_estructura,Cantidad de tarjetas de crédito (plásticos),Dic-2024,67124.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,informacion_estructura,Cantidad de tarjetas de débito,Dic-2024,3639305.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,informacion_estructura,Cantidad de cuentas corrientes,Jun-2025,4308.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,informacion_estructura,Cantidad de cuentas de ahorro,Jun-2025,7099479.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,informacion_estructura,Cantidad de cajas de ahorro de ayuda social,Jun-2025,508941.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,informacion_estructura,Cantidad de operaciones a plazo fijo Individuos,Jun-2025,32620.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,informacion_estructura,Cantidad de operaciones por préstamos hipotecarios,Jun-2025,1.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,informacion_estructura,Cantidad de operaciones por otros préstamos,Jun-2025,11245.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,informacion_estructura,Dotación de personal,Jun-2025,323.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,informacion_estructura,Cantidad de titulares por tarjetas de crédito,Jun-2025,79695.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,informacion_estructura,Cantidad de tarjetas de crédito (plásticos),Jun-2025,84461.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,informacion_estructura,Cantidad de tarjetas de débito,Jun-2025,3976926.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,informacion_estructura,Cantidad de cuentas corrientes,Set-2025,5834.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,informacion_estructura,Cantidad de cuentas de ahorro,Set-2025,7391587.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,informacion_estructura,Cantidad de cajas de ahorro de ayuda social,Set-2025,515275.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,informacion_estructura,Cantidad de operaciones a plazo fijo Individuos,Set-2025,44653.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,informacion_estructura,Cantidad de operaciones por préstamos hipotecarios,Set-2025,2.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,informacion_estructura,Cantidad de operaciones por otros préstamos,Set-2025,12146.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,informacion_estructura,Dotación de personal,Set-2025,323.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,informacion_estructura,Cantidad de titulares por tarjetas de crédito,Set-2025,86224.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,informacion_estructura,Cantidad de tarjetas de crédito (plásticos),Set-2025,91657.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,informacion_estructura,Cantidad de tarjetas de débito,Set-2025,3975443.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,informacion_estructura,Cantidad de cuentas corrientes,Dic-2025,6743.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,informacion_estructura,Cantidad de cuentas de ahorro,Dic-2025,7244740.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,informacion_estructura,Cantidad de cajas de ahorro de ayuda social,Dic-2025,518588.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,informacion_estructura,Cantidad de operaciones a plazo fijo Individuos,Dic-2025,33252.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,informacion_estructura,Cantidad de operaciones por préstamos hipotecarios,Dic-2025,2.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,informacion_estructura,Cantidad de operaciones por otros préstamos,Dic-2025,13108.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,informacion_estructura,Dotación de personal,Dic-2025,318.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,informacion_estructura,Cantidad de titulares por tarjetas de crédito,Dic-2025,87141.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,informacion_estructura,Cantidad de tarjetas de crédito (plásticos),Dic-2025,92801.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,informacion_estructura,Cantidad de tarjetas de débito,Dic-2025,4283781.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,informacion_estructura,Cantidad de Cuentas,Dic-2023,6432.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,informacion_estructura,Cantidad de Empresas,Dic-2023,3627.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,informacion_estructura,Cantidad de Cuentas,Dic-2024,11080.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,informacion_estructura,Cantidad de Empresas,Dic-2024,6073.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,informacion_estructura,Cantidad de Cuentas,Nov-2025,15754.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,informacion_estructura,Cantidad de Empresas,Nov-2025,6712.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,informacion_estructura,Cantidad de Cuentas,Dic-2025,16752.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,informacion_estructura,Cantidad de Empresas,Dic-2025,6944.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,informacion_estructura,Cantidad de Cuentas,Ene-2026,17508.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,informacion_estructura,Cantidad de Empresas,Ene-2026,6971.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,informacion_estructura,CABA,Habilitadas,1.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,informacion_estructura,CABA,Habilitadas,,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,informacion_estructura,CABA,Habilitadas,,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,informacion_estructura,CABA,Habilitadas,,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,informacion_estructura,CABA,Habilitadas,,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,informacion_estructura,CABA,Habilitadas,,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,informacion_estructura,CABA,Habilitadas,,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,informacion_estructura,CABA,Pendientes de habilitación,,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,informacion_estructura,CABA,Total,1.0,2026-04-19

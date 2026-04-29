@@ -1,0 +1,99 @@
+codigo_bcra,nombre_banco,tipo_entidad,fuente,variable,periodo,valor,scraping_fecha
+00016,CITIBANK N.A.,extranjero,informacion_estructura,Dotación de personal,Dic-2023,1083.0,2026-04-19
+00016,CITIBANK N.A.,extranjero,informacion_estructura,Cantidad de cuentas corrientes,Dic-2023,2131.0,2026-04-19
+00016,CITIBANK N.A.,extranjero,informacion_estructura,Cantidad de cuentas de ahorro,Dic-2023,751.0,2026-04-19
+00016,CITIBANK N.A.,extranjero,informacion_estructura,Cantidad de operaciones a plazo fijo Empresas,Dic-2023,96.0,2026-04-19
+00016,CITIBANK N.A.,extranjero,informacion_estructura,Cantidad de operaciones por préstamos hipotecarios,Dic-2023,1.0,2026-04-19
+00016,CITIBANK N.A.,extranjero,informacion_estructura,Cantidad de operaciones por préstamos prendarios,Dic-2023,1.0,2026-04-19
+00016,CITIBANK N.A.,extranjero,informacion_estructura,Cantidad de operaciones por otros préstamos,Dic-2023,1148.0,2026-04-19
+00016,CITIBANK N.A.,extranjero,informacion_estructura,Dotación de personal,Dic-2024,1059.0,2026-04-19
+00016,CITIBANK N.A.,extranjero,informacion_estructura,Cantidad de cuentas corrientes,Dic-2024,2081.0,2026-04-19
+00016,CITIBANK N.A.,extranjero,informacion_estructura,Cantidad de cuentas de ahorro,Dic-2024,714.0,2026-04-19
+00016,CITIBANK N.A.,extranjero,informacion_estructura,Cantidad de operaciones a plazo fijo Empresas,Dic-2024,,2026-04-19
+00016,CITIBANK N.A.,extranjero,informacion_estructura,Cantidad de operaciones por préstamos hipotecarios,Dic-2024,56.0,2026-04-19
+00016,CITIBANK N.A.,extranjero,informacion_estructura,Cantidad de operaciones por préstamos prendarios,Dic-2024,47.0,2026-04-19
+00016,CITIBANK N.A.,extranjero,informacion_estructura,Cantidad de operaciones por otros préstamos,Dic-2024,1179.0,2026-04-19
+00016,CITIBANK N.A.,extranjero,informacion_estructura,Dotación de personal,Jun-2025,1060.0,2026-04-19
+00016,CITIBANK N.A.,extranjero,informacion_estructura,Cantidad de cuentas corrientes,Jun-2025,2070.0,2026-04-19
+00016,CITIBANK N.A.,extranjero,informacion_estructura,Cantidad de cuentas de ahorro,Jun-2025,717.0,2026-04-19
+00016,CITIBANK N.A.,extranjero,informacion_estructura,Cantidad de operaciones a plazo fijo Empresas,Jun-2025,,2026-04-19
+00016,CITIBANK N.A.,extranjero,informacion_estructura,Cantidad de operaciones por préstamos hipotecarios,Jun-2025,45.0,2026-04-19
+00016,CITIBANK N.A.,extranjero,informacion_estructura,Cantidad de operaciones por préstamos prendarios,Jun-2025,37.0,2026-04-19
+00016,CITIBANK N.A.,extranjero,informacion_estructura,Cantidad de operaciones por otros préstamos,Jun-2025,1280.0,2026-04-19
+00016,CITIBANK N.A.,extranjero,informacion_estructura,Dotación de personal,Set-2025,1044.0,2026-04-19
+00016,CITIBANK N.A.,extranjero,informacion_estructura,Cantidad de cuentas corrientes,Set-2025,2064.0,2026-04-19
+00016,CITIBANK N.A.,extranjero,informacion_estructura,Cantidad de cuentas de ahorro,Set-2025,727.0,2026-04-19
+00016,CITIBANK N.A.,extranjero,informacion_estructura,Cantidad de operaciones a plazo fijo Empresas,Set-2025,,2026-04-19
+00016,CITIBANK N.A.,extranjero,informacion_estructura,Cantidad de operaciones por préstamos hipotecarios,Set-2025,37.0,2026-04-19
+00016,CITIBANK N.A.,extranjero,informacion_estructura,Cantidad de operaciones por préstamos prendarios,Set-2025,31.0,2026-04-19
+00016,CITIBANK N.A.,extranjero,informacion_estructura,Cantidad de operaciones por otros préstamos,Set-2025,1183.0,2026-04-19
+00016,CITIBANK N.A.,extranjero,informacion_estructura,Dotación de personal,Dic-2025,1051.0,2026-04-19
+00016,CITIBANK N.A.,extranjero,informacion_estructura,Cantidad de cuentas corrientes,Dic-2025,2047.0,2026-04-19
+00016,CITIBANK N.A.,extranjero,informacion_estructura,Cantidad de cuentas de ahorro,Dic-2025,730.0,2026-04-19
+00016,CITIBANK N.A.,extranjero,informacion_estructura,Cantidad de operaciones a plazo fijo Empresas,Dic-2025,,2026-04-19
+00016,CITIBANK N.A.,extranjero,informacion_estructura,Cantidad de operaciones por préstamos hipotecarios,Dic-2025,33.0,2026-04-19
+00016,CITIBANK N.A.,extranjero,informacion_estructura,Cantidad de operaciones por préstamos prendarios,Dic-2025,27.0,2026-04-19
+00016,CITIBANK N.A.,extranjero,informacion_estructura,Cantidad de operaciones por otros préstamos,Dic-2025,1388.0,2026-04-19
+00016,CITIBANK N.A.,extranjero,informacion_estructura,CABA,Habilitadas,1.0,2026-04-19
+00016,CITIBANK N.A.,extranjero,informacion_estructura,BUENOS AIRES,Habilitadas,3.0,2026-04-19
+00016,CITIBANK N.A.,extranjero,informacion_estructura,CÓRDOBA,Habilitadas,1.0,2026-04-19
+00016,CITIBANK N.A.,extranjero,informacion_estructura,MENDOZA,Habilitadas,1.0,2026-04-19
+00016,CITIBANK N.A.,extranjero,informacion_estructura,NEUQUÉN,Habilitadas,1.0,2026-04-19
+00016,CITIBANK N.A.,extranjero,informacion_estructura,SANTA FE,Habilitadas,2.0,2026-04-19
+00016,CITIBANK N.A.,extranjero,informacion_estructura,TUCUMÁN,Habilitadas,1.0,2026-04-19
+00016,CITIBANK N.A.,extranjero,informacion_estructura,CABA,Habilitadas,,2026-04-19
+00016,CITIBANK N.A.,extranjero,informacion_estructura,BUENOS AIRES,Habilitadas,,2026-04-19
+00016,CITIBANK N.A.,extranjero,informacion_estructura,CÓRDOBA,Habilitadas,,2026-04-19
+00016,CITIBANK N.A.,extranjero,informacion_estructura,MENDOZA,Habilitadas,,2026-04-19
+00016,CITIBANK N.A.,extranjero,informacion_estructura,NEUQUÉN,Habilitadas,,2026-04-19
+00016,CITIBANK N.A.,extranjero,informacion_estructura,SANTA FE,Habilitadas,,2026-04-19
+00016,CITIBANK N.A.,extranjero,informacion_estructura,TUCUMÁN,Habilitadas,,2026-04-19
+00016,CITIBANK N.A.,extranjero,informacion_estructura,CABA,Habilitadas,,2026-04-19
+00016,CITIBANK N.A.,extranjero,informacion_estructura,BUENOS AIRES,Habilitadas,,2026-04-19
+00016,CITIBANK N.A.,extranjero,informacion_estructura,CÓRDOBA,Habilitadas,,2026-04-19
+00016,CITIBANK N.A.,extranjero,informacion_estructura,MENDOZA,Habilitadas,,2026-04-19
+00016,CITIBANK N.A.,extranjero,informacion_estructura,NEUQUÉN,Habilitadas,,2026-04-19
+00016,CITIBANK N.A.,extranjero,informacion_estructura,SANTA FE,Habilitadas,,2026-04-19
+00016,CITIBANK N.A.,extranjero,informacion_estructura,TUCUMÁN,Habilitadas,,2026-04-19
+00016,CITIBANK N.A.,extranjero,informacion_estructura,CABA,Habilitadas,4.0,2026-04-19
+00016,CITIBANK N.A.,extranjero,informacion_estructura,BUENOS AIRES,Habilitadas,7.0,2026-04-19
+00016,CITIBANK N.A.,extranjero,informacion_estructura,CÓRDOBA,Habilitadas,3.0,2026-04-19
+00016,CITIBANK N.A.,extranjero,informacion_estructura,MENDOZA,Habilitadas,3.0,2026-04-19
+00016,CITIBANK N.A.,extranjero,informacion_estructura,NEUQUÉN,Habilitadas,2.0,2026-04-19
+00016,CITIBANK N.A.,extranjero,informacion_estructura,SANTA FE,Habilitadas,5.0,2026-04-19
+00016,CITIBANK N.A.,extranjero,informacion_estructura,TUCUMÁN,Habilitadas,3.0,2026-04-19
+00016,CITIBANK N.A.,extranjero,informacion_estructura,CABA,Habilitadas,,2026-04-19
+00016,CITIBANK N.A.,extranjero,informacion_estructura,BUENOS AIRES,Habilitadas,,2026-04-19
+00016,CITIBANK N.A.,extranjero,informacion_estructura,CÓRDOBA,Habilitadas,,2026-04-19
+00016,CITIBANK N.A.,extranjero,informacion_estructura,MENDOZA,Habilitadas,,2026-04-19
+00016,CITIBANK N.A.,extranjero,informacion_estructura,NEUQUÉN,Habilitadas,,2026-04-19
+00016,CITIBANK N.A.,extranjero,informacion_estructura,SANTA FE,Habilitadas,,2026-04-19
+00016,CITIBANK N.A.,extranjero,informacion_estructura,TUCUMÁN,Habilitadas,,2026-04-19
+00016,CITIBANK N.A.,extranjero,informacion_estructura,CABA,Habilitadas,,2026-04-19
+00016,CITIBANK N.A.,extranjero,informacion_estructura,BUENOS AIRES,Habilitadas,,2026-04-19
+00016,CITIBANK N.A.,extranjero,informacion_estructura,CÓRDOBA,Habilitadas,,2026-04-19
+00016,CITIBANK N.A.,extranjero,informacion_estructura,MENDOZA,Habilitadas,,2026-04-19
+00016,CITIBANK N.A.,extranjero,informacion_estructura,NEUQUÉN,Habilitadas,,2026-04-19
+00016,CITIBANK N.A.,extranjero,informacion_estructura,SANTA FE,Habilitadas,,2026-04-19
+00016,CITIBANK N.A.,extranjero,informacion_estructura,TUCUMÁN,Habilitadas,,2026-04-19
+00016,CITIBANK N.A.,extranjero,informacion_estructura,CABA,Habilitadas,,2026-04-19
+00016,CITIBANK N.A.,extranjero,informacion_estructura,BUENOS AIRES,Habilitadas,,2026-04-19
+00016,CITIBANK N.A.,extranjero,informacion_estructura,CÓRDOBA,Habilitadas,,2026-04-19
+00016,CITIBANK N.A.,extranjero,informacion_estructura,MENDOZA,Habilitadas,,2026-04-19
+00016,CITIBANK N.A.,extranjero,informacion_estructura,NEUQUÉN,Habilitadas,,2026-04-19
+00016,CITIBANK N.A.,extranjero,informacion_estructura,SANTA FE,Habilitadas,,2026-04-19
+00016,CITIBANK N.A.,extranjero,informacion_estructura,TUCUMÁN,Habilitadas,,2026-04-19
+00016,CITIBANK N.A.,extranjero,informacion_estructura,CABA,Pendientes de habilitación,,2026-04-19
+00016,CITIBANK N.A.,extranjero,informacion_estructura,BUENOS AIRES,Pendientes de habilitación,,2026-04-19
+00016,CITIBANK N.A.,extranjero,informacion_estructura,CÓRDOBA,Pendientes de habilitación,,2026-04-19
+00016,CITIBANK N.A.,extranjero,informacion_estructura,MENDOZA,Pendientes de habilitación,,2026-04-19
+00016,CITIBANK N.A.,extranjero,informacion_estructura,NEUQUÉN,Pendientes de habilitación,,2026-04-19
+00016,CITIBANK N.A.,extranjero,informacion_estructura,SANTA FE,Pendientes de habilitación,,2026-04-19
+00016,CITIBANK N.A.,extranjero,informacion_estructura,TUCUMÁN,Pendientes de habilitación,,2026-04-19
+00016,CITIBANK N.A.,extranjero,informacion_estructura,CABA,Total,1.0,2026-04-19
+00016,CITIBANK N.A.,extranjero,informacion_estructura,BUENOS AIRES,Total,3.0,2026-04-19
+00016,CITIBANK N.A.,extranjero,informacion_estructura,CÓRDOBA,Total,1.0,2026-04-19
+00016,CITIBANK N.A.,extranjero,informacion_estructura,MENDOZA,Total,1.0,2026-04-19
+00016,CITIBANK N.A.,extranjero,informacion_estructura,NEUQUÉN,Total,1.0,2026-04-19
+00016,CITIBANK N.A.,extranjero,informacion_estructura,SANTA FE,Total,2.0,2026-04-19
+00016,CITIBANK N.A.,extranjero,informacion_estructura,TUCUMÁN,Total,1.0,2026-04-19

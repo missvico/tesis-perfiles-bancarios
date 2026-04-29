@@ -1,0 +1,73 @@
+codigo_bcra,nombre_banco,tipo_entidad,fuente,variable,periodo,valor,scraping_fecha
+00301,BANCO PIANO S.A.,privado_nacional,informacion_estructura,Cantidad de cuentas corrientes,Dic-2023,111742.0,2026-04-19
+00301,BANCO PIANO S.A.,privado_nacional,informacion_estructura,Cantidad de cuentas de ahorro,Dic-2023,419396.0,2026-04-19
+00301,BANCO PIANO S.A.,privado_nacional,informacion_estructura,Cantidad de cajas de ahorro de ayuda social,Dic-2023,96435.0,2026-04-19
+00301,BANCO PIANO S.A.,privado_nacional,informacion_estructura,Cantidad de cuentas previsionales,Dic-2023,365549.0,2026-04-19
+00301,BANCO PIANO S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones a plazo fijo Individuos,Dic-2023,16535.0,2026-04-19
+00301,BANCO PIANO S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones a plazo fijo Empresas,Dic-2023,30.0,2026-04-19
+00301,BANCO PIANO S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones por otros préstamos,Dic-2023,7.0,2026-04-19
+00301,BANCO PIANO S.A.,privado_nacional,informacion_estructura,Dotación de personal,Dic-2023,659.0,2026-04-19
+00301,BANCO PIANO S.A.,privado_nacional,informacion_estructura,Cantidad de tarjetas de débito,Dic-2023,474221.0,2026-04-19
+00301,BANCO PIANO S.A.,privado_nacional,informacion_estructura,Cantidad de cuentas corrientes,Dic-2024,96487.0,2026-04-19
+00301,BANCO PIANO S.A.,privado_nacional,informacion_estructura,Cantidad de cuentas de ahorro,Dic-2024,372699.0,2026-04-19
+00301,BANCO PIANO S.A.,privado_nacional,informacion_estructura,Cantidad de cajas de ahorro de ayuda social,Dic-2024,92186.0,2026-04-19
+00301,BANCO PIANO S.A.,privado_nacional,informacion_estructura,Cantidad de cuentas previsionales,Dic-2024,337667.0,2026-04-19
+00301,BANCO PIANO S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones a plazo fijo Individuos,Dic-2024,12040.0,2026-04-19
+00301,BANCO PIANO S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones a plazo fijo Empresas,Dic-2024,18.0,2026-04-19
+00301,BANCO PIANO S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones por otros préstamos,Dic-2024,8.0,2026-04-19
+00301,BANCO PIANO S.A.,privado_nacional,informacion_estructura,Dotación de personal,Dic-2024,611.0,2026-04-19
+00301,BANCO PIANO S.A.,privado_nacional,informacion_estructura,Cantidad de tarjetas de débito,Dic-2024,443793.0,2026-04-19
+00301,BANCO PIANO S.A.,privado_nacional,informacion_estructura,Cantidad de cuentas corrientes,Jun-2025,88068.0,2026-04-19
+00301,BANCO PIANO S.A.,privado_nacional,informacion_estructura,Cantidad de cuentas de ahorro,Jun-2025,400765.0,2026-04-19
+00301,BANCO PIANO S.A.,privado_nacional,informacion_estructura,Cantidad de cajas de ahorro de ayuda social,Jun-2025,85718.0,2026-04-19
+00301,BANCO PIANO S.A.,privado_nacional,informacion_estructura,Cantidad de cuentas previsionales,Jun-2025,327995.0,2026-04-19
+00301,BANCO PIANO S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones a plazo fijo Individuos,Jun-2025,11106.0,2026-04-19
+00301,BANCO PIANO S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones a plazo fijo Empresas,Jun-2025,18.0,2026-04-19
+00301,BANCO PIANO S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones por otros préstamos,Jun-2025,16.0,2026-04-19
+00301,BANCO PIANO S.A.,privado_nacional,informacion_estructura,Dotación de personal,Jun-2025,580.0,2026-04-19
+00301,BANCO PIANO S.A.,privado_nacional,informacion_estructura,Cantidad de tarjetas de débito,Jun-2025,307951.0,2026-04-19
+00301,BANCO PIANO S.A.,privado_nacional,informacion_estructura,Cantidad de cuentas corrientes,Set-2025,84207.0,2026-04-19
+00301,BANCO PIANO S.A.,privado_nacional,informacion_estructura,Cantidad de cuentas de ahorro,Set-2025,397518.0,2026-04-19
+00301,BANCO PIANO S.A.,privado_nacional,informacion_estructura,Cantidad de cajas de ahorro de ayuda social,Set-2025,87945.0,2026-04-19
+00301,BANCO PIANO S.A.,privado_nacional,informacion_estructura,Cantidad de cuentas previsionales,Set-2025,333558.0,2026-04-19
+00301,BANCO PIANO S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones a plazo fijo Individuos,Set-2025,10876.0,2026-04-19
+00301,BANCO PIANO S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones a plazo fijo Empresas,Set-2025,20.0,2026-04-19
+00301,BANCO PIANO S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones por otros préstamos,Set-2025,16.0,2026-04-19
+00301,BANCO PIANO S.A.,privado_nacional,informacion_estructura,Dotación de personal,Set-2025,561.0,2026-04-19
+00301,BANCO PIANO S.A.,privado_nacional,informacion_estructura,Cantidad de tarjetas de débito,Set-2025,293747.0,2026-04-19
+00301,BANCO PIANO S.A.,privado_nacional,informacion_estructura,Cantidad de cuentas corrientes,Dic-2025,80900.0,2026-04-19
+00301,BANCO PIANO S.A.,privado_nacional,informacion_estructura,Cantidad de cuentas de ahorro,Dic-2025,488861.0,2026-04-19
+00301,BANCO PIANO S.A.,privado_nacional,informacion_estructura,Cantidad de cajas de ahorro de ayuda social,Dic-2025,83423.0,2026-04-19
+00301,BANCO PIANO S.A.,privado_nacional,informacion_estructura,Cantidad de cuentas previsionales,Dic-2025,315154.0,2026-04-19
+00301,BANCO PIANO S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones a plazo fijo Individuos,Dic-2025,10199.0,2026-04-19
+00301,BANCO PIANO S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones a plazo fijo Empresas,Dic-2025,4.0,2026-04-19
+00301,BANCO PIANO S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones por otros préstamos,Dic-2025,15.0,2026-04-19
+00301,BANCO PIANO S.A.,privado_nacional,informacion_estructura,Dotación de personal,Dic-2025,545.0,2026-04-19
+00301,BANCO PIANO S.A.,privado_nacional,informacion_estructura,Cantidad de tarjetas de débito,Dic-2025,285423.0,2026-04-19
+00301,BANCO PIANO S.A.,privado_nacional,informacion_estructura,CABA,Habilitadas,9.0,2026-04-19
+00301,BANCO PIANO S.A.,privado_nacional,informacion_estructura,BUENOS AIRES,Habilitadas,28.0,2026-04-19
+00301,BANCO PIANO S.A.,privado_nacional,informacion_estructura,SANTA FE,Habilitadas,2.0,2026-04-19
+00301,BANCO PIANO S.A.,privado_nacional,informacion_estructura,CABA,Habilitadas,,2026-04-19
+00301,BANCO PIANO S.A.,privado_nacional,informacion_estructura,BUENOS AIRES,Habilitadas,,2026-04-19
+00301,BANCO PIANO S.A.,privado_nacional,informacion_estructura,SANTA FE,Habilitadas,,2026-04-19
+00301,BANCO PIANO S.A.,privado_nacional,informacion_estructura,CABA,Habilitadas,,2026-04-19
+00301,BANCO PIANO S.A.,privado_nacional,informacion_estructura,BUENOS AIRES,Habilitadas,,2026-04-19
+00301,BANCO PIANO S.A.,privado_nacional,informacion_estructura,SANTA FE,Habilitadas,,2026-04-19
+00301,BANCO PIANO S.A.,privado_nacional,informacion_estructura,CABA,Habilitadas,14.0,2026-04-19
+00301,BANCO PIANO S.A.,privado_nacional,informacion_estructura,BUENOS AIRES,Habilitadas,137.0,2026-04-19
+00301,BANCO PIANO S.A.,privado_nacional,informacion_estructura,SANTA FE,Habilitadas,9.0,2026-04-19
+00301,BANCO PIANO S.A.,privado_nacional,informacion_estructura,CABA,Habilitadas,,2026-04-19
+00301,BANCO PIANO S.A.,privado_nacional,informacion_estructura,BUENOS AIRES,Habilitadas,,2026-04-19
+00301,BANCO PIANO S.A.,privado_nacional,informacion_estructura,SANTA FE,Habilitadas,,2026-04-19
+00301,BANCO PIANO S.A.,privado_nacional,informacion_estructura,CABA,Habilitadas,,2026-04-19
+00301,BANCO PIANO S.A.,privado_nacional,informacion_estructura,BUENOS AIRES,Habilitadas,,2026-04-19
+00301,BANCO PIANO S.A.,privado_nacional,informacion_estructura,SANTA FE,Habilitadas,,2026-04-19
+00301,BANCO PIANO S.A.,privado_nacional,informacion_estructura,CABA,Habilitadas,,2026-04-19
+00301,BANCO PIANO S.A.,privado_nacional,informacion_estructura,BUENOS AIRES,Habilitadas,1.0,2026-04-19
+00301,BANCO PIANO S.A.,privado_nacional,informacion_estructura,SANTA FE,Habilitadas,,2026-04-19
+00301,BANCO PIANO S.A.,privado_nacional,informacion_estructura,CABA,Pendientes de habilitación,2.0,2026-04-19
+00301,BANCO PIANO S.A.,privado_nacional,informacion_estructura,BUENOS AIRES,Pendientes de habilitación,,2026-04-19
+00301,BANCO PIANO S.A.,privado_nacional,informacion_estructura,SANTA FE,Pendientes de habilitación,,2026-04-19
+00301,BANCO PIANO S.A.,privado_nacional,informacion_estructura,CABA,Total,11.0,2026-04-19
+00301,BANCO PIANO S.A.,privado_nacional,informacion_estructura,BUENOS AIRES,Total,28.0,2026-04-19
+00301,BANCO PIANO S.A.,privado_nacional,informacion_estructura,SANTA FE,Total,2.0,2026-04-19

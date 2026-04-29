@@ -1,0 +1,156 @@
+codigo_bcra,nombre_banco,tipo_entidad,fuente,variable,periodo,valor,scraping_fecha
+00131,BANK OF CHINA LIMITED SUCURSAL BUEN,extranjero,indicadores_economicos,capital: C1 - Apalancamiento (en veces),Dic-2023,1.83,2026-04-19
+00131,BANK OF CHINA LIMITED SUCURSAL BUEN,extranjero,indicadores_economicos,capital: C1 - Apalancamiento (en veces),Dic-2024,1.59,2026-04-19
+00131,BANK OF CHINA LIMITED SUCURSAL BUEN,extranjero,indicadores_economicos,capital: C1 - Apalancamiento (en veces),Nov-2025,1.69,2026-04-19
+00131,BANK OF CHINA LIMITED SUCURSAL BUEN,extranjero,indicadores_economicos,capital: C1 - Apalancamiento (en veces),Dic-2025,0.47,2026-04-19
+00131,BANK OF CHINA LIMITED SUCURSAL BUEN,extranjero,indicadores_economicos,capital: C1 - Apalancamiento (en veces),Ene-2026,0.74,2026-04-19
+00131,BANK OF CHINA LIMITED SUCURSAL BUEN,extranjero,indicadores_economicos,capital: C2 - Pérdida Potencial de Cartera en Situación 2 a 5 (%),Dic-2023,-0.15,2026-04-19
+00131,BANK OF CHINA LIMITED SUCURSAL BUEN,extranjero,indicadores_economicos,capital: C2 - Pérdida Potencial de Cartera en Situación 2 a 5 (%),Dic-2024,-0.27,2026-04-19
+00131,BANK OF CHINA LIMITED SUCURSAL BUEN,extranjero,indicadores_economicos,capital: C2 - Pérdida Potencial de Cartera en Situación 2 a 5 (%),Nov-2025,-0.67,2026-04-19
+00131,BANK OF CHINA LIMITED SUCURSAL BUEN,extranjero,indicadores_economicos,capital: C2 - Pérdida Potencial de Cartera en Situación 2 a 5 (%),Dic-2025,-0.01,2026-04-19
+00131,BANK OF CHINA LIMITED SUCURSAL BUEN,extranjero,indicadores_economicos,capital: C2 - Pérdida Potencial de Cartera en Situación 2 a 5 (%),Ene-2026,-0.01,2026-04-19
+00131,BANK OF CHINA LIMITED SUCURSAL BUEN,extranjero,indicadores_economicos,capital: C3 - Pérdida Potencial de Cartera en Situación 3 a 5 (%),Dic-2023,-0.15,2026-04-19
+00131,BANK OF CHINA LIMITED SUCURSAL BUEN,extranjero,indicadores_economicos,capital: C3 - Pérdida Potencial de Cartera en Situación 3 a 5 (%),Dic-2024,-0.27,2026-04-19
+00131,BANK OF CHINA LIMITED SUCURSAL BUEN,extranjero,indicadores_economicos,capital: C3 - Pérdida Potencial de Cartera en Situación 3 a 5 (%),Nov-2025,-0.67,2026-04-19
+00131,BANK OF CHINA LIMITED SUCURSAL BUEN,extranjero,indicadores_economicos,capital: C3 - Pérdida Potencial de Cartera en Situación 3 a 5 (%),Dic-2025,-0.01,2026-04-19
+00131,BANK OF CHINA LIMITED SUCURSAL BUEN,extranjero,indicadores_economicos,capital: C3 - Pérdida Potencial de Cartera en Situación 3 a 5 (%),Ene-2026,-0.01,2026-04-19
+00131,BANK OF CHINA LIMITED SUCURSAL BUEN,extranjero,indicadores_economicos,activos: A9 - Total Cartera Irregular / Total Financiaciones (%),Dic-2023,0.0,2026-04-19
+00131,BANK OF CHINA LIMITED SUCURSAL BUEN,extranjero,indicadores_economicos,activos: A9 - Total Cartera Irregular / Total Financiaciones (%),Dic-2024,0.0,2026-04-19
+00131,BANK OF CHINA LIMITED SUCURSAL BUEN,extranjero,indicadores_economicos,activos: A9 - Total Cartera Irregular / Total Financiaciones (%),Nov-2025,0.0,2026-04-19
+00131,BANK OF CHINA LIMITED SUCURSAL BUEN,extranjero,indicadores_economicos,activos: A9 - Total Cartera Irregular / Total Financiaciones (%),Dic-2025,0.0,2026-04-19
+00131,BANK OF CHINA LIMITED SUCURSAL BUEN,extranjero,indicadores_economicos,activos: A9 - Total Cartera Irregular / Total Financiaciones (%),Ene-2026,0.0,2026-04-19
+00131,BANK OF CHINA LIMITED SUCURSAL BUEN,extranjero,indicadores_economicos,activos: A11 - Cartera Irregular Sector Privado (%),Dic-2023,0.0,2026-04-19
+00131,BANK OF CHINA LIMITED SUCURSAL BUEN,extranjero,indicadores_economicos,activos: A11 - Cartera Irregular Sector Privado (%),Dic-2024,0.0,2026-04-19
+00131,BANK OF CHINA LIMITED SUCURSAL BUEN,extranjero,indicadores_economicos,activos: A11 - Cartera Irregular Sector Privado (%),Nov-2025,0.0,2026-04-19
+00131,BANK OF CHINA LIMITED SUCURSAL BUEN,extranjero,indicadores_economicos,activos: A11 - Cartera Irregular Sector Privado (%),Dic-2025,0.0,2026-04-19
+00131,BANK OF CHINA LIMITED SUCURSAL BUEN,extranjero,indicadores_economicos,activos: A11 - Cartera Irregular Sector Privado (%),Ene-2026,0.0,2026-04-19
+00131,BANK OF CHINA LIMITED SUCURSAL BUEN,extranjero,indicadores_economicos,activos: A12 - Participación Cartera Comercial Sector Privado (%),Dic-2023,100.0,2026-04-19
+00131,BANK OF CHINA LIMITED SUCURSAL BUEN,extranjero,indicadores_economicos,activos: A12 - Participación Cartera Comercial Sector Privado (%),Dic-2024,100.0,2026-04-19
+00131,BANK OF CHINA LIMITED SUCURSAL BUEN,extranjero,indicadores_economicos,activos: A12 - Participación Cartera Comercial Sector Privado (%),Nov-2025,100.0,2026-04-19
+00131,BANK OF CHINA LIMITED SUCURSAL BUEN,extranjero,indicadores_economicos,activos: A12 - Participación Cartera Comercial Sector Privado (%),Dic-2025,100.0,2026-04-19
+00131,BANK OF CHINA LIMITED SUCURSAL BUEN,extranjero,indicadores_economicos,activos: A12 - Participación Cartera Comercial Sector Privado (%),Ene-2026,100.0,2026-04-19
+00131,BANK OF CHINA LIMITED SUCURSAL BUEN,extranjero,indicadores_economicos,activos: A13 - Participación Cartera Consumo Sector Privado (%),Dic-2023,0.0,2026-04-19
+00131,BANK OF CHINA LIMITED SUCURSAL BUEN,extranjero,indicadores_economicos,activos: A13 - Participación Cartera Consumo Sector Privado (%),Dic-2024,0.0,2026-04-19
+00131,BANK OF CHINA LIMITED SUCURSAL BUEN,extranjero,indicadores_economicos,activos: A13 - Participación Cartera Consumo Sector Privado (%),Nov-2025,0.0,2026-04-19
+00131,BANK OF CHINA LIMITED SUCURSAL BUEN,extranjero,indicadores_economicos,activos: A13 - Participación Cartera Consumo Sector Privado (%),Dic-2025,0.0,2026-04-19
+00131,BANK OF CHINA LIMITED SUCURSAL BUEN,extranjero,indicadores_economicos,activos: A13 - Participación Cartera Consumo Sector Privado (%),Ene-2026,0.0,2026-04-19
+00131,BANK OF CHINA LIMITED SUCURSAL BUEN,extranjero,indicadores_economicos,activos: A14 - Previsiones sobre Cartera Irregular Total (%),Dic-2023,0.0,2026-04-19
+00131,BANK OF CHINA LIMITED SUCURSAL BUEN,extranjero,indicadores_economicos,activos: A14 - Previsiones sobre Cartera Irregular Total (%),Dic-2024,0.0,2026-04-19
+00131,BANK OF CHINA LIMITED SUCURSAL BUEN,extranjero,indicadores_economicos,activos: A14 - Previsiones sobre Cartera Irregular Total (%),Nov-2025,0.0,2026-04-19
+00131,BANK OF CHINA LIMITED SUCURSAL BUEN,extranjero,indicadores_economicos,activos: A14 - Previsiones sobre Cartera Irregular Total (%),Dic-2025,0.0,2026-04-19
+00131,BANK OF CHINA LIMITED SUCURSAL BUEN,extranjero,indicadores_economicos,activos: A14 - Previsiones sobre Cartera Irregular Total (%),Ene-2026,0.0,2026-04-19
+00131,BANK OF CHINA LIMITED SUCURSAL BUEN,extranjero,indicadores_economicos,activos: A16 - Cartera Irregular Consumo Sector Privado (%),Dic-2023,0.0,2026-04-19
+00131,BANK OF CHINA LIMITED SUCURSAL BUEN,extranjero,indicadores_economicos,activos: A16 - Cartera Irregular Consumo Sector Privado (%),Dic-2024,0.0,2026-04-19
+00131,BANK OF CHINA LIMITED SUCURSAL BUEN,extranjero,indicadores_economicos,activos: A16 - Cartera Irregular Consumo Sector Privado (%),Nov-2025,0.0,2026-04-19
+00131,BANK OF CHINA LIMITED SUCURSAL BUEN,extranjero,indicadores_economicos,activos: A16 - Cartera Irregular Consumo Sector Privado (%),Dic-2025,0.0,2026-04-19
+00131,BANK OF CHINA LIMITED SUCURSAL BUEN,extranjero,indicadores_economicos,activos: A16 - Cartera Irregular Consumo Sector Privado (%),Ene-2026,0.0,2026-04-19
+00131,BANK OF CHINA LIMITED SUCURSAL BUEN,extranjero,indicadores_economicos,activos: A17 - Cartera Irregular Comercial Sector Privado (%),Dic-2023,0.0,2026-04-19
+00131,BANK OF CHINA LIMITED SUCURSAL BUEN,extranjero,indicadores_economicos,activos: A17 - Cartera Irregular Comercial Sector Privado (%),Dic-2024,0.0,2026-04-19
+00131,BANK OF CHINA LIMITED SUCURSAL BUEN,extranjero,indicadores_economicos,activos: A17 - Cartera Irregular Comercial Sector Privado (%),Nov-2025,0.0,2026-04-19
+00131,BANK OF CHINA LIMITED SUCURSAL BUEN,extranjero,indicadores_economicos,activos: A17 - Cartera Irregular Comercial Sector Privado (%),Dic-2025,0.0,2026-04-19
+00131,BANK OF CHINA LIMITED SUCURSAL BUEN,extranjero,indicadores_economicos,activos: A17 - Cartera Irregular Comercial Sector Privado (%),Ene-2026,0.0,2026-04-19
+00131,BANK OF CHINA LIMITED SUCURSAL BUEN,extranjero,indicadores_economicos,activos: A21 - Posición de Previsiones Mín Sector Priv No Fciero (%),Dic-2023,-31.22,2026-04-19
+00131,BANK OF CHINA LIMITED SUCURSAL BUEN,extranjero,indicadores_economicos,activos: A21 - Posición de Previsiones Mín Sector Priv No Fciero (%),Dic-2024,0.0,2026-04-19
+00131,BANK OF CHINA LIMITED SUCURSAL BUEN,extranjero,indicadores_economicos,activos: A21 - Posición de Previsiones Mín Sector Priv No Fciero (%),Nov-2025,0.0,2026-04-19
+00131,BANK OF CHINA LIMITED SUCURSAL BUEN,extranjero,indicadores_economicos,activos: A21 - Posición de Previsiones Mín Sector Priv No Fciero (%),Dic-2025,0.0,2026-04-19
+00131,BANK OF CHINA LIMITED SUCURSAL BUEN,extranjero,indicadores_economicos,activos: A21 - Posición de Previsiones Mín Sector Priv No Fciero (%),Ene-2026,0.0,2026-04-19
+00131,BANK OF CHINA LIMITED SUCURSAL BUEN,extranjero,indicadores_economicos,activos: AG3 - Importancia de Cartera Vencida del Sector Privado (%),Dic-2023,0.0,2026-04-19
+00131,BANK OF CHINA LIMITED SUCURSAL BUEN,extranjero,indicadores_economicos,activos: AG3 - Importancia de Cartera Vencida del Sector Privado (%),Dic-2024,0.0,2026-04-19
+00131,BANK OF CHINA LIMITED SUCURSAL BUEN,extranjero,indicadores_economicos,activos: AG3 - Importancia de Cartera Vencida del Sector Privado (%),Nov-2025,0.0,2026-04-19
+00131,BANK OF CHINA LIMITED SUCURSAL BUEN,extranjero,indicadores_economicos,activos: AG3 - Importancia de Cartera Vencida del Sector Privado (%),Dic-2025,0.0,2026-04-19
+00131,BANK OF CHINA LIMITED SUCURSAL BUEN,extranjero,indicadores_economicos,activos: AG3 - Importancia de Cartera Vencida del Sector Privado (%),Ene-2026,0.0,2026-04-19
+00131,BANK OF CHINA LIMITED SUCURSAL BUEN,extranjero,indicadores_economicos,activos: AG29 - Efectivo y Depósito en Bancos / Activo (%),Dic-2023,27.33,2026-04-19
+00131,BANK OF CHINA LIMITED SUCURSAL BUEN,extranjero,indicadores_economicos,activos: AG29 - Efectivo y Depósito en Bancos / Activo (%),Dic-2024,19.13,2026-04-19
+00131,BANK OF CHINA LIMITED SUCURSAL BUEN,extranjero,indicadores_economicos,activos: AG29 - Efectivo y Depósito en Bancos / Activo (%),Nov-2025,40.04,2026-04-19
+00131,BANK OF CHINA LIMITED SUCURSAL BUEN,extranjero,indicadores_economicos,activos: AG29 - Efectivo y Depósito en Bancos / Activo (%),Dic-2025,36.88,2026-04-19
+00131,BANK OF CHINA LIMITED SUCURSAL BUEN,extranjero,indicadores_economicos,activos: AG29 - Efectivo y Depósito en Bancos / Activo (%),Ene-2026,31.08,2026-04-19
+00131,BANK OF CHINA LIMITED SUCURSAL BUEN,extranjero,indicadores_economicos,eficiencia: E1 - Absorción de Gastos de Ad. con Volúmen de Negocio (%),Dic-2023,27.74,2026-04-19
+00131,BANK OF CHINA LIMITED SUCURSAL BUEN,extranjero,indicadores_economicos,eficiencia: E1 - Absorción de Gastos de Ad. con Volúmen de Negocio (%),Dic-2024,71.94,2026-04-19
+00131,BANK OF CHINA LIMITED SUCURSAL BUEN,extranjero,indicadores_economicos,eficiencia: E1 - Absorción de Gastos de Ad. con Volúmen de Negocio (%),Nov-2025,84.01,2026-04-19
+00131,BANK OF CHINA LIMITED SUCURSAL BUEN,extranjero,indicadores_economicos,eficiencia: E1 - Absorción de Gastos de Ad. con Volúmen de Negocio (%),Dic-2025,32.74,2026-04-19
+00131,BANK OF CHINA LIMITED SUCURSAL BUEN,extranjero,indicadores_economicos,eficiencia: E1 - Absorción de Gastos de Ad. con Volúmen de Negocio (%),Ene-2026,61.07,2026-04-19
+00131,BANK OF CHINA LIMITED SUCURSAL BUEN,extranjero,indicadores_economicos,eficiencia: E2 - Margen de Rentabilidad Operat./Gastos de Estructura (%),Dic-2023,165.74,2026-04-19
+00131,BANK OF CHINA LIMITED SUCURSAL BUEN,extranjero,indicadores_economicos,eficiencia: E2 - Margen de Rentabilidad Operat./Gastos de Estructura (%),Dic-2024,6.43,2026-04-19
+00131,BANK OF CHINA LIMITED SUCURSAL BUEN,extranjero,indicadores_economicos,eficiencia: E2 - Margen de Rentabilidad Operat./Gastos de Estructura (%),Nov-2025,-3.35,2026-04-19
+00131,BANK OF CHINA LIMITED SUCURSAL BUEN,extranjero,indicadores_economicos,eficiencia: E2 - Margen de Rentabilidad Operat./Gastos de Estructura (%),Dic-2025,55.95,2026-04-19
+00131,BANK OF CHINA LIMITED SUCURSAL BUEN,extranjero,indicadores_economicos,eficiencia: E2 - Margen de Rentabilidad Operat./Gastos de Estructura (%),Ene-2026,58.62,2026-04-19
+00131,BANK OF CHINA LIMITED SUCURSAL BUEN,extranjero,indicadores_economicos,eficiencia: E4 - Depósitos por Empleado (en millones de pesos),Dic-2023,313.03,2026-04-19
+00131,BANK OF CHINA LIMITED SUCURSAL BUEN,extranjero,indicadores_economicos,eficiencia: E4 - Depósitos por Empleado (en millones de pesos),Dic-2024,289.53,2026-04-19
+00131,BANK OF CHINA LIMITED SUCURSAL BUEN,extranjero,indicadores_economicos,eficiencia: E4 - Depósitos por Empleado (en millones de pesos),Nov-2025,247.41,2026-04-19
+00131,BANK OF CHINA LIMITED SUCURSAL BUEN,extranjero,indicadores_economicos,eficiencia: E4 - Depósitos por Empleado (en millones de pesos),Dic-2025,832.13,2026-04-19
+00131,BANK OF CHINA LIMITED SUCURSAL BUEN,extranjero,indicadores_economicos,eficiencia: E4 - Depósitos por Empleado (en millones de pesos),Ene-2026,461.18,2026-04-19
+00131,BANK OF CHINA LIMITED SUCURSAL BUEN,extranjero,indicadores_economicos,eficiencia: E5 - Financiaciones por Empleado (en millones de pesos),Dic-2023,51.43,2026-04-19
+00131,BANK OF CHINA LIMITED SUCURSAL BUEN,extranjero,indicadores_economicos,eficiencia: E5 - Financiaciones por Empleado (en millones de pesos),Dic-2024,0.0,2026-04-19
+00131,BANK OF CHINA LIMITED SUCURSAL BUEN,extranjero,indicadores_economicos,eficiencia: E5 - Financiaciones por Empleado (en millones de pesos),Nov-2025,60.0,2026-04-19
+00131,BANK OF CHINA LIMITED SUCURSAL BUEN,extranjero,indicadores_economicos,eficiencia: E5 - Financiaciones por Empleado (en millones de pesos),Dic-2025,0.0,2026-04-19
+00131,BANK OF CHINA LIMITED SUCURSAL BUEN,extranjero,indicadores_economicos,eficiencia: E5 - Financiaciones por Empleado (en millones de pesos),Ene-2026,0.0,2026-04-19
+00131,BANK OF CHINA LIMITED SUCURSAL BUEN,extranjero,indicadores_economicos,rentabilidad: R1 - Rendimiento Anual del Patrimonio ( ROE) (%),Dic-2023,-57.74,2026-04-19
+00131,BANK OF CHINA LIMITED SUCURSAL BUEN,extranjero,indicadores_economicos,rentabilidad: R1 - Rendimiento Anual del Patrimonio ( ROE) (%),Dic-2024,-74.06,2026-04-19
+00131,BANK OF CHINA LIMITED SUCURSAL BUEN,extranjero,indicadores_economicos,rentabilidad: R1 - Rendimiento Anual del Patrimonio ( ROE) (%),Nov-2025,-26.58,2026-04-19
+00131,BANK OF CHINA LIMITED SUCURSAL BUEN,extranjero,indicadores_economicos,rentabilidad: R1 - Rendimiento Anual del Patrimonio ( ROE) (%),Dic-2025,21.71,2026-04-19
+00131,BANK OF CHINA LIMITED SUCURSAL BUEN,extranjero,indicadores_economicos,rentabilidad: R1 - Rendimiento Anual del Patrimonio ( ROE) (%),Ene-2026,22.63,2026-04-19
+00131,BANK OF CHINA LIMITED SUCURSAL BUEN,extranjero,indicadores_economicos,rentabilidad: R2 - Rendimiento Ordinario del Patrimonio (%),Dic-2023,42.52,2026-04-19
+00131,BANK OF CHINA LIMITED SUCURSAL BUEN,extranjero,indicadores_economicos,rentabilidad: R2 - Rendimiento Ordinario del Patrimonio (%),Dic-2024,3.41,2026-04-19
+00131,BANK OF CHINA LIMITED SUCURSAL BUEN,extranjero,indicadores_economicos,rentabilidad: R2 - Rendimiento Ordinario del Patrimonio (%),Nov-2025,-2.71,2026-04-19
+00131,BANK OF CHINA LIMITED SUCURSAL BUEN,extranjero,indicadores_economicos,rentabilidad: R2 - Rendimiento Ordinario del Patrimonio (%),Dic-2025,44.26,2026-04-19
+00131,BANK OF CHINA LIMITED SUCURSAL BUEN,extranjero,indicadores_economicos,rentabilidad: R2 - Rendimiento Ordinario del Patrimonio (%),Ene-2026,45.7,2026-04-19
+00131,BANK OF CHINA LIMITED SUCURSAL BUEN,extranjero,indicadores_economicos,rentabilidad: R8 - Tasa Implicita Préstamos Totales (%),Dic-2023,97.31,2026-04-19
+00131,BANK OF CHINA LIMITED SUCURSAL BUEN,extranjero,indicadores_economicos,rentabilidad: R8 - Tasa Implicita Préstamos Totales (%),Dic-2024,75.44,2026-04-19
+00131,BANK OF CHINA LIMITED SUCURSAL BUEN,extranjero,indicadores_economicos,rentabilidad: R8 - Tasa Implicita Préstamos Totales (%),Nov-2025,27.97,2026-04-19
+00131,BANK OF CHINA LIMITED SUCURSAL BUEN,extranjero,indicadores_economicos,rentabilidad: R8 - Tasa Implicita Préstamos Totales (%),Dic-2025,37.64,2026-04-19
+00131,BANK OF CHINA LIMITED SUCURSAL BUEN,extranjero,indicadores_economicos,rentabilidad: R8 - Tasa Implicita Préstamos Totales (%),Ene-2026,37.64,2026-04-19
+00131,BANK OF CHINA LIMITED SUCURSAL BUEN,extranjero,indicadores_economicos,rentabilidad: R9 - Tasa Implicita Depósitos Totales (%),Dic-2023,112.98,2026-04-19
+00131,BANK OF CHINA LIMITED SUCURSAL BUEN,extranjero,indicadores_economicos,rentabilidad: R9 - Tasa Implicita Depósitos Totales (%),Dic-2024,32.37,2026-04-19
+00131,BANK OF CHINA LIMITED SUCURSAL BUEN,extranjero,indicadores_economicos,rentabilidad: R9 - Tasa Implicita Depósitos Totales (%),Nov-2025,21.85,2026-04-19
+00131,BANK OF CHINA LIMITED SUCURSAL BUEN,extranjero,indicadores_economicos,rentabilidad: R9 - Tasa Implicita Depósitos Totales (%),Dic-2025,20.18,2026-04-19
+00131,BANK OF CHINA LIMITED SUCURSAL BUEN,extranjero,indicadores_economicos,rentabilidad: R9 - Tasa Implicita Depósitos Totales (%),Ene-2026,20.95,2026-04-19
+00131,BANK OF CHINA LIMITED SUCURSAL BUEN,extranjero,indicadores_economicos,rentabilidad: R17 - Gastos en Personal / Gastos de Administración (%),Dic-2023,49.64,2026-04-19
+00131,BANK OF CHINA LIMITED SUCURSAL BUEN,extranjero,indicadores_economicos,rentabilidad: R17 - Gastos en Personal / Gastos de Administración (%),Dic-2024,60.89,2026-04-19
+00131,BANK OF CHINA LIMITED SUCURSAL BUEN,extranjero,indicadores_economicos,rentabilidad: R17 - Gastos en Personal / Gastos de Administración (%),Nov-2025,57.44,2026-04-19
+00131,BANK OF CHINA LIMITED SUCURSAL BUEN,extranjero,indicadores_economicos,rentabilidad: R17 - Gastos en Personal / Gastos de Administración (%),Dic-2025,58.14,2026-04-19
+00131,BANK OF CHINA LIMITED SUCURSAL BUEN,extranjero,indicadores_economicos,rentabilidad: R17 - Gastos en Personal / Gastos de Administración (%),Ene-2026,58.79,2026-04-19
+00131,BANK OF CHINA LIMITED SUCURSAL BUEN,extranjero,indicadores_economicos,rentabilidad: RG1 - Retorno sobre Activos ( ROA) (%),Dic-2023,-30.35,2026-04-19
+00131,BANK OF CHINA LIMITED SUCURSAL BUEN,extranjero,indicadores_economicos,rentabilidad: RG1 - Retorno sobre Activos ( ROA) (%),Dic-2024,-31.2,2026-04-19
+00131,BANK OF CHINA LIMITED SUCURSAL BUEN,extranjero,indicadores_economicos,rentabilidad: RG1 - Retorno sobre Activos ( ROA) (%),Nov-2025,-5.93,2026-04-19
+00131,BANK OF CHINA LIMITED SUCURSAL BUEN,extranjero,indicadores_economicos,rentabilidad: RG1 - Retorno sobre Activos ( ROA) (%),Dic-2025,4.75,2026-04-19
+00131,BANK OF CHINA LIMITED SUCURSAL BUEN,extranjero,indicadores_economicos,rentabilidad: RG1 - Retorno sobre Activos ( ROA) (%),Ene-2026,5.0,2026-04-19
+00131,BANK OF CHINA LIMITED SUCURSAL BUEN,extranjero,indicadores_economicos,rentabilidad: RG2_II - Margen Financiero en Términos de Activo (%),Dic-2023,41.18,2026-04-19
+00131,BANK OF CHINA LIMITED SUCURSAL BUEN,extranjero,indicadores_economicos,rentabilidad: RG2_II - Margen Financiero en Términos de Activo (%),Dic-2024,26.02,2026-04-19
+00131,BANK OF CHINA LIMITED SUCURSAL BUEN,extranjero,indicadores_economicos,rentabilidad: RG2_II - Margen Financiero en Términos de Activo (%),Nov-2025,7.53,2026-04-19
+00131,BANK OF CHINA LIMITED SUCURSAL BUEN,extranjero,indicadores_economicos,rentabilidad: RG2_II - Margen Financiero en Términos de Activo (%),Dic-2025,7.22,2026-04-19
+00131,BANK OF CHINA LIMITED SUCURSAL BUEN,extranjero,indicadores_economicos,rentabilidad: RG2_II - Margen Financiero en Términos de Activo (%),Ene-2026,7.85,2026-04-19
+00131,BANK OF CHINA LIMITED SUCURSAL BUEN,extranjero,indicadores_economicos,rentabilidad: RG3 - Cargos por Incobrabilidad / Activo  (%),Dic-2023,-0.02,2026-04-19
+00131,BANK OF CHINA LIMITED SUCURSAL BUEN,extranjero,indicadores_economicos,rentabilidad: RG3 - Cargos por Incobrabilidad / Activo  (%),Dic-2024,0.0,2026-04-19
+00131,BANK OF CHINA LIMITED SUCURSAL BUEN,extranjero,indicadores_economicos,rentabilidad: RG3 - Cargos por Incobrabilidad / Activo  (%),Nov-2025,0.0,2026-04-19
+00131,BANK OF CHINA LIMITED SUCURSAL BUEN,extranjero,indicadores_economicos,rentabilidad: RG3 - Cargos por Incobrabilidad / Activo  (%),Dic-2025,0.0,2026-04-19
+00131,BANK OF CHINA LIMITED SUCURSAL BUEN,extranjero,indicadores_economicos,rentabilidad: RG3 - Cargos por Incobrabilidad / Activo  (%),Ene-2026,0.0,2026-04-19
+00131,BANK OF CHINA LIMITED SUCURSAL BUEN,extranjero,indicadores_economicos,rentabilidad: RG4_II - Resultados por Servicios / Activo (%),Dic-2023,0.35,2026-04-19
+00131,BANK OF CHINA LIMITED SUCURSAL BUEN,extranjero,indicadores_economicos,rentabilidad: RG4_II - Resultados por Servicios / Activo (%),Dic-2024,0.59,2026-04-19
+00131,BANK OF CHINA LIMITED SUCURSAL BUEN,extranjero,indicadores_economicos,rentabilidad: RG4_II - Resultados por Servicios / Activo (%),Nov-2025,9.92,2026-04-19
+00131,BANK OF CHINA LIMITED SUCURSAL BUEN,extranjero,indicadores_economicos,rentabilidad: RG4_II - Resultados por Servicios / Activo (%),Dic-2025,20.57,2026-04-19
+00131,BANK OF CHINA LIMITED SUCURSAL BUEN,extranjero,indicadores_economicos,rentabilidad: RG4_II - Resultados por Servicios / Activo (%),Ene-2026,20.37,2026-04-19
+00131,BANK OF CHINA LIMITED SUCURSAL BUEN,extranjero,indicadores_economicos,rentabilidad: RG5 - Gastos de Administración / Activo  (%),Dic-2023,-13.49,2026-04-19
+00131,BANK OF CHINA LIMITED SUCURSAL BUEN,extranjero,indicadores_economicos,rentabilidad: RG5 - Gastos de Administración / Activo  (%),Dic-2024,-22.31,2026-04-19
+00131,BANK OF CHINA LIMITED SUCURSAL BUEN,extranjero,indicadores_economicos,rentabilidad: RG5 - Gastos de Administración / Activo  (%),Nov-2025,-18.03,2026-04-19
+00131,BANK OF CHINA LIMITED SUCURSAL BUEN,extranjero,indicadores_economicos,rentabilidad: RG5 - Gastos de Administración / Activo  (%),Dic-2025,-17.31,2026-04-19
+00131,BANK OF CHINA LIMITED SUCURSAL BUEN,extranjero,indicadores_economicos,rentabilidad: RG5 - Gastos de Administración / Activo  (%),Ene-2026,-17.23,2026-04-19
+00131,BANK OF CHINA LIMITED SUCURSAL BUEN,extranjero,indicadores_economicos,rentabilidad: RG15 - Retorno sobre Activos (ROA) antes Imp. de Gcias (%),Dic-2023,-30.35,2026-04-19
+00131,BANK OF CHINA LIMITED SUCURSAL BUEN,extranjero,indicadores_economicos,rentabilidad: RG15 - Retorno sobre Activos (ROA) antes Imp. de Gcias (%),Dic-2024,-31.2,2026-04-19
+00131,BANK OF CHINA LIMITED SUCURSAL BUEN,extranjero,indicadores_economicos,rentabilidad: RG15 - Retorno sobre Activos (ROA) antes Imp. de Gcias (%),Nov-2025,-5.93,2026-04-19
+00131,BANK OF CHINA LIMITED SUCURSAL BUEN,extranjero,indicadores_economicos,rentabilidad: RG15 - Retorno sobre Activos (ROA) antes Imp. de Gcias (%),Dic-2025,4.75,2026-04-19
+00131,BANK OF CHINA LIMITED SUCURSAL BUEN,extranjero,indicadores_economicos,rentabilidad: RG15 - Retorno sobre Activos (ROA) antes Imp. de Gcias (%),Ene-2026,5.0,2026-04-19
+00131,BANK OF CHINA LIMITED SUCURSAL BUEN,extranjero,indicadores_economicos,"liquidez: L1-Liquidez Tit c/cot, POS. CALL, LELIQ, LEFIs (netas) (%)",Dic-2023,99999.0,2026-04-19
+00131,BANK OF CHINA LIMITED SUCURSAL BUEN,extranjero,indicadores_economicos,"liquidez: L1-Liquidez Tit c/cot, POS. CALL, LELIQ, LEFIs (netas) (%)",Dic-2024,68.5,2026-04-19
+00131,BANK OF CHINA LIMITED SUCURSAL BUEN,extranjero,indicadores_economicos,"liquidez: L1-Liquidez Tit c/cot, POS. CALL, LELIQ, LEFIs (netas) (%)",Nov-2025,162.05,2026-04-19
+00131,BANK OF CHINA LIMITED SUCURSAL BUEN,extranjero,indicadores_economicos,"liquidez: L1-Liquidez Tit c/cot, POS. CALL, LELIQ, LEFIs (netas) (%)",Dic-2025,29.39,2026-04-19
+00131,BANK OF CHINA LIMITED SUCURSAL BUEN,extranjero,indicadores_economicos,"liquidez: L1-Liquidez Tit c/cot, POS. CALL, LELIQ, LEFIs (netas) (%)",Ene-2026,52.38,2026-04-19
+00131,BANK OF CHINA LIMITED SUCURSAL BUEN,extranjero,indicadores_economicos,liquidez: L8_II - Liquidez con títulos con cotiz (%),Dic-2023,60.57,2026-04-19
+00131,BANK OF CHINA LIMITED SUCURSAL BUEN,extranjero,indicadores_economicos,liquidez: L8_II - Liquidez con títulos con cotiz (%),Dic-2024,48.49,2026-04-19
+00131,BANK OF CHINA LIMITED SUCURSAL BUEN,extranjero,indicadores_economicos,liquidez: L8_II - Liquidez con títulos con cotiz (%),Nov-2025,137.8,2026-04-19
+00131,BANK OF CHINA LIMITED SUCURSAL BUEN,extranjero,indicadores_economicos,liquidez: L8_II - Liquidez con títulos con cotiz (%),Dic-2025,29.39,2026-04-19
+00131,BANK OF CHINA LIMITED SUCURSAL BUEN,extranjero,indicadores_economicos,liquidez: L8_II - Liquidez con títulos con cotiz (%),Ene-2026,52.38,2026-04-19
+00131,BANK OF CHINA LIMITED SUCURSAL BUEN,extranjero,indicadores_economicos,"liquidez: L9 -Liq LELIQ, PASES y LEFIs (netos pases activos BCRA) (%)",Dic-2023,194.68,2026-04-19
+00131,BANK OF CHINA LIMITED SUCURSAL BUEN,extranjero,indicadores_economicos,"liquidez: L9 -Liq LELIQ, PASES y LEFIs (netos pases activos BCRA) (%)",Dic-2024,68.5,2026-04-19
+00131,BANK OF CHINA LIMITED SUCURSAL BUEN,extranjero,indicadores_economicos,"liquidez: L9 -Liq LELIQ, PASES y LEFIs (netos pases activos BCRA) (%)",Nov-2025,137.8,2026-04-19
+00131,BANK OF CHINA LIMITED SUCURSAL BUEN,extranjero,indicadores_economicos,"liquidez: L9 -Liq LELIQ, PASES y LEFIs (netos pases activos BCRA) (%)",Dic-2025,151.46,2026-04-19
+00131,BANK OF CHINA LIMITED SUCURSAL BUEN,extranjero,indicadores_economicos,"liquidez: L9 -Liq LELIQ, PASES y LEFIs (netos pases activos BCRA) (%)",Ene-2026,163.89,2026-04-19

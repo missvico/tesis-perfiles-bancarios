@@ -1,0 +1,103 @@
+codigo_bcra,nombre_banco,tipo_entidad,fuente,variable,periodo,valor,scraping_fecha
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,informacion_estructura,Cantidad de cuentas corrientes,Dic-2023,1866.0,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,informacion_estructura,Cantidad de cuentas de ahorro,Dic-2023,85981.0,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,informacion_estructura,Cantidad de cajas de ahorro de ayuda social,Dic-2023,29552.0,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,informacion_estructura,Cantidad de cuentas previsionales,Dic-2023,11944.0,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,informacion_estructura,Cantidad de operaciones a plazo fijo Individuos,Dic-2023,7693.0,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,informacion_estructura,Cantidad de operaciones a plazo fijo Empresas,Dic-2023,455.0,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,informacion_estructura,Cantidad de operaciones por préstamos hipotecarios,Dic-2023,642.0,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,informacion_estructura,Cantidad de operaciones por préstamos prendarios,Dic-2023,92.0,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,informacion_estructura,Cantidad de operaciones por otros préstamos,Dic-2023,24568.0,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,informacion_estructura,Dotación de personal,Dic-2023,332.0,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,informacion_estructura,Cantidad de titulares por tarjetas de crédito,Dic-2023,30696.0,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,informacion_estructura,Cantidad de tarjetas de crédito (plásticos),Dic-2023,74044.0,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,informacion_estructura,Cantidad de tarjetas de débito,Dic-2023,80313.0,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,informacion_estructura,Cantidad de cuentas corrientes,Dic-2024,2025.0,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,informacion_estructura,Cantidad de cuentas de ahorro,Dic-2024,85418.0,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,informacion_estructura,Cantidad de cajas de ahorro de ayuda social,Dic-2024,25550.0,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,informacion_estructura,Cantidad de cuentas previsionales,Dic-2024,12123.0,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,informacion_estructura,Cantidad de operaciones a plazo fijo Individuos,Dic-2024,6514.0,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,informacion_estructura,Cantidad de operaciones a plazo fijo Empresas,Dic-2024,534.0,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,informacion_estructura,Cantidad de operaciones por préstamos hipotecarios,Dic-2024,346.0,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,informacion_estructura,Cantidad de operaciones por préstamos prendarios,Dic-2024,38.0,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,informacion_estructura,Cantidad de operaciones por otros préstamos,Dic-2024,30845.0,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,informacion_estructura,Dotación de personal,Dic-2024,334.0,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,informacion_estructura,Cantidad de titulares por tarjetas de crédito,Dic-2024,29463.0,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,informacion_estructura,Cantidad de tarjetas de crédito (plásticos),Dic-2024,71870.0,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,informacion_estructura,Cantidad de tarjetas de débito,Dic-2024,77407.0,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,informacion_estructura,Cantidad de cuentas corrientes,Jun-2025,2139.0,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,informacion_estructura,Cantidad de cuentas de ahorro,Jun-2025,85534.0,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,informacion_estructura,Cantidad de cajas de ahorro de ayuda social,Jun-2025,24593.0,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,informacion_estructura,Cantidad de cuentas previsionales,Jun-2025,12186.0,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,informacion_estructura,Cantidad de operaciones a plazo fijo Individuos,Jun-2025,5341.0,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,informacion_estructura,Cantidad de operaciones a plazo fijo Empresas,Jun-2025,428.0,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,informacion_estructura,Cantidad de operaciones por préstamos hipotecarios,Jun-2025,394.0,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,informacion_estructura,Cantidad de operaciones por préstamos prendarios,Jun-2025,33.0,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,informacion_estructura,Cantidad de operaciones por otros préstamos,Jun-2025,34519.0,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,informacion_estructura,Dotación de personal,Jun-2025,322.0,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,informacion_estructura,Cantidad de titulares por tarjetas de crédito,Jun-2025,29999.0,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,informacion_estructura,Cantidad de tarjetas de crédito (plásticos),Jun-2025,70072.0,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,informacion_estructura,Cantidad de tarjetas de débito,Jun-2025,59806.0,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,informacion_estructura,Cantidad de cuentas corrientes,Set-2025,2245.0,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,informacion_estructura,Cantidad de cuentas de ahorro,Set-2025,84213.0,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,informacion_estructura,Cantidad de cajas de ahorro de ayuda social,Set-2025,18126.0,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,informacion_estructura,Cantidad de cuentas previsionales,Set-2025,12180.0,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,informacion_estructura,Cantidad de operaciones a plazo fijo Individuos,Set-2025,7432.0,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,informacion_estructura,Cantidad de operaciones a plazo fijo Empresas,Set-2025,497.0,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,informacion_estructura,Cantidad de operaciones por préstamos hipotecarios,Set-2025,374.0,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,informacion_estructura,Cantidad de operaciones por préstamos prendarios,Set-2025,31.0,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,informacion_estructura,Cantidad de operaciones por otros préstamos,Set-2025,35052.0,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,informacion_estructura,Dotación de personal,Set-2025,320.0,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,informacion_estructura,Cantidad de titulares por tarjetas de crédito,Set-2025,29805.0,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,informacion_estructura,Cantidad de tarjetas de crédito (plásticos),Set-2025,68274.0,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,informacion_estructura,Cantidad de tarjetas de débito,Set-2025,65185.0,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,informacion_estructura,Cantidad de cuentas corrientes,Dic-2025,1952.0,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,informacion_estructura,Cantidad de cuentas de ahorro,Dic-2025,83052.0,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,informacion_estructura,Cantidad de cajas de ahorro de ayuda social,Dic-2025,16907.0,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,informacion_estructura,Cantidad de cuentas previsionales,Dic-2025,12147.0,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,informacion_estructura,Cantidad de operaciones a plazo fijo Individuos,Dic-2025,5940.0,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,informacion_estructura,Cantidad de operaciones a plazo fijo Empresas,Dic-2025,476.0,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,informacion_estructura,Cantidad de operaciones por préstamos hipotecarios,Dic-2025,349.0,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,informacion_estructura,Cantidad de operaciones por préstamos prendarios,Dic-2025,18.0,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,informacion_estructura,Cantidad de operaciones por otros préstamos,Dic-2025,34083.0,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,informacion_estructura,Dotación de personal,Dic-2025,321.0,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,informacion_estructura,Cantidad de titulares por tarjetas de crédito,Dic-2025,29502.0,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,informacion_estructura,Cantidad de tarjetas de crédito (plásticos),Dic-2025,66940.0,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,informacion_estructura,Cantidad de tarjetas de débito,Dic-2025,76631.0,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,informacion_estructura,Cantidad de Cuentas,Dic-2023,41403.0,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,informacion_estructura,Cantidad de Empresas,Dic-2023,1116.0,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,informacion_estructura,Cantidad de Cuentas,Dic-2024,41656.0,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,informacion_estructura,Cantidad de Empresas,Dic-2024,1034.0,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,informacion_estructura,Cantidad de Cuentas,Nov-2025,40773.0,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,informacion_estructura,Cantidad de Empresas,Nov-2025,827.0,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,informacion_estructura,Cantidad de Cuentas,Dic-2025,41414.0,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,informacion_estructura,Cantidad de Empresas,Dic-2025,946.0,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,informacion_estructura,Cantidad de Cuentas,Ene-2026,40815.0,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,informacion_estructura,Cantidad de Empresas,Ene-2026,815.0,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,informacion_estructura,CABA,Habilitadas,1.0,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,informacion_estructura,SANTA CRUZ,Habilitadas,2.0,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,informacion_estructura,TIERRA DE FUEGO,Habilitadas,8.0,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,informacion_estructura,CABA,Habilitadas,,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,informacion_estructura,SANTA CRUZ,Habilitadas,,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,informacion_estructura,TIERRA DE FUEGO,Habilitadas,,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,informacion_estructura,CABA,Habilitadas,,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,informacion_estructura,SANTA CRUZ,Habilitadas,,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,informacion_estructura,TIERRA DE FUEGO,Habilitadas,,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,informacion_estructura,CABA,Habilitadas,1.0,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,informacion_estructura,SANTA CRUZ,Habilitadas,2.0,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,informacion_estructura,TIERRA DE FUEGO,Habilitadas,54.0,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,informacion_estructura,CABA,Habilitadas,1.0,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,informacion_estructura,SANTA CRUZ,Habilitadas,,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,informacion_estructura,TIERRA DE FUEGO,Habilitadas,8.0,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,informacion_estructura,CABA,Habilitadas,,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,informacion_estructura,SANTA CRUZ,Habilitadas,,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,informacion_estructura,TIERRA DE FUEGO,Habilitadas,,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,informacion_estructura,CABA,Habilitadas,,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,informacion_estructura,SANTA CRUZ,Habilitadas,,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,informacion_estructura,TIERRA DE FUEGO,Habilitadas,3.0,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,informacion_estructura,CABA,Pendientes de habilitación,,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,informacion_estructura,SANTA CRUZ,Pendientes de habilitación,,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,informacion_estructura,TIERRA DE FUEGO,Pendientes de habilitación,,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,informacion_estructura,CABA,Total,1.0,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,informacion_estructura,SANTA CRUZ,Total,2.0,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,informacion_estructura,TIERRA DE FUEGO,Total,8.0,2026-04-19

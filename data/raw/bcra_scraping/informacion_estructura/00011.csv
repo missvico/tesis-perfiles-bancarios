@@ -1,0 +1,308 @@
+codigo_bcra,nombre_banco,tipo_entidad,fuente,variable,periodo,valor,scraping_fecha
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,Cantidad de cuentas corrientes,Dic-2023,295730.0,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,Cantidad de cuentas de ahorro,Dic-2023,19198791.0,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,Cantidad de cajas de ahorro de ayuda social,Dic-2023,6998742.0,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,Cantidad de cuentas previsionales,Dic-2023,4641614.0,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,Cantidad de operaciones a plazo fijo Individuos,Dic-2023,1371493.0,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,Cantidad de operaciones a plazo fijo Empresas,Dic-2023,52487.0,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,Cantidad de operaciones por préstamos hipotecarios,Dic-2023,74005.0,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,Cantidad de operaciones por préstamos prendarios,Dic-2023,18901.0,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,Cantidad de operaciones por otros préstamos,Dic-2023,3841487.0,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,Dotación de personal,Dic-2023,17515.0,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,Cantidad de titulares por tarjetas de crédito,Dic-2023,2881751.0,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,Cantidad de tarjetas de crédito (plásticos),Dic-2023,4461272.0,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,Cantidad de tarjetas de débito,Dic-2023,21162364.0,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,Cantidad de cuentas corrientes,Dic-2024,322054.0,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,Cantidad de cuentas de ahorro,Dic-2024,20250566.0,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,Cantidad de cajas de ahorro de ayuda social,Dic-2024,7184888.0,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,Cantidad de cuentas previsionales,Dic-2024,4944838.0,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,Cantidad de operaciones a plazo fijo Individuos,Dic-2024,1066088.0,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,Cantidad de operaciones a plazo fijo Empresas,Dic-2024,57523.0,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,Cantidad de operaciones por préstamos hipotecarios,Dic-2024,66194.0,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,Cantidad de operaciones por préstamos prendarios,Dic-2024,20695.0,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,Cantidad de operaciones por otros préstamos,Dic-2024,4548393.0,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,Dotación de personal,Dic-2024,16847.0,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,Cantidad de titulares por tarjetas de crédito,Dic-2024,2429554.0,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,Cantidad de tarjetas de crédito (plásticos),Dic-2024,5081452.0,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,Cantidad de tarjetas de débito,Dic-2024,21095087.0,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,Cantidad de cuentas corrientes,Jun-2025,347006.0,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,Cantidad de cuentas de ahorro,Jun-2025,20466983.0,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,Cantidad de cajas de ahorro de ayuda social,Jun-2025,7299998.0,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,Cantidad de cuentas previsionales,Jun-2025,5062880.0,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,Cantidad de operaciones a plazo fijo Individuos,Jun-2025,1027087.0,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,Cantidad de operaciones a plazo fijo Empresas,Jun-2025,65160.0,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,Cantidad de operaciones por préstamos hipotecarios,Jun-2025,69267.0,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,Cantidad de operaciones por préstamos prendarios,Jun-2025,20838.0,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,Cantidad de operaciones por otros préstamos,Jun-2025,5168106.0,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,Dotación de personal,Jun-2025,15798.0,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,Cantidad de titulares por tarjetas de crédito,Jun-2025,2566102.0,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,Cantidad de tarjetas de crédito (plásticos),Jun-2025,5361576.0,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,Cantidad de tarjetas de débito,Jun-2025,21152745.0,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,Cantidad de cuentas corrientes,Set-2025,361872.0,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,Cantidad de cuentas de ahorro,Set-2025,21053763.0,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,Cantidad de cajas de ahorro de ayuda social,Set-2025,7334410.0,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,Cantidad de cuentas previsionales,Set-2025,5117810.0,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,Cantidad de operaciones a plazo fijo Individuos,Set-2025,1100045.0,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,Cantidad de operaciones a plazo fijo Empresas,Set-2025,69137.0,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,Cantidad de operaciones por préstamos hipotecarios,Set-2025,74820.0,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,Cantidad de operaciones por préstamos prendarios,Set-2025,19464.0,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,Cantidad de operaciones por otros préstamos,Set-2025,5514225.0,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,Dotación de personal,Set-2025,15585.0,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,Cantidad de titulares por tarjetas de crédito,Set-2025,2649685.0,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,Cantidad de tarjetas de crédito (plásticos),Set-2025,5580219.0,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,Cantidad de tarjetas de débito,Set-2025,21331291.0,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,Cantidad de cuentas corrientes,Dic-2025,368598.0,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,Cantidad de cuentas de ahorro,Dic-2025,21191133.0,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,Cantidad de cajas de ahorro de ayuda social,Dic-2025,7370931.0,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,Cantidad de cuentas previsionales,Dic-2025,5174830.0,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,Cantidad de operaciones a plazo fijo Individuos,Dic-2025,947888.0,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,Cantidad de operaciones a plazo fijo Empresas,Dic-2025,66977.0,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,Cantidad de operaciones por préstamos hipotecarios,Dic-2025,81696.0,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,Cantidad de operaciones por préstamos prendarios,Dic-2025,17198.0,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,Cantidad de operaciones por otros préstamos,Dic-2025,5517004.0,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,Dotación de personal,Dic-2025,15405.0,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,Cantidad de titulares por tarjetas de crédito,Dic-2025,2654471.0,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,Cantidad de tarjetas de crédito (plásticos),Dic-2025,5868760.0,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,Cantidad de tarjetas de débito,Dic-2025,21005564.0,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,Cantidad de Cuentas,Dic-2023,1176405.0,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,Cantidad de Empresas,Dic-2023,29126.0,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,Cantidad de Cuentas,Dic-2024,1144348.0,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,Cantidad de Empresas,Dic-2024,33786.0,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,Cantidad de Cuentas,Nov-2025,1094819.0,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,Cantidad de Empresas,Nov-2025,35972.0,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,Cantidad de Cuentas,Dic-2025,1146571.0,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,Cantidad de Empresas,Dic-2025,39601.0,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,Cantidad de Cuentas,Ene-2026,1107343.0,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,Cantidad de Empresas,Ene-2026,37158.0,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,CABA,Habilitadas,64.0,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,BUENOS AIRES,Habilitadas,191.0,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,CATAMARCA,Habilitadas,11.0,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,CÓRDOBA,Habilitadas,76.0,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,CORRIENTES,Habilitadas,16.0,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,CHACO,Habilitadas,19.0,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,CHUBUT,Habilitadas,8.0,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,ENTRE RÍOS,Habilitadas,26.0,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,FORMOSA,Habilitadas,5.0,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,JUJUY,Habilitadas,5.0,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,LA PAMPA,Habilitadas,14.0,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,LA RIOJA,Habilitadas,12.0,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,MENDOZA,Habilitadas,37.0,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,MISIONES,Habilitadas,14.0,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,NEUQUÉN,Habilitadas,7.0,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,RÍO NEGRO,Habilitadas,15.0,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,SALTA,Habilitadas,9.0,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,SAN JUAN,Habilitadas,6.0,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,SAN LUIS,Habilitadas,6.0,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,SANTA CRUZ,Habilitadas,12.0,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,SANTA FE,Habilitadas,67.0,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,SANTIAGO DEL ESTERO,Habilitadas,8.0,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,TUCUMÁN,Habilitadas,12.0,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,TIERRA DE FUEGO,Habilitadas,2.0,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,CABA,Habilitadas,,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,BUENOS AIRES,Habilitadas,,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,CATAMARCA,Habilitadas,4.0,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,CÓRDOBA,Habilitadas,,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,CORRIENTES,Habilitadas,,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,CHACO,Habilitadas,,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,CHUBUT,Habilitadas,,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,ENTRE RÍOS,Habilitadas,,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,FORMOSA,Habilitadas,,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,JUJUY,Habilitadas,,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,LA PAMPA,Habilitadas,,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,LA RIOJA,Habilitadas,,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,MENDOZA,Habilitadas,,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,MISIONES,Habilitadas,,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,NEUQUÉN,Habilitadas,,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,RÍO NEGRO,Habilitadas,,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,SALTA,Habilitadas,,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,SAN JUAN,Habilitadas,1.0,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,SAN LUIS,Habilitadas,,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,SANTA CRUZ,Habilitadas,,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,SANTA FE,Habilitadas,,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,SANTIAGO DEL ESTERO,Habilitadas,,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,TUCUMÁN,Habilitadas,,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,TIERRA DE FUEGO,Habilitadas,,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,CABA,Habilitadas,1.0,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,BUENOS AIRES,Habilitadas,5.0,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,CATAMARCA,Habilitadas,2.0,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,CÓRDOBA,Habilitadas,2.0,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,CORRIENTES,Habilitadas,,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,CHACO,Habilitadas,,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,CHUBUT,Habilitadas,,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,ENTRE RÍOS,Habilitadas,1.0,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,FORMOSA,Habilitadas,,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,JUJUY,Habilitadas,1.0,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,LA PAMPA,Habilitadas,,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,LA RIOJA,Habilitadas,,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,MENDOZA,Habilitadas,1.0,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,MISIONES,Habilitadas,1.0,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,NEUQUÉN,Habilitadas,1.0,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,RÍO NEGRO,Habilitadas,,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,SALTA,Habilitadas,,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,SAN JUAN,Habilitadas,,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,SAN LUIS,Habilitadas,,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,SANTA CRUZ,Habilitadas,,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,SANTA FE,Habilitadas,1.0,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,SANTIAGO DEL ESTERO,Habilitadas,,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,TUCUMÁN,Habilitadas,,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,TIERRA DE FUEGO,Habilitadas,,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,CABA,Habilitadas,343.0,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,BUENOS AIRES,Habilitadas,805.0,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,CATAMARCA,Habilitadas,152.0,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,CÓRDOBA,Habilitadas,295.0,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,CORRIENTES,Habilitadas,57.0,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,CHACO,Habilitadas,63.0,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,CHUBUT,Habilitadas,37.0,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,ENTRE RÍOS,Habilitadas,93.0,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,FORMOSA,Habilitadas,22.0,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,JUJUY,Habilitadas,34.0,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,LA PAMPA,Habilitadas,35.0,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,LA RIOJA,Habilitadas,27.0,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,MENDOZA,Habilitadas,261.0,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,MISIONES,Habilitadas,72.0,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,NEUQUÉN,Habilitadas,37.0,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,RÍO NEGRO,Habilitadas,78.0,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,SALTA,Habilitadas,48.0,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,SAN JUAN,Habilitadas,27.0,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,SAN LUIS,Habilitadas,29.0,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,SANTA CRUZ,Habilitadas,54.0,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,SANTA FE,Habilitadas,211.0,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,SANTIAGO DEL ESTERO,Habilitadas,32.0,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,TUCUMÁN,Habilitadas,64.0,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,TIERRA DE FUEGO,Habilitadas,9.0,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,CABA,Habilitadas,92.0,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,BUENOS AIRES,Habilitadas,220.0,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,CATAMARCA,Habilitadas,10.0,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,CÓRDOBA,Habilitadas,37.0,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,CORRIENTES,Habilitadas,12.0,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,CHACO,Habilitadas,14.0,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,CHUBUT,Habilitadas,8.0,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,ENTRE RÍOS,Habilitadas,14.0,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,FORMOSA,Habilitadas,2.0,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,JUJUY,Habilitadas,6.0,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,LA PAMPA,Habilitadas,4.0,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,LA RIOJA,Habilitadas,6.0,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,MENDOZA,Habilitadas,41.0,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,MISIONES,Habilitadas,19.0,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,NEUQUÉN,Habilitadas,8.0,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,RÍO NEGRO,Habilitadas,12.0,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,SALTA,Habilitadas,7.0,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,SAN JUAN,Habilitadas,2.0,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,SAN LUIS,Habilitadas,4.0,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,SANTA CRUZ,Habilitadas,10.0,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,SANTA FE,Habilitadas,47.0,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,SANTIAGO DEL ESTERO,Habilitadas,10.0,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,TUCUMÁN,Habilitadas,13.0,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,TIERRA DE FUEGO,Habilitadas,2.0,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,CABA,Habilitadas,5.0,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,BUENOS AIRES,Habilitadas,9.0,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,CATAMARCA,Habilitadas,1.0,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,CÓRDOBA,Habilitadas,6.0,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,CORRIENTES,Habilitadas,,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,CHACO,Habilitadas,1.0,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,CHUBUT,Habilitadas,,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,ENTRE RÍOS,Habilitadas,,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,FORMOSA,Habilitadas,,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,JUJUY,Habilitadas,,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,LA PAMPA,Habilitadas,,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,LA RIOJA,Habilitadas,,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,MENDOZA,Habilitadas,1.0,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,MISIONES,Habilitadas,1.0,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,NEUQUÉN,Habilitadas,2.0,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,RÍO NEGRO,Habilitadas,,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,SALTA,Habilitadas,2.0,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,SAN JUAN,Habilitadas,,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,SAN LUIS,Habilitadas,,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,SANTA CRUZ,Habilitadas,,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,SANTA FE,Habilitadas,2.0,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,SANTIAGO DEL ESTERO,Habilitadas,,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,TUCUMÁN,Habilitadas,,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,TIERRA DE FUEGO,Habilitadas,,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,CABA,Habilitadas,10.0,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,BUENOS AIRES,Habilitadas,20.0,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,CATAMARCA,Habilitadas,3.0,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,CÓRDOBA,Habilitadas,1.0,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,CORRIENTES,Habilitadas,2.0,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,CHACO,Habilitadas,,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,CHUBUT,Habilitadas,1.0,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,ENTRE RÍOS,Habilitadas,1.0,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,FORMOSA,Habilitadas,1.0,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,JUJUY,Habilitadas,1.0,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,LA PAMPA,Habilitadas,,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,LA RIOJA,Habilitadas,1.0,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,MENDOZA,Habilitadas,16.0,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,MISIONES,Habilitadas,1.0,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,NEUQUÉN,Habilitadas,1.0,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,RÍO NEGRO,Habilitadas,3.0,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,SALTA,Habilitadas,3.0,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,SAN JUAN,Habilitadas,1.0,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,SAN LUIS,Habilitadas,2.0,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,SANTA CRUZ,Habilitadas,1.0,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,SANTA FE,Habilitadas,3.0,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,SANTIAGO DEL ESTERO,Habilitadas,,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,TUCUMÁN,Habilitadas,2.0,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,TIERRA DE FUEGO,Habilitadas,,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,CABA,Pendientes de habilitación,,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,BUENOS AIRES,Pendientes de habilitación,,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,CATAMARCA,Pendientes de habilitación,,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,CÓRDOBA,Pendientes de habilitación,,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,CORRIENTES,Pendientes de habilitación,,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,CHACO,Pendientes de habilitación,,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,CHUBUT,Pendientes de habilitación,,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,ENTRE RÍOS,Pendientes de habilitación,,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,FORMOSA,Pendientes de habilitación,,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,JUJUY,Pendientes de habilitación,,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,LA PAMPA,Pendientes de habilitación,,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,LA RIOJA,Pendientes de habilitación,,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,MENDOZA,Pendientes de habilitación,,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,MISIONES,Pendientes de habilitación,,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,NEUQUÉN,Pendientes de habilitación,,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,RÍO NEGRO,Pendientes de habilitación,,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,SALTA,Pendientes de habilitación,,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,SAN JUAN,Pendientes de habilitación,,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,SAN LUIS,Pendientes de habilitación,,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,SANTA CRUZ,Pendientes de habilitación,,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,SANTA FE,Pendientes de habilitación,2.0,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,SANTIAGO DEL ESTERO,Pendientes de habilitación,,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,TUCUMÁN,Pendientes de habilitación,,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,TIERRA DE FUEGO,Pendientes de habilitación,,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,CABA,Total,64.0,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,BUENOS AIRES,Total,191.0,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,CATAMARCA,Total,11.0,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,CÓRDOBA,Total,76.0,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,CORRIENTES,Total,16.0,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,CHACO,Total,19.0,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,CHUBUT,Total,8.0,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,ENTRE RÍOS,Total,26.0,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,FORMOSA,Total,5.0,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,JUJUY,Total,5.0,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,LA PAMPA,Total,14.0,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,LA RIOJA,Total,12.0,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,MENDOZA,Total,37.0,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,MISIONES,Total,14.0,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,NEUQUÉN,Total,7.0,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,RÍO NEGRO,Total,15.0,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,SALTA,Total,9.0,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,SAN JUAN,Total,6.0,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,SAN LUIS,Total,6.0,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,SANTA CRUZ,Total,12.0,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,SANTA FE,Total,69.0,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,SANTIAGO DEL ESTERO,Total,8.0,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,TUCUMÁN,Total,12.0,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,TIERRA DE FUEGO,Total,2.0,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,BOLIVIA,Sucursales,1.0,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,BRASIL,Sucursales,1.0,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,CHILE,Sucursales,1.0,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,CHINA,Sucursales,,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,ESPAÑA,Sucursales,1.0,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,ESTADOS UNIDOS,Sucursales,2.0,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,PARAGUAY,Sucursales,5.0,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,URUGUAY,Sucursales,1.0,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,BOLIVIA,Of. de representación,,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,BRASIL,Of. de representación,,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,CHILE,Of. de representación,,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,CHINA,Of. de representación,1.0,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,ESPAÑA,Of. de representación,,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,ESTADOS UNIDOS,Of. de representación,,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,PARAGUAY,Of. de representación,,2026-04-19
+00011,BANCO DE LA NACION ARGENTINA,publico,informacion_estructura,URUGUAY,Of. de representación,,2026-04-19

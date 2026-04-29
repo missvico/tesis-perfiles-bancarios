@@ -1,0 +1,287 @@
+codigo_bcra,nombre_banco,tipo_entidad,fuente,variable,periodo,valor,scraping_fecha
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,Cantidad de cuentas corrientes,Dic-2023,6817.0,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,Cantidad de cuentas de ahorro,Dic-2023,753984.0,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,Cantidad de cajas de ahorro de ayuda social,Dic-2023,28946.0,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,Cantidad de operaciones a plazo fijo Individuos,Dic-2023,88496.0,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,Cantidad de operaciones a plazo fijo Empresas,Dic-2023,385.0,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,Cantidad de operaciones por préstamos hipotecarios,Dic-2023,8753.0,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,Cantidad de operaciones por préstamos prendarios,Dic-2023,4.0,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,Cantidad de operaciones por otros préstamos,Dic-2023,396510.0,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,Dotación de personal,Dic-2023,1560.0,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,Cantidad de titulares por tarjetas de crédito,Dic-2023,390184.0,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,Cantidad de tarjetas de crédito (plásticos),Dic-2023,463382.0,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,Cantidad de tarjetas de débito,Dic-2023,1024756.0,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,Cantidad de cuentas corrientes,Dic-2024,8434.0,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,Cantidad de cuentas de ahorro,Dic-2024,776835.0,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,Cantidad de cajas de ahorro de ayuda social,Dic-2024,53343.0,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,Cantidad de operaciones a plazo fijo Individuos,Dic-2024,52021.0,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,Cantidad de operaciones a plazo fijo Empresas,Dic-2024,469.0,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,Cantidad de operaciones por préstamos hipotecarios,Dic-2024,8809.0,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,Cantidad de operaciones por préstamos prendarios,Dic-2024,11.0,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,Cantidad de operaciones por otros préstamos,Dic-2024,333400.0,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,Dotación de personal,Dic-2024,1484.0,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,Cantidad de titulares por tarjetas de crédito,Dic-2024,339305.0,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,Cantidad de tarjetas de crédito (plásticos),Dic-2024,421350.0,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,Cantidad de tarjetas de débito,Dic-2024,1143871.0,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,Cantidad de cuentas corrientes,Jun-2025,8099.0,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,Cantidad de cuentas de ahorro,Jun-2025,833592.0,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,Cantidad de cajas de ahorro de ayuda social,Jun-2025,61189.0,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,Cantidad de operaciones a plazo fijo Individuos,Jun-2025,68704.0,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,Cantidad de operaciones a plazo fijo Empresas,Jun-2025,738.0,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,Cantidad de operaciones por préstamos hipotecarios,Jun-2025,8035.0,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,Cantidad de operaciones por préstamos prendarios,Jun-2025,10.0,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,Cantidad de operaciones por otros préstamos,Jun-2025,339241.0,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,Dotación de personal,Jun-2025,1404.0,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,Cantidad de titulares por tarjetas de crédito,Jun-2025,329003.0,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,Cantidad de tarjetas de crédito (plásticos),Jun-2025,395727.0,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,Cantidad de tarjetas de débito,Jun-2025,1081972.0,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,Cantidad de cuentas corrientes,Set-2025,8697.0,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,Cantidad de cuentas de ahorro,Set-2025,829977.0,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,Cantidad de cajas de ahorro de ayuda social,Set-2025,62827.0,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,Cantidad de operaciones a plazo fijo Individuos,Set-2025,79295.0,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,Cantidad de operaciones a plazo fijo Empresas,Set-2025,1226.0,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,Cantidad de operaciones por préstamos hipotecarios,Set-2025,7796.0,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,Cantidad de operaciones por préstamos prendarios,Set-2025,11.0,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,Cantidad de operaciones por otros préstamos,Set-2025,322718.0,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,Dotación de personal,Set-2025,1405.0,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,Cantidad de titulares por tarjetas de crédito,Set-2025,324701.0,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,Cantidad de tarjetas de crédito (plásticos),Set-2025,350028.0,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,Cantidad de tarjetas de débito,Set-2025,1022716.0,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,Cantidad de cuentas corrientes,Dic-2025,8572.0,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,Cantidad de cuentas de ahorro,Dic-2025,834613.0,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,Cantidad de cajas de ahorro de ayuda social,Dic-2025,64695.0,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,Cantidad de operaciones a plazo fijo Individuos,Dic-2025,62277.0,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,Cantidad de operaciones a plazo fijo Empresas,Dic-2025,870.0,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,Cantidad de operaciones por préstamos hipotecarios,Dic-2025,7679.0,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,Cantidad de operaciones por préstamos prendarios,Dic-2025,10.0,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,Cantidad de operaciones por otros préstamos,Dic-2025,313300.0,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,Dotación de personal,Dic-2025,1405.0,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,Cantidad de titulares por tarjetas de crédito,Dic-2025,322633.0,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,Cantidad de tarjetas de crédito (plásticos),Dic-2025,334238.0,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,Cantidad de tarjetas de débito,Dic-2025,892353.0,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,Cantidad de Cuentas,Dic-2023,78689.0,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,Cantidad de Empresas,Dic-2023,4195.0,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,Cantidad de Cuentas,Dic-2024,70617.0,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,Cantidad de Empresas,Dic-2024,3919.0,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,Cantidad de Cuentas,Nov-2025,65418.0,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,Cantidad de Empresas,Nov-2025,3313.0,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,Cantidad de Cuentas,Dic-2025,67381.0,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,Cantidad de Empresas,Dic-2025,3537.0,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,Cantidad de Cuentas,Ene-2026,64418.0,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,Cantidad de Empresas,Ene-2026,3274.0,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,CABA,Habilitadas,6.0,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,BUENOS AIRES,Habilitadas,21.0,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,CATAMARCA,Habilitadas,1.0,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,CÓRDOBA,Habilitadas,10.0,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,CORRIENTES,Habilitadas,1.0,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,CHACO,Habilitadas,2.0,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,CHUBUT,Habilitadas,2.0,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,ENTRE RÍOS,Habilitadas,2.0,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,FORMOSA,Habilitadas,1.0,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,JUJUY,Habilitadas,1.0,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,LA PAMPA,Habilitadas,1.0,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,LA RIOJA,Habilitadas,1.0,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,MENDOZA,Habilitadas,3.0,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,MISIONES,Habilitadas,2.0,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,NEUQUÉN,Habilitadas,1.0,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,RÍO NEGRO,Habilitadas,1.0,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,SALTA,Habilitadas,2.0,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,SAN JUAN,Habilitadas,2.0,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,SAN LUIS,Habilitadas,1.0,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,SANTA CRUZ,Habilitadas,1.0,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,SANTA FE,Habilitadas,7.0,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,SANTIAGO DEL ESTERO,Habilitadas,2.0,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,TUCUMÁN,Habilitadas,5.0,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,TIERRA DE FUEGO,Habilitadas,1.0,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,CABA,Habilitadas,,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,BUENOS AIRES,Habilitadas,,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,CATAMARCA,Habilitadas,,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,CÓRDOBA,Habilitadas,,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,CORRIENTES,Habilitadas,,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,CHACO,Habilitadas,,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,CHUBUT,Habilitadas,,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,ENTRE RÍOS,Habilitadas,,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,FORMOSA,Habilitadas,,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,JUJUY,Habilitadas,,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,LA PAMPA,Habilitadas,,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,LA RIOJA,Habilitadas,,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,MENDOZA,Habilitadas,,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,MISIONES,Habilitadas,,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,NEUQUÉN,Habilitadas,,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,RÍO NEGRO,Habilitadas,,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,SALTA,Habilitadas,,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,SAN JUAN,Habilitadas,,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,SAN LUIS,Habilitadas,,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,SANTA CRUZ,Habilitadas,,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,SANTA FE,Habilitadas,,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,SANTIAGO DEL ESTERO,Habilitadas,,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,TUCUMÁN,Habilitadas,,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,TIERRA DE FUEGO,Habilitadas,,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,CABA,Habilitadas,,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,BUENOS AIRES,Habilitadas,,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,CATAMARCA,Habilitadas,,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,CÓRDOBA,Habilitadas,,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,CORRIENTES,Habilitadas,,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,CHACO,Habilitadas,,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,CHUBUT,Habilitadas,,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,ENTRE RÍOS,Habilitadas,,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,FORMOSA,Habilitadas,,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,JUJUY,Habilitadas,,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,LA PAMPA,Habilitadas,,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,LA RIOJA,Habilitadas,,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,MENDOZA,Habilitadas,,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,MISIONES,Habilitadas,,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,NEUQUÉN,Habilitadas,,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,RÍO NEGRO,Habilitadas,,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,SALTA,Habilitadas,,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,SAN JUAN,Habilitadas,,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,SAN LUIS,Habilitadas,,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,SANTA CRUZ,Habilitadas,,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,SANTA FE,Habilitadas,,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,SANTIAGO DEL ESTERO,Habilitadas,,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,TUCUMÁN,Habilitadas,,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,TIERRA DE FUEGO,Habilitadas,,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,CABA,Habilitadas,12.0,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,BUENOS AIRES,Habilitadas,51.0,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,CATAMARCA,Habilitadas,4.0,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,CÓRDOBA,Habilitadas,13.0,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,CORRIENTES,Habilitadas,3.0,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,CHACO,Habilitadas,5.0,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,CHUBUT,Habilitadas,4.0,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,ENTRE RÍOS,Habilitadas,5.0,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,FORMOSA,Habilitadas,4.0,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,JUJUY,Habilitadas,1.0,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,LA PAMPA,Habilitadas,2.0,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,LA RIOJA,Habilitadas,6.0,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,MENDOZA,Habilitadas,5.0,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,MISIONES,Habilitadas,4.0,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,NEUQUÉN,Habilitadas,3.0,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,RÍO NEGRO,Habilitadas,2.0,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,SALTA,Habilitadas,3.0,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,SAN JUAN,Habilitadas,3.0,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,SAN LUIS,Habilitadas,2.0,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,SANTA CRUZ,Habilitadas,3.0,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,SANTA FE,Habilitadas,14.0,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,SANTIAGO DEL ESTERO,Habilitadas,2.0,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,TUCUMÁN,Habilitadas,5.0,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,TIERRA DE FUEGO,Habilitadas,2.0,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,CABA,Habilitadas,22.0,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,BUENOS AIRES,Habilitadas,64.0,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,CATAMARCA,Habilitadas,2.0,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,CÓRDOBA,Habilitadas,21.0,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,CORRIENTES,Habilitadas,3.0,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,CHACO,Habilitadas,5.0,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,CHUBUT,Habilitadas,5.0,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,ENTRE RÍOS,Habilitadas,8.0,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,FORMOSA,Habilitadas,4.0,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,JUJUY,Habilitadas,4.0,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,LA PAMPA,Habilitadas,2.0,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,LA RIOJA,Habilitadas,6.0,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,MENDOZA,Habilitadas,7.0,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,MISIONES,Habilitadas,3.0,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,NEUQUÉN,Habilitadas,5.0,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,RÍO NEGRO,Habilitadas,2.0,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,SALTA,Habilitadas,4.0,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,SAN JUAN,Habilitadas,4.0,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,SAN LUIS,Habilitadas,3.0,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,SANTA CRUZ,Habilitadas,3.0,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,SANTA FE,Habilitadas,17.0,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,SANTIAGO DEL ESTERO,Habilitadas,6.0,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,TUCUMÁN,Habilitadas,8.0,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,TIERRA DE FUEGO,Habilitadas,2.0,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,CABA,Habilitadas,,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,BUENOS AIRES,Habilitadas,1.0,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,CATAMARCA,Habilitadas,,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,CÓRDOBA,Habilitadas,,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,CORRIENTES,Habilitadas,,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,CHACO,Habilitadas,,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,CHUBUT,Habilitadas,,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,ENTRE RÍOS,Habilitadas,,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,FORMOSA,Habilitadas,,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,JUJUY,Habilitadas,,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,LA PAMPA,Habilitadas,,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,LA RIOJA,Habilitadas,,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,MENDOZA,Habilitadas,,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,MISIONES,Habilitadas,,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,NEUQUÉN,Habilitadas,,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,RÍO NEGRO,Habilitadas,,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,SALTA,Habilitadas,,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,SAN JUAN,Habilitadas,,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,SAN LUIS,Habilitadas,,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,SANTA CRUZ,Habilitadas,,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,SANTA FE,Habilitadas,1.0,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,SANTIAGO DEL ESTERO,Habilitadas,,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,TUCUMÁN,Habilitadas,,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,TIERRA DE FUEGO,Habilitadas,,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,CABA,Habilitadas,,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,BUENOS AIRES,Habilitadas,,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,CATAMARCA,Habilitadas,,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,CÓRDOBA,Habilitadas,1.0,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,CORRIENTES,Habilitadas,,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,CHACO,Habilitadas,,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,CHUBUT,Habilitadas,,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,ENTRE RÍOS,Habilitadas,,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,FORMOSA,Habilitadas,,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,JUJUY,Habilitadas,,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,LA PAMPA,Habilitadas,,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,LA RIOJA,Habilitadas,,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,MENDOZA,Habilitadas,,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,MISIONES,Habilitadas,,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,NEUQUÉN,Habilitadas,,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,RÍO NEGRO,Habilitadas,,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,SALTA,Habilitadas,,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,SAN JUAN,Habilitadas,,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,SAN LUIS,Habilitadas,,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,SANTA CRUZ,Habilitadas,,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,SANTA FE,Habilitadas,,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,SANTIAGO DEL ESTERO,Habilitadas,,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,TUCUMÁN,Habilitadas,,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,TIERRA DE FUEGO,Habilitadas,,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,CABA,Pendientes de habilitación,,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,BUENOS AIRES,Pendientes de habilitación,,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,CATAMARCA,Pendientes de habilitación,,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,CÓRDOBA,Pendientes de habilitación,,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,CORRIENTES,Pendientes de habilitación,,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,CHACO,Pendientes de habilitación,,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,CHUBUT,Pendientes de habilitación,,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,ENTRE RÍOS,Pendientes de habilitación,,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,FORMOSA,Pendientes de habilitación,,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,JUJUY,Pendientes de habilitación,,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,LA PAMPA,Pendientes de habilitación,,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,LA RIOJA,Pendientes de habilitación,,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,MENDOZA,Pendientes de habilitación,,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,MISIONES,Pendientes de habilitación,,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,NEUQUÉN,Pendientes de habilitación,,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,RÍO NEGRO,Pendientes de habilitación,,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,SALTA,Pendientes de habilitación,,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,SAN JUAN,Pendientes de habilitación,,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,SAN LUIS,Pendientes de habilitación,,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,SANTA CRUZ,Pendientes de habilitación,,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,SANTA FE,Pendientes de habilitación,,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,SANTIAGO DEL ESTERO,Pendientes de habilitación,,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,TUCUMÁN,Pendientes de habilitación,,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,TIERRA DE FUEGO,Pendientes de habilitación,,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,CABA,Total,6.0,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,BUENOS AIRES,Total,21.0,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,CATAMARCA,Total,1.0,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,CÓRDOBA,Total,10.0,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,CORRIENTES,Total,1.0,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,CHACO,Total,2.0,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,CHUBUT,Total,2.0,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,ENTRE RÍOS,Total,2.0,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,FORMOSA,Total,1.0,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,JUJUY,Total,1.0,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,LA PAMPA,Total,1.0,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,LA RIOJA,Total,1.0,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,MENDOZA,Total,3.0,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,MISIONES,Total,2.0,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,NEUQUÉN,Total,1.0,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,RÍO NEGRO,Total,1.0,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,SALTA,Total,2.0,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,SAN JUAN,Total,2.0,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,SAN LUIS,Total,1.0,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,SANTA CRUZ,Total,1.0,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,SANTA FE,Total,7.0,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,SANTIAGO DEL ESTERO,Total,2.0,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,TUCUMÁN,Total,5.0,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,informacion_estructura,TIERRA DE FUEGO,Total,1.0,2026-04-19

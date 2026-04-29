@@ -1,0 +1,79 @@
+codigo_bcra,nombre_banco,tipo_entidad,fuente,variable,periodo,valor,scraping_fecha
+00281,BANCO MERIDIAN S.A.,privado_nacional,informacion_estructura,Cantidad de cuentas corrientes,Dic-2023,439.0,2026-04-19
+00281,BANCO MERIDIAN S.A.,privado_nacional,informacion_estructura,Cantidad de cuentas de ahorro,Dic-2023,1016.0,2026-04-19
+00281,BANCO MERIDIAN S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones a plazo fijo Individuos,Dic-2023,500.0,2026-04-19
+00281,BANCO MERIDIAN S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones a plazo fijo Empresas,Dic-2023,22.0,2026-04-19
+00281,BANCO MERIDIAN S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones por préstamos prendarios,Dic-2023,4.0,2026-04-19
+00281,BANCO MERIDIAN S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones por otros préstamos,Dic-2023,585.0,2026-04-19
+00281,BANCO MERIDIAN S.A.,privado_nacional,informacion_estructura,Dotación de personal,Dic-2023,76.0,2026-04-19
+00281,BANCO MERIDIAN S.A.,privado_nacional,informacion_estructura,Cantidad de titulares por tarjetas de crédito,Dic-2023,396.0,2026-04-19
+00281,BANCO MERIDIAN S.A.,privado_nacional,informacion_estructura,Cantidad de tarjetas de crédito (plásticos),Dic-2023,401.0,2026-04-19
+00281,BANCO MERIDIAN S.A.,privado_nacional,informacion_estructura,Cantidad de tarjetas de débito,Dic-2023,1430.0,2026-04-19
+00281,BANCO MERIDIAN S.A.,privado_nacional,informacion_estructura,Cantidad de cuentas corrientes,Dic-2024,412.0,2026-04-19
+00281,BANCO MERIDIAN S.A.,privado_nacional,informacion_estructura,Cantidad de cuentas de ahorro,Dic-2024,1138.0,2026-04-19
+00281,BANCO MERIDIAN S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones a plazo fijo Individuos,Dic-2024,562.0,2026-04-19
+00281,BANCO MERIDIAN S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones a plazo fijo Empresas,Dic-2024,31.0,2026-04-19
+00281,BANCO MERIDIAN S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones por préstamos prendarios,Dic-2024,,2026-04-19
+00281,BANCO MERIDIAN S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones por otros préstamos,Dic-2024,574.0,2026-04-19
+00281,BANCO MERIDIAN S.A.,privado_nacional,informacion_estructura,Dotación de personal,Dic-2024,76.0,2026-04-19
+00281,BANCO MERIDIAN S.A.,privado_nacional,informacion_estructura,Cantidad de titulares por tarjetas de crédito,Dic-2024,453.0,2026-04-19
+00281,BANCO MERIDIAN S.A.,privado_nacional,informacion_estructura,Cantidad de tarjetas de crédito (plásticos),Dic-2024,453.0,2026-04-19
+00281,BANCO MERIDIAN S.A.,privado_nacional,informacion_estructura,Cantidad de tarjetas de débito,Dic-2024,882.0,2026-04-19
+00281,BANCO MERIDIAN S.A.,privado_nacional,informacion_estructura,Cantidad de cuentas corrientes,Jun-2025,395.0,2026-04-19
+00281,BANCO MERIDIAN S.A.,privado_nacional,informacion_estructura,Cantidad de cuentas de ahorro,Jun-2025,1150.0,2026-04-19
+00281,BANCO MERIDIAN S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones a plazo fijo Individuos,Jun-2025,1034.0,2026-04-19
+00281,BANCO MERIDIAN S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones a plazo fijo Empresas,Jun-2025,39.0,2026-04-19
+00281,BANCO MERIDIAN S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones por préstamos prendarios,Jun-2025,2.0,2026-04-19
+00281,BANCO MERIDIAN S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones por otros préstamos,Jun-2025,607.0,2026-04-19
+00281,BANCO MERIDIAN S.A.,privado_nacional,informacion_estructura,Dotación de personal,Jun-2025,74.0,2026-04-19
+00281,BANCO MERIDIAN S.A.,privado_nacional,informacion_estructura,Cantidad de titulares por tarjetas de crédito,Jun-2025,457.0,2026-04-19
+00281,BANCO MERIDIAN S.A.,privado_nacional,informacion_estructura,Cantidad de tarjetas de crédito (plásticos),Jun-2025,457.0,2026-04-19
+00281,BANCO MERIDIAN S.A.,privado_nacional,informacion_estructura,Cantidad de tarjetas de débito,Jun-2025,932.0,2026-04-19
+00281,BANCO MERIDIAN S.A.,privado_nacional,informacion_estructura,Cantidad de cuentas corrientes,Set-2025,368.0,2026-04-19
+00281,BANCO MERIDIAN S.A.,privado_nacional,informacion_estructura,Cantidad de cuentas de ahorro,Set-2025,1186.0,2026-04-19
+00281,BANCO MERIDIAN S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones a plazo fijo Individuos,Set-2025,1659.0,2026-04-19
+00281,BANCO MERIDIAN S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones a plazo fijo Empresas,Set-2025,30.0,2026-04-19
+00281,BANCO MERIDIAN S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones por préstamos prendarios,Set-2025,,2026-04-19
+00281,BANCO MERIDIAN S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones por otros préstamos,Set-2025,2742.0,2026-04-19
+00281,BANCO MERIDIAN S.A.,privado_nacional,informacion_estructura,Dotación de personal,Set-2025,75.0,2026-04-19
+00281,BANCO MERIDIAN S.A.,privado_nacional,informacion_estructura,Cantidad de titulares por tarjetas de crédito,Set-2025,445.0,2026-04-19
+00281,BANCO MERIDIAN S.A.,privado_nacional,informacion_estructura,Cantidad de tarjetas de crédito (plásticos),Set-2025,445.0,2026-04-19
+00281,BANCO MERIDIAN S.A.,privado_nacional,informacion_estructura,Cantidad de tarjetas de débito,Set-2025,979.0,2026-04-19
+00281,BANCO MERIDIAN S.A.,privado_nacional,informacion_estructura,Cantidad de cuentas corrientes,Dic-2025,356.0,2026-04-19
+00281,BANCO MERIDIAN S.A.,privado_nacional,informacion_estructura,Cantidad de cuentas de ahorro,Dic-2025,1196.0,2026-04-19
+00281,BANCO MERIDIAN S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones a plazo fijo Individuos,Dic-2025,1940.0,2026-04-19
+00281,BANCO MERIDIAN S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones a plazo fijo Empresas,Dic-2025,35.0,2026-04-19
+00281,BANCO MERIDIAN S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones por préstamos prendarios,Dic-2025,,2026-04-19
+00281,BANCO MERIDIAN S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones por otros préstamos,Dic-2025,3474.0,2026-04-19
+00281,BANCO MERIDIAN S.A.,privado_nacional,informacion_estructura,Dotación de personal,Dic-2025,76.0,2026-04-19
+00281,BANCO MERIDIAN S.A.,privado_nacional,informacion_estructura,Cantidad de titulares por tarjetas de crédito,Dic-2025,447.0,2026-04-19
+00281,BANCO MERIDIAN S.A.,privado_nacional,informacion_estructura,Cantidad de tarjetas de crédito (plásticos),Dic-2025,447.0,2026-04-19
+00281,BANCO MERIDIAN S.A.,privado_nacional,informacion_estructura,Cantidad de tarjetas de débito,Dic-2025,1010.0,2026-04-19
+00281,BANCO MERIDIAN S.A.,privado_nacional,informacion_estructura,Cantidad de Cuentas,Dic-2023,17.0,2026-04-19
+00281,BANCO MERIDIAN S.A.,privado_nacional,informacion_estructura,Cantidad de Empresas,Dic-2023,11.0,2026-04-19
+00281,BANCO MERIDIAN S.A.,privado_nacional,informacion_estructura,Cantidad de Cuentas,Dic-2024,83.0,2026-04-19
+00281,BANCO MERIDIAN S.A.,privado_nacional,informacion_estructura,Cantidad de Empresas,Dic-2024,15.0,2026-04-19
+00281,BANCO MERIDIAN S.A.,privado_nacional,informacion_estructura,Cantidad de Cuentas,Nov-2025,80.0,2026-04-19
+00281,BANCO MERIDIAN S.A.,privado_nacional,informacion_estructura,Cantidad de Empresas,Nov-2025,12.0,2026-04-19
+00281,BANCO MERIDIAN S.A.,privado_nacional,informacion_estructura,Cantidad de Cuentas,Dic-2025,80.0,2026-04-19
+00281,BANCO MERIDIAN S.A.,privado_nacional,informacion_estructura,Cantidad de Empresas,Dic-2025,10.0,2026-04-19
+00281,BANCO MERIDIAN S.A.,privado_nacional,informacion_estructura,Cantidad de Cuentas,Ene-2026,80.0,2026-04-19
+00281,BANCO MERIDIAN S.A.,privado_nacional,informacion_estructura,Cantidad de Empresas,Ene-2026,11.0,2026-04-19
+00281,BANCO MERIDIAN S.A.,privado_nacional,informacion_estructura,CABA,Habilitadas,1.0,2026-04-19
+00281,BANCO MERIDIAN S.A.,privado_nacional,informacion_estructura,SANTA FE,Habilitadas,1.0,2026-04-19
+00281,BANCO MERIDIAN S.A.,privado_nacional,informacion_estructura,CABA,Habilitadas,,2026-04-19
+00281,BANCO MERIDIAN S.A.,privado_nacional,informacion_estructura,SANTA FE,Habilitadas,,2026-04-19
+00281,BANCO MERIDIAN S.A.,privado_nacional,informacion_estructura,CABA,Habilitadas,,2026-04-19
+00281,BANCO MERIDIAN S.A.,privado_nacional,informacion_estructura,SANTA FE,Habilitadas,,2026-04-19
+00281,BANCO MERIDIAN S.A.,privado_nacional,informacion_estructura,CABA,Habilitadas,1.0,2026-04-19
+00281,BANCO MERIDIAN S.A.,privado_nacional,informacion_estructura,SANTA FE,Habilitadas,1.0,2026-04-19
+00281,BANCO MERIDIAN S.A.,privado_nacional,informacion_estructura,CABA,Habilitadas,,2026-04-19
+00281,BANCO MERIDIAN S.A.,privado_nacional,informacion_estructura,SANTA FE,Habilitadas,,2026-04-19
+00281,BANCO MERIDIAN S.A.,privado_nacional,informacion_estructura,CABA,Habilitadas,,2026-04-19
+00281,BANCO MERIDIAN S.A.,privado_nacional,informacion_estructura,SANTA FE,Habilitadas,,2026-04-19
+00281,BANCO MERIDIAN S.A.,privado_nacional,informacion_estructura,CABA,Habilitadas,,2026-04-19
+00281,BANCO MERIDIAN S.A.,privado_nacional,informacion_estructura,SANTA FE,Habilitadas,,2026-04-19
+00281,BANCO MERIDIAN S.A.,privado_nacional,informacion_estructura,CABA,Pendientes de habilitación,,2026-04-19
+00281,BANCO MERIDIAN S.A.,privado_nacional,informacion_estructura,SANTA FE,Pendientes de habilitación,,2026-04-19
+00281,BANCO MERIDIAN S.A.,privado_nacional,informacion_estructura,CABA,Total,1.0,2026-04-19
+00281,BANCO MERIDIAN S.A.,privado_nacional,informacion_estructura,SANTA FE,Total,1.0,2026-04-19

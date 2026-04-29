@@ -1,0 +1,161 @@
+codigo_bcra,nombre_banco,tipo_entidad,fuente,variable,periodo,valor,scraping_fecha
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,situacion_deudores,TOTAL DE FINANCIACIONES Y GARANTIAS OTORGADAS ($),Dic-2023,648849.16,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,situacion_deudores,TF.Sit.1: En situación normal (%),Dic-2023,98.12,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,situacion_deudores,TF.Sit.2: Con seguimiento especial/Riesgo bajo (%),Dic-2023,0.58,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,situacion_deudores,TF.Sit.3: Con problemas/Riesgo medio (%),Dic-2023,0.35,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,situacion_deudores,TF.Sit.4: Con alto riesgo de insolvencia/Riesgo alto (%),Dic-2023,0.81,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,situacion_deudores,TF.Sit.5: Irrecuperable (%),Dic-2023,0.13,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,situacion_deudores,TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Dic-2023,24.96,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,situacion_deudores,Previsiones por riesgo de incobrabilidad constituídas,Dic-2023,20160.59,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,situacion_deudores,CARTERA COMERCIAL ($),Dic-2023,170617.86,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,situacion_deudores,Total cartera sobre financiaciones (%),Dic-2023,26.3,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,situacion_deudores,C.COM.Sit.1: En situación normal (%),Dic-2023,98.62,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,situacion_deudores,C.COM.Sit.2: Con seguimiento especial (%),Dic-2023,0.0,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,situacion_deudores,C.COM.Sit.3: Con problemas (%),Dic-2023,0.0,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,situacion_deudores,C.COM.Sit.4: Con alto riesgo de insolvencia (%),Dic-2023,1.38,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,situacion_deudores,C.COM.Sit.5: Irrecuperable (%),Dic-2023,0.0,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,situacion_deudores,C.COM.TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Dic-2023,7.89,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,situacion_deudores,CARTERA DE CONSUMO O VIVIENDA ($),Dic-2023,377466.34,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,situacion_deudores,Total cartera sobre financiaciones (%),Dic-2023,58.17,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,situacion_deudores,C.CON.Sit.1: En situación normal (%),Dic-2023,97.65,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,situacion_deudores,C.CON.Sit.2: Riesgo bajo (%),Dic-2023,0.96,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,situacion_deudores,C.CON.Sit.3: Riesgo medio (%),Dic-2023,0.56,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,situacion_deudores,C.CON.Sit.4: Riesgo alto (%),Dic-2023,0.61,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,situacion_deudores,C.CON.Sit.5: Irrecuperable (%),Dic-2023,0.22,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,situacion_deudores,C.CON.TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Dic-2023,36.11,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,situacion_deudores,CARTERA COMERCIAL ASIMILABLE A CONSUMO ($),Dic-2023,100764.96,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,situacion_deudores,Total cartera sobre financiaciones (%),Dic-2023,15.53,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,situacion_deudores,C.CAC.Sit.1: En situación normal (%),Dic-2023,99.05,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,situacion_deudores,C.CAC.Sit.2: Riesgo bajo (%),Dic-2023,0.16,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,situacion_deudores,C.CAC.Sit.3: Riesgo medio (%),Dic-2023,0.16,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,situacion_deudores,C.CAC.Sit.4: Riesgo alto (%),Dic-2023,0.61,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,situacion_deudores,C.CAC.Sit.5: Irrecuperable (%),Dic-2023,0.02,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,situacion_deudores,C.CAC.TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Dic-2023,12.07,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,situacion_deudores,TOTAL DE FINANCIACIONES Y GARANTIAS OTORGADAS ($),Dic-2024,2010326.73,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,situacion_deudores,TF.Sit.1: En situación normal (%),Dic-2024,97.63,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,situacion_deudores,TF.Sit.2: Con seguimiento especial/Riesgo bajo (%),Dic-2024,1.13,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,situacion_deudores,TF.Sit.3: Con problemas/Riesgo medio (%),Dic-2024,0.45,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,situacion_deudores,TF.Sit.4: Con alto riesgo de insolvencia/Riesgo alto (%),Dic-2024,0.68,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,situacion_deudores,TF.Sit.5: Irrecuperable (%),Dic-2024,0.12,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,situacion_deudores,TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Dic-2024,24.69,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,situacion_deudores,Previsiones por riesgo de incobrabilidad constituídas,Dic-2024,33263.65,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,situacion_deudores,CARTERA COMERCIAL ($),Dic-2024,383759.8,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,situacion_deudores,Total cartera sobre financiaciones (%),Dic-2024,19.09,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,situacion_deudores,C.COM.Sit.1: En situación normal (%),Dic-2024,97.5,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,situacion_deudores,C.COM.Sit.2: Con seguimiento especial (%),Dic-2024,1.24,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,situacion_deudores,C.COM.Sit.3: Con problemas (%),Dic-2024,0.0,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,situacion_deudores,C.COM.Sit.4: Con alto riesgo de insolvencia (%),Dic-2024,1.26,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,situacion_deudores,C.COM.Sit.5: Irrecuperable (%),Dic-2024,0.0,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,situacion_deudores,C.COM.TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Dic-2024,6.47,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,situacion_deudores,CARTERA DE CONSUMO O VIVIENDA ($),Dic-2024,1375577.61,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,situacion_deudores,Total cartera sobre financiaciones (%),Dic-2024,68.43,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,situacion_deudores,C.CON.Sit.1: En situación normal (%),Dic-2024,97.35,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,situacion_deudores,C.CON.Sit.2: Riesgo bajo (%),Dic-2024,1.26,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,situacion_deudores,C.CON.Sit.3: Riesgo medio (%),Dic-2024,0.64,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,situacion_deudores,C.CON.Sit.4: Riesgo alto (%),Dic-2024,0.59,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,situacion_deudores,C.CON.Sit.5: Irrecuperable (%),Dic-2024,0.16,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,situacion_deudores,C.CON.TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Dic-2024,32.28,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,situacion_deudores,CARTERA COMERCIAL ASIMILABLE A CONSUMO ($),Dic-2024,250989.32,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,situacion_deudores,Total cartera sobre financiaciones (%),Dic-2024,12.49,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,situacion_deudores,C.CAC.Sit.1: En situación normal (%),Dic-2024,99.33,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,situacion_deudores,C.CAC.Sit.2: Riesgo bajo (%),Dic-2024,0.24,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,situacion_deudores,C.CAC.Sit.3: Riesgo medio (%),Dic-2024,0.12,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,situacion_deudores,C.CAC.Sit.4: Riesgo alto (%),Dic-2024,0.26,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,situacion_deudores,C.CAC.Sit.5: Irrecuperable (%),Dic-2024,0.05,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,situacion_deudores,C.CAC.TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Dic-2024,10.95,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,situacion_deudores,TOTAL DE FINANCIACIONES Y GARANTIAS OTORGADAS ($),Nov-2025,3090370.92,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,situacion_deudores,TF.Sit.1: En situación normal (%),Nov-2025,89.09,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,situacion_deudores,TF.Sit.2: Con seguimiento especial/Riesgo bajo (%),Nov-2025,4.71,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,situacion_deudores,TF.Sit.3: Con problemas/Riesgo medio (%),Nov-2025,2.23,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,situacion_deudores,TF.Sit.4: Con alto riesgo de insolvencia/Riesgo alto (%),Nov-2025,3.39,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,situacion_deudores,TF.Sit.5: Irrecuperable (%),Nov-2025,0.58,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,situacion_deudores,TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Nov-2025,22.09,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,situacion_deudores,Previsiones por riesgo de incobrabilidad constituídas,Nov-2025,151518.16,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,situacion_deudores,CARTERA COMERCIAL ($),Nov-2025,519278.28,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,situacion_deudores,Total cartera sobre financiaciones (%),Nov-2025,16.8,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,situacion_deudores,C.COM.Sit.1: En situación normal (%),Nov-2025,92.51,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,situacion_deudores,C.COM.Sit.2: Con seguimiento especial (%),Nov-2025,0.75,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,situacion_deudores,C.COM.Sit.3: Con problemas (%),Nov-2025,1.44,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,situacion_deudores,C.COM.Sit.4: Con alto riesgo de insolvencia (%),Nov-2025,4.37,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,situacion_deudores,C.COM.Sit.5: Irrecuperable (%),Nov-2025,0.93,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,situacion_deudores,C.COM.TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Nov-2025,4.57,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,situacion_deudores,CARTERA DE CONSUMO O VIVIENDA ($),Nov-2025,2191681.19,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,situacion_deudores,Total cartera sobre financiaciones (%),Nov-2025,70.92,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,situacion_deudores,C.CON.Sit.1: En situación normal (%),Nov-2025,87.22,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,situacion_deudores,C.CON.Sit.2: Riesgo bajo (%),Nov-2025,6.06,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,situacion_deudores,C.CON.Sit.3: Riesgo medio (%),Nov-2025,2.59,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,situacion_deudores,C.CON.Sit.4: Riesgo alto (%),Nov-2025,3.56,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,situacion_deudores,C.CON.Sit.5: Irrecuperable (%),Nov-2025,0.57,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,situacion_deudores,C.CON.TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Nov-2025,28.22,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,situacion_deudores,CARTERA COMERCIAL ASIMILABLE A CONSUMO ($),Nov-2025,379411.44,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,situacion_deudores,Total cartera sobre financiaciones (%),Nov-2025,12.28,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,situacion_deudores,C.CAC.Sit.1: En situación normal (%),Nov-2025,95.24,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,situacion_deudores,C.CAC.Sit.2: Riesgo bajo (%),Nov-2025,2.38,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,situacion_deudores,C.CAC.Sit.3: Riesgo medio (%),Nov-2025,1.25,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,situacion_deudores,C.CAC.Sit.4: Riesgo alto (%),Nov-2025,1.03,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,situacion_deudores,C.CAC.Sit.5: Irrecuperable (%),Nov-2025,0.11,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,situacion_deudores,C.CAC.TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Nov-2025,10.68,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,situacion_deudores,TOTAL DE FINANCIACIONES Y GARANTIAS OTORGADAS ($),Dic-2025,3191005.14,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,situacion_deudores,TF.Sit.1: En situación normal (%),Dic-2025,89.44,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,situacion_deudores,TF.Sit.2: Con seguimiento especial/Riesgo bajo (%),Dic-2025,3.49,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,situacion_deudores,TF.Sit.3: Con problemas/Riesgo medio (%),Dic-2025,2.84,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,situacion_deudores,TF.Sit.4: Con alto riesgo de insolvencia/Riesgo alto (%),Dic-2025,3.54,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,situacion_deudores,TF.Sit.5: Irrecuperable (%),Dic-2025,0.7,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,situacion_deudores,TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Dic-2025,21.84,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,situacion_deudores,Previsiones por riesgo de incobrabilidad constituídas,Dic-2025,157452.01,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,situacion_deudores,CARTERA COMERCIAL ($),Dic-2025,563164.96,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,situacion_deudores,Total cartera sobre financiaciones (%),Dic-2025,17.65,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,situacion_deudores,C.COM.Sit.1: En situación normal (%),Dic-2025,93.08,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,situacion_deudores,C.COM.Sit.2: Con seguimiento especial (%),Dic-2025,0.69,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,situacion_deudores,C.COM.Sit.3: Con problemas (%),Dic-2025,1.32,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,situacion_deudores,C.COM.Sit.4: Con alto riesgo de insolvencia (%),Dic-2025,4.05,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,situacion_deudores,C.COM.Sit.5: Irrecuperable (%),Dic-2025,0.86,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,situacion_deudores,C.COM.TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Dic-2025,4.92,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,situacion_deudores,CARTERA DE CONSUMO O VIVIENDA ($),Dic-2025,2243285.19,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,situacion_deudores,Total cartera sobre financiaciones (%),Dic-2025,70.3,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,situacion_deudores,C.CON.Sit.1: En situación normal (%),Dic-2025,87.62,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,situacion_deudores,C.CON.Sit.2: Riesgo bajo (%),Dic-2025,4.37,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,situacion_deudores,C.CON.Sit.3: Riesgo medio (%),Dic-2025,3.48,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,situacion_deudores,C.CON.Sit.4: Riesgo alto (%),Dic-2025,3.79,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,situacion_deudores,C.CON.Sit.5: Irrecuperable (%),Dic-2025,0.74,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,situacion_deudores,C.CON.TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Dic-2025,28.09,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,situacion_deudores,CARTERA COMERCIAL ASIMILABLE A CONSUMO ($),Dic-2025,384555.0,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,situacion_deudores,Total cartera sobre financiaciones (%),Dic-2025,12.05,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,situacion_deudores,C.CAC.Sit.1: En situación normal (%),Dic-2025,94.68,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,situacion_deudores,C.CAC.Sit.2: Riesgo bajo (%),Dic-2025,2.43,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,situacion_deudores,C.CAC.Sit.3: Riesgo medio (%),Dic-2025,1.39,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,situacion_deudores,C.CAC.Sit.4: Riesgo alto (%),Dic-2025,1.3,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,situacion_deudores,C.CAC.Sit.5: Irrecuperable (%),Dic-2025,0.2,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,situacion_deudores,C.CAC.TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Dic-2025,10.11,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,situacion_deudores,TOTAL DE FINANCIACIONES Y GARANTIAS OTORGADAS ($),Ene-2026,3175871.77,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,situacion_deudores,TF.Sit.1: En situación normal (%),Ene-2026,88.91,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,situacion_deudores,TF.Sit.2: Con seguimiento especial/Riesgo bajo (%),Ene-2026,2.75,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,situacion_deudores,TF.Sit.3: Con problemas/Riesgo medio (%),Ene-2026,4.11,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,situacion_deudores,TF.Sit.4: Con alto riesgo de insolvencia/Riesgo alto (%),Ene-2026,3.28,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,situacion_deudores,TF.Sit.5: Irrecuperable (%),Ene-2026,0.94,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,situacion_deudores,TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Ene-2026,22.25,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,situacion_deudores,Previsiones por riesgo de incobrabilidad constituídas,Ene-2026,177049.79,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,situacion_deudores,CARTERA COMERCIAL ($),Ene-2026,516757.79,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,situacion_deudores,Total cartera sobre financiaciones (%),Ene-2026,16.27,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,situacion_deudores,C.COM.Sit.1: En situación normal (%),Ene-2026,92.5,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,situacion_deudores,C.COM.Sit.2: Con seguimiento especial (%),Ene-2026,0.75,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,situacion_deudores,C.COM.Sit.3: Con problemas (%),Ene-2026,4.89,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,situacion_deudores,C.COM.Sit.4: Con alto riesgo de insolvencia (%),Ene-2026,0.92,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,situacion_deudores,C.COM.Sit.5: Irrecuperable (%),Ene-2026,0.94,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,situacion_deudores,C.COM.TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Ene-2026,5.4,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,situacion_deudores,CARTERA DE CONSUMO O VIVIENDA ($),Ene-2026,2263366.68,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,situacion_deudores,Total cartera sobre financiaciones (%),Ene-2026,71.27,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,situacion_deudores,C.CON.Sit.1: En situación normal (%),Ene-2026,87.1,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,situacion_deudores,C.CON.Sit.2: Riesgo bajo (%),Ene-2026,3.43,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,situacion_deudores,C.CON.Sit.3: Riesgo medio (%),Ene-2026,4.3,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,situacion_deudores,C.CON.Sit.4: Riesgo alto (%),Ene-2026,4.11,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,situacion_deudores,C.CON.Sit.5: Irrecuperable (%),Ene-2026,1.06,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,situacion_deudores,C.CON.TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Ene-2026,28.31,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,situacion_deudores,CARTERA COMERCIAL ASIMILABLE A CONSUMO ($),Ene-2026,395747.3,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,situacion_deudores,Total cartera sobre financiaciones (%),Ene-2026,12.46,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,situacion_deudores,C.CAC.Sit.1: En situación normal (%),Ene-2026,94.59,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,situacion_deudores,C.CAC.Sit.2: Riesgo bajo (%),Ene-2026,1.52,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,situacion_deudores,C.CAC.Sit.3: Riesgo medio (%),Ene-2026,2.02,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,situacion_deudores,C.CAC.Sit.4: Riesgo alto (%),Ene-2026,1.61,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,situacion_deudores,C.CAC.Sit.5: Irrecuperable (%),Ene-2026,0.26,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,situacion_deudores,C.CAC.TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Ene-2026,9.55,2026-04-19

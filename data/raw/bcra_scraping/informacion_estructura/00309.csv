@@ -1,0 +1,94 @@
+codigo_bcra,nombre_banco,tipo_entidad,fuente,variable,periodo,valor,scraping_fecha
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,informacion_estructura,Cantidad de operaciones por otros préstamos,Dic-2023,65243.0,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,informacion_estructura,Dotación de personal,Dic-2023,342.0,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,informacion_estructura,Cantidad de titulares por tarjetas de crédito,Dic-2023,21513.0,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,informacion_estructura,Cantidad de tarjetas de crédito (plásticos),Dic-2023,21513.0,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,informacion_estructura,Cantidad de tarjetas de débito,Dic-2023,218528.0,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,informacion_estructura,Cantidad de cuentas corrientes,Dic-2023,1483.0,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,informacion_estructura,Cantidad de cuentas de ahorro,Dic-2023,205170.0,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,informacion_estructura,Cantidad de cajas de ahorro de ayuda social,Dic-2023,31880.0,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,informacion_estructura,Cantidad de cuentas previsionales,Dic-2023,57452.0,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,informacion_estructura,Cantidad de operaciones a plazo fijo Individuos,Dic-2023,9265.0,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,informacion_estructura,Cantidad de operaciones a plazo fijo Empresas,Dic-2023,90.0,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,informacion_estructura,Cantidad de operaciones por préstamos hipotecarios,Dic-2023,45.0,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,informacion_estructura,Cantidad de operaciones por préstamos prendarios,Dic-2023,18.0,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,informacion_estructura,Cantidad de operaciones por otros préstamos,Dic-2024,72646.0,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,informacion_estructura,Dotación de personal,Dic-2024,346.0,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,informacion_estructura,Cantidad de titulares por tarjetas de crédito,Dic-2024,23235.0,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,informacion_estructura,Cantidad de tarjetas de crédito (plásticos),Dic-2024,23235.0,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,informacion_estructura,Cantidad de tarjetas de débito,Dic-2024,229679.0,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,informacion_estructura,Cantidad de cuentas corrientes,Dic-2024,1594.0,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,informacion_estructura,Cantidad de cuentas de ahorro,Dic-2024,213765.0,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,informacion_estructura,Cantidad de cajas de ahorro de ayuda social,Dic-2024,33632.0,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,informacion_estructura,Cantidad de cuentas previsionales,Dic-2024,59945.0,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,informacion_estructura,Cantidad de operaciones a plazo fijo Individuos,Dic-2024,6171.0,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,informacion_estructura,Cantidad de operaciones a plazo fijo Empresas,Dic-2024,61.0,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,informacion_estructura,Cantidad de operaciones por préstamos hipotecarios,Dic-2024,16.0,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,informacion_estructura,Cantidad de operaciones por préstamos prendarios,Dic-2024,2.0,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,informacion_estructura,Cantidad de operaciones por otros préstamos,Jun-2025,75689.0,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,informacion_estructura,Dotación de personal,Jun-2025,350.0,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,informacion_estructura,Cantidad de titulares por tarjetas de crédito,Jun-2025,22796.0,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,informacion_estructura,Cantidad de tarjetas de crédito (plásticos),Jun-2025,22796.0,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,informacion_estructura,Cantidad de tarjetas de débito,Jun-2025,223155.0,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,informacion_estructura,Cantidad de cuentas corrientes,Jun-2025,1568.0,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,informacion_estructura,Cantidad de cuentas de ahorro,Jun-2025,210682.0,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,informacion_estructura,Cantidad de cajas de ahorro de ayuda social,Jun-2025,34222.0,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,informacion_estructura,Cantidad de cuentas previsionales,Jun-2025,59522.0,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,informacion_estructura,Cantidad de operaciones a plazo fijo Individuos,Jun-2025,5509.0,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,informacion_estructura,Cantidad de operaciones a plazo fijo Empresas,Jun-2025,54.0,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,informacion_estructura,Cantidad de operaciones por préstamos hipotecarios,Jun-2025,17.0,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,informacion_estructura,Cantidad de operaciones por préstamos prendarios,Jun-2025,3.0,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,informacion_estructura,Cantidad de operaciones por otros préstamos,Set-2025,76382.0,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,informacion_estructura,Dotación de personal,Set-2025,346.0,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,informacion_estructura,Cantidad de titulares por tarjetas de crédito,Set-2025,27384.0,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,informacion_estructura,Cantidad de tarjetas de crédito (plásticos),Set-2025,27384.0,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,informacion_estructura,Cantidad de tarjetas de débito,Set-2025,211181.0,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,informacion_estructura,Cantidad de cuentas corrientes,Set-2025,1548.0,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,informacion_estructura,Cantidad de cuentas de ahorro,Set-2025,199109.0,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,informacion_estructura,Cantidad de cajas de ahorro de ayuda social,Set-2025,34147.0,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,informacion_estructura,Cantidad de cuentas previsionales,Set-2025,47744.0,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,informacion_estructura,Cantidad de operaciones a plazo fijo Individuos,Set-2025,5882.0,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,informacion_estructura,Cantidad de operaciones a plazo fijo Empresas,Set-2025,68.0,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,informacion_estructura,Cantidad de operaciones por préstamos hipotecarios,Set-2025,19.0,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,informacion_estructura,Cantidad de operaciones por préstamos prendarios,Set-2025,7.0,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,informacion_estructura,Cantidad de operaciones por otros préstamos,Dic-2025,77297.0,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,informacion_estructura,Dotación de personal,Dic-2025,346.0,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,informacion_estructura,Cantidad de titulares por tarjetas de crédito,Dic-2025,25448.0,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,informacion_estructura,Cantidad de tarjetas de crédito (plásticos),Dic-2025,25448.0,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,informacion_estructura,Cantidad de tarjetas de débito,Dic-2025,200390.0,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,informacion_estructura,Cantidad de cuentas corrientes,Dic-2025,1517.0,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,informacion_estructura,Cantidad de cuentas de ahorro,Dic-2025,203838.0,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,informacion_estructura,Cantidad de cajas de ahorro de ayuda social,Dic-2025,34884.0,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,informacion_estructura,Cantidad de cuentas previsionales,Dic-2025,52182.0,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,informacion_estructura,Cantidad de operaciones a plazo fijo Individuos,Dic-2025,5277.0,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,informacion_estructura,Cantidad de operaciones a plazo fijo Empresas,Dic-2025,60.0,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,informacion_estructura,Cantidad de operaciones por préstamos hipotecarios,Dic-2025,28.0,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,informacion_estructura,Cantidad de operaciones por préstamos prendarios,Dic-2025,7.0,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,informacion_estructura,Cantidad de Cuentas,Dic-2023,102744.0,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,informacion_estructura,Cantidad de Empresas,Dic-2023,232.0,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,informacion_estructura,Cantidad de Cuentas,Dic-2024,99511.0,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,informacion_estructura,Cantidad de Empresas,Dic-2024,235.0,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,informacion_estructura,Cantidad de Cuentas,Nov-2025,97774.0,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,informacion_estructura,Cantidad de Empresas,Nov-2025,233.0,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,informacion_estructura,Cantidad de Cuentas,Dic-2025,98009.0,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,informacion_estructura,Cantidad de Empresas,Dic-2025,243.0,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,informacion_estructura,Cantidad de Cuentas,Ene-2026,97643.0,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,informacion_estructura,Cantidad de Empresas,Ene-2026,229.0,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,informacion_estructura,CABA,Habilitadas,1.0,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,informacion_estructura,LA RIOJA,Habilitadas,6.0,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,informacion_estructura,CABA,Habilitadas,,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,informacion_estructura,LA RIOJA,Habilitadas,,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,informacion_estructura,CABA,Habilitadas,,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,informacion_estructura,LA RIOJA,Habilitadas,,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,informacion_estructura,CABA,Habilitadas,,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,informacion_estructura,LA RIOJA,Habilitadas,109.0,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,informacion_estructura,CABA,Habilitadas,,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,informacion_estructura,LA RIOJA,Habilitadas,,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,informacion_estructura,CABA,Habilitadas,,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,informacion_estructura,LA RIOJA,Habilitadas,,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,informacion_estructura,CABA,Habilitadas,,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,informacion_estructura,LA RIOJA,Habilitadas,7.0,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,informacion_estructura,CABA,Pendientes de habilitación,,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,informacion_estructura,LA RIOJA,Pendientes de habilitación,,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,informacion_estructura,CABA,Total,1.0,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,informacion_estructura,LA RIOJA,Total,6.0,2026-04-19

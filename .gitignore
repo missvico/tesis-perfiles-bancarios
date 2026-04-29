@@ -1,0 +1,22 @@
+# Entorno virtual de Python
+venv/
+.venv/
+
+# Cache de Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Notebooks — checkpoints automáticos
+.ipynb_checkpoints/
+
+# Backups manuales del notebook
+*.ipynb.bak
+
+# macOS
+.DS_Store
+
+# Configuración local del editor / Claude Code
+.claude/
+.vscode/
+.idea/

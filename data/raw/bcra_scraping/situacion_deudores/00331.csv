@@ -1,0 +1,26 @@
+codigo_bcra,nombre_banco,tipo_entidad,fuente,variable,periodo,valor,scraping_fecha
+00331,BANCO CETELEM ARGENTINA S.A.,extranjero,situacion_deudores,TOTAL DE FINANCIACIONES Y GARANTIAS OTORGADAS ($),Dic-2023,499.36,2026-04-19
+00331,BANCO CETELEM ARGENTINA S.A.,extranjero,situacion_deudores,TF.Sit.1: En situación normal (%),Dic-2023,100.0,2026-04-19
+00331,BANCO CETELEM ARGENTINA S.A.,extranjero,situacion_deudores,CARTERA COMERCIAL ($),Dic-2023,499.36,2026-04-19
+00331,BANCO CETELEM ARGENTINA S.A.,extranjero,situacion_deudores,Total cartera sobre financiaciones (%),Dic-2023,100.0,2026-04-19
+00331,BANCO CETELEM ARGENTINA S.A.,extranjero,situacion_deudores,C.COM.Sit.1: En situación normal (%),Dic-2023,100.0,2026-04-19
+00331,BANCO CETELEM ARGENTINA S.A.,extranjero,situacion_deudores,TOTAL DE FINANCIACIONES Y GARANTIAS OTORGADAS ($),Dic-2024,2127.78,2026-04-19
+00331,BANCO CETELEM ARGENTINA S.A.,extranjero,situacion_deudores,TF.Sit.1: En situación normal (%),Dic-2024,100.0,2026-04-19
+00331,BANCO CETELEM ARGENTINA S.A.,extranjero,situacion_deudores,CARTERA COMERCIAL ($),Dic-2024,2127.78,2026-04-19
+00331,BANCO CETELEM ARGENTINA S.A.,extranjero,situacion_deudores,Total cartera sobre financiaciones (%),Dic-2024,100.0,2026-04-19
+00331,BANCO CETELEM ARGENTINA S.A.,extranjero,situacion_deudores,C.COM.Sit.1: En situación normal (%),Dic-2024,100.0,2026-04-19
+00331,BANCO CETELEM ARGENTINA S.A.,extranjero,situacion_deudores,TOTAL DE FINANCIACIONES Y GARANTIAS OTORGADAS ($),Nov-2025,4545.91,2026-04-19
+00331,BANCO CETELEM ARGENTINA S.A.,extranjero,situacion_deudores,TF.Sit.1: En situación normal (%),Nov-2025,100.0,2026-04-19
+00331,BANCO CETELEM ARGENTINA S.A.,extranjero,situacion_deudores,CARTERA COMERCIAL ($),Nov-2025,4545.91,2026-04-19
+00331,BANCO CETELEM ARGENTINA S.A.,extranjero,situacion_deudores,Total cartera sobre financiaciones (%),Nov-2025,100.0,2026-04-19
+00331,BANCO CETELEM ARGENTINA S.A.,extranjero,situacion_deudores,C.COM.Sit.1: En situación normal (%),Nov-2025,100.0,2026-04-19
+00331,BANCO CETELEM ARGENTINA S.A.,extranjero,situacion_deudores,TOTAL DE FINANCIACIONES Y GARANTIAS OTORGADAS ($),Dic-2025,4874.73,2026-04-19
+00331,BANCO CETELEM ARGENTINA S.A.,extranjero,situacion_deudores,TF.Sit.1: En situación normal (%),Dic-2025,100.0,2026-04-19
+00331,BANCO CETELEM ARGENTINA S.A.,extranjero,situacion_deudores,CARTERA COMERCIAL ($),Dic-2025,4874.73,2026-04-19
+00331,BANCO CETELEM ARGENTINA S.A.,extranjero,situacion_deudores,Total cartera sobre financiaciones (%),Dic-2025,100.0,2026-04-19
+00331,BANCO CETELEM ARGENTINA S.A.,extranjero,situacion_deudores,C.COM.Sit.1: En situación normal (%),Dic-2025,100.0,2026-04-19
+00331,BANCO CETELEM ARGENTINA S.A.,extranjero,situacion_deudores,TOTAL DE FINANCIACIONES Y GARANTIAS OTORGADAS ($),Ene-2026,4890.85,2026-04-19
+00331,BANCO CETELEM ARGENTINA S.A.,extranjero,situacion_deudores,TF.Sit.1: En situación normal (%),Ene-2026,100.0,2026-04-19
+00331,BANCO CETELEM ARGENTINA S.A.,extranjero,situacion_deudores,CARTERA COMERCIAL ($),Ene-2026,4890.85,2026-04-19
+00331,BANCO CETELEM ARGENTINA S.A.,extranjero,situacion_deudores,Total cartera sobre financiaciones (%),Ene-2026,100.0,2026-04-19
+00331,BANCO CETELEM ARGENTINA S.A.,extranjero,situacion_deudores,C.COM.Sit.1: En situación normal (%),Ene-2026,100.0,2026-04-19

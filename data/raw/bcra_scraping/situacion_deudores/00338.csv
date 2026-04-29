@@ -1,0 +1,151 @@
+codigo_bcra,nombre_banco,tipo_entidad,fuente,variable,periodo,valor,scraping_fecha
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,situacion_deudores,TOTAL DE FINANCIACIONES Y GARANTIAS OTORGADAS ($),Dic-2023,49993.43,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,situacion_deudores,TF.Sit.1: En situación normal (%),Dic-2023,99.83,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,situacion_deudores,TF.Sit.2: Con seguimiento especial/Riesgo bajo (%),Dic-2023,0.0,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,situacion_deudores,TF.Sit.3: Con problemas/Riesgo medio (%),Dic-2023,0.01,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,situacion_deudores,TF.Sit.4: Con alto riesgo de insolvencia/Riesgo alto (%),Dic-2023,0.15,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,situacion_deudores,TF.Sit.5: Irrecuperable (%),Dic-2023,0.0,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,situacion_deudores,TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Dic-2023,21.34,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,situacion_deudores,Previsiones por riesgo de incobrabilidad constituídas,Dic-2023,2553.88,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,situacion_deudores,CARTERA COMERCIAL ($),Dic-2023,37935.94,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,situacion_deudores,Total cartera sobre financiaciones (%),Dic-2023,75.88,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,situacion_deudores,C.COM.Sit.1: En situación normal (%),Dic-2023,100.0,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,situacion_deudores,C.COM.Sit.2: Con seguimiento especial (%),Dic-2023,0.0,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,situacion_deudores,C.COM.Sit.3: Con problemas (%),Dic-2023,0.0,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,situacion_deudores,C.COM.Sit.4: Con alto riesgo de insolvencia (%),Dic-2023,0.0,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,situacion_deudores,C.COM.TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Dic-2023,19.62,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,situacion_deudores,CARTERA DE CONSUMO O VIVIENDA ($),Dic-2023,224.61,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,situacion_deudores,Total cartera sobre financiaciones (%),Dic-2023,0.45,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,situacion_deudores,C.CON.Sit.1: En situación normal (%),Dic-2023,99.39,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,situacion_deudores,C.CON.Sit.2: Riesgo bajo (%),Dic-2023,0.17,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,situacion_deudores,C.CON.Sit.3: Riesgo medio (%),Dic-2023,0.28,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,situacion_deudores,C.CON.Sit.4: Riesgo alto (%),Dic-2023,0.16,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,situacion_deudores,C.CON.TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Dic-2023,14.67,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,situacion_deudores,CARTERA COMERCIAL ASIMILABLE A CONSUMO ($),Dic-2023,11832.87,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,situacion_deudores,Total cartera sobre financiaciones (%),Dic-2023,23.67,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,situacion_deudores,C.CAC.Sit.1: En situación normal (%),Dic-2023,99.3,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,situacion_deudores,C.CAC.Sit.2: Riesgo bajo (%),Dic-2023,0.0,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,situacion_deudores,C.CAC.Sit.3: Riesgo medio (%),Dic-2023,0.05,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,situacion_deudores,C.CAC.Sit.4: Riesgo alto (%),Dic-2023,0.64,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,situacion_deudores,C.CAC.Sit.5: Irrecuperable (%),Dic-2023,0.0,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,situacion_deudores,C.CAC.TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Dic-2023,26.99,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,situacion_deudores,TOTAL DE FINANCIACIONES Y GARANTIAS OTORGADAS ($),Dic-2024,168819.65,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,situacion_deudores,TF.Sit.1: En situación normal (%),Dic-2024,99.93,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,situacion_deudores,TF.Sit.2: Con seguimiento especial/Riesgo bajo (%),Dic-2024,0.0,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,situacion_deudores,TF.Sit.3: Con problemas/Riesgo medio (%),Dic-2024,0.0,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,situacion_deudores,TF.Sit.4: Con alto riesgo de insolvencia/Riesgo alto (%),Dic-2024,0.06,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,situacion_deudores,TF.Sit.5: Irrecuperable (%),Dic-2024,0.0,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,situacion_deudores,TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Dic-2024,12.0,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,situacion_deudores,Previsiones por riesgo de incobrabilidad constituídas,Dic-2024,3356.36,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,situacion_deudores,CARTERA COMERCIAL ($),Dic-2024,135506.85,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,situacion_deudores,Total cartera sobre financiaciones (%),Dic-2024,80.27,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,situacion_deudores,C.COM.Sit.1: En situación normal (%),Dic-2024,100.0,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,situacion_deudores,C.COM.Sit.2: Con seguimiento especial (%),Dic-2024,0.0,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,situacion_deudores,C.COM.Sit.3: Con problemas (%),Dic-2024,0.0,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,situacion_deudores,C.COM.Sit.4: Con alto riesgo de insolvencia (%),Dic-2024,0.0,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,situacion_deudores,C.COM.TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Dic-2024,13.65,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,situacion_deudores,CARTERA DE CONSUMO O VIVIENDA ($),Dic-2024,970.67,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,situacion_deudores,Total cartera sobre financiaciones (%),Dic-2024,0.57,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,situacion_deudores,C.CON.Sit.1: En situación normal (%),Dic-2024,99.75,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,situacion_deudores,C.CON.Sit.2: Riesgo bajo (%),Dic-2024,0.19,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,situacion_deudores,C.CON.Sit.3: Riesgo medio (%),Dic-2024,0.04,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,situacion_deudores,C.CON.Sit.4: Riesgo alto (%),Dic-2024,0.01,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,situacion_deudores,C.CON.TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Dic-2024,0.11,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,situacion_deudores,CARTERA COMERCIAL ASIMILABLE A CONSUMO ($),Dic-2024,32342.13,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,situacion_deudores,Total cartera sobre financiaciones (%),Dic-2024,19.16,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,situacion_deudores,C.CAC.Sit.1: En situación normal (%),Dic-2024,99.66,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,situacion_deudores,C.CAC.Sit.2: Riesgo bajo (%),Dic-2024,0.0,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,situacion_deudores,C.CAC.Sit.3: Riesgo medio (%),Dic-2024,0.0,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,situacion_deudores,C.CAC.Sit.4: Riesgo alto (%),Dic-2024,0.34,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,situacion_deudores,C.CAC.Sit.5: Irrecuperable (%),Dic-2024,0.0,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,situacion_deudores,C.CAC.TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Dic-2024,5.43,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,situacion_deudores,TOTAL DE FINANCIACIONES Y GARANTIAS OTORGADAS ($),Nov-2025,334290.19,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,situacion_deudores,TF.Sit.1: En situación normal (%),Nov-2025,98.4,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,situacion_deudores,TF.Sit.2: Con seguimiento especial/Riesgo bajo (%),Nov-2025,0.5,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,situacion_deudores,TF.Sit.3: Con problemas/Riesgo medio (%),Nov-2025,0.04,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,situacion_deudores,TF.Sit.4: Con alto riesgo de insolvencia/Riesgo alto (%),Nov-2025,1.03,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,situacion_deudores,TF.Sit.5: Irrecuperable (%),Nov-2025,0.03,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,situacion_deudores,TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Nov-2025,6.04,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,situacion_deudores,Previsiones por riesgo de incobrabilidad constituídas,Nov-2025,10484.77,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,situacion_deudores,CARTERA COMERCIAL ($),Nov-2025,254969.77,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,situacion_deudores,Total cartera sobre financiaciones (%),Nov-2025,76.27,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,situacion_deudores,C.COM.Sit.1: En situación normal (%),Nov-2025,98.66,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,situacion_deudores,C.COM.Sit.2: Con seguimiento especial (%),Nov-2025,0.0,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,situacion_deudores,C.COM.Sit.3: Con problemas (%),Nov-2025,0.0,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,situacion_deudores,C.COM.Sit.4: Con alto riesgo de insolvencia (%),Nov-2025,1.34,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,situacion_deudores,C.COM.TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Nov-2025,5.15,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,situacion_deudores,CARTERA DE CONSUMO O VIVIENDA ($),Nov-2025,5749.79,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,situacion_deudores,Total cartera sobre financiaciones (%),Nov-2025,1.72,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,situacion_deudores,C.CON.Sit.1: En situación normal (%),Nov-2025,94.54,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,situacion_deudores,C.CON.Sit.2: Riesgo bajo (%),Nov-2025,2.67,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,situacion_deudores,C.CON.Sit.3: Riesgo medio (%),Nov-2025,2.49,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,situacion_deudores,C.CON.Sit.4: Riesgo alto (%),Nov-2025,0.29,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,situacion_deudores,C.CON.TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Nov-2025,0.01,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,situacion_deudores,CARTERA COMERCIAL ASIMILABLE A CONSUMO ($),Nov-2025,73570.63,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,situacion_deudores,Total cartera sobre financiaciones (%),Nov-2025,22.01,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,situacion_deudores,C.CAC.Sit.1: En situación normal (%),Nov-2025,97.8,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,situacion_deudores,C.CAC.Sit.2: Riesgo bajo (%),Nov-2025,2.07,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,situacion_deudores,C.CAC.Sit.3: Riesgo medio (%),Nov-2025,0.0,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,situacion_deudores,C.CAC.Sit.4: Riesgo alto (%),Nov-2025,0.0,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,situacion_deudores,C.CAC.Sit.5: Irrecuperable (%),Nov-2025,0.12,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,situacion_deudores,C.CAC.TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Nov-2025,9.6,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,situacion_deudores,TOTAL DE FINANCIACIONES Y GARANTIAS OTORGADAS ($),Dic-2025,362740.42,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,situacion_deudores,TF.Sit.1: En situación normal (%),Dic-2025,98.45,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,situacion_deudores,TF.Sit.2: Con seguimiento especial/Riesgo bajo (%),Dic-2025,0.09,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,situacion_deudores,TF.Sit.3: Con problemas/Riesgo medio (%),Dic-2025,0.22,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,situacion_deudores,TF.Sit.4: Con alto riesgo de insolvencia/Riesgo alto (%),Dic-2025,1.21,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,situacion_deudores,TF.Sit.5: Irrecuperable (%),Dic-2025,0.02,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,situacion_deudores,TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Dic-2025,5.5,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,situacion_deudores,Previsiones por riesgo de incobrabilidad constituídas,Dic-2025,11684.33,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,situacion_deudores,CARTERA COMERCIAL ($),Dic-2025,285856.42,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,situacion_deudores,Total cartera sobre financiaciones (%),Dic-2025,78.8,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,situacion_deudores,C.COM.Sit.1: En situación normal (%),Dic-2025,98.83,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,situacion_deudores,C.COM.Sit.2: Con seguimiento especial (%),Dic-2025,0.0,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,situacion_deudores,C.COM.Sit.3: Con problemas (%),Dic-2025,0.0,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,situacion_deudores,C.COM.Sit.4: Con alto riesgo de insolvencia (%),Dic-2025,1.17,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,situacion_deudores,C.COM.TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Dic-2025,4.49,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,situacion_deudores,CARTERA DE CONSUMO O VIVIENDA ($),Dic-2025,5711.69,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,situacion_deudores,Total cartera sobre financiaciones (%),Dic-2025,1.57,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,situacion_deudores,C.CON.Sit.1: En situación normal (%),Dic-2025,93.46,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,situacion_deudores,C.CON.Sit.2: Riesgo bajo (%),Dic-2025,2.88,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,situacion_deudores,C.CON.Sit.3: Riesgo medio (%),Dic-2025,3.21,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,situacion_deudores,C.CON.Sit.4: Riesgo alto (%),Dic-2025,0.45,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,situacion_deudores,C.CON.TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Dic-2025,0.01,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,situacion_deudores,CARTERA COMERCIAL ASIMILABLE A CONSUMO ($),Dic-2025,71172.31,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,situacion_deudores,Total cartera sobre financiaciones (%),Dic-2025,19.62,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,situacion_deudores,C.CAC.Sit.1: En situación normal (%),Dic-2025,97.34,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,situacion_deudores,C.CAC.Sit.2: Riesgo bajo (%),Dic-2025,0.23,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,situacion_deudores,C.CAC.Sit.3: Riesgo medio (%),Dic-2025,0.88,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,situacion_deudores,C.CAC.Sit.4: Riesgo alto (%),Dic-2025,1.43,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,situacion_deudores,C.CAC.Sit.5: Irrecuperable (%),Dic-2025,0.12,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,situacion_deudores,C.CAC.TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Dic-2025,9.99,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,situacion_deudores,TOTAL DE FINANCIACIONES Y GARANTIAS OTORGADAS ($),Ene-2026,368000.2,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,situacion_deudores,TF.Sit.1: En situación normal (%),Ene-2026,98.0,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,situacion_deudores,TF.Sit.2: Con seguimiento especial/Riesgo bajo (%),Ene-2026,0.62,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,situacion_deudores,TF.Sit.3: Con problemas/Riesgo medio (%),Ene-2026,0.21,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,situacion_deudores,TF.Sit.4: Con alto riesgo de insolvencia/Riesgo alto (%),Ene-2026,1.15,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,situacion_deudores,TF.Sit.5: Irrecuperable (%),Ene-2026,0.02,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,situacion_deudores,TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Ene-2026,5.46,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,situacion_deudores,Previsiones por riesgo de incobrabilidad constituídas,Ene-2026,9242.75,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,situacion_deudores,CARTERA COMERCIAL ($),Ene-2026,308856.59,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,situacion_deudores,Total cartera sobre financiaciones (%),Ene-2026,83.93,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,situacion_deudores,C.COM.Sit.1: En situación normal (%),Ene-2026,98.92,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,situacion_deudores,C.COM.Sit.2: Con seguimiento especial (%),Ene-2026,0.0,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,situacion_deudores,C.COM.Sit.3: Con problemas (%),Ene-2026,0.0,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,situacion_deudores,C.COM.Sit.4: Con alto riesgo de insolvencia (%),Ene-2026,1.08,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,situacion_deudores,C.COM.TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Ene-2026,6.07,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,situacion_deudores,CARTERA DE CONSUMO O VIVIENDA ($),Ene-2026,8495.94,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,situacion_deudores,Total cartera sobre financiaciones (%),Ene-2026,2.31,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,situacion_deudores,C.CON.Sit.1: En situación normal (%),Ene-2026,95.49,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,situacion_deudores,C.CON.Sit.2: Riesgo bajo (%),Ene-2026,1.83,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,situacion_deudores,C.CON.Sit.3: Riesgo medio (%),Ene-2026,1.91,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,situacion_deudores,C.CON.Sit.4: Riesgo alto (%),Ene-2026,0.77,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,situacion_deudores,C.CON.TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Ene-2026,0.0,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,situacion_deudores,CARTERA COMERCIAL ASIMILABLE A CONSUMO ($),Ene-2026,50647.67,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,situacion_deudores,Total cartera sobre financiaciones (%),Ene-2026,13.76,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,situacion_deudores,C.CAC.Sit.1: En situación normal (%),Ene-2026,92.81,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,situacion_deudores,C.CAC.Sit.2: Riesgo bajo (%),Ene-2026,4.2,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,situacion_deudores,C.CAC.Sit.3: Riesgo medio (%),Ene-2026,1.24,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,situacion_deudores,C.CAC.Sit.4: Riesgo alto (%),Ene-2026,1.58,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,situacion_deudores,C.CAC.Sit.5: Irrecuperable (%),Ene-2026,0.17,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,situacion_deudores,C.CAC.TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Ene-2026,2.66,2026-04-19

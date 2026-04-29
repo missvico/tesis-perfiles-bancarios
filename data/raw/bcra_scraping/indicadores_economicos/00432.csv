@@ -1,0 +1,156 @@
+codigo_bcra,nombre_banco,tipo_entidad,fuente,variable,periodo,valor,scraping_fecha
+00432,BANCO DE COMERCIO S.A.,privado_nacional,indicadores_economicos,capital: C1 - Apalancamiento (en veces),Dic-2023,2.57,2026-04-19
+00432,BANCO DE COMERCIO S.A.,privado_nacional,indicadores_economicos,capital: C1 - Apalancamiento (en veces),Dic-2024,1.81,2026-04-19
+00432,BANCO DE COMERCIO S.A.,privado_nacional,indicadores_economicos,capital: C1 - Apalancamiento (en veces),Nov-2025,2.6,2026-04-19
+00432,BANCO DE COMERCIO S.A.,privado_nacional,indicadores_economicos,capital: C1 - Apalancamiento (en veces),Dic-2025,2.96,2026-04-19
+00432,BANCO DE COMERCIO S.A.,privado_nacional,indicadores_economicos,capital: C1 - Apalancamiento (en veces),Ene-2026,2.9,2026-04-19
+00432,BANCO DE COMERCIO S.A.,privado_nacional,indicadores_economicos,capital: C2 - Pérdida Potencial de Cartera en Situación 2 a 5 (%),Dic-2023,-0.45,2026-04-19
+00432,BANCO DE COMERCIO S.A.,privado_nacional,indicadores_economicos,capital: C2 - Pérdida Potencial de Cartera en Situación 2 a 5 (%),Dic-2024,6.79,2026-04-19
+00432,BANCO DE COMERCIO S.A.,privado_nacional,indicadores_economicos,capital: C2 - Pérdida Potencial de Cartera en Situación 2 a 5 (%),Nov-2025,9.44,2026-04-19
+00432,BANCO DE COMERCIO S.A.,privado_nacional,indicadores_economicos,capital: C2 - Pérdida Potencial de Cartera en Situación 2 a 5 (%),Dic-2025,6.14,2026-04-19
+00432,BANCO DE COMERCIO S.A.,privado_nacional,indicadores_economicos,capital: C2 - Pérdida Potencial de Cartera en Situación 2 a 5 (%),Ene-2026,6.23,2026-04-19
+00432,BANCO DE COMERCIO S.A.,privado_nacional,indicadores_economicos,capital: C3 - Pérdida Potencial de Cartera en Situación 3 a 5 (%),Dic-2023,-0.54,2026-04-19
+00432,BANCO DE COMERCIO S.A.,privado_nacional,indicadores_economicos,capital: C3 - Pérdida Potencial de Cartera en Situación 3 a 5 (%),Dic-2024,-0.88,2026-04-19
+00432,BANCO DE COMERCIO S.A.,privado_nacional,indicadores_economicos,capital: C3 - Pérdida Potencial de Cartera en Situación 3 a 5 (%),Nov-2025,-0.37,2026-04-19
+00432,BANCO DE COMERCIO S.A.,privado_nacional,indicadores_economicos,capital: C3 - Pérdida Potencial de Cartera en Situación 3 a 5 (%),Dic-2025,-0.45,2026-04-19
+00432,BANCO DE COMERCIO S.A.,privado_nacional,indicadores_economicos,capital: C3 - Pérdida Potencial de Cartera en Situación 3 a 5 (%),Ene-2026,-0.76,2026-04-19
+00432,BANCO DE COMERCIO S.A.,privado_nacional,indicadores_economicos,activos: A9 - Total Cartera Irregular / Total Financiaciones (%),Dic-2023,0.48,2026-04-19
+00432,BANCO DE COMERCIO S.A.,privado_nacional,indicadores_economicos,activos: A9 - Total Cartera Irregular / Total Financiaciones (%),Dic-2024,0.57,2026-04-19
+00432,BANCO DE COMERCIO S.A.,privado_nacional,indicadores_economicos,activos: A9 - Total Cartera Irregular / Total Financiaciones (%),Nov-2025,1.53,2026-04-19
+00432,BANCO DE COMERCIO S.A.,privado_nacional,indicadores_economicos,activos: A9 - Total Cartera Irregular / Total Financiaciones (%),Dic-2025,1.43,2026-04-19
+00432,BANCO DE COMERCIO S.A.,privado_nacional,indicadores_economicos,activos: A9 - Total Cartera Irregular / Total Financiaciones (%),Ene-2026,1.13,2026-04-19
+00432,BANCO DE COMERCIO S.A.,privado_nacional,indicadores_economicos,activos: A11 - Cartera Irregular Sector Privado (%),Dic-2023,0.53,2026-04-19
+00432,BANCO DE COMERCIO S.A.,privado_nacional,indicadores_economicos,activos: A11 - Cartera Irregular Sector Privado (%),Dic-2024,0.58,2026-04-19
+00432,BANCO DE COMERCIO S.A.,privado_nacional,indicadores_economicos,activos: A11 - Cartera Irregular Sector Privado (%),Nov-2025,1.58,2026-04-19
+00432,BANCO DE COMERCIO S.A.,privado_nacional,indicadores_economicos,activos: A11 - Cartera Irregular Sector Privado (%),Dic-2025,1.46,2026-04-19
+00432,BANCO DE COMERCIO S.A.,privado_nacional,indicadores_economicos,activos: A11 - Cartera Irregular Sector Privado (%),Ene-2026,1.21,2026-04-19
+00432,BANCO DE COMERCIO S.A.,privado_nacional,indicadores_economicos,activos: A12 - Participación Cartera Comercial Sector Privado (%),Dic-2023,91.18,2026-04-19
+00432,BANCO DE COMERCIO S.A.,privado_nacional,indicadores_economicos,activos: A12 - Participación Cartera Comercial Sector Privado (%),Dic-2024,91.05,2026-04-19
+00432,BANCO DE COMERCIO S.A.,privado_nacional,indicadores_economicos,activos: A12 - Participación Cartera Comercial Sector Privado (%),Nov-2025,88.13,2026-04-19
+00432,BANCO DE COMERCIO S.A.,privado_nacional,indicadores_economicos,activos: A12 - Participación Cartera Comercial Sector Privado (%),Dic-2025,88.87,2026-04-19
+00432,BANCO DE COMERCIO S.A.,privado_nacional,indicadores_economicos,activos: A12 - Participación Cartera Comercial Sector Privado (%),Ene-2026,89.13,2026-04-19
+00432,BANCO DE COMERCIO S.A.,privado_nacional,indicadores_economicos,activos: A13 - Participación Cartera Consumo Sector Privado (%),Dic-2023,8.82,2026-04-19
+00432,BANCO DE COMERCIO S.A.,privado_nacional,indicadores_economicos,activos: A13 - Participación Cartera Consumo Sector Privado (%),Dic-2024,10.04,2026-04-19
+00432,BANCO DE COMERCIO S.A.,privado_nacional,indicadores_economicos,activos: A13 - Participación Cartera Consumo Sector Privado (%),Nov-2025,11.87,2026-04-19
+00432,BANCO DE COMERCIO S.A.,privado_nacional,indicadores_economicos,activos: A13 - Participación Cartera Consumo Sector Privado (%),Dic-2025,11.15,2026-04-19
+00432,BANCO DE COMERCIO S.A.,privado_nacional,indicadores_economicos,activos: A13 - Participación Cartera Consumo Sector Privado (%),Ene-2026,10.87,2026-04-19
+00432,BANCO DE COMERCIO S.A.,privado_nacional,indicadores_economicos,activos: A14 - Previsiones sobre Cartera Irregular Total (%),Dic-2023,238.72,2026-04-19
+00432,BANCO DE COMERCIO S.A.,privado_nacional,indicadores_economicos,activos: A14 - Previsiones sobre Cartera Irregular Total (%),Dic-2024,247.53,2026-04-19
+00432,BANCO DE COMERCIO S.A.,privado_nacional,indicadores_economicos,activos: A14 - Previsiones sobre Cartera Irregular Total (%),Nov-2025,110.88,2026-04-19
+00432,BANCO DE COMERCIO S.A.,privado_nacional,indicadores_economicos,activos: A14 - Previsiones sobre Cartera Irregular Total (%),Dic-2025,113.61,2026-04-19
+00432,BANCO DE COMERCIO S.A.,privado_nacional,indicadores_economicos,activos: A14 - Previsiones sobre Cartera Irregular Total (%),Ene-2026,129.9,2026-04-19
+00432,BANCO DE COMERCIO S.A.,privado_nacional,indicadores_economicos,activos: A16 - Cartera Irregular Consumo Sector Privado (%),Dic-2023,3.15,2026-04-19
+00432,BANCO DE COMERCIO S.A.,privado_nacional,indicadores_economicos,activos: A16 - Cartera Irregular Consumo Sector Privado (%),Dic-2024,3.04,2026-04-19
+00432,BANCO DE COMERCIO S.A.,privado_nacional,indicadores_economicos,activos: A16 - Cartera Irregular Consumo Sector Privado (%),Nov-2025,4.93,2026-04-19
+00432,BANCO DE COMERCIO S.A.,privado_nacional,indicadores_economicos,activos: A16 - Cartera Irregular Consumo Sector Privado (%),Dic-2025,4.94,2026-04-19
+00432,BANCO DE COMERCIO S.A.,privado_nacional,indicadores_economicos,activos: A16 - Cartera Irregular Consumo Sector Privado (%),Ene-2026,6.4,2026-04-19
+00432,BANCO DE COMERCIO S.A.,privado_nacional,indicadores_economicos,activos: A17 - Cartera Irregular Comercial Sector Privado (%),Dic-2023,0.27,2026-04-19
+00432,BANCO DE COMERCIO S.A.,privado_nacional,indicadores_economicos,activos: A17 - Cartera Irregular Comercial Sector Privado (%),Dic-2024,0.31,2026-04-19
+00432,BANCO DE COMERCIO S.A.,privado_nacional,indicadores_economicos,activos: A17 - Cartera Irregular Comercial Sector Privado (%),Nov-2025,1.13,2026-04-19
+00432,BANCO DE COMERCIO S.A.,privado_nacional,indicadores_economicos,activos: A17 - Cartera Irregular Comercial Sector Privado (%),Dic-2025,1.02,2026-04-19
+00432,BANCO DE COMERCIO S.A.,privado_nacional,indicadores_economicos,activos: A17 - Cartera Irregular Comercial Sector Privado (%),Ene-2026,0.58,2026-04-19
+00432,BANCO DE COMERCIO S.A.,privado_nacional,indicadores_economicos,activos: A21 - Posición de Previsiones Mín Sector Priv No Fciero (%),Dic-2023,5.61,2026-04-19
+00432,BANCO DE COMERCIO S.A.,privado_nacional,indicadores_economicos,activos: A21 - Posición de Previsiones Mín Sector Priv No Fciero (%),Dic-2024,1.45,2026-04-19
+00432,BANCO DE COMERCIO S.A.,privado_nacional,indicadores_economicos,activos: A21 - Posición de Previsiones Mín Sector Priv No Fciero (%),Nov-2025,0.48,2026-04-19
+00432,BANCO DE COMERCIO S.A.,privado_nacional,indicadores_economicos,activos: A21 - Posición de Previsiones Mín Sector Priv No Fciero (%),Dic-2025,-1.39,2026-04-19
+00432,BANCO DE COMERCIO S.A.,privado_nacional,indicadores_economicos,activos: A21 - Posición de Previsiones Mín Sector Priv No Fciero (%),Ene-2026,1.53,2026-04-19
+00432,BANCO DE COMERCIO S.A.,privado_nacional,indicadores_economicos,activos: AG3 - Importancia de Cartera Vencida del Sector Privado (%),Dic-2023,0.03,2026-04-19
+00432,BANCO DE COMERCIO S.A.,privado_nacional,indicadores_economicos,activos: AG3 - Importancia de Cartera Vencida del Sector Privado (%),Dic-2024,0.05,2026-04-19
+00432,BANCO DE COMERCIO S.A.,privado_nacional,indicadores_economicos,activos: AG3 - Importancia de Cartera Vencida del Sector Privado (%),Nov-2025,0.75,2026-04-19
+00432,BANCO DE COMERCIO S.A.,privado_nacional,indicadores_economicos,activos: AG3 - Importancia de Cartera Vencida del Sector Privado (%),Dic-2025,0.71,2026-04-19
+00432,BANCO DE COMERCIO S.A.,privado_nacional,indicadores_economicos,activos: AG3 - Importancia de Cartera Vencida del Sector Privado (%),Ene-2026,0.06,2026-04-19
+00432,BANCO DE COMERCIO S.A.,privado_nacional,indicadores_economicos,activos: AG29 - Efectivo y Depósito en Bancos / Activo (%),Dic-2023,38.34,2026-04-19
+00432,BANCO DE COMERCIO S.A.,privado_nacional,indicadores_economicos,activos: AG29 - Efectivo y Depósito en Bancos / Activo (%),Dic-2024,13.65,2026-04-19
+00432,BANCO DE COMERCIO S.A.,privado_nacional,indicadores_economicos,activos: AG29 - Efectivo y Depósito en Bancos / Activo (%),Nov-2025,8.6,2026-04-19
+00432,BANCO DE COMERCIO S.A.,privado_nacional,indicadores_economicos,activos: AG29 - Efectivo y Depósito en Bancos / Activo (%),Dic-2025,7.06,2026-04-19
+00432,BANCO DE COMERCIO S.A.,privado_nacional,indicadores_economicos,activos: AG29 - Efectivo y Depósito en Bancos / Activo (%),Ene-2026,7.05,2026-04-19
+00432,BANCO DE COMERCIO S.A.,privado_nacional,indicadores_economicos,eficiencia: E1 - Absorción de Gastos de Ad. con Volúmen de Negocio (%),Dic-2023,22.94,2026-04-19
+00432,BANCO DE COMERCIO S.A.,privado_nacional,indicadores_economicos,eficiencia: E1 - Absorción de Gastos de Ad. con Volúmen de Negocio (%),Dic-2024,23.32,2026-04-19
+00432,BANCO DE COMERCIO S.A.,privado_nacional,indicadores_economicos,eficiencia: E1 - Absorción de Gastos de Ad. con Volúmen de Negocio (%),Nov-2025,11.66,2026-04-19
+00432,BANCO DE COMERCIO S.A.,privado_nacional,indicadores_economicos,eficiencia: E1 - Absorción de Gastos de Ad. con Volúmen de Negocio (%),Dic-2025,11.13,2026-04-19
+00432,BANCO DE COMERCIO S.A.,privado_nacional,indicadores_economicos,eficiencia: E1 - Absorción de Gastos de Ad. con Volúmen de Negocio (%),Ene-2026,11.54,2026-04-19
+00432,BANCO DE COMERCIO S.A.,privado_nacional,indicadores_economicos,eficiencia: E2 - Margen de Rentabilidad Operat./Gastos de Estructura (%),Dic-2023,262.3,2026-04-19
+00432,BANCO DE COMERCIO S.A.,privado_nacional,indicadores_economicos,eficiencia: E2 - Margen de Rentabilidad Operat./Gastos de Estructura (%),Dic-2024,189.42,2026-04-19
+00432,BANCO DE COMERCIO S.A.,privado_nacional,indicadores_economicos,eficiencia: E2 - Margen de Rentabilidad Operat./Gastos de Estructura (%),Nov-2025,78.39,2026-04-19
+00432,BANCO DE COMERCIO S.A.,privado_nacional,indicadores_economicos,eficiencia: E2 - Margen de Rentabilidad Operat./Gastos de Estructura (%),Dic-2025,95.82,2026-04-19
+00432,BANCO DE COMERCIO S.A.,privado_nacional,indicadores_economicos,eficiencia: E2 - Margen de Rentabilidad Operat./Gastos de Estructura (%),Ene-2026,87.14,2026-04-19
+00432,BANCO DE COMERCIO S.A.,privado_nacional,indicadores_economicos,eficiencia: E4 - Depósitos por Empleado (en millones de pesos),Dic-2023,124.26,2026-04-19
+00432,BANCO DE COMERCIO S.A.,privado_nacional,indicadores_economicos,eficiencia: E4 - Depósitos por Empleado (en millones de pesos),Dic-2024,182.32,2026-04-19
+00432,BANCO DE COMERCIO S.A.,privado_nacional,indicadores_economicos,eficiencia: E4 - Depósitos por Empleado (en millones de pesos),Nov-2025,451.4,2026-04-19
+00432,BANCO DE COMERCIO S.A.,privado_nacional,indicadores_economicos,eficiencia: E4 - Depósitos por Empleado (en millones de pesos),Dic-2025,461.78,2026-04-19
+00432,BANCO DE COMERCIO S.A.,privado_nacional,indicadores_economicos,eficiencia: E4 - Depósitos por Empleado (en millones de pesos),Ene-2026,446.24,2026-04-19
+00432,BANCO DE COMERCIO S.A.,privado_nacional,indicadores_economicos,eficiencia: E5 - Financiaciones por Empleado (en millones de pesos),Dic-2023,64.22,2026-04-19
+00432,BANCO DE COMERCIO S.A.,privado_nacional,indicadores_economicos,eficiencia: E5 - Financiaciones por Empleado (en millones de pesos),Dic-2024,208.18,2026-04-19
+00432,BANCO DE COMERCIO S.A.,privado_nacional,indicadores_economicos,eficiencia: E5 - Financiaciones por Empleado (en millones de pesos),Nov-2025,622.86,2026-04-19
+00432,BANCO DE COMERCIO S.A.,privado_nacional,indicadores_economicos,eficiencia: E5 - Financiaciones por Empleado (en millones de pesos),Dic-2025,668.59,2026-04-19
+00432,BANCO DE COMERCIO S.A.,privado_nacional,indicadores_economicos,eficiencia: E5 - Financiaciones por Empleado (en millones de pesos),Ene-2026,690.15,2026-04-19
+00432,BANCO DE COMERCIO S.A.,privado_nacional,indicadores_economicos,rentabilidad: R1 - Rendimiento Anual del Patrimonio ( ROE) (%),Dic-2023,81.3,2026-04-19
+00432,BANCO DE COMERCIO S.A.,privado_nacional,indicadores_economicos,rentabilidad: R1 - Rendimiento Anual del Patrimonio ( ROE) (%),Dic-2024,5.95,2026-04-19
+00432,BANCO DE COMERCIO S.A.,privado_nacional,indicadores_economicos,rentabilidad: R1 - Rendimiento Anual del Patrimonio ( ROE) (%),Nov-2025,14.59,2026-04-19
+00432,BANCO DE COMERCIO S.A.,privado_nacional,indicadores_economicos,rentabilidad: R1 - Rendimiento Anual del Patrimonio ( ROE) (%),Dic-2025,18.08,2026-04-19
+00432,BANCO DE COMERCIO S.A.,privado_nacional,indicadores_economicos,rentabilidad: R1 - Rendimiento Anual del Patrimonio ( ROE) (%),Ene-2026,13.73,2026-04-19
+00432,BANCO DE COMERCIO S.A.,privado_nacional,indicadores_economicos,rentabilidad: R2 - Rendimiento Ordinario del Patrimonio (%),Dic-2023,190.1,2026-04-19
+00432,BANCO DE COMERCIO S.A.,privado_nacional,indicadores_economicos,rentabilidad: R2 - Rendimiento Ordinario del Patrimonio (%),Dic-2024,75.64,2026-04-19
+00432,BANCO DE COMERCIO S.A.,privado_nacional,indicadores_economicos,rentabilidad: R2 - Rendimiento Ordinario del Patrimonio (%),Nov-2025,34.21,2026-04-19
+00432,BANCO DE COMERCIO S.A.,privado_nacional,indicadores_economicos,rentabilidad: R2 - Rendimiento Ordinario del Patrimonio (%),Dic-2025,40.91,2026-04-19
+00432,BANCO DE COMERCIO S.A.,privado_nacional,indicadores_economicos,rentabilidad: R2 - Rendimiento Ordinario del Patrimonio (%),Ene-2026,37.27,2026-04-19
+00432,BANCO DE COMERCIO S.A.,privado_nacional,indicadores_economicos,rentabilidad: R8 - Tasa Implicita Préstamos Totales (%),Dic-2023,88.91,2026-04-19
+00432,BANCO DE COMERCIO S.A.,privado_nacional,indicadores_economicos,rentabilidad: R8 - Tasa Implicita Préstamos Totales (%),Dic-2024,63.7,2026-04-19
+00432,BANCO DE COMERCIO S.A.,privado_nacional,indicadores_economicos,rentabilidad: R8 - Tasa Implicita Préstamos Totales (%),Nov-2025,43.46,2026-04-19
+00432,BANCO DE COMERCIO S.A.,privado_nacional,indicadores_economicos,rentabilidad: R8 - Tasa Implicita Préstamos Totales (%),Dic-2025,44.06,2026-04-19
+00432,BANCO DE COMERCIO S.A.,privado_nacional,indicadores_economicos,rentabilidad: R8 - Tasa Implicita Préstamos Totales (%),Ene-2026,44.7,2026-04-19
+00432,BANCO DE COMERCIO S.A.,privado_nacional,indicadores_economicos,rentabilidad: R9 - Tasa Implicita Depósitos Totales (%),Dic-2023,117.3,2026-04-19
+00432,BANCO DE COMERCIO S.A.,privado_nacional,indicadores_economicos,rentabilidad: R9 - Tasa Implicita Depósitos Totales (%),Dic-2024,15.95,2026-04-19
+00432,BANCO DE COMERCIO S.A.,privado_nacional,indicadores_economicos,rentabilidad: R9 - Tasa Implicita Depósitos Totales (%),Nov-2025,12.51,2026-04-19
+00432,BANCO DE COMERCIO S.A.,privado_nacional,indicadores_economicos,rentabilidad: R9 - Tasa Implicita Depósitos Totales (%),Dic-2025,12.3,2026-04-19
+00432,BANCO DE COMERCIO S.A.,privado_nacional,indicadores_economicos,rentabilidad: R9 - Tasa Implicita Depósitos Totales (%),Ene-2026,12.2,2026-04-19
+00432,BANCO DE COMERCIO S.A.,privado_nacional,indicadores_economicos,rentabilidad: R17 - Gastos en Personal / Gastos de Administración (%),Dic-2023,50.74,2026-04-19
+00432,BANCO DE COMERCIO S.A.,privado_nacional,indicadores_economicos,rentabilidad: R17 - Gastos en Personal / Gastos de Administración (%),Dic-2024,52.26,2026-04-19
+00432,BANCO DE COMERCIO S.A.,privado_nacional,indicadores_economicos,rentabilidad: R17 - Gastos en Personal / Gastos de Administración (%),Nov-2025,49.28,2026-04-19
+00432,BANCO DE COMERCIO S.A.,privado_nacional,indicadores_economicos,rentabilidad: R17 - Gastos en Personal / Gastos de Administración (%),Dic-2025,50.22,2026-04-19
+00432,BANCO DE COMERCIO S.A.,privado_nacional,indicadores_economicos,rentabilidad: R17 - Gastos en Personal / Gastos de Administración (%),Ene-2026,50.16,2026-04-19
+00432,BANCO DE COMERCIO S.A.,privado_nacional,indicadores_economicos,rentabilidad: RG1 - Retorno sobre Activos ( ROA) (%),Dic-2023,19.7,2026-04-19
+00432,BANCO DE COMERCIO S.A.,privado_nacional,indicadores_economicos,rentabilidad: RG1 - Retorno sobre Activos ( ROA) (%),Dic-2024,1.83,2026-04-19
+00432,BANCO DE COMERCIO S.A.,privado_nacional,indicadores_economicos,rentabilidad: RG1 - Retorno sobre Activos ( ROA) (%),Nov-2025,3.92,2026-04-19
+00432,BANCO DE COMERCIO S.A.,privado_nacional,indicadores_economicos,rentabilidad: RG1 - Retorno sobre Activos ( ROA) (%),Dic-2025,4.88,2026-04-19
+00432,BANCO DE COMERCIO S.A.,privado_nacional,indicadores_economicos,rentabilidad: RG1 - Retorno sobre Activos ( ROA) (%),Ene-2026,3.71,2026-04-19
+00432,BANCO DE COMERCIO S.A.,privado_nacional,indicadores_economicos,rentabilidad: RG2_II - Margen Financiero en Términos de Activo (%),Dic-2023,66.07,2026-04-19
+00432,BANCO DE COMERCIO S.A.,privado_nacional,indicadores_economicos,rentabilidad: RG2_II - Margen Financiero en Términos de Activo (%),Dic-2024,35.18,2026-04-19
+00432,BANCO DE COMERCIO S.A.,privado_nacional,indicadores_economicos,rentabilidad: RG2_II - Margen Financiero en Términos de Activo (%),Nov-2025,21.31,2026-04-19
+00432,BANCO DE COMERCIO S.A.,privado_nacional,indicadores_economicos,rentabilidad: RG2_II - Margen Financiero en Términos de Activo (%),Dic-2025,22.99,2026-04-19
+00432,BANCO DE COMERCIO S.A.,privado_nacional,indicadores_economicos,rentabilidad: RG2_II - Margen Financiero en Términos de Activo (%),Ene-2026,21.79,2026-04-19
+00432,BANCO DE COMERCIO S.A.,privado_nacional,indicadores_economicos,rentabilidad: RG3 - Cargos por Incobrabilidad / Activo  (%),Dic-2023,-0.33,2026-04-19
+00432,BANCO DE COMERCIO S.A.,privado_nacional,indicadores_economicos,rentabilidad: RG3 - Cargos por Incobrabilidad / Activo  (%),Dic-2024,-0.41,2026-04-19
+00432,BANCO DE COMERCIO S.A.,privado_nacional,indicadores_economicos,rentabilidad: RG3 - Cargos por Incobrabilidad / Activo  (%),Nov-2025,-1.0,2026-04-19
+00432,BANCO DE COMERCIO S.A.,privado_nacional,indicadores_economicos,rentabilidad: RG3 - Cargos por Incobrabilidad / Activo  (%),Dic-2025,-0.97,2026-04-19
+00432,BANCO DE COMERCIO S.A.,privado_nacional,indicadores_economicos,rentabilidad: RG3 - Cargos por Incobrabilidad / Activo  (%),Ene-2026,-0.69,2026-04-19
+00432,BANCO DE COMERCIO S.A.,privado_nacional,indicadores_economicos,rentabilidad: RG4_II - Resultados por Servicios / Activo (%),Dic-2023,4.38,2026-04-19
+00432,BANCO DE COMERCIO S.A.,privado_nacional,indicadores_economicos,rentabilidad: RG4_II - Resultados por Servicios / Activo (%),Dic-2024,3.06,2026-04-19
+00432,BANCO DE COMERCIO S.A.,privado_nacional,indicadores_economicos,rentabilidad: RG4_II - Resultados por Servicios / Activo (%),Nov-2025,2.97,2026-04-19
+00432,BANCO DE COMERCIO S.A.,privado_nacional,indicadores_economicos,rentabilidad: RG4_II - Resultados por Servicios / Activo (%),Dic-2025,3.03,2026-04-19
+00432,BANCO DE COMERCIO S.A.,privado_nacional,indicadores_economicos,rentabilidad: RG4_II - Resultados por Servicios / Activo (%),Ene-2026,3.05,2026-04-19
+00432,BANCO DE COMERCIO S.A.,privado_nacional,indicadores_economicos,rentabilidad: RG5 - Gastos de Administración / Activo  (%),Dic-2023,-17.56,2026-04-19
+00432,BANCO DE COMERCIO S.A.,privado_nacional,indicadores_economicos,rentabilidad: RG5 - Gastos de Administración / Activo  (%),Dic-2024,-12.27,2026-04-19
+00432,BANCO DE COMERCIO S.A.,privado_nacional,indicadores_economicos,rentabilidad: RG5 - Gastos de Administración / Activo  (%),Nov-2025,-11.72,2026-04-19
+00432,BANCO DE COMERCIO S.A.,privado_nacional,indicadores_economicos,rentabilidad: RG5 - Gastos de Administración / Activo  (%),Dic-2025,-11.53,2026-04-19
+00432,BANCO DE COMERCIO S.A.,privado_nacional,indicadores_economicos,rentabilidad: RG5 - Gastos de Administración / Activo  (%),Ene-2026,-11.54,2026-04-19
+00432,BANCO DE COMERCIO S.A.,privado_nacional,indicadores_economicos,rentabilidad: RG15 - Retorno sobre Activos (ROA) antes Imp. de Gcias (%),Dic-2023,27.95,2026-04-19
+00432,BANCO DE COMERCIO S.A.,privado_nacional,indicadores_economicos,rentabilidad: RG15 - Retorno sobre Activos (ROA) antes Imp. de Gcias (%),Dic-2024,0.6,2026-04-19
+00432,BANCO DE COMERCIO S.A.,privado_nacional,indicadores_economicos,rentabilidad: RG15 - Retorno sobre Activos (ROA) antes Imp. de Gcias (%),Nov-2025,3.24,2026-04-19
+00432,BANCO DE COMERCIO S.A.,privado_nacional,indicadores_economicos,rentabilidad: RG15 - Retorno sobre Activos (ROA) antes Imp. de Gcias (%),Dic-2025,4.72,2026-04-19
+00432,BANCO DE COMERCIO S.A.,privado_nacional,indicadores_economicos,rentabilidad: RG15 - Retorno sobre Activos (ROA) antes Imp. de Gcias (%),Ene-2026,3.58,2026-04-19
+00432,BANCO DE COMERCIO S.A.,privado_nacional,indicadores_economicos,"liquidez: L1-Liquidez Tit c/cot, POS. CALL, LELIQ, LEFIs (netas) (%)",Dic-2023,99999.0,2026-04-19
+00432,BANCO DE COMERCIO S.A.,privado_nacional,indicadores_economicos,"liquidez: L1-Liquidez Tit c/cot, POS. CALL, LELIQ, LEFIs (netas) (%)",Dic-2024,236.76,2026-04-19
+00432,BANCO DE COMERCIO S.A.,privado_nacional,indicadores_economicos,"liquidez: L1-Liquidez Tit c/cot, POS. CALL, LELIQ, LEFIs (netas) (%)",Nov-2025,37.11,2026-04-19
+00432,BANCO DE COMERCIO S.A.,privado_nacional,indicadores_economicos,"liquidez: L1-Liquidez Tit c/cot, POS. CALL, LELIQ, LEFIs (netas) (%)",Dic-2025,36.71,2026-04-19
+00432,BANCO DE COMERCIO S.A.,privado_nacional,indicadores_economicos,"liquidez: L1-Liquidez Tit c/cot, POS. CALL, LELIQ, LEFIs (netas) (%)",Ene-2026,45.29,2026-04-19
+00432,BANCO DE COMERCIO S.A.,privado_nacional,indicadores_economicos,liquidez: L8_II - Liquidez con títulos con cotiz (%),Dic-2023,117.43,2026-04-19
+00432,BANCO DE COMERCIO S.A.,privado_nacional,indicadores_economicos,liquidez: L8_II - Liquidez con títulos con cotiz (%),Dic-2024,228.16,2026-04-19
+00432,BANCO DE COMERCIO S.A.,privado_nacional,indicadores_economicos,liquidez: L8_II - Liquidez con títulos con cotiz (%),Nov-2025,32.79,2026-04-19
+00432,BANCO DE COMERCIO S.A.,privado_nacional,indicadores_economicos,liquidez: L8_II - Liquidez con títulos con cotiz (%),Dic-2025,33.2,2026-04-19
+00432,BANCO DE COMERCIO S.A.,privado_nacional,indicadores_economicos,liquidez: L8_II - Liquidez con títulos con cotiz (%),Ene-2026,38.1,2026-04-19
+00432,BANCO DE COMERCIO S.A.,privado_nacional,indicadores_economicos,"liquidez: L9 -Liq LELIQ, PASES y LEFIs (netos pases activos BCRA) (%)",Dic-2023,128.66,2026-04-19
+00432,BANCO DE COMERCIO S.A.,privado_nacional,indicadores_economicos,"liquidez: L9 -Liq LELIQ, PASES y LEFIs (netos pases activos BCRA) (%)",Dic-2024,119.22,2026-04-19
+00432,BANCO DE COMERCIO S.A.,privado_nacional,indicadores_economicos,"liquidez: L9 -Liq LELIQ, PASES y LEFIs (netos pases activos BCRA) (%)",Nov-2025,21.52,2026-04-19
+00432,BANCO DE COMERCIO S.A.,privado_nacional,indicadores_economicos,"liquidez: L9 -Liq LELIQ, PASES y LEFIs (netos pases activos BCRA) (%)",Dic-2025,19.47,2026-04-19
+00432,BANCO DE COMERCIO S.A.,privado_nacional,indicadores_economicos,"liquidez: L9 -Liq LELIQ, PASES y LEFIs (netos pases activos BCRA) (%)",Ene-2026,20.65,2026-04-19

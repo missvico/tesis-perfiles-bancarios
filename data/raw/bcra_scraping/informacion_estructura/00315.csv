@@ -1,0 +1,94 @@
+codigo_bcra,nombre_banco,tipo_entidad,fuente,variable,periodo,valor,scraping_fecha
+00315,BANCO DE FORMOSA S.A.,publico,informacion_estructura,Cantidad de cuentas de ahorro,Dic-2023,603837.0,2026-04-19
+00315,BANCO DE FORMOSA S.A.,publico,informacion_estructura,Cantidad de cuentas previsionales,Dic-2023,268880.0,2026-04-19
+00315,BANCO DE FORMOSA S.A.,publico,informacion_estructura,Cantidad de operaciones a plazo fijo Individuos,Dic-2023,14033.0,2026-04-19
+00315,BANCO DE FORMOSA S.A.,publico,informacion_estructura,Cantidad de operaciones a plazo fijo Empresas,Dic-2023,373.0,2026-04-19
+00315,BANCO DE FORMOSA S.A.,publico,informacion_estructura,Cantidad de operaciones por préstamos hipotecarios,Dic-2023,22.0,2026-04-19
+00315,BANCO DE FORMOSA S.A.,publico,informacion_estructura,Cantidad de operaciones por préstamos prendarios,Dic-2023,1325.0,2026-04-19
+00315,BANCO DE FORMOSA S.A.,publico,informacion_estructura,Cantidad de operaciones por otros préstamos,Dic-2023,130073.0,2026-04-19
+00315,BANCO DE FORMOSA S.A.,publico,informacion_estructura,Dotación de personal,Dic-2023,554.0,2026-04-19
+00315,BANCO DE FORMOSA S.A.,publico,informacion_estructura,Cantidad de titulares por tarjetas de crédito,Dic-2023,91123.0,2026-04-19
+00315,BANCO DE FORMOSA S.A.,publico,informacion_estructura,Cantidad de tarjetas de crédito (plásticos),Dic-2023,91123.0,2026-04-19
+00315,BANCO DE FORMOSA S.A.,publico,informacion_estructura,Cantidad de tarjetas de débito,Dic-2023,451855.0,2026-04-19
+00315,BANCO DE FORMOSA S.A.,publico,informacion_estructura,Cantidad de cuentas corrientes,Dic-2023,44243.0,2026-04-19
+00315,BANCO DE FORMOSA S.A.,publico,informacion_estructura,Cantidad de cajas de ahorro de ayuda social,Dic-2023,128927.0,2026-04-19
+00315,BANCO DE FORMOSA S.A.,publico,informacion_estructura,Cantidad de cuentas de ahorro,Dic-2024,453545.0,2026-04-19
+00315,BANCO DE FORMOSA S.A.,publico,informacion_estructura,Cantidad de cuentas previsionales,Dic-2024,282104.0,2026-04-19
+00315,BANCO DE FORMOSA S.A.,publico,informacion_estructura,Cantidad de operaciones a plazo fijo Individuos,Dic-2024,8417.0,2026-04-19
+00315,BANCO DE FORMOSA S.A.,publico,informacion_estructura,Cantidad de operaciones a plazo fijo Empresas,Dic-2024,413.0,2026-04-19
+00315,BANCO DE FORMOSA S.A.,publico,informacion_estructura,Cantidad de operaciones por préstamos hipotecarios,Dic-2024,23.0,2026-04-19
+00315,BANCO DE FORMOSA S.A.,publico,informacion_estructura,Cantidad de operaciones por préstamos prendarios,Dic-2024,1920.0,2026-04-19
+00315,BANCO DE FORMOSA S.A.,publico,informacion_estructura,Cantidad de operaciones por otros préstamos,Dic-2024,145706.0,2026-04-19
+00315,BANCO DE FORMOSA S.A.,publico,informacion_estructura,Dotación de personal,Dic-2024,541.0,2026-04-19
+00315,BANCO DE FORMOSA S.A.,publico,informacion_estructura,Cantidad de titulares por tarjetas de crédito,Dic-2024,87845.0,2026-04-19
+00315,BANCO DE FORMOSA S.A.,publico,informacion_estructura,Cantidad de tarjetas de crédito (plásticos),Dic-2024,87845.0,2026-04-19
+00315,BANCO DE FORMOSA S.A.,publico,informacion_estructura,Cantidad de tarjetas de débito,Dic-2024,444513.0,2026-04-19
+00315,BANCO DE FORMOSA S.A.,publico,informacion_estructura,Cantidad de cuentas corrientes,Dic-2024,36523.0,2026-04-19
+00315,BANCO DE FORMOSA S.A.,publico,informacion_estructura,Cantidad de cajas de ahorro de ayuda social,Dic-2024,117063.0,2026-04-19
+00315,BANCO DE FORMOSA S.A.,publico,informacion_estructura,Cantidad de cuentas de ahorro,Jun-2025,465861.0,2026-04-19
+00315,BANCO DE FORMOSA S.A.,publico,informacion_estructura,Cantidad de cuentas previsionales,Jun-2025,288414.0,2026-04-19
+00315,BANCO DE FORMOSA S.A.,publico,informacion_estructura,Cantidad de operaciones a plazo fijo Individuos,Jun-2025,8258.0,2026-04-19
+00315,BANCO DE FORMOSA S.A.,publico,informacion_estructura,Cantidad de operaciones a plazo fijo Empresas,Jun-2025,217.0,2026-04-19
+00315,BANCO DE FORMOSA S.A.,publico,informacion_estructura,Cantidad de operaciones por préstamos hipotecarios,Jun-2025,18.0,2026-04-19
+00315,BANCO DE FORMOSA S.A.,publico,informacion_estructura,Cantidad de operaciones por préstamos prendarios,Jun-2025,2018.0,2026-04-19
+00315,BANCO DE FORMOSA S.A.,publico,informacion_estructura,Cantidad de operaciones por otros préstamos,Jun-2025,168056.0,2026-04-19
+00315,BANCO DE FORMOSA S.A.,publico,informacion_estructura,Dotación de personal,Jun-2025,552.0,2026-04-19
+00315,BANCO DE FORMOSA S.A.,publico,informacion_estructura,Cantidad de titulares por tarjetas de crédito,Jun-2025,87055.0,2026-04-19
+00315,BANCO DE FORMOSA S.A.,publico,informacion_estructura,Cantidad de tarjetas de crédito (plásticos),Jun-2025,87055.0,2026-04-19
+00315,BANCO DE FORMOSA S.A.,publico,informacion_estructura,Cantidad de tarjetas de débito,Jun-2025,465698.0,2026-04-19
+00315,BANCO DE FORMOSA S.A.,publico,informacion_estructura,Cantidad de cuentas corrientes,Jun-2025,35624.0,2026-04-19
+00315,BANCO DE FORMOSA S.A.,publico,informacion_estructura,Cantidad de cajas de ahorro de ayuda social,Jun-2025,120419.0,2026-04-19
+00315,BANCO DE FORMOSA S.A.,publico,informacion_estructura,Cantidad de cuentas de ahorro,Set-2025,470305.0,2026-04-19
+00315,BANCO DE FORMOSA S.A.,publico,informacion_estructura,Cantidad de cuentas previsionales,Set-2025,341758.0,2026-04-19
+00315,BANCO DE FORMOSA S.A.,publico,informacion_estructura,Cantidad de operaciones a plazo fijo Individuos,Set-2025,8201.0,2026-04-19
+00315,BANCO DE FORMOSA S.A.,publico,informacion_estructura,Cantidad de operaciones a plazo fijo Empresas,Set-2025,194.0,2026-04-19
+00315,BANCO DE FORMOSA S.A.,publico,informacion_estructura,Cantidad de operaciones por préstamos hipotecarios,Set-2025,20.0,2026-04-19
+00315,BANCO DE FORMOSA S.A.,publico,informacion_estructura,Cantidad de operaciones por préstamos prendarios,Set-2025,2421.0,2026-04-19
+00315,BANCO DE FORMOSA S.A.,publico,informacion_estructura,Cantidad de operaciones por otros préstamos,Set-2025,167651.0,2026-04-19
+00315,BANCO DE FORMOSA S.A.,publico,informacion_estructura,Dotación de personal,Set-2025,539.0,2026-04-19
+00315,BANCO DE FORMOSA S.A.,publico,informacion_estructura,Cantidad de titulares por tarjetas de crédito,Set-2025,86313.0,2026-04-19
+00315,BANCO DE FORMOSA S.A.,publico,informacion_estructura,Cantidad de tarjetas de crédito (plásticos),Set-2025,86313.0,2026-04-19
+00315,BANCO DE FORMOSA S.A.,publico,informacion_estructura,Cantidad de tarjetas de débito,Set-2025,637821.0,2026-04-19
+00315,BANCO DE FORMOSA S.A.,publico,informacion_estructura,Cantidad de cuentas corrientes,Set-2025,35448.0,2026-04-19
+00315,BANCO DE FORMOSA S.A.,publico,informacion_estructura,Cantidad de cajas de ahorro de ayuda social,Set-2025,195857.0,2026-04-19
+00315,BANCO DE FORMOSA S.A.,publico,informacion_estructura,Cantidad de cuentas de ahorro,Dic-2025,513289.0,2026-04-19
+00315,BANCO DE FORMOSA S.A.,publico,informacion_estructura,Cantidad de cuentas previsionales,Dic-2025,344260.0,2026-04-19
+00315,BANCO DE FORMOSA S.A.,publico,informacion_estructura,Cantidad de operaciones a plazo fijo Individuos,Dic-2025,7002.0,2026-04-19
+00315,BANCO DE FORMOSA S.A.,publico,informacion_estructura,Cantidad de operaciones a plazo fijo Empresas,Dic-2025,117.0,2026-04-19
+00315,BANCO DE FORMOSA S.A.,publico,informacion_estructura,Cantidad de operaciones por préstamos hipotecarios,Dic-2025,22.0,2026-04-19
+00315,BANCO DE FORMOSA S.A.,publico,informacion_estructura,Cantidad de operaciones por préstamos prendarios,Dic-2025,2490.0,2026-04-19
+00315,BANCO DE FORMOSA S.A.,publico,informacion_estructura,Cantidad de operaciones por otros préstamos,Dic-2025,167580.0,2026-04-19
+00315,BANCO DE FORMOSA S.A.,publico,informacion_estructura,Dotación de personal,Dic-2025,550.0,2026-04-19
+00315,BANCO DE FORMOSA S.A.,publico,informacion_estructura,Cantidad de titulares por tarjetas de crédito,Dic-2025,85635.0,2026-04-19
+00315,BANCO DE FORMOSA S.A.,publico,informacion_estructura,Cantidad de tarjetas de crédito (plásticos),Dic-2025,85635.0,2026-04-19
+00315,BANCO DE FORMOSA S.A.,publico,informacion_estructura,Cantidad de tarjetas de débito,Dic-2025,641955.0,2026-04-19
+00315,BANCO DE FORMOSA S.A.,publico,informacion_estructura,Cantidad de cuentas corrientes,Dic-2025,35401.0,2026-04-19
+00315,BANCO DE FORMOSA S.A.,publico,informacion_estructura,Cantidad de cajas de ahorro de ayuda social,Dic-2025,196423.0,2026-04-19
+00315,BANCO DE FORMOSA S.A.,publico,informacion_estructura,Cantidad de Cuentas,Dic-2023,64920.0,2026-04-19
+00315,BANCO DE FORMOSA S.A.,publico,informacion_estructura,Cantidad de Empresas,Dic-2023,274.0,2026-04-19
+00315,BANCO DE FORMOSA S.A.,publico,informacion_estructura,Cantidad de Cuentas,Dic-2024,65786.0,2026-04-19
+00315,BANCO DE FORMOSA S.A.,publico,informacion_estructura,Cantidad de Empresas,Dic-2024,298.0,2026-04-19
+00315,BANCO DE FORMOSA S.A.,publico,informacion_estructura,Cantidad de Cuentas,Nov-2025,65762.0,2026-04-19
+00315,BANCO DE FORMOSA S.A.,publico,informacion_estructura,Cantidad de Empresas,Nov-2025,289.0,2026-04-19
+00315,BANCO DE FORMOSA S.A.,publico,informacion_estructura,Cantidad de Cuentas,Dic-2025,67094.0,2026-04-19
+00315,BANCO DE FORMOSA S.A.,publico,informacion_estructura,Cantidad de Empresas,Dic-2025,311.0,2026-04-19
+00315,BANCO DE FORMOSA S.A.,publico,informacion_estructura,Cantidad de Cuentas,Ene-2026,65693.0,2026-04-19
+00315,BANCO DE FORMOSA S.A.,publico,informacion_estructura,Cantidad de Empresas,Ene-2026,285.0,2026-04-19
+00315,BANCO DE FORMOSA S.A.,publico,informacion_estructura,CABA,Habilitadas,1.0,2026-04-19
+00315,BANCO DE FORMOSA S.A.,publico,informacion_estructura,FORMOSA,Habilitadas,19.0,2026-04-19
+00315,BANCO DE FORMOSA S.A.,publico,informacion_estructura,CABA,Habilitadas,,2026-04-19
+00315,BANCO DE FORMOSA S.A.,publico,informacion_estructura,FORMOSA,Habilitadas,,2026-04-19
+00315,BANCO DE FORMOSA S.A.,publico,informacion_estructura,CABA,Habilitadas,,2026-04-19
+00315,BANCO DE FORMOSA S.A.,publico,informacion_estructura,FORMOSA,Habilitadas,1.0,2026-04-19
+00315,BANCO DE FORMOSA S.A.,publico,informacion_estructura,CABA,Habilitadas,1.0,2026-04-19
+00315,BANCO DE FORMOSA S.A.,publico,informacion_estructura,FORMOSA,Habilitadas,131.0,2026-04-19
+00315,BANCO DE FORMOSA S.A.,publico,informacion_estructura,CABA,Habilitadas,,2026-04-19
+00315,BANCO DE FORMOSA S.A.,publico,informacion_estructura,FORMOSA,Habilitadas,,2026-04-19
+00315,BANCO DE FORMOSA S.A.,publico,informacion_estructura,CABA,Habilitadas,,2026-04-19
+00315,BANCO DE FORMOSA S.A.,publico,informacion_estructura,FORMOSA,Habilitadas,3.0,2026-04-19
+00315,BANCO DE FORMOSA S.A.,publico,informacion_estructura,CABA,Habilitadas,,2026-04-19
+00315,BANCO DE FORMOSA S.A.,publico,informacion_estructura,FORMOSA,Habilitadas,,2026-04-19
+00315,BANCO DE FORMOSA S.A.,publico,informacion_estructura,CABA,Pendientes de habilitación,,2026-04-19
+00315,BANCO DE FORMOSA S.A.,publico,informacion_estructura,FORMOSA,Pendientes de habilitación,,2026-04-19
+00315,BANCO DE FORMOSA S.A.,publico,informacion_estructura,CABA,Total,1.0,2026-04-19
+00315,BANCO DE FORMOSA S.A.,publico,informacion_estructura,FORMOSA,Total,19.0,2026-04-19

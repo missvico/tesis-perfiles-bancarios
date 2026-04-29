@@ -1,0 +1,202 @@
+codigo_bcra,nombre_banco,tipo_entidad,fuente,variable,periodo,valor,scraping_fecha
+00299,BANCO COMAFI SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,Cantidad de cuentas corrientes,Dic-2023,51482.0,2026-04-19
+00299,BANCO COMAFI SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,Cantidad de cuentas de ahorro,Dic-2023,489679.0,2026-04-19
+00299,BANCO COMAFI SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,Cantidad de cajas de ahorro de ayuda social,Dic-2023,123676.0,2026-04-19
+00299,BANCO COMAFI SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,Cantidad de cuentas previsionales,Dic-2023,75160.0,2026-04-19
+00299,BANCO COMAFI SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,Cantidad de operaciones a plazo fijo Individuos,Dic-2023,26278.0,2026-04-19
+00299,BANCO COMAFI SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,Cantidad de operaciones a plazo fijo Empresas,Dic-2023,682.0,2026-04-19
+00299,BANCO COMAFI SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,Cantidad de operaciones por préstamos hipotecarios,Dic-2023,2.0,2026-04-19
+00299,BANCO COMAFI SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,Cantidad de operaciones por préstamos prendarios,Dic-2023,10.0,2026-04-19
+00299,BANCO COMAFI SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,Cantidad de operaciones por otros préstamos,Dic-2023,197987.0,2026-04-19
+00299,BANCO COMAFI SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,Dotación de personal,Dic-2023,1450.0,2026-04-19
+00299,BANCO COMAFI SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,Cantidad de titulares por tarjetas de crédito,Dic-2023,191091.0,2026-04-19
+00299,BANCO COMAFI SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,Cantidad de tarjetas de crédito (plásticos),Dic-2023,324830.0,2026-04-19
+00299,BANCO COMAFI SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,Cantidad de tarjetas de débito,Dic-2023,272208.0,2026-04-19
+00299,BANCO COMAFI SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,Cantidad de cuentas corrientes,Dic-2024,54047.0,2026-04-19
+00299,BANCO COMAFI SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,Cantidad de cuentas de ahorro,Dic-2024,493123.0,2026-04-19
+00299,BANCO COMAFI SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,Cantidad de cajas de ahorro de ayuda social,Dic-2024,122542.0,2026-04-19
+00299,BANCO COMAFI SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,Cantidad de cuentas previsionales,Dic-2024,75070.0,2026-04-19
+00299,BANCO COMAFI SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,Cantidad de operaciones a plazo fijo Individuos,Dic-2024,20087.0,2026-04-19
+00299,BANCO COMAFI SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,Cantidad de operaciones a plazo fijo Empresas,Dic-2024,575.0,2026-04-19
+00299,BANCO COMAFI SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,Cantidad de operaciones por préstamos hipotecarios,Dic-2024,7.0,2026-04-19
+00299,BANCO COMAFI SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,Cantidad de operaciones por préstamos prendarios,Dic-2024,36.0,2026-04-19
+00299,BANCO COMAFI SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,Cantidad de operaciones por otros préstamos,Dic-2024,189970.0,2026-04-19
+00299,BANCO COMAFI SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,Dotación de personal,Dic-2024,1515.0,2026-04-19
+00299,BANCO COMAFI SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,Cantidad de titulares por tarjetas de crédito,Dic-2024,186623.0,2026-04-19
+00299,BANCO COMAFI SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,Cantidad de tarjetas de crédito (plásticos),Dic-2024,306286.0,2026-04-19
+00299,BANCO COMAFI SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,Cantidad de tarjetas de débito,Dic-2024,262563.0,2026-04-19
+00299,BANCO COMAFI SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,Cantidad de cuentas corrientes,Jun-2025,55919.0,2026-04-19
+00299,BANCO COMAFI SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,Cantidad de cuentas de ahorro,Jun-2025,510070.0,2026-04-19
+00299,BANCO COMAFI SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,Cantidad de cajas de ahorro de ayuda social,Jun-2025,118407.0,2026-04-19
+00299,BANCO COMAFI SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,Cantidad de cuentas previsionales,Jun-2025,74233.0,2026-04-19
+00299,BANCO COMAFI SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,Cantidad de operaciones a plazo fijo Individuos,Jun-2025,18334.0,2026-04-19
+00299,BANCO COMAFI SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,Cantidad de operaciones a plazo fijo Empresas,Jun-2025,700.0,2026-04-19
+00299,BANCO COMAFI SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,Cantidad de operaciones por préstamos hipotecarios,Jun-2025,53.0,2026-04-19
+00299,BANCO COMAFI SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,Cantidad de operaciones por préstamos prendarios,Jun-2025,54.0,2026-04-19
+00299,BANCO COMAFI SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,Cantidad de operaciones por otros préstamos,Jun-2025,177442.0,2026-04-19
+00299,BANCO COMAFI SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,Dotación de personal,Jun-2025,1482.0,2026-04-19
+00299,BANCO COMAFI SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,Cantidad de titulares por tarjetas de crédito,Jun-2025,132040.0,2026-04-19
+00299,BANCO COMAFI SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,Cantidad de tarjetas de crédito (plásticos),Jun-2025,215626.0,2026-04-19
+00299,BANCO COMAFI SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,Cantidad de tarjetas de débito,Jun-2025,258553.0,2026-04-19
+00299,BANCO COMAFI SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,Cantidad de cuentas corrientes,Set-2025,55915.0,2026-04-19
+00299,BANCO COMAFI SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,Cantidad de cuentas de ahorro,Set-2025,502537.0,2026-04-19
+00299,BANCO COMAFI SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,Cantidad de cajas de ahorro de ayuda social,Set-2025,95340.0,2026-04-19
+00299,BANCO COMAFI SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,Cantidad de cuentas previsionales,Set-2025,61132.0,2026-04-19
+00299,BANCO COMAFI SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,Cantidad de operaciones a plazo fijo Individuos,Set-2025,18912.0,2026-04-19
+00299,BANCO COMAFI SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,Cantidad de operaciones a plazo fijo Empresas,Set-2025,802.0,2026-04-19
+00299,BANCO COMAFI SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,Cantidad de operaciones por préstamos hipotecarios,Set-2025,104.0,2026-04-19
+00299,BANCO COMAFI SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,Cantidad de operaciones por préstamos prendarios,Set-2025,58.0,2026-04-19
+00299,BANCO COMAFI SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,Cantidad de operaciones por otros préstamos,Set-2025,177044.0,2026-04-19
+00299,BANCO COMAFI SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,Dotación de personal,Set-2025,1452.0,2026-04-19
+00299,BANCO COMAFI SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,Cantidad de titulares por tarjetas de crédito,Set-2025,128111.0,2026-04-19
+00299,BANCO COMAFI SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,Cantidad de tarjetas de crédito (plásticos),Set-2025,204574.0,2026-04-19
+00299,BANCO COMAFI SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,Cantidad de tarjetas de débito,Set-2025,230625.0,2026-04-19
+00299,BANCO COMAFI SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,Cantidad de cuentas corrientes,Dic-2025,54563.0,2026-04-19
+00299,BANCO COMAFI SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,Cantidad de cuentas de ahorro,Dic-2025,438640.0,2026-04-19
+00299,BANCO COMAFI SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,Cantidad de cajas de ahorro de ayuda social,Dic-2025,90959.0,2026-04-19
+00299,BANCO COMAFI SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,Cantidad de cuentas previsionales,Dic-2025,43688.0,2026-04-19
+00299,BANCO COMAFI SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,Cantidad de operaciones a plazo fijo Individuos,Dic-2025,15903.0,2026-04-19
+00299,BANCO COMAFI SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,Cantidad de operaciones a plazo fijo Empresas,Dic-2025,661.0,2026-04-19
+00299,BANCO COMAFI SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,Cantidad de operaciones por préstamos hipotecarios,Dic-2025,139.0,2026-04-19
+00299,BANCO COMAFI SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,Cantidad de operaciones por préstamos prendarios,Dic-2025,66.0,2026-04-19
+00299,BANCO COMAFI SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,Cantidad de operaciones por otros préstamos,Dic-2025,171800.0,2026-04-19
+00299,BANCO COMAFI SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,Dotación de personal,Dic-2025,1417.0,2026-04-19
+00299,BANCO COMAFI SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,Cantidad de titulares por tarjetas de crédito,Dic-2025,122932.0,2026-04-19
+00299,BANCO COMAFI SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,Cantidad de tarjetas de crédito (plásticos),Dic-2025,199264.0,2026-04-19
+00299,BANCO COMAFI SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,Cantidad de tarjetas de débito,Dic-2025,211124.0,2026-04-19
+00299,BANCO COMAFI SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,Cantidad de Cuentas,Dic-2023,40004.0,2026-04-19
+00299,BANCO COMAFI SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,Cantidad de Empresas,Dic-2023,4379.0,2026-04-19
+00299,BANCO COMAFI SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,Cantidad de Cuentas,Dic-2024,34417.0,2026-04-19
+00299,BANCO COMAFI SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,Cantidad de Empresas,Dic-2024,3762.0,2026-04-19
+00299,BANCO COMAFI SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,Cantidad de Cuentas,Nov-2025,28199.0,2026-04-19
+00299,BANCO COMAFI SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,Cantidad de Empresas,Nov-2025,3399.0,2026-04-19
+00299,BANCO COMAFI SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,Cantidad de Cuentas,Dic-2025,29577.0,2026-04-19
+00299,BANCO COMAFI SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,Cantidad de Empresas,Dic-2025,3636.0,2026-04-19
+00299,BANCO COMAFI SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,Cantidad de Cuentas,Ene-2026,28425.0,2026-04-19
+00299,BANCO COMAFI SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,Cantidad de Empresas,Ene-2026,3423.0,2026-04-19
+00299,BANCO COMAFI SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,CABA,Habilitadas,18.0,2026-04-19
+00299,BANCO COMAFI SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,BUENOS AIRES,Habilitadas,38.0,2026-04-19
+00299,BANCO COMAFI SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,CÓRDOBA,Habilitadas,3.0,2026-04-19
+00299,BANCO COMAFI SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,CORRIENTES,Habilitadas,1.0,2026-04-19
+00299,BANCO COMAFI SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,CHACO,Habilitadas,1.0,2026-04-19
+00299,BANCO COMAFI SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,JUJUY,Habilitadas,1.0,2026-04-19
+00299,BANCO COMAFI SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,LA PAMPA,Habilitadas,1.0,2026-04-19
+00299,BANCO COMAFI SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,MENDOZA,Habilitadas,6.0,2026-04-19
+00299,BANCO COMAFI SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,NEUQUÉN,Habilitadas,1.0,2026-04-19
+00299,BANCO COMAFI SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,SALTA,Habilitadas,1.0,2026-04-19
+00299,BANCO COMAFI SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,SAN JUAN,Habilitadas,1.0,2026-04-19
+00299,BANCO COMAFI SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,SAN LUIS,Habilitadas,1.0,2026-04-19
+00299,BANCO COMAFI SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,SANTA FE,Habilitadas,3.0,2026-04-19
+00299,BANCO COMAFI SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,TUCUMÁN,Habilitadas,1.0,2026-04-19
+00299,BANCO COMAFI SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,CABA,Habilitadas,,2026-04-19
+00299,BANCO COMAFI SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,BUENOS AIRES,Habilitadas,,2026-04-19
+00299,BANCO COMAFI SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,CÓRDOBA,Habilitadas,,2026-04-19
+00299,BANCO COMAFI SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,CORRIENTES,Habilitadas,,2026-04-19
+00299,BANCO COMAFI SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,CHACO,Habilitadas,,2026-04-19
+00299,BANCO COMAFI SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,JUJUY,Habilitadas,,2026-04-19
+00299,BANCO COMAFI SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,LA PAMPA,Habilitadas,,2026-04-19
+00299,BANCO COMAFI SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,MENDOZA,Habilitadas,,2026-04-19
+00299,BANCO COMAFI SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,NEUQUÉN,Habilitadas,,2026-04-19
+00299,BANCO COMAFI SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,SALTA,Habilitadas,,2026-04-19
+00299,BANCO COMAFI SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,SAN JUAN,Habilitadas,,2026-04-19
+00299,BANCO COMAFI SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,SAN LUIS,Habilitadas,,2026-04-19
+00299,BANCO COMAFI SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,SANTA FE,Habilitadas,,2026-04-19
+00299,BANCO COMAFI SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,TUCUMÁN,Habilitadas,,2026-04-19
+00299,BANCO COMAFI SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,CABA,Habilitadas,,2026-04-19
+00299,BANCO COMAFI SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,BUENOS AIRES,Habilitadas,,2026-04-19
+00299,BANCO COMAFI SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,CÓRDOBA,Habilitadas,,2026-04-19
+00299,BANCO COMAFI SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,CORRIENTES,Habilitadas,,2026-04-19
+00299,BANCO COMAFI SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,CHACO,Habilitadas,,2026-04-19
+00299,BANCO COMAFI SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,JUJUY,Habilitadas,,2026-04-19
+00299,BANCO COMAFI SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,LA PAMPA,Habilitadas,,2026-04-19
+00299,BANCO COMAFI SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,MENDOZA,Habilitadas,,2026-04-19
+00299,BANCO COMAFI SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,NEUQUÉN,Habilitadas,,2026-04-19
+00299,BANCO COMAFI SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,SALTA,Habilitadas,,2026-04-19
+00299,BANCO COMAFI SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,SAN JUAN,Habilitadas,,2026-04-19
+00299,BANCO COMAFI SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,SAN LUIS,Habilitadas,,2026-04-19
+00299,BANCO COMAFI SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,SANTA FE,Habilitadas,,2026-04-19
+00299,BANCO COMAFI SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,TUCUMÁN,Habilitadas,,2026-04-19
+00299,BANCO COMAFI SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,CABA,Habilitadas,32.0,2026-04-19
+00299,BANCO COMAFI SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,BUENOS AIRES,Habilitadas,82.0,2026-04-19
+00299,BANCO COMAFI SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,CÓRDOBA,Habilitadas,3.0,2026-04-19
+00299,BANCO COMAFI SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,CORRIENTES,Habilitadas,1.0,2026-04-19
+00299,BANCO COMAFI SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,CHACO,Habilitadas,1.0,2026-04-19
+00299,BANCO COMAFI SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,JUJUY,Habilitadas,1.0,2026-04-19
+00299,BANCO COMAFI SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,LA PAMPA,Habilitadas,1.0,2026-04-19
+00299,BANCO COMAFI SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,MENDOZA,Habilitadas,7.0,2026-04-19
+00299,BANCO COMAFI SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,NEUQUÉN,Habilitadas,1.0,2026-04-19
+00299,BANCO COMAFI SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,SALTA,Habilitadas,1.0,2026-04-19
+00299,BANCO COMAFI SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,SAN JUAN,Habilitadas,1.0,2026-04-19
+00299,BANCO COMAFI SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,SAN LUIS,Habilitadas,1.0,2026-04-19
+00299,BANCO COMAFI SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,SANTA FE,Habilitadas,4.0,2026-04-19
+00299,BANCO COMAFI SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,TUCUMÁN,Habilitadas,2.0,2026-04-19
+00299,BANCO COMAFI SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,CABA,Habilitadas,41.0,2026-04-19
+00299,BANCO COMAFI SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,BUENOS AIRES,Habilitadas,79.0,2026-04-19
+00299,BANCO COMAFI SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,CÓRDOBA,Habilitadas,4.0,2026-04-19
+00299,BANCO COMAFI SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,CORRIENTES,Habilitadas,1.0,2026-04-19
+00299,BANCO COMAFI SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,CHACO,Habilitadas,1.0,2026-04-19
+00299,BANCO COMAFI SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,JUJUY,Habilitadas,1.0,2026-04-19
+00299,BANCO COMAFI SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,LA PAMPA,Habilitadas,1.0,2026-04-19
+00299,BANCO COMAFI SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,MENDOZA,Habilitadas,6.0,2026-04-19
+00299,BANCO COMAFI SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,NEUQUÉN,Habilitadas,2.0,2026-04-19
+00299,BANCO COMAFI SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,SALTA,Habilitadas,2.0,2026-04-19
+00299,BANCO COMAFI SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,SAN JUAN,Habilitadas,2.0,2026-04-19
+00299,BANCO COMAFI SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,SAN LUIS,Habilitadas,2.0,2026-04-19
+00299,BANCO COMAFI SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,SANTA FE,Habilitadas,3.0,2026-04-19
+00299,BANCO COMAFI SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,TUCUMÁN,Habilitadas,2.0,2026-04-19
+00299,BANCO COMAFI SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,CABA,Habilitadas,,2026-04-19
+00299,BANCO COMAFI SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,BUENOS AIRES,Habilitadas,,2026-04-19
+00299,BANCO COMAFI SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,CÓRDOBA,Habilitadas,,2026-04-19
+00299,BANCO COMAFI SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,CORRIENTES,Habilitadas,,2026-04-19
+00299,BANCO COMAFI SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,CHACO,Habilitadas,,2026-04-19
+00299,BANCO COMAFI SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,JUJUY,Habilitadas,,2026-04-19
+00299,BANCO COMAFI SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,LA PAMPA,Habilitadas,,2026-04-19
+00299,BANCO COMAFI SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,MENDOZA,Habilitadas,,2026-04-19
+00299,BANCO COMAFI SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,NEUQUÉN,Habilitadas,,2026-04-19
+00299,BANCO COMAFI SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,SALTA,Habilitadas,,2026-04-19
+00299,BANCO COMAFI SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,SAN JUAN,Habilitadas,,2026-04-19
+00299,BANCO COMAFI SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,SAN LUIS,Habilitadas,,2026-04-19
+00299,BANCO COMAFI SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,SANTA FE,Habilitadas,,2026-04-19
+00299,BANCO COMAFI SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,TUCUMÁN,Habilitadas,,2026-04-19
+00299,BANCO COMAFI SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,CABA,Habilitadas,,2026-04-19
+00299,BANCO COMAFI SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,BUENOS AIRES,Habilitadas,,2026-04-19
+00299,BANCO COMAFI SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,CÓRDOBA,Habilitadas,,2026-04-19
+00299,BANCO COMAFI SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,CORRIENTES,Habilitadas,,2026-04-19
+00299,BANCO COMAFI SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,CHACO,Habilitadas,,2026-04-19
+00299,BANCO COMAFI SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,JUJUY,Habilitadas,,2026-04-19
+00299,BANCO COMAFI SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,LA PAMPA,Habilitadas,,2026-04-19
+00299,BANCO COMAFI SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,MENDOZA,Habilitadas,,2026-04-19
+00299,BANCO COMAFI SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,NEUQUÉN,Habilitadas,,2026-04-19
+00299,BANCO COMAFI SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,SALTA,Habilitadas,,2026-04-19
+00299,BANCO COMAFI SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,SAN JUAN,Habilitadas,,2026-04-19
+00299,BANCO COMAFI SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,SAN LUIS,Habilitadas,,2026-04-19
+00299,BANCO COMAFI SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,SANTA FE,Habilitadas,,2026-04-19
+00299,BANCO COMAFI SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,TUCUMÁN,Habilitadas,,2026-04-19
+00299,BANCO COMAFI SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,CABA,Pendientes de habilitación,,2026-04-19
+00299,BANCO COMAFI SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,BUENOS AIRES,Pendientes de habilitación,1.0,2026-04-19
+00299,BANCO COMAFI SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,CÓRDOBA,Pendientes de habilitación,,2026-04-19
+00299,BANCO COMAFI SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,CORRIENTES,Pendientes de habilitación,,2026-04-19
+00299,BANCO COMAFI SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,CHACO,Pendientes de habilitación,,2026-04-19
+00299,BANCO COMAFI SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,JUJUY,Pendientes de habilitación,,2026-04-19
+00299,BANCO COMAFI SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,LA PAMPA,Pendientes de habilitación,,2026-04-19
+00299,BANCO COMAFI SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,MENDOZA,Pendientes de habilitación,,2026-04-19
+00299,BANCO COMAFI SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,NEUQUÉN,Pendientes de habilitación,,2026-04-19
+00299,BANCO COMAFI SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,SALTA,Pendientes de habilitación,,2026-04-19
+00299,BANCO COMAFI SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,SAN JUAN,Pendientes de habilitación,,2026-04-19
+00299,BANCO COMAFI SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,SAN LUIS,Pendientes de habilitación,,2026-04-19
+00299,BANCO COMAFI SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,SANTA FE,Pendientes de habilitación,,2026-04-19
+00299,BANCO COMAFI SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,TUCUMÁN,Pendientes de habilitación,,2026-04-19
+00299,BANCO COMAFI SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,CABA,Total,18.0,2026-04-19
+00299,BANCO COMAFI SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,BUENOS AIRES,Total,39.0,2026-04-19
+00299,BANCO COMAFI SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,CÓRDOBA,Total,3.0,2026-04-19
+00299,BANCO COMAFI SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,CORRIENTES,Total,1.0,2026-04-19
+00299,BANCO COMAFI SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,CHACO,Total,1.0,2026-04-19
+00299,BANCO COMAFI SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,JUJUY,Total,1.0,2026-04-19
+00299,BANCO COMAFI SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,LA PAMPA,Total,1.0,2026-04-19
+00299,BANCO COMAFI SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,MENDOZA,Total,6.0,2026-04-19
+00299,BANCO COMAFI SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,NEUQUÉN,Total,1.0,2026-04-19
+00299,BANCO COMAFI SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,SALTA,Total,1.0,2026-04-19
+00299,BANCO COMAFI SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,SAN JUAN,Total,1.0,2026-04-19
+00299,BANCO COMAFI SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,SAN LUIS,Total,1.0,2026-04-19
+00299,BANCO COMAFI SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,SANTA FE,Total,3.0,2026-04-19
+00299,BANCO COMAFI SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,TUCUMÁN,Total,1.0,2026-04-19

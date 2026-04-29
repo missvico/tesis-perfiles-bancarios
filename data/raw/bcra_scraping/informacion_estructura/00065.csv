@@ -1,0 +1,85 @@
+codigo_bcra,nombre_banco,tipo_entidad,fuente,variable,periodo,valor,scraping_fecha
+00065,BANCO MUNICIPAL DE ROSARIO,publico,informacion_estructura,Cantidad de cuentas corrientes,Dic-2023,3205.0,2026-04-19
+00065,BANCO MUNICIPAL DE ROSARIO,publico,informacion_estructura,Cantidad de cuentas de ahorro,Dic-2023,243460.0,2026-04-19
+00065,BANCO MUNICIPAL DE ROSARIO,publico,informacion_estructura,Cantidad de cajas de ahorro de ayuda social,Dic-2023,39952.0,2026-04-19
+00065,BANCO MUNICIPAL DE ROSARIO,publico,informacion_estructura,Cantidad de cuentas previsionales,Dic-2023,87782.0,2026-04-19
+00065,BANCO MUNICIPAL DE ROSARIO,publico,informacion_estructura,Cantidad de operaciones a plazo fijo Individuos,Dic-2023,19688.0,2026-04-19
+00065,BANCO MUNICIPAL DE ROSARIO,publico,informacion_estructura,Cantidad de operaciones a plazo fijo Empresas,Dic-2023,9259.0,2026-04-19
+00065,BANCO MUNICIPAL DE ROSARIO,publico,informacion_estructura,Cantidad de operaciones por préstamos hipotecarios,Dic-2023,53.0,2026-04-19
+00065,BANCO MUNICIPAL DE ROSARIO,publico,informacion_estructura,Cantidad de operaciones por préstamos prendarios,Dic-2023,5057.0,2026-04-19
+00065,BANCO MUNICIPAL DE ROSARIO,publico,informacion_estructura,Cantidad de operaciones por otros préstamos,Dic-2023,102056.0,2026-04-19
+00065,BANCO MUNICIPAL DE ROSARIO,publico,informacion_estructura,Dotación de personal,Dic-2023,435.0,2026-04-19
+00065,BANCO MUNICIPAL DE ROSARIO,publico,informacion_estructura,Cantidad de titulares por tarjetas de crédito,Dic-2023,60882.0,2026-04-19
+00065,BANCO MUNICIPAL DE ROSARIO,publico,informacion_estructura,Cantidad de tarjetas de crédito (plásticos),Dic-2023,144304.0,2026-04-19
+00065,BANCO MUNICIPAL DE ROSARIO,publico,informacion_estructura,Cantidad de tarjetas de débito,Dic-2023,102452.0,2026-04-19
+00065,BANCO MUNICIPAL DE ROSARIO,publico,informacion_estructura,Cantidad de cuentas corrientes,Dic-2024,3224.0,2026-04-19
+00065,BANCO MUNICIPAL DE ROSARIO,publico,informacion_estructura,Cantidad de cuentas de ahorro,Dic-2024,283570.0,2026-04-19
+00065,BANCO MUNICIPAL DE ROSARIO,publico,informacion_estructura,Cantidad de cajas de ahorro de ayuda social,Dic-2024,41743.0,2026-04-19
+00065,BANCO MUNICIPAL DE ROSARIO,publico,informacion_estructura,Cantidad de cuentas previsionales,Dic-2024,90795.0,2026-04-19
+00065,BANCO MUNICIPAL DE ROSARIO,publico,informacion_estructura,Cantidad de operaciones a plazo fijo Individuos,Dic-2024,14009.0,2026-04-19
+00065,BANCO MUNICIPAL DE ROSARIO,publico,informacion_estructura,Cantidad de operaciones a plazo fijo Empresas,Dic-2024,12361.0,2026-04-19
+00065,BANCO MUNICIPAL DE ROSARIO,publico,informacion_estructura,Cantidad de operaciones por préstamos hipotecarios,Dic-2024,54.0,2026-04-19
+00065,BANCO MUNICIPAL DE ROSARIO,publico,informacion_estructura,Cantidad de operaciones por préstamos prendarios,Dic-2024,4741.0,2026-04-19
+00065,BANCO MUNICIPAL DE ROSARIO,publico,informacion_estructura,Cantidad de operaciones por otros préstamos,Dic-2024,151183.0,2026-04-19
+00065,BANCO MUNICIPAL DE ROSARIO,publico,informacion_estructura,Dotación de personal,Dic-2024,415.0,2026-04-19
+00065,BANCO MUNICIPAL DE ROSARIO,publico,informacion_estructura,Cantidad de titulares por tarjetas de crédito,Dic-2024,63277.0,2026-04-19
+00065,BANCO MUNICIPAL DE ROSARIO,publico,informacion_estructura,Cantidad de tarjetas de crédito (plásticos),Dic-2024,151882.0,2026-04-19
+00065,BANCO MUNICIPAL DE ROSARIO,publico,informacion_estructura,Cantidad de tarjetas de débito,Dic-2024,113989.0,2026-04-19
+00065,BANCO MUNICIPAL DE ROSARIO,publico,informacion_estructura,Cantidad de cuentas corrientes,Jun-2025,3077.0,2026-04-19
+00065,BANCO MUNICIPAL DE ROSARIO,publico,informacion_estructura,Cantidad de cuentas de ahorro,Jun-2025,295614.0,2026-04-19
+00065,BANCO MUNICIPAL DE ROSARIO,publico,informacion_estructura,Cantidad de cajas de ahorro de ayuda social,Jun-2025,42302.0,2026-04-19
+00065,BANCO MUNICIPAL DE ROSARIO,publico,informacion_estructura,Cantidad de cuentas previsionales,Jun-2025,92308.0,2026-04-19
+00065,BANCO MUNICIPAL DE ROSARIO,publico,informacion_estructura,Cantidad de operaciones a plazo fijo Individuos,Jun-2025,12920.0,2026-04-19
+00065,BANCO MUNICIPAL DE ROSARIO,publico,informacion_estructura,Cantidad de operaciones a plazo fijo Empresas,Jun-2025,12855.0,2026-04-19
+00065,BANCO MUNICIPAL DE ROSARIO,publico,informacion_estructura,Cantidad de operaciones por préstamos hipotecarios,Jun-2025,151.0,2026-04-19
+00065,BANCO MUNICIPAL DE ROSARIO,publico,informacion_estructura,Cantidad de operaciones por préstamos prendarios,Jun-2025,5203.0,2026-04-19
+00065,BANCO MUNICIPAL DE ROSARIO,publico,informacion_estructura,Cantidad de operaciones por otros préstamos,Jun-2025,149886.0,2026-04-19
+00065,BANCO MUNICIPAL DE ROSARIO,publico,informacion_estructura,Dotación de personal,Jun-2025,404.0,2026-04-19
+00065,BANCO MUNICIPAL DE ROSARIO,publico,informacion_estructura,Cantidad de titulares por tarjetas de crédito,Jun-2025,63314.0,2026-04-19
+00065,BANCO MUNICIPAL DE ROSARIO,publico,informacion_estructura,Cantidad de tarjetas de crédito (plásticos),Jun-2025,151089.0,2026-04-19
+00065,BANCO MUNICIPAL DE ROSARIO,publico,informacion_estructura,Cantidad de tarjetas de débito,Jun-2025,119952.0,2026-04-19
+00065,BANCO MUNICIPAL DE ROSARIO,publico,informacion_estructura,Cantidad de cuentas corrientes,Set-2025,3181.0,2026-04-19
+00065,BANCO MUNICIPAL DE ROSARIO,publico,informacion_estructura,Cantidad de cuentas de ahorro,Set-2025,302144.0,2026-04-19
+00065,BANCO MUNICIPAL DE ROSARIO,publico,informacion_estructura,Cantidad de cajas de ahorro de ayuda social,Set-2025,42409.0,2026-04-19
+00065,BANCO MUNICIPAL DE ROSARIO,publico,informacion_estructura,Cantidad de cuentas previsionales,Set-2025,92360.0,2026-04-19
+00065,BANCO MUNICIPAL DE ROSARIO,publico,informacion_estructura,Cantidad de operaciones a plazo fijo Individuos,Set-2025,13568.0,2026-04-19
+00065,BANCO MUNICIPAL DE ROSARIO,publico,informacion_estructura,Cantidad de operaciones a plazo fijo Empresas,Set-2025,13317.0,2026-04-19
+00065,BANCO MUNICIPAL DE ROSARIO,publico,informacion_estructura,Cantidad de operaciones por préstamos hipotecarios,Set-2025,268.0,2026-04-19
+00065,BANCO MUNICIPAL DE ROSARIO,publico,informacion_estructura,Cantidad de operaciones por préstamos prendarios,Set-2025,5054.0,2026-04-19
+00065,BANCO MUNICIPAL DE ROSARIO,publico,informacion_estructura,Cantidad de operaciones por otros préstamos,Set-2025,159483.0,2026-04-19
+00065,BANCO MUNICIPAL DE ROSARIO,publico,informacion_estructura,Dotación de personal,Set-2025,399.0,2026-04-19
+00065,BANCO MUNICIPAL DE ROSARIO,publico,informacion_estructura,Cantidad de titulares por tarjetas de crédito,Set-2025,63314.0,2026-04-19
+00065,BANCO MUNICIPAL DE ROSARIO,publico,informacion_estructura,Cantidad de tarjetas de crédito (plásticos),Set-2025,131668.0,2026-04-19
+00065,BANCO MUNICIPAL DE ROSARIO,publico,informacion_estructura,Cantidad de tarjetas de débito,Set-2025,122877.0,2026-04-19
+00065,BANCO MUNICIPAL DE ROSARIO,publico,informacion_estructura,Cantidad de cuentas corrientes,Dic-2025,3235.0,2026-04-19
+00065,BANCO MUNICIPAL DE ROSARIO,publico,informacion_estructura,Cantidad de cuentas de ahorro,Dic-2025,313861.0,2026-04-19
+00065,BANCO MUNICIPAL DE ROSARIO,publico,informacion_estructura,Cantidad de cajas de ahorro de ayuda social,Dic-2025,42488.0,2026-04-19
+00065,BANCO MUNICIPAL DE ROSARIO,publico,informacion_estructura,Cantidad de cuentas previsionales,Dic-2025,93284.0,2026-04-19
+00065,BANCO MUNICIPAL DE ROSARIO,publico,informacion_estructura,Cantidad de operaciones a plazo fijo Individuos,Dic-2025,12665.0,2026-04-19
+00065,BANCO MUNICIPAL DE ROSARIO,publico,informacion_estructura,Cantidad de operaciones a plazo fijo Empresas,Dic-2025,13616.0,2026-04-19
+00065,BANCO MUNICIPAL DE ROSARIO,publico,informacion_estructura,Cantidad de operaciones por préstamos hipotecarios,Dic-2025,422.0,2026-04-19
+00065,BANCO MUNICIPAL DE ROSARIO,publico,informacion_estructura,Cantidad de operaciones por préstamos prendarios,Dic-2025,3027.0,2026-04-19
+00065,BANCO MUNICIPAL DE ROSARIO,publico,informacion_estructura,Cantidad de operaciones por otros préstamos,Dic-2025,170544.0,2026-04-19
+00065,BANCO MUNICIPAL DE ROSARIO,publico,informacion_estructura,Dotación de personal,Dic-2025,397.0,2026-04-19
+00065,BANCO MUNICIPAL DE ROSARIO,publico,informacion_estructura,Cantidad de titulares por tarjetas de crédito,Dic-2025,63699.0,2026-04-19
+00065,BANCO MUNICIPAL DE ROSARIO,publico,informacion_estructura,Cantidad de tarjetas de crédito (plásticos),Dic-2025,132540.0,2026-04-19
+00065,BANCO MUNICIPAL DE ROSARIO,publico,informacion_estructura,Cantidad de tarjetas de débito,Dic-2025,125014.0,2026-04-19
+00065,BANCO MUNICIPAL DE ROSARIO,publico,informacion_estructura,Cantidad de Cuentas,Dic-2023,22040.0,2026-04-19
+00065,BANCO MUNICIPAL DE ROSARIO,publico,informacion_estructura,Cantidad de Empresas,Dic-2023,370.0,2026-04-19
+00065,BANCO MUNICIPAL DE ROSARIO,publico,informacion_estructura,Cantidad de Cuentas,Dic-2024,20975.0,2026-04-19
+00065,BANCO MUNICIPAL DE ROSARIO,publico,informacion_estructura,Cantidad de Empresas,Dic-2024,353.0,2026-04-19
+00065,BANCO MUNICIPAL DE ROSARIO,publico,informacion_estructura,Cantidad de Cuentas,Nov-2025,19744.0,2026-04-19
+00065,BANCO MUNICIPAL DE ROSARIO,publico,informacion_estructura,Cantidad de Empresas,Nov-2025,305.0,2026-04-19
+00065,BANCO MUNICIPAL DE ROSARIO,publico,informacion_estructura,Cantidad de Cuentas,Dic-2025,20268.0,2026-04-19
+00065,BANCO MUNICIPAL DE ROSARIO,publico,informacion_estructura,Cantidad de Empresas,Dic-2025,315.0,2026-04-19
+00065,BANCO MUNICIPAL DE ROSARIO,publico,informacion_estructura,Cantidad de Cuentas,Ene-2026,19667.0,2026-04-19
+00065,BANCO MUNICIPAL DE ROSARIO,publico,informacion_estructura,Cantidad de Empresas,Ene-2026,300.0,2026-04-19
+00065,BANCO MUNICIPAL DE ROSARIO,publico,informacion_estructura,SANTA FE,Habilitadas,15.0,2026-04-19
+00065,BANCO MUNICIPAL DE ROSARIO,publico,informacion_estructura,SANTA FE,Habilitadas,,2026-04-19
+00065,BANCO MUNICIPAL DE ROSARIO,publico,informacion_estructura,SANTA FE,Habilitadas,1.0,2026-04-19
+00065,BANCO MUNICIPAL DE ROSARIO,publico,informacion_estructura,SANTA FE,Habilitadas,127.0,2026-04-19
+00065,BANCO MUNICIPAL DE ROSARIO,publico,informacion_estructura,SANTA FE,Habilitadas,30.0,2026-04-19
+00065,BANCO MUNICIPAL DE ROSARIO,publico,informacion_estructura,SANTA FE,Habilitadas,,2026-04-19
+00065,BANCO MUNICIPAL DE ROSARIO,publico,informacion_estructura,SANTA FE,Habilitadas,13.0,2026-04-19
+00065,BANCO MUNICIPAL DE ROSARIO,publico,informacion_estructura,SANTA FE,Pendientes de habilitación,,2026-04-19
+00065,BANCO MUNICIPAL DE ROSARIO,publico,informacion_estructura,SANTA FE,Total,15.0,2026-04-19

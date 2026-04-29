@@ -1,0 +1,69 @@
+codigo_bcra,nombre_banco,tipo_entidad,fuente,variable,periodo,valor,scraping_fecha
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,informacion_estructura,Cantidad de cuentas corrientes,Dic-2023,785.0,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,informacion_estructura,Cantidad de cuentas de ahorro,Dic-2023,599.0,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,informacion_estructura,Cantidad de operaciones a plazo fijo Individuos,Dic-2023,73.0,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,informacion_estructura,Cantidad de operaciones a plazo fijo Empresas,Dic-2023,8.0,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,informacion_estructura,Cantidad de operaciones por préstamos hipotecarios,Dic-2023,1.0,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,informacion_estructura,Cantidad de operaciones por otros préstamos,Dic-2023,4382.0,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,informacion_estructura,Dotación de personal,Dic-2023,128.0,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,informacion_estructura,Cantidad de tarjetas de débito,Dic-2023,1762.0,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,informacion_estructura,Cantidad de cuentas corrientes,Dic-2024,779.0,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,informacion_estructura,Cantidad de cuentas de ahorro,Dic-2024,582.0,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,informacion_estructura,Cantidad de operaciones a plazo fijo Individuos,Dic-2024,46.0,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,informacion_estructura,Cantidad de operaciones a plazo fijo Empresas,Dic-2024,22.0,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,informacion_estructura,Cantidad de operaciones por préstamos hipotecarios,Dic-2024,3.0,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,informacion_estructura,Cantidad de operaciones por otros préstamos,Dic-2024,5628.0,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,informacion_estructura,Dotación de personal,Dic-2024,139.0,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,informacion_estructura,Cantidad de tarjetas de débito,Dic-2024,83.0,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,informacion_estructura,Cantidad de cuentas corrientes,Jun-2025,748.0,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,informacion_estructura,Cantidad de cuentas de ahorro,Jun-2025,655.0,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,informacion_estructura,Cantidad de operaciones a plazo fijo Individuos,Jun-2025,66.0,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,informacion_estructura,Cantidad de operaciones a plazo fijo Empresas,Jun-2025,34.0,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,informacion_estructura,Cantidad de operaciones por préstamos hipotecarios,Jun-2025,5.0,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,informacion_estructura,Cantidad de operaciones por otros préstamos,Jun-2025,17447.0,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,informacion_estructura,Dotación de personal,Jun-2025,145.0,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,informacion_estructura,Cantidad de tarjetas de débito,Jun-2025,35.0,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,informacion_estructura,Cantidad de cuentas corrientes,Set-2025,751.0,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,informacion_estructura,Cantidad de cuentas de ahorro,Set-2025,651.0,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,informacion_estructura,Cantidad de operaciones a plazo fijo Individuos,Set-2025,28.0,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,informacion_estructura,Cantidad de operaciones a plazo fijo Empresas,Set-2025,25.0,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,informacion_estructura,Cantidad de operaciones por préstamos hipotecarios,Set-2025,2.0,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,informacion_estructura,Cantidad de operaciones por otros préstamos,Set-2025,15224.0,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,informacion_estructura,Dotación de personal,Set-2025,145.0,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,informacion_estructura,Cantidad de tarjetas de débito,Set-2025,70.0,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,informacion_estructura,Cantidad de cuentas corrientes,Dic-2025,747.0,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,informacion_estructura,Cantidad de cuentas de ahorro,Dic-2025,641.0,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,informacion_estructura,Cantidad de operaciones a plazo fijo Individuos,Dic-2025,29.0,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,informacion_estructura,Cantidad de operaciones a plazo fijo Empresas,Dic-2025,26.0,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,informacion_estructura,Cantidad de operaciones por préstamos hipotecarios,Dic-2025,3.0,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,informacion_estructura,Cantidad de operaciones por otros préstamos,Dic-2025,15136.0,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,informacion_estructura,Dotación de personal,Dic-2025,148.0,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,informacion_estructura,Cantidad de tarjetas de débito,Dic-2025,100.0,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,informacion_estructura,Cantidad de Cuentas,Dic-2023,1.0,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,informacion_estructura,Cantidad de Empresas,Dic-2023,1.0,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,informacion_estructura,Cantidad de Cuentas,Dic-2024,3.0,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,informacion_estructura,Cantidad de Empresas,Dic-2024,1.0,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,informacion_estructura,Cantidad de Cuentas,Nov-2025,4.0,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,informacion_estructura,Cantidad de Empresas,Nov-2025,1.0,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,informacion_estructura,Cantidad de Cuentas,Dic-2025,2.0,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,informacion_estructura,Cantidad de Empresas,Dic-2025,1.0,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,informacion_estructura,Cantidad de Cuentas,Ene-2026,5.0,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,informacion_estructura,Cantidad de Empresas,Ene-2026,2.0,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,informacion_estructura,CABA,Habilitadas,2.0,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,informacion_estructura,BUENOS AIRES,Habilitadas,2.0,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,informacion_estructura,CABA,Habilitadas,,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,informacion_estructura,BUENOS AIRES,Habilitadas,,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,informacion_estructura,CABA,Habilitadas,,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,informacion_estructura,BUENOS AIRES,Habilitadas,,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,informacion_estructura,CABA,Habilitadas,1.0,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,informacion_estructura,BUENOS AIRES,Habilitadas,,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,informacion_estructura,CABA,Habilitadas,,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,informacion_estructura,BUENOS AIRES,Habilitadas,,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,informacion_estructura,CABA,Habilitadas,,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,informacion_estructura,BUENOS AIRES,Habilitadas,,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,informacion_estructura,CABA,Habilitadas,,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,informacion_estructura,BUENOS AIRES,Habilitadas,,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,informacion_estructura,CABA,Pendientes de habilitación,,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,informacion_estructura,BUENOS AIRES,Pendientes de habilitación,,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,informacion_estructura,CABA,Total,2.0,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,informacion_estructura,BUENOS AIRES,Total,2.0,2026-04-19

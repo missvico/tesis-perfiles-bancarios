@@ -1,0 +1,292 @@
+codigo_bcra,nombre_banco,tipo_entidad,fuente,variable,periodo,valor,scraping_fecha
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,Cantidad de cuentas corrientes,Dic-2023,2179022.0,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,Cantidad de cuentas de ahorro,Dic-2023,6073203.0,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,Cantidad de cajas de ahorro de ayuda social,Dic-2023,384288.0,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,Cantidad de cuentas previsionales,Dic-2023,221880.0,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,Cantidad de operaciones a plazo fijo Individuos,Dic-2023,453380.0,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,Cantidad de operaciones a plazo fijo Empresas,Dic-2023,6392.0,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,Cantidad de operaciones por préstamos hipotecarios,Dic-2023,4383.0,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,Cantidad de operaciones por préstamos prendarios,Dic-2023,17653.0,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,Cantidad de operaciones por otros préstamos,Dic-2023,3278760.0,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,Dotación de personal,Dic-2023,5918.0,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,Cantidad de titulares por tarjetas de crédito,Dic-2023,4951122.0,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,Cantidad de tarjetas de crédito (plásticos),Dic-2023,5337069.0,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,Cantidad de tarjetas de débito,Dic-2023,4010963.0,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,Cantidad de cuentas corrientes,Dic-2024,2239373.0,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,Cantidad de cuentas de ahorro,Dic-2024,6437239.0,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,Cantidad de cajas de ahorro de ayuda social,Dic-2024,386663.0,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,Cantidad de cuentas previsionales,Dic-2024,258673.0,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,Cantidad de operaciones a plazo fijo Individuos,Dic-2024,294253.0,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,Cantidad de operaciones a plazo fijo Empresas,Dic-2024,5970.0,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,Cantidad de operaciones por préstamos hipotecarios,Dic-2024,4298.0,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,Cantidad de operaciones por préstamos prendarios,Dic-2024,15230.0,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,Cantidad de operaciones por otros préstamos,Dic-2024,3417520.0,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,Dotación de personal,Dic-2024,6193.0,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,Cantidad de titulares por tarjetas de crédito,Dic-2024,5300275.0,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,Cantidad de tarjetas de crédito (plásticos),Dic-2024,5216767.0,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,Cantidad de tarjetas de débito,Dic-2024,4232586.0,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,Cantidad de cuentas corrientes,Jun-2025,2378868.0,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,Cantidad de cuentas de ahorro,Jun-2025,6875324.0,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,Cantidad de cajas de ahorro de ayuda social,Jun-2025,385038.0,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,Cantidad de cuentas previsionales,Jun-2025,272251.0,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,Cantidad de operaciones a plazo fijo Individuos,Jun-2025,286289.0,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,Cantidad de operaciones a plazo fijo Empresas,Jun-2025,6480.0,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,Cantidad de operaciones por préstamos hipotecarios,Jun-2025,5697.0,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,Cantidad de operaciones por préstamos prendarios,Jun-2025,19597.0,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,Cantidad de operaciones por otros préstamos,Jun-2025,3633459.0,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,Dotación de personal,Jun-2025,6407.0,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,Cantidad de titulares por tarjetas de crédito,Jun-2025,5589604.0,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,Cantidad de tarjetas de crédito (plásticos),Jun-2025,3602985.0,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,Cantidad de tarjetas de débito,Jun-2025,4309785.0,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,Cantidad de cuentas corrientes,Set-2025,2333465.0,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,Cantidad de cuentas de ahorro,Set-2025,6951156.0,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,Cantidad de cajas de ahorro de ayuda social,Set-2025,373899.0,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,Cantidad de cuentas previsionales,Set-2025,277626.0,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,Cantidad de operaciones a plazo fijo Individuos,Set-2025,318569.0,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,Cantidad de operaciones a plazo fijo Empresas,Set-2025,9868.0,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,Cantidad de operaciones por préstamos hipotecarios,Set-2025,6491.0,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,Cantidad de operaciones por préstamos prendarios,Set-2025,21240.0,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,Cantidad de operaciones por otros préstamos,Set-2025,3705999.0,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,Dotación de personal,Set-2025,6527.0,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,Cantidad de titulares por tarjetas de crédito,Set-2025,5665745.0,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,Cantidad de tarjetas de crédito (plásticos),Set-2025,3511298.0,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,Cantidad de tarjetas de débito,Set-2025,4325062.0,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,Cantidad de cuentas corrientes,Dic-2025,2232705.0,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,Cantidad de cuentas de ahorro,Dic-2025,6967131.0,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,Cantidad de cajas de ahorro de ayuda social,Dic-2025,370851.0,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,Cantidad de cuentas previsionales,Dic-2025,290416.0,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,Cantidad de operaciones a plazo fijo Individuos,Dic-2025,242057.0,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,Cantidad de operaciones a plazo fijo Empresas,Dic-2025,7503.0,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,Cantidad de operaciones por préstamos hipotecarios,Dic-2025,6954.0,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,Cantidad de operaciones por préstamos prendarios,Dic-2025,21355.0,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,Cantidad de operaciones por otros préstamos,Dic-2025,3634274.0,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,Dotación de personal,Dic-2025,6586.0,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,Cantidad de titulares por tarjetas de crédito,Dic-2025,2038645.0,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,Cantidad de tarjetas de crédito (plásticos),Dic-2025,4859546.0,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,Cantidad de tarjetas de débito,Dic-2025,4294107.0,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,Cantidad de Cuentas,Dic-2023,775418.0,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,Cantidad de Empresas,Dic-2023,48115.0,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,Cantidad de Cuentas,Dic-2024,866488.0,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,Cantidad de Empresas,Dic-2024,68687.0,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,Cantidad de Cuentas,Nov-2025,850502.0,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,Cantidad de Empresas,Nov-2025,68886.0,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,Cantidad de Cuentas,Dic-2025,862833.0,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,Cantidad de Empresas,Dic-2025,70059.0,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,Cantidad de Cuentas,Ene-2026,854997.0,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,Cantidad de Empresas,Ene-2026,69672.0,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,CABA,Habilitadas,81.0,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,BUENOS AIRES,Habilitadas,84.0,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,CATAMARCA,Habilitadas,1.0,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,CÓRDOBA,Habilitadas,15.0,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,CORRIENTES,Habilitadas,2.0,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,CHACO,Habilitadas,2.0,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,CHUBUT,Habilitadas,5.0,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,ENTRE RÍOS,Habilitadas,6.0,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,FORMOSA,Habilitadas,1.0,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,JUJUY,Habilitadas,1.0,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,LA PAMPA,Habilitadas,2.0,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,LA RIOJA,Habilitadas,1.0,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,MENDOZA,Habilitadas,11.0,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,MISIONES,Habilitadas,2.0,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,NEUQUÉN,Habilitadas,4.0,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,RÍO NEGRO,Habilitadas,3.0,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,SALTA,Habilitadas,2.0,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,SAN JUAN,Habilitadas,2.0,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,SAN LUIS,Habilitadas,2.0,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,SANTA CRUZ,Habilitadas,3.0,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,SANTA FE,Habilitadas,11.0,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,SANTIAGO DEL ESTERO,Habilitadas,1.0,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,TUCUMÁN,Habilitadas,3.0,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,TIERRA DE FUEGO,Habilitadas,2.0,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,CABA,Habilitadas,,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,BUENOS AIRES,Habilitadas,,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,CATAMARCA,Habilitadas,,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,CÓRDOBA,Habilitadas,,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,CORRIENTES,Habilitadas,,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,CHACO,Habilitadas,,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,CHUBUT,Habilitadas,,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,ENTRE RÍOS,Habilitadas,,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,FORMOSA,Habilitadas,,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,JUJUY,Habilitadas,,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,LA PAMPA,Habilitadas,,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,LA RIOJA,Habilitadas,,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,MENDOZA,Habilitadas,,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,MISIONES,Habilitadas,,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,NEUQUÉN,Habilitadas,,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,RÍO NEGRO,Habilitadas,,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,SALTA,Habilitadas,,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,SAN JUAN,Habilitadas,,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,SAN LUIS,Habilitadas,,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,SANTA CRUZ,Habilitadas,,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,SANTA FE,Habilitadas,,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,SANTIAGO DEL ESTERO,Habilitadas,,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,TUCUMÁN,Habilitadas,,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,TIERRA DE FUEGO,Habilitadas,,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,CABA,Habilitadas,1.0,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,BUENOS AIRES,Habilitadas,,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,CATAMARCA,Habilitadas,,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,CÓRDOBA,Habilitadas,,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,CORRIENTES,Habilitadas,,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,CHACO,Habilitadas,,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,CHUBUT,Habilitadas,,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,ENTRE RÍOS,Habilitadas,,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,FORMOSA,Habilitadas,,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,JUJUY,Habilitadas,,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,LA PAMPA,Habilitadas,,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,LA RIOJA,Habilitadas,,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,MENDOZA,Habilitadas,,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,MISIONES,Habilitadas,,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,NEUQUÉN,Habilitadas,,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,RÍO NEGRO,Habilitadas,,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,SALTA,Habilitadas,,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,SAN JUAN,Habilitadas,,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,SAN LUIS,Habilitadas,,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,SANTA CRUZ,Habilitadas,,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,SANTA FE,Habilitadas,,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,SANTIAGO DEL ESTERO,Habilitadas,,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,TUCUMÁN,Habilitadas,1.0,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,TIERRA DE FUEGO,Habilitadas,,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,CABA,Habilitadas,282.0,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,BUENOS AIRES,Habilitadas,338.0,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,CATAMARCA,Habilitadas,3.0,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,CÓRDOBA,Habilitadas,34.0,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,CORRIENTES,Habilitadas,9.0,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,CHACO,Habilitadas,7.0,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,CHUBUT,Habilitadas,15.0,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,ENTRE RÍOS,Habilitadas,15.0,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,FORMOSA,Habilitadas,5.0,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,JUJUY,Habilitadas,2.0,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,LA PAMPA,Habilitadas,3.0,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,LA RIOJA,Habilitadas,4.0,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,MENDOZA,Habilitadas,35.0,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,MISIONES,Habilitadas,6.0,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,NEUQUÉN,Habilitadas,14.0,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,RÍO NEGRO,Habilitadas,10.0,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,SALTA,Habilitadas,7.0,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,SAN JUAN,Habilitadas,10.0,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,SAN LUIS,Habilitadas,6.0,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,SANTA CRUZ,Habilitadas,9.0,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,SANTA FE,Habilitadas,43.0,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,SANTIAGO DEL ESTERO,Habilitadas,4.0,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,TUCUMÁN,Habilitadas,18.0,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,TIERRA DE FUEGO,Habilitadas,9.0,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,CABA,Habilitadas,265.0,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,BUENOS AIRES,Habilitadas,294.0,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,CATAMARCA,Habilitadas,3.0,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,CÓRDOBA,Habilitadas,50.0,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,CORRIENTES,Habilitadas,6.0,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,CHACO,Habilitadas,9.0,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,CHUBUT,Habilitadas,14.0,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,ENTRE RÍOS,Habilitadas,16.0,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,FORMOSA,Habilitadas,6.0,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,JUJUY,Habilitadas,3.0,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,LA PAMPA,Habilitadas,7.0,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,LA RIOJA,Habilitadas,4.0,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,MENDOZA,Habilitadas,37.0,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,MISIONES,Habilitadas,10.0,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,NEUQUÉN,Habilitadas,12.0,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,RÍO NEGRO,Habilitadas,11.0,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,SALTA,Habilitadas,12.0,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,SAN JUAN,Habilitadas,11.0,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,SAN LUIS,Habilitadas,7.0,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,SANTA CRUZ,Habilitadas,7.0,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,SANTA FE,Habilitadas,45.0,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,SANTIAGO DEL ESTERO,Habilitadas,8.0,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,TUCUMÁN,Habilitadas,16.0,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,TIERRA DE FUEGO,Habilitadas,4.0,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,CABA,Habilitadas,2.0,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,BUENOS AIRES,Habilitadas,2.0,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,CATAMARCA,Habilitadas,,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,CÓRDOBA,Habilitadas,,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,CORRIENTES,Habilitadas,,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,CHACO,Habilitadas,,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,CHUBUT,Habilitadas,1.0,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,ENTRE RÍOS,Habilitadas,,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,FORMOSA,Habilitadas,,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,JUJUY,Habilitadas,,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,LA PAMPA,Habilitadas,,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,LA RIOJA,Habilitadas,,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,MENDOZA,Habilitadas,,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,MISIONES,Habilitadas,,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,NEUQUÉN,Habilitadas,,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,RÍO NEGRO,Habilitadas,,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,SALTA,Habilitadas,,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,SAN JUAN,Habilitadas,,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,SAN LUIS,Habilitadas,,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,SANTA CRUZ,Habilitadas,,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,SANTA FE,Habilitadas,2.0,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,SANTIAGO DEL ESTERO,Habilitadas,,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,TUCUMÁN,Habilitadas,,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,TIERRA DE FUEGO,Habilitadas,,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,CABA,Habilitadas,4.0,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,BUENOS AIRES,Habilitadas,9.0,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,CATAMARCA,Habilitadas,,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,CÓRDOBA,Habilitadas,,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,CORRIENTES,Habilitadas,,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,CHACO,Habilitadas,,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,CHUBUT,Habilitadas,,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,ENTRE RÍOS,Habilitadas,,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,FORMOSA,Habilitadas,,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,JUJUY,Habilitadas,,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,LA PAMPA,Habilitadas,,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,LA RIOJA,Habilitadas,,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,MENDOZA,Habilitadas,,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,MISIONES,Habilitadas,,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,NEUQUÉN,Habilitadas,,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,RÍO NEGRO,Habilitadas,1.0,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,SALTA,Habilitadas,,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,SAN JUAN,Habilitadas,,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,SAN LUIS,Habilitadas,,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,SANTA CRUZ,Habilitadas,,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,SANTA FE,Habilitadas,1.0,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,SANTIAGO DEL ESTERO,Habilitadas,,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,TUCUMÁN,Habilitadas,,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,TIERRA DE FUEGO,Habilitadas,,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,CABA,Pendientes de habilitación,,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,BUENOS AIRES,Pendientes de habilitación,,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,CATAMARCA,Pendientes de habilitación,,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,CÓRDOBA,Pendientes de habilitación,,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,CORRIENTES,Pendientes de habilitación,,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,CHACO,Pendientes de habilitación,,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,CHUBUT,Pendientes de habilitación,,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,ENTRE RÍOS,Pendientes de habilitación,,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,FORMOSA,Pendientes de habilitación,,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,JUJUY,Pendientes de habilitación,,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,LA PAMPA,Pendientes de habilitación,,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,LA RIOJA,Pendientes de habilitación,,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,MENDOZA,Pendientes de habilitación,,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,MISIONES,Pendientes de habilitación,,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,NEUQUÉN,Pendientes de habilitación,,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,RÍO NEGRO,Pendientes de habilitación,,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,SALTA,Pendientes de habilitación,,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,SAN JUAN,Pendientes de habilitación,,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,SAN LUIS,Pendientes de habilitación,,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,SANTA CRUZ,Pendientes de habilitación,,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,SANTA FE,Pendientes de habilitación,,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,SANTIAGO DEL ESTERO,Pendientes de habilitación,,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,TUCUMÁN,Pendientes de habilitación,,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,TIERRA DE FUEGO,Pendientes de habilitación,,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,CABA,Total,81.0,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,BUENOS AIRES,Total,84.0,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,CATAMARCA,Total,1.0,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,CÓRDOBA,Total,15.0,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,CORRIENTES,Total,2.0,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,CHACO,Total,2.0,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,CHUBUT,Total,5.0,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,ENTRE RÍOS,Total,6.0,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,FORMOSA,Total,1.0,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,JUJUY,Total,1.0,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,LA PAMPA,Total,2.0,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,LA RIOJA,Total,1.0,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,MENDOZA,Total,11.0,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,MISIONES,Total,2.0,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,NEUQUÉN,Total,4.0,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,RÍO NEGRO,Total,3.0,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,SALTA,Total,2.0,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,SAN JUAN,Total,2.0,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,SAN LUIS,Total,2.0,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,SANTA CRUZ,Total,3.0,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,SANTA FE,Total,11.0,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,SANTIAGO DEL ESTERO,Total,1.0,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,TUCUMÁN,Total,3.0,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,informacion_estructura,TIERRA DE FUEGO,Total,2.0,2026-04-19

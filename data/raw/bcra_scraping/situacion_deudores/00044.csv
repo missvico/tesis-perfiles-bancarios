@@ -1,0 +1,161 @@
+codigo_bcra,nombre_banco,tipo_entidad,fuente,variable,periodo,valor,scraping_fecha
+00044,BANCO HIPOTECARIO S.A.,publico,situacion_deudores,TOTAL DE FINANCIACIONES Y GARANTIAS OTORGADAS ($),Dic-2023,145997.17,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,situacion_deudores,TF.Sit.1: En situación normal (%),Dic-2023,95.53,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,situacion_deudores,TF.Sit.2: Con seguimiento especial/Riesgo bajo (%),Dic-2023,1.19,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,situacion_deudores,TF.Sit.3: Con problemas/Riesgo medio (%),Dic-2023,0.66,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,situacion_deudores,TF.Sit.4: Con alto riesgo de insolvencia/Riesgo alto (%),Dic-2023,0.68,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,situacion_deudores,TF.Sit.5: Irrecuperable (%),Dic-2023,1.94,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,situacion_deudores,TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Dic-2023,32.26,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,situacion_deudores,Previsiones por riesgo de incobrabilidad constituídas,Dic-2023,4831.83,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,situacion_deudores,CARTERA COMERCIAL ($),Dic-2023,35354.0,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,situacion_deudores,Total cartera sobre financiaciones (%),Dic-2023,24.22,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,situacion_deudores,C.COM.Sit.1: En situación normal (%),Dic-2023,94.21,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,situacion_deudores,C.COM.Sit.2: Con seguimiento especial (%),Dic-2023,0.0,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,situacion_deudores,C.COM.Sit.3: Con problemas (%),Dic-2023,0.0,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,situacion_deudores,C.COM.Sit.4: Con alto riesgo de insolvencia (%),Dic-2023,0.01,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,situacion_deudores,C.COM.Sit.5: Irrecuperable (%),Dic-2023,5.79,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,situacion_deudores,C.COM.TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Dic-2023,8.02,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,situacion_deudores,CARTERA DE CONSUMO O VIVIENDA ($),Dic-2023,95446.55,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,situacion_deudores,Total cartera sobre financiaciones (%),Dic-2023,65.38,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,situacion_deudores,C.CON.Sit.1: En situación normal (%),Dic-2023,95.32,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,situacion_deudores,C.CON.Sit.2: Riesgo bajo (%),Dic-2023,1.82,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,situacion_deudores,C.CON.Sit.3: Riesgo medio (%),Dic-2023,1.0,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,situacion_deudores,C.CON.Sit.4: Riesgo alto (%),Dic-2023,1.04,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,situacion_deudores,C.CON.Sit.5: Irrecuperable (%),Dic-2023,0.82,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,situacion_deudores,C.CON.TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Dic-2023,37.58,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,situacion_deudores,CARTERA COMERCIAL ASIMILABLE A CONSUMO ($),Dic-2023,15196.62,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,situacion_deudores,Total cartera sobre financiaciones (%),Dic-2023,10.41,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,situacion_deudores,C.CAC.Sit.1: En situación normal (%),Dic-2023,99.92,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,situacion_deudores,C.CAC.Sit.2: Riesgo bajo (%),Dic-2023,0.01,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,situacion_deudores,C.CAC.Sit.3: Riesgo medio (%),Dic-2023,0.07,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,situacion_deudores,C.CAC.Sit.4: Riesgo alto (%),Dic-2023,0.0,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,situacion_deudores,C.CAC.Sit.5: Irrecuperable (%),Dic-2023,0.01,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,situacion_deudores,C.CAC.TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Dic-2023,55.2,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,situacion_deudores,TOTAL DE FINANCIACIONES Y GARANTIAS OTORGADAS ($),Dic-2024,638139.66,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,situacion_deudores,TF.Sit.1: En situación normal (%),Dic-2024,96.45,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,situacion_deudores,TF.Sit.2: Con seguimiento especial/Riesgo bajo (%),Dic-2024,0.99,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,situacion_deudores,TF.Sit.3: Con problemas/Riesgo medio (%),Dic-2024,1.4,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,situacion_deudores,TF.Sit.4: Con alto riesgo de insolvencia/Riesgo alto (%),Dic-2024,0.85,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,situacion_deudores,TF.Sit.5: Irrecuperable (%),Dic-2024,0.31,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,situacion_deudores,TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Dic-2024,24.85,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,situacion_deudores,Previsiones por riesgo de incobrabilidad constituídas,Dic-2024,14794.7,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,situacion_deudores,CARTERA COMERCIAL ($),Dic-2024,219413.08,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,situacion_deudores,Total cartera sobre financiaciones (%),Dic-2024,34.38,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,situacion_deudores,C.COM.Sit.1: En situación normal (%),Dic-2024,96.52,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,situacion_deudores,C.COM.Sit.2: Con seguimiento especial (%),Dic-2024,0.0,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,situacion_deudores,C.COM.Sit.3: Con problemas (%),Dic-2024,2.32,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,situacion_deudores,C.COM.Sit.4: Con alto riesgo de insolvencia (%),Dic-2024,1.13,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,situacion_deudores,C.COM.Sit.5: Irrecuperable (%),Dic-2024,0.02,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,situacion_deudores,C.COM.TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Dic-2024,6.85,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,situacion_deudores,CARTERA DE CONSUMO O VIVIENDA ($),Dic-2024,390368.01,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,situacion_deudores,Total cartera sobre financiaciones (%),Dic-2024,61.17,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,situacion_deudores,C.CON.Sit.1: En situación normal (%),Dic-2024,96.19,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,situacion_deudores,C.CON.Sit.2: Riesgo bajo (%),Dic-2024,1.6,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,situacion_deudores,C.CON.Sit.3: Riesgo medio (%),Dic-2024,0.97,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,situacion_deudores,C.CON.Sit.4: Riesgo alto (%),Dic-2024,0.75,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,situacion_deudores,C.CON.Sit.5: Irrecuperable (%),Dic-2024,0.49,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,situacion_deudores,C.CON.TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Dic-2024,33.46,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,situacion_deudores,CARTERA COMERCIAL ASIMILABLE A CONSUMO ($),Dic-2024,28358.57,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,situacion_deudores,Total cartera sobre financiaciones (%),Dic-2024,4.44,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,situacion_deudores,C.CAC.Sit.1: En situación normal (%),Dic-2024,99.52,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,situacion_deudores,C.CAC.Sit.2: Riesgo bajo (%),Dic-2024,0.27,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,situacion_deudores,C.CAC.Sit.3: Riesgo medio (%),Dic-2024,0.17,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,situacion_deudores,C.CAC.Sit.4: Riesgo alto (%),Dic-2024,0.03,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,situacion_deudores,C.CAC.Sit.5: Irrecuperable (%),Dic-2024,0.01,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,situacion_deudores,C.CAC.TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Dic-2024,45.61,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,situacion_deudores,TOTAL DE FINANCIACIONES Y GARANTIAS OTORGADAS ($),Nov-2025,1268913.27,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,situacion_deudores,TF.Sit.1: En situación normal (%),Nov-2025,90.25,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,situacion_deudores,TF.Sit.2: Con seguimiento especial/Riesgo bajo (%),Nov-2025,3.67,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,situacion_deudores,TF.Sit.3: Con problemas/Riesgo medio (%),Nov-2025,2.95,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,situacion_deudores,TF.Sit.4: Con alto riesgo de insolvencia/Riesgo alto (%),Nov-2025,2.82,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,situacion_deudores,TF.Sit.5: Irrecuperable (%),Nov-2025,0.32,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,situacion_deudores,TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Nov-2025,22.15,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,situacion_deudores,Previsiones por riesgo de incobrabilidad constituídas,Nov-2025,74285.91,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,situacion_deudores,CARTERA COMERCIAL ($),Nov-2025,472487.55,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,situacion_deudores,Total cartera sobre financiaciones (%),Nov-2025,37.24,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,situacion_deudores,C.COM.Sit.1: En situación normal (%),Nov-2025,98.69,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,situacion_deudores,C.COM.Sit.2: Con seguimiento especial (%),Nov-2025,0.0,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,situacion_deudores,C.COM.Sit.3: Con problemas (%),Nov-2025,0.0,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,situacion_deudores,C.COM.Sit.4: Con alto riesgo de insolvencia (%),Nov-2025,1.29,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,situacion_deudores,C.COM.Sit.5: Irrecuperable (%),Nov-2025,0.01,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,situacion_deudores,C.COM.TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Nov-2025,5.36,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,situacion_deudores,CARTERA DE CONSUMO O VIVIENDA ($),Nov-2025,701308.47,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,situacion_deudores,Total cartera sobre financiaciones (%),Nov-2025,55.27,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,situacion_deudores,C.CON.Sit.1: En situación normal (%),Nov-2025,84.05,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,situacion_deudores,C.CON.Sit.2: Riesgo bajo (%),Nov-2025,6.23,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,situacion_deudores,C.CON.Sit.3: Riesgo medio (%),Nov-2025,4.98,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,situacion_deudores,C.CON.Sit.4: Riesgo alto (%),Nov-2025,4.18,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,situacion_deudores,C.CON.Sit.5: Irrecuperable (%),Nov-2025,0.56,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,situacion_deudores,C.CON.TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Nov-2025,32.07,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,situacion_deudores,CARTERA COMERCIAL ASIMILABLE A CONSUMO ($),Nov-2025,95117.24,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,situacion_deudores,Total cartera sobre financiaciones (%),Nov-2025,7.5,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,situacion_deudores,C.CAC.Sit.1: En situación normal (%),Nov-2025,93.97,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,situacion_deudores,C.CAC.Sit.2: Riesgo bajo (%),Nov-2025,2.99,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,situacion_deudores,C.CAC.Sit.3: Riesgo medio (%),Nov-2025,2.67,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,situacion_deudores,C.CAC.Sit.4: Riesgo alto (%),Nov-2025,0.35,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,situacion_deudores,C.CAC.Sit.5: Irrecuperable (%),Nov-2025,0.02,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,situacion_deudores,C.CAC.TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Nov-2025,32.35,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,situacion_deudores,TOTAL DE FINANCIACIONES Y GARANTIAS OTORGADAS ($),Dic-2025,1209316.74,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,situacion_deudores,TF.Sit.1: En situación normal (%),Dic-2025,89.06,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,situacion_deudores,TF.Sit.2: Con seguimiento especial/Riesgo bajo (%),Dic-2025,3.78,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,situacion_deudores,TF.Sit.3: Con problemas/Riesgo medio (%),Dic-2025,3.48,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,situacion_deudores,TF.Sit.4: Con alto riesgo de insolvencia/Riesgo alto (%),Dic-2025,3.43,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,situacion_deudores,TF.Sit.5: Irrecuperable (%),Dic-2025,0.24,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,situacion_deudores,TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Dic-2025,24.09,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,situacion_deudores,Previsiones por riesgo de incobrabilidad constituídas,Dic-2025,83281.3,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,situacion_deudores,CARTERA COMERCIAL ($),Dic-2025,400664.26,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,situacion_deudores,Total cartera sobre financiaciones (%),Dic-2025,33.13,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,situacion_deudores,C.COM.Sit.1: En situación normal (%),Dic-2025,98.44,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,situacion_deudores,C.COM.Sit.2: Con seguimiento especial (%),Dic-2025,0.0,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,situacion_deudores,C.COM.Sit.3: Con problemas (%),Dic-2025,0.0,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,situacion_deudores,C.COM.Sit.4: Con alto riesgo de insolvencia (%),Dic-2025,1.54,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,situacion_deudores,C.COM.Sit.5: Irrecuperable (%),Dic-2025,0.02,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,situacion_deudores,C.COM.TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Dic-2025,6.65,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,situacion_deudores,CARTERA DE CONSUMO O VIVIENDA ($),Dic-2025,712220.47,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,situacion_deudores,Total cartera sobre financiaciones (%),Dic-2025,58.89,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,situacion_deudores,C.CON.Sit.1: En situación normal (%),Dic-2025,83.15,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,situacion_deudores,C.CON.Sit.2: Riesgo bajo (%),Dic-2025,6.14,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,situacion_deudores,C.CON.Sit.3: Riesgo medio (%),Dic-2025,5.4,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,situacion_deudores,C.CON.Sit.4: Riesgo alto (%),Dic-2025,4.9,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,situacion_deudores,C.CON.Sit.5: Irrecuperable (%),Dic-2025,0.4,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,situacion_deudores,C.CON.TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Dic-2025,32.77,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,situacion_deudores,CARTERA COMERCIAL ASIMILABLE A CONSUMO ($),Dic-2025,96432.01,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,situacion_deudores,Total cartera sobre financiaciones (%),Dic-2025,7.97,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,situacion_deudores,C.CAC.Sit.1: En situación normal (%),Dic-2025,93.72,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,situacion_deudores,C.CAC.Sit.2: Riesgo bajo (%),Dic-2025,2.05,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,situacion_deudores,C.CAC.Sit.3: Riesgo medio (%),Dic-2025,3.75,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,situacion_deudores,C.CAC.Sit.4: Riesgo alto (%),Dic-2025,0.44,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,situacion_deudores,C.CAC.Sit.5: Irrecuperable (%),Dic-2025,0.03,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,situacion_deudores,C.CAC.TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Dic-2025,32.39,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,situacion_deudores,TOTAL DE FINANCIACIONES Y GARANTIAS OTORGADAS ($),Ene-2026,1320417.66,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,situacion_deudores,TF.Sit.1: En situación normal (%),Ene-2026,89.32,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,situacion_deudores,TF.Sit.2: Con seguimiento especial/Riesgo bajo (%),Ene-2026,3.04,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,situacion_deudores,TF.Sit.3: Con problemas/Riesgo medio (%),Ene-2026,3.81,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,situacion_deudores,TF.Sit.4: Con alto riesgo de insolvencia/Riesgo alto (%),Ene-2026,3.59,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,situacion_deudores,TF.Sit.5: Irrecuperable (%),Ene-2026,0.24,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,situacion_deudores,TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Ene-2026,24.54,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,situacion_deudores,Previsiones por riesgo de incobrabilidad constituídas,Ene-2026,97600.78,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,situacion_deudores,CARTERA COMERCIAL ($),Ene-2026,507529.57,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,situacion_deudores,Total cartera sobre financiaciones (%),Ene-2026,38.44,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,situacion_deudores,C.COM.Sit.1: En situación normal (%),Ene-2026,98.78,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,situacion_deudores,C.COM.Sit.2: Con seguimiento especial (%),Ene-2026,0.0,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,situacion_deudores,C.COM.Sit.3: Con problemas (%),Ene-2026,0.0,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,situacion_deudores,C.COM.Sit.4: Con alto riesgo de insolvencia (%),Ene-2026,1.21,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,situacion_deudores,C.COM.Sit.5: Irrecuperable (%),Ene-2026,0.01,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,situacion_deudores,C.COM.TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Ene-2026,10.25,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,situacion_deudores,CARTERA DE CONSUMO O VIVIENDA ($),Ene-2026,710431.17,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,situacion_deudores,Total cartera sobre financiaciones (%),Ene-2026,53.8,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,situacion_deudores,C.CON.Sit.1: En situación normal (%),Ene-2026,82.09,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,situacion_deudores,C.CON.Sit.2: Riesgo bajo (%),Ene-2026,5.33,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,situacion_deudores,C.CON.Sit.3: Riesgo medio (%),Ene-2026,6.61,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,situacion_deudores,C.CON.Sit.4: Riesgo alto (%),Ene-2026,5.54,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,situacion_deudores,C.CON.Sit.5: Irrecuperable (%),Ene-2026,0.43,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,situacion_deudores,C.CON.TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Ene-2026,33.97,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,situacion_deudores,CARTERA COMERCIAL ASIMILABLE A CONSUMO ($),Ene-2026,102456.92,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,situacion_deudores,Total cartera sobre financiaciones (%),Ene-2026,7.76,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,situacion_deudores,C.CAC.Sit.1: En situación normal (%),Ene-2026,92.61,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,situacion_deudores,C.CAC.Sit.2: Riesgo bajo (%),Ene-2026,2.28,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,situacion_deudores,C.CAC.Sit.3: Riesgo medio (%),Ene-2026,3.22,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,situacion_deudores,C.CAC.Sit.4: Riesgo alto (%),Ene-2026,1.86,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,situacion_deudores,C.CAC.Sit.5: Irrecuperable (%),Ene-2026,0.03,2026-04-19
+00044,BANCO HIPOTECARIO S.A.,publico,situacion_deudores,C.CAC.TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Ene-2026,29.87,2026-04-19

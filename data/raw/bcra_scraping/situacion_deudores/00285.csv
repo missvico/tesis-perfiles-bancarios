@@ -1,0 +1,161 @@
+codigo_bcra,nombre_banco,tipo_entidad,fuente,variable,periodo,valor,scraping_fecha
+00285,BANCO MACRO S.A.,privado_nacional,situacion_deudores,TOTAL DE FINANCIACIONES Y GARANTIAS OTORGADAS ($),Dic-2023,1662010.84,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,situacion_deudores,TF.Sit.1: En situación normal (%),Dic-2023,97.98,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,situacion_deudores,TF.Sit.2: Con seguimiento especial/Riesgo bajo (%),Dic-2023,0.6,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,situacion_deudores,TF.Sit.3: Con problemas/Riesgo medio (%),Dic-2023,0.68,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,situacion_deudores,TF.Sit.4: Con alto riesgo de insolvencia/Riesgo alto (%),Dic-2023,0.54,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,situacion_deudores,TF.Sit.5: Irrecuperable (%),Dic-2023,0.2,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,situacion_deudores,TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Dic-2023,16.11,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,situacion_deudores,Previsiones por riesgo de incobrabilidad constituídas,Dic-2023,36441.26,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,situacion_deudores,CARTERA COMERCIAL ($),Dic-2023,476610.66,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,situacion_deudores,Total cartera sobre financiaciones (%),Dic-2023,28.68,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,situacion_deudores,C.COM.Sit.1: En situación normal (%),Dic-2023,98.36,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,situacion_deudores,C.COM.Sit.2: Con seguimiento especial (%),Dic-2023,0.0,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,situacion_deudores,C.COM.Sit.3: Con problemas (%),Dic-2023,1.0,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,situacion_deudores,C.COM.Sit.4: Con alto riesgo de insolvencia (%),Dic-2023,0.59,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,situacion_deudores,C.COM.Sit.5: Irrecuperable (%),Dic-2023,0.05,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,situacion_deudores,C.COM.TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Dic-2023,23.88,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,situacion_deudores,CARTERA DE CONSUMO O VIVIENDA ($),Dic-2023,881856.88,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,situacion_deudores,Total cartera sobre financiaciones (%),Dic-2023,53.06,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,situacion_deudores,C.CON.Sit.1: En situación normal (%),Dic-2023,97.5,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,situacion_deudores,C.CON.Sit.2: Riesgo bajo (%),Dic-2023,0.95,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,situacion_deudores,C.CON.Sit.3: Riesgo medio (%),Dic-2023,0.7,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,situacion_deudores,C.CON.Sit.4: Riesgo alto (%),Dic-2023,0.59,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,situacion_deudores,C.CON.Sit.5: Irrecuperable (%),Dic-2023,0.26,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,situacion_deudores,C.CON.TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Dic-2023,6.0,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,situacion_deudores,CARTERA COMERCIAL ASIMILABLE A CONSUMO ($),Dic-2023,303543.31,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,situacion_deudores,Total cartera sobre financiaciones (%),Dic-2023,18.26,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,situacion_deudores,C.CAC.Sit.1: En situación normal (%),Dic-2023,98.8,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,situacion_deudores,C.CAC.Sit.2: Riesgo bajo (%),Dic-2023,0.51,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,situacion_deudores,C.CAC.Sit.3: Riesgo medio (%),Dic-2023,0.14,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,situacion_deudores,C.CAC.Sit.4: Riesgo alto (%),Dic-2023,0.33,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,situacion_deudores,C.CAC.Sit.5: Irrecuperable (%),Dic-2023,0.22,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,situacion_deudores,C.CAC.TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Dic-2023,33.27,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,situacion_deudores,TOTAL DE FINANCIACIONES Y GARANTIAS OTORGADAS ($),Dic-2024,6149955.8,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,situacion_deudores,TF.Sit.1: En situación normal (%),Dic-2024,97.88,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,situacion_deudores,TF.Sit.2: Con seguimiento especial/Riesgo bajo (%),Dic-2024,0.84,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,situacion_deudores,TF.Sit.3: Con problemas/Riesgo medio (%),Dic-2024,0.54,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,situacion_deudores,TF.Sit.4: Con alto riesgo de insolvencia/Riesgo alto (%),Dic-2024,0.45,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,situacion_deudores,TF.Sit.5: Irrecuperable (%),Dic-2024,0.3,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,situacion_deudores,TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Dic-2024,13.57,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,situacion_deudores,Previsiones por riesgo de incobrabilidad constituídas,Dic-2024,123405.7,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,situacion_deudores,CARTERA COMERCIAL ($),Dic-2024,1735833.18,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,situacion_deudores,Total cartera sobre financiaciones (%),Dic-2024,28.23,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,situacion_deudores,C.COM.Sit.1: En situación normal (%),Dic-2024,98.93,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,situacion_deudores,C.COM.Sit.2: Con seguimiento especial (%),Dic-2024,0.18,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,situacion_deudores,C.COM.Sit.3: Con problemas (%),Dic-2024,0.0,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,situacion_deudores,C.COM.Sit.4: Con alto riesgo de insolvencia (%),Dic-2024,0.3,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,situacion_deudores,C.COM.Sit.5: Irrecuperable (%),Dic-2024,0.6,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,situacion_deudores,C.COM.TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Dic-2024,14.66,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,situacion_deudores,CARTERA DE CONSUMO O VIVIENDA ($),Dic-2024,3298177.91,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,situacion_deudores,Total cartera sobre financiaciones (%),Dic-2024,53.63,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,situacion_deudores,C.CON.Sit.1: En situación normal (%),Dic-2024,96.99,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,situacion_deudores,C.CON.Sit.2: Riesgo bajo (%),Dic-2024,1.32,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,situacion_deudores,C.CON.Sit.3: Riesgo medio (%),Dic-2024,0.9,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,situacion_deudores,C.CON.Sit.4: Riesgo alto (%),Dic-2024,0.6,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,situacion_deudores,C.CON.Sit.5: Irrecuperable (%),Dic-2024,0.18,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,situacion_deudores,C.CON.TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Dic-2024,6.91,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,situacion_deudores,CARTERA COMERCIAL ASIMILABLE A CONSUMO ($),Dic-2024,1115944.72,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,situacion_deudores,Total cartera sobre financiaciones (%),Dic-2024,18.15,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,situacion_deudores,C.CAC.Sit.1: En situación normal (%),Dic-2024,98.86,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,situacion_deudores,C.CAC.Sit.2: Riesgo bajo (%),Dic-2024,0.44,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,situacion_deudores,C.CAC.Sit.3: Riesgo medio (%),Dic-2024,0.3,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,situacion_deudores,C.CAC.Sit.4: Riesgo alto (%),Dic-2024,0.24,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,situacion_deudores,C.CAC.Sit.5: Irrecuperable (%),Dic-2024,0.16,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,situacion_deudores,C.CAC.TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Dic-2024,31.54,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,situacion_deudores,TOTAL DE FINANCIACIONES Y GARANTIAS OTORGADAS ($),Nov-2025,11047764.94,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,situacion_deudores,TF.Sit.1: En situación normal (%),Nov-2025,93.81,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,situacion_deudores,TF.Sit.2: Con seguimiento especial/Riesgo bajo (%),Nov-2025,2.46,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,situacion_deudores,TF.Sit.3: Con problemas/Riesgo medio (%),Nov-2025,1.91,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,situacion_deudores,TF.Sit.4: Con alto riesgo de insolvencia/Riesgo alto (%),Nov-2025,1.4,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,situacion_deudores,TF.Sit.5: Irrecuperable (%),Nov-2025,0.42,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,situacion_deudores,TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Nov-2025,13.57,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,situacion_deudores,Previsiones por riesgo de incobrabilidad constituídas,Nov-2025,466394.32,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,situacion_deudores,CARTERA COMERCIAL ($),Nov-2025,3312750.08,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,situacion_deudores,Total cartera sobre financiaciones (%),Nov-2025,29.99,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,situacion_deudores,C.COM.Sit.1: En situación normal (%),Nov-2025,98.86,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,situacion_deudores,C.COM.Sit.2: Con seguimiento especial (%),Nov-2025,0.0,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,situacion_deudores,C.COM.Sit.3: Con problemas (%),Nov-2025,0.44,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,situacion_deudores,C.COM.Sit.4: Con alto riesgo de insolvencia (%),Nov-2025,0.44,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,situacion_deudores,C.COM.Sit.5: Irrecuperable (%),Nov-2025,0.26,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,situacion_deudores,C.COM.TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Nov-2025,12.56,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,situacion_deudores,CARTERA DE CONSUMO O VIVIENDA ($),Nov-2025,5580490.05,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,situacion_deudores,Total cartera sobre financiaciones (%),Nov-2025,50.51,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,situacion_deudores,C.CON.Sit.1: En situación normal (%),Nov-2025,90.84,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,situacion_deudores,C.CON.Sit.2: Riesgo bajo (%),Nov-2025,3.75,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,situacion_deudores,C.CON.Sit.3: Riesgo medio (%),Nov-2025,2.89,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,situacion_deudores,C.CON.Sit.4: Riesgo alto (%),Nov-2025,1.9,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,situacion_deudores,C.CON.Sit.5: Irrecuperable (%),Nov-2025,0.62,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,situacion_deudores,C.CON.TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Nov-2025,9.55,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,situacion_deudores,CARTERA COMERCIAL ASIMILABLE A CONSUMO ($),Nov-2025,2154524.81,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,situacion_deudores,Total cartera sobre financiaciones (%),Nov-2025,19.5,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,situacion_deudores,C.CAC.Sit.1: En situación normal (%),Nov-2025,93.73,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,situacion_deudores,C.CAC.Sit.2: Riesgo bajo (%),Nov-2025,2.89,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,situacion_deudores,C.CAC.Sit.3: Riesgo medio (%),Nov-2025,1.63,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,situacion_deudores,C.CAC.Sit.4: Riesgo alto (%),Nov-2025,1.57,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,situacion_deudores,C.CAC.Sit.5: Irrecuperable (%),Nov-2025,0.17,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,situacion_deudores,C.CAC.TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Nov-2025,25.53,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,situacion_deudores,TOTAL DE FINANCIACIONES Y GARANTIAS OTORGADAS ($),Dic-2025,11343807.21,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,situacion_deudores,TF.Sit.1: En situación normal (%),Dic-2025,93.63,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,situacion_deudores,TF.Sit.2: Con seguimiento especial/Riesgo bajo (%),Dic-2025,2.5,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,situacion_deudores,TF.Sit.3: Con problemas/Riesgo medio (%),Dic-2025,1.83,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,situacion_deudores,TF.Sit.4: Con alto riesgo de insolvencia/Riesgo alto (%),Dic-2025,1.47,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,situacion_deudores,TF.Sit.5: Irrecuperable (%),Dic-2025,0.57,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,situacion_deudores,TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Dic-2025,13.85,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,situacion_deudores,Previsiones por riesgo de incobrabilidad constituídas,Dic-2025,504070.75,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,situacion_deudores,CARTERA COMERCIAL ($),Dic-2025,3346688.8,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,situacion_deudores,Total cartera sobre financiaciones (%),Dic-2025,29.5,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,situacion_deudores,C.COM.Sit.1: En situación normal (%),Dic-2025,98.86,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,situacion_deudores,C.COM.Sit.2: Con seguimiento especial (%),Dic-2025,0.44,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,situacion_deudores,C.COM.Sit.3: Con problemas (%),Dic-2025,0.0,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,situacion_deudores,C.COM.Sit.4: Con alto riesgo de insolvencia (%),Dic-2025,0.44,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,situacion_deudores,C.COM.Sit.5: Irrecuperable (%),Dic-2025,0.26,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,situacion_deudores,C.COM.TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Dic-2025,13.22,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,situacion_deudores,CARTERA DE CONSUMO O VIVIENDA ($),Dic-2025,5727362.68,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,situacion_deudores,Total cartera sobre financiaciones (%),Dic-2025,50.49,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,situacion_deudores,C.CON.Sit.1: En situación normal (%),Dic-2025,90.6,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,situacion_deudores,C.CON.Sit.2: Riesgo bajo (%),Dic-2025,3.61,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,situacion_deudores,C.CON.Sit.3: Riesgo medio (%),Dic-2025,3.01,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,situacion_deudores,C.CON.Sit.4: Riesgo alto (%),Dic-2025,1.97,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,situacion_deudores,C.CON.Sit.5: Irrecuperable (%),Dic-2025,0.81,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,situacion_deudores,C.CON.TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Dic-2025,9.52,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,situacion_deudores,CARTERA COMERCIAL ASIMILABLE A CONSUMO ($),Dic-2025,2269755.73,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,situacion_deudores,Total cartera sobre financiaciones (%),Dic-2025,20.01,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,situacion_deudores,C.CAC.Sit.1: En situación normal (%),Dic-2025,93.56,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,situacion_deudores,C.CAC.Sit.2: Riesgo bajo (%),Dic-2025,2.71,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,situacion_deudores,C.CAC.Sit.3: Riesgo medio (%),Dic-2025,1.58,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,situacion_deudores,C.CAC.Sit.4: Riesgo alto (%),Dic-2025,1.74,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,situacion_deudores,C.CAC.Sit.5: Irrecuperable (%),Dic-2025,0.42,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,situacion_deudores,C.CAC.TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Dic-2025,25.73,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,situacion_deudores,TOTAL DE FINANCIACIONES Y GARANTIAS OTORGADAS ($),Ene-2026,11490234.35,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,situacion_deudores,TF.Sit.1: En situación normal (%),Ene-2026,93.03,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,situacion_deudores,TF.Sit.2: Con seguimiento especial/Riesgo bajo (%),Ene-2026,2.54,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,situacion_deudores,TF.Sit.3: Con problemas/Riesgo medio (%),Ene-2026,2.17,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,situacion_deudores,TF.Sit.4: Con alto riesgo de insolvencia/Riesgo alto (%),Ene-2026,1.63,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,situacion_deudores,TF.Sit.5: Irrecuperable (%),Ene-2026,0.62,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,situacion_deudores,TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Ene-2026,13.06,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,situacion_deudores,Previsiones por riesgo de incobrabilidad constituídas,Ene-2026,530813.51,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,situacion_deudores,CARTERA COMERCIAL ($),Ene-2026,3487712.59,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,situacion_deudores,Total cartera sobre financiaciones (%),Ene-2026,30.35,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,situacion_deudores,C.COM.Sit.1: En situación normal (%),Ene-2026,98.74,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,situacion_deudores,C.COM.Sit.2: Con seguimiento especial (%),Ene-2026,0.49,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,situacion_deudores,C.COM.Sit.3: Con problemas (%),Ene-2026,0.1,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,situacion_deudores,C.COM.Sit.4: Con alto riesgo de insolvencia (%),Ene-2026,0.42,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,situacion_deudores,C.COM.Sit.5: Irrecuperable (%),Ene-2026,0.24,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,situacion_deudores,C.COM.TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Ene-2026,12.0,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,situacion_deudores,CARTERA DE CONSUMO O VIVIENDA ($),Ene-2026,5798359.84,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,situacion_deudores,Total cartera sobre financiaciones (%),Ene-2026,50.46,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,situacion_deudores,C.CON.Sit.1: En situación normal (%),Ene-2026,89.76,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,situacion_deudores,C.CON.Sit.2: Riesgo bajo (%),Ene-2026,3.66,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,situacion_deudores,C.CON.Sit.3: Riesgo medio (%),Ene-2026,3.41,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,situacion_deudores,C.CON.Sit.4: Riesgo alto (%),Ene-2026,2.23,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,situacion_deudores,C.CON.Sit.5: Irrecuperable (%),Ene-2026,0.94,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,situacion_deudores,C.CON.TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Ene-2026,9.37,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,situacion_deudores,CARTERA COMERCIAL ASIMILABLE A CONSUMO ($),Ene-2026,2204161.92,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,situacion_deudores,Total cartera sobre financiaciones (%),Ene-2026,19.18,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,situacion_deudores,C.CAC.Sit.1: En situación normal (%),Ene-2026,92.62,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,situacion_deudores,C.CAC.Sit.2: Riesgo bajo (%),Ene-2026,2.84,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,situacion_deudores,C.CAC.Sit.3: Riesgo medio (%),Ene-2026,2.18,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,situacion_deudores,C.CAC.Sit.4: Riesgo alto (%),Ene-2026,1.97,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,situacion_deudores,C.CAC.Sit.5: Irrecuperable (%),Ene-2026,0.39,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,situacion_deudores,C.CAC.TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Ene-2026,24.44,2026-04-19

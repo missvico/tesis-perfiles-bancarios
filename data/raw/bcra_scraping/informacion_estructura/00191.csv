@@ -1,0 +1,265 @@
+codigo_bcra,nombre_banco,tipo_entidad,fuente,variable,periodo,valor,scraping_fecha
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,Cantidad de cuentas corrientes,Dic-2023,388400.0,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,Cantidad de cuentas de ahorro,Dic-2023,3254836.0,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,Cantidad de cajas de ahorro de ayuda social,Dic-2023,230399.0,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,Cantidad de cuentas previsionales,Dic-2023,364113.0,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,Cantidad de operaciones a plazo fijo Individuos,Dic-2023,175185.0,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,Cantidad de operaciones a plazo fijo Empresas,Dic-2023,15202.0,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,Cantidad de operaciones por préstamos hipotecarios,Dic-2023,1544.0,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,Cantidad de operaciones por préstamos prendarios,Dic-2023,2218.0,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,Cantidad de operaciones por otros préstamos,Dic-2023,642664.0,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,Dotación de personal,Dic-2023,4570.0,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,Cantidad de titulares por tarjetas de crédito,Dic-2023,642336.0,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,Cantidad de tarjetas de crédito (plásticos),Dic-2023,1069677.0,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,Cantidad de tarjetas de débito,Dic-2023,1672927.0,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,Cantidad de cuentas corrientes,Dic-2024,411052.0,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,Cantidad de cuentas de ahorro,Dic-2024,3420673.0,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,Cantidad de cajas de ahorro de ayuda social,Dic-2024,65542.0,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,Cantidad de cuentas previsionales,Dic-2024,372146.0,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,Cantidad de operaciones a plazo fijo Individuos,Dic-2024,123227.0,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,Cantidad de operaciones a plazo fijo Empresas,Dic-2024,9794.0,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,Cantidad de operaciones por préstamos hipotecarios,Dic-2024,844.0,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,Cantidad de operaciones por préstamos prendarios,Dic-2024,1948.0,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,Cantidad de operaciones por otros préstamos,Dic-2024,705373.0,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,Dotación de personal,Dic-2024,4590.0,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,Cantidad de titulares por tarjetas de crédito,Dic-2024,661566.0,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,Cantidad de tarjetas de crédito (plásticos),Dic-2024,1092390.0,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,Cantidad de tarjetas de débito,Dic-2024,1390809.0,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,Cantidad de cuentas corrientes,Jun-2025,408972.0,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,Cantidad de cuentas de ahorro,Jun-2025,3518398.0,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,Cantidad de cajas de ahorro de ayuda social,Jun-2025,60175.0,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,Cantidad de cuentas previsionales,Jun-2025,377300.0,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,Cantidad de operaciones a plazo fijo Individuos,Jun-2025,111194.0,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,Cantidad de operaciones a plazo fijo Empresas,Jun-2025,10663.0,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,Cantidad de operaciones por préstamos hipotecarios,Jun-2025,690.0,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,Cantidad de operaciones por préstamos prendarios,Jun-2025,1837.0,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,Cantidad de operaciones por otros préstamos,Jun-2025,712773.0,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,Dotación de personal,Jun-2025,4561.0,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,Cantidad de titulares por tarjetas de crédito,Jun-2025,658366.0,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,Cantidad de tarjetas de crédito (plásticos),Jun-2025,1075391.0,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,Cantidad de tarjetas de débito,Jun-2025,1485135.0,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,Cantidad de cuentas corrientes,Set-2025,405302.0,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,Cantidad de cuentas de ahorro,Set-2025,3487505.0,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,Cantidad de cajas de ahorro de ayuda social,Set-2025,53839.0,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,Cantidad de cuentas previsionales,Set-2025,380152.0,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,Cantidad de operaciones a plazo fijo Individuos,Set-2025,114140.0,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,Cantidad de operaciones a plazo fijo Empresas,Set-2025,12509.0,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,Cantidad de operaciones por préstamos hipotecarios,Set-2025,600.0,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,Cantidad de operaciones por préstamos prendarios,Set-2025,1987.0,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,Cantidad de operaciones por otros préstamos,Set-2025,723902.0,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,Dotación de personal,Set-2025,4572.0,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,Cantidad de titulares por tarjetas de crédito,Set-2025,651344.0,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,Cantidad de tarjetas de crédito (plásticos),Set-2025,1049636.0,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,Cantidad de tarjetas de débito,Set-2025,1445377.0,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,Cantidad de cuentas corrientes,Dic-2025,400618.0,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,Cantidad de cuentas de ahorro,Dic-2025,3518618.0,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,Cantidad de cajas de ahorro de ayuda social,Dic-2025,53834.0,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,Cantidad de cuentas previsionales,Dic-2025,382800.0,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,Cantidad de operaciones a plazo fijo Individuos,Dic-2025,93460.0,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,Cantidad de operaciones a plazo fijo Empresas,Dic-2025,9506.0,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,Cantidad de operaciones por préstamos hipotecarios,Dic-2025,232.0,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,Cantidad de operaciones por préstamos prendarios,Dic-2025,1963.0,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,Cantidad de operaciones por otros préstamos,Dic-2025,702164.0,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,Dotación de personal,Dic-2025,4543.0,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,Cantidad de titulares por tarjetas de crédito,Dic-2025,641091.0,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,Cantidad de tarjetas de crédito (plásticos),Dic-2025,1008345.0,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,Cantidad de tarjetas de débito,Dic-2025,1296800.0,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,Cantidad de Cuentas,Dic-2023,279106.0,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,Cantidad de Empresas,Dic-2023,24446.0,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,Cantidad de Cuentas,Dic-2024,283587.0,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,Cantidad de Empresas,Dic-2024,28240.0,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,Cantidad de Cuentas,Nov-2025,255482.0,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,Cantidad de Empresas,Nov-2025,25529.0,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,Cantidad de Cuentas,Dic-2025,267026.0,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,Cantidad de Empresas,Dic-2025,27828.0,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,Cantidad de Cuentas,Ene-2026,251397.0,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,Cantidad de Empresas,Ene-2026,26129.0,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,CABA,Habilitadas,43.0,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,BUENOS AIRES,Habilitadas,107.0,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,CATAMARCA,Habilitadas,1.0,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,CÓRDOBA,Habilitadas,19.0,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,CORRIENTES,Habilitadas,1.0,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,CHACO,Habilitadas,2.0,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,CHUBUT,Habilitadas,4.0,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,ENTRE RÍOS,Habilitadas,4.0,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,JUJUY,Habilitadas,1.0,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,LA PAMPA,Habilitadas,2.0,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,MENDOZA,Habilitadas,16.0,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,MISIONES,Habilitadas,1.0,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,NEUQUÉN,Habilitadas,4.0,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,RÍO NEGRO,Habilitadas,5.0,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,SALTA,Habilitadas,1.0,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,SAN JUAN,Habilitadas,1.0,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,SAN LUIS,Habilitadas,1.0,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,SANTA CRUZ,Habilitadas,1.0,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,SANTA FE,Habilitadas,59.0,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,SANTIAGO DEL ESTERO,Habilitadas,1.0,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,TUCUMÁN,Habilitadas,1.0,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,CABA,Habilitadas,,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,BUENOS AIRES,Habilitadas,,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,CATAMARCA,Habilitadas,,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,CÓRDOBA,Habilitadas,,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,CORRIENTES,Habilitadas,,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,CHACO,Habilitadas,,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,CHUBUT,Habilitadas,,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,ENTRE RÍOS,Habilitadas,,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,JUJUY,Habilitadas,,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,LA PAMPA,Habilitadas,,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,MENDOZA,Habilitadas,,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,MISIONES,Habilitadas,,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,NEUQUÉN,Habilitadas,,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,RÍO NEGRO,Habilitadas,,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,SALTA,Habilitadas,,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,SAN JUAN,Habilitadas,,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,SAN LUIS,Habilitadas,,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,SANTA CRUZ,Habilitadas,,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,SANTA FE,Habilitadas,,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,SANTIAGO DEL ESTERO,Habilitadas,,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,TUCUMÁN,Habilitadas,,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,CABA,Habilitadas,,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,BUENOS AIRES,Habilitadas,,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,CATAMARCA,Habilitadas,,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,CÓRDOBA,Habilitadas,,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,CORRIENTES,Habilitadas,,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,CHACO,Habilitadas,,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,CHUBUT,Habilitadas,,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,ENTRE RÍOS,Habilitadas,,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,JUJUY,Habilitadas,,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,LA PAMPA,Habilitadas,,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,MENDOZA,Habilitadas,,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,MISIONES,Habilitadas,,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,NEUQUÉN,Habilitadas,,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,RÍO NEGRO,Habilitadas,,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,SALTA,Habilitadas,,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,SAN JUAN,Habilitadas,,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,SAN LUIS,Habilitadas,,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,SANTA CRUZ,Habilitadas,,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,SANTA FE,Habilitadas,,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,SANTIAGO DEL ESTERO,Habilitadas,,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,TUCUMÁN,Habilitadas,,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,CABA,Habilitadas,121.0,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,BUENOS AIRES,Habilitadas,350.0,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,CATAMARCA,Habilitadas,2.0,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,CÓRDOBA,Habilitadas,39.0,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,CORRIENTES,Habilitadas,2.0,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,CHACO,Habilitadas,4.0,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,CHUBUT,Habilitadas,16.0,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,ENTRE RÍOS,Habilitadas,11.0,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,JUJUY,Habilitadas,4.0,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,LA PAMPA,Habilitadas,3.0,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,MENDOZA,Habilitadas,53.0,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,MISIONES,Habilitadas,3.0,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,NEUQUÉN,Habilitadas,15.0,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,RÍO NEGRO,Habilitadas,18.0,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,SALTA,Habilitadas,3.0,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,SAN JUAN,Habilitadas,4.0,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,SAN LUIS,Habilitadas,2.0,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,SANTA CRUZ,Habilitadas,2.0,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,SANTA FE,Habilitadas,143.0,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,SANTIAGO DEL ESTERO,Habilitadas,2.0,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,TUCUMÁN,Habilitadas,4.0,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,CABA,Habilitadas,118.0,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,BUENOS AIRES,Habilitadas,242.0,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,CATAMARCA,Habilitadas,1.0,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,CÓRDOBA,Habilitadas,35.0,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,CORRIENTES,Habilitadas,2.0,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,CHACO,Habilitadas,8.0,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,CHUBUT,Habilitadas,9.0,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,ENTRE RÍOS,Habilitadas,11.0,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,JUJUY,Habilitadas,5.0,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,LA PAMPA,Habilitadas,1.0,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,MENDOZA,Habilitadas,43.0,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,MISIONES,Habilitadas,3.0,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,NEUQUÉN,Habilitadas,8.0,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,RÍO NEGRO,Habilitadas,12.0,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,SALTA,Habilitadas,4.0,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,SAN JUAN,Habilitadas,6.0,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,SAN LUIS,Habilitadas,3.0,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,SANTA CRUZ,Habilitadas,1.0,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,SANTA FE,Habilitadas,109.0,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,SANTIAGO DEL ESTERO,Habilitadas,3.0,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,TUCUMÁN,Habilitadas,7.0,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,CABA,Habilitadas,2.0,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,BUENOS AIRES,Habilitadas,7.0,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,CATAMARCA,Habilitadas,,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,CÓRDOBA,Habilitadas,,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,CORRIENTES,Habilitadas,,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,CHACO,Habilitadas,,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,CHUBUT,Habilitadas,,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,ENTRE RÍOS,Habilitadas,,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,JUJUY,Habilitadas,,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,LA PAMPA,Habilitadas,,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,MENDOZA,Habilitadas,,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,MISIONES,Habilitadas,,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,NEUQUÉN,Habilitadas,1.0,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,RÍO NEGRO,Habilitadas,,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,SALTA,Habilitadas,,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,SAN JUAN,Habilitadas,,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,SAN LUIS,Habilitadas,,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,SANTA CRUZ,Habilitadas,,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,SANTA FE,Habilitadas,4.0,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,SANTIAGO DEL ESTERO,Habilitadas,,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,TUCUMÁN,Habilitadas,,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,CABA,Habilitadas,,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,BUENOS AIRES,Habilitadas,,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,CATAMARCA,Habilitadas,,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,CÓRDOBA,Habilitadas,4.0,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,CORRIENTES,Habilitadas,,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,CHACO,Habilitadas,,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,CHUBUT,Habilitadas,,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,ENTRE RÍOS,Habilitadas,,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,JUJUY,Habilitadas,,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,LA PAMPA,Habilitadas,,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,MENDOZA,Habilitadas,,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,MISIONES,Habilitadas,,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,NEUQUÉN,Habilitadas,1.0,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,RÍO NEGRO,Habilitadas,,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,SALTA,Habilitadas,,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,SAN JUAN,Habilitadas,,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,SAN LUIS,Habilitadas,,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,SANTA CRUZ,Habilitadas,,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,SANTA FE,Habilitadas,,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,SANTIAGO DEL ESTERO,Habilitadas,,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,TUCUMÁN,Habilitadas,,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,CABA,Pendientes de habilitación,,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,BUENOS AIRES,Pendientes de habilitación,,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,CATAMARCA,Pendientes de habilitación,,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,CÓRDOBA,Pendientes de habilitación,,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,CORRIENTES,Pendientes de habilitación,,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,CHACO,Pendientes de habilitación,,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,CHUBUT,Pendientes de habilitación,,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,ENTRE RÍOS,Pendientes de habilitación,,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,JUJUY,Pendientes de habilitación,,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,LA PAMPA,Pendientes de habilitación,,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,MENDOZA,Pendientes de habilitación,,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,MISIONES,Pendientes de habilitación,,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,NEUQUÉN,Pendientes de habilitación,,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,RÍO NEGRO,Pendientes de habilitación,,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,SALTA,Pendientes de habilitación,,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,SAN JUAN,Pendientes de habilitación,,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,SAN LUIS,Pendientes de habilitación,,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,SANTA CRUZ,Pendientes de habilitación,,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,SANTA FE,Pendientes de habilitación,,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,SANTIAGO DEL ESTERO,Pendientes de habilitación,,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,TUCUMÁN,Pendientes de habilitación,,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,CABA,Total,43.0,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,BUENOS AIRES,Total,107.0,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,CATAMARCA,Total,1.0,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,CÓRDOBA,Total,19.0,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,CORRIENTES,Total,1.0,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,CHACO,Total,2.0,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,CHUBUT,Total,4.0,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,ENTRE RÍOS,Total,4.0,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,JUJUY,Total,1.0,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,LA PAMPA,Total,2.0,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,MENDOZA,Total,16.0,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,MISIONES,Total,1.0,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,NEUQUÉN,Total,4.0,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,RÍO NEGRO,Total,5.0,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,SALTA,Total,1.0,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,SAN JUAN,Total,1.0,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,SAN LUIS,Total,1.0,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,SANTA CRUZ,Total,1.0,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,SANTA FE,Total,59.0,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,SANTIAGO DEL ESTERO,Total,1.0,2026-04-19
+00191,BANCO CREDICOOP COOPERATIVO LIMITAD,privado_nacional,informacion_estructura,TUCUMÁN,Total,1.0,2026-04-19

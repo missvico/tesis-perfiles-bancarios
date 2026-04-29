@@ -1,0 +1,146 @@
+codigo_bcra,nombre_banco,tipo_entidad,fuente,variable,periodo,valor,scraping_fecha
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,situacion_deudores,TOTAL DE FINANCIACIONES Y GARANTIAS OTORGADAS ($),Dic-2023,40338.93,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,situacion_deudores,TF.Sit.1: En situación normal (%),Dic-2023,95.57,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,situacion_deudores,TF.Sit.2: Con seguimiento especial/Riesgo bajo (%),Dic-2023,1.21,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,situacion_deudores,TF.Sit.3: Con problemas/Riesgo medio (%),Dic-2023,0.31,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,situacion_deudores,TF.Sit.4: Con alto riesgo de insolvencia/Riesgo alto (%),Dic-2023,0.58,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,situacion_deudores,TF.Sit.5: Irrecuperable (%),Dic-2023,2.34,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,situacion_deudores,TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Dic-2023,5.95,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,situacion_deudores,Previsiones por riesgo de incobrabilidad constituídas,Dic-2023,1494.95,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,situacion_deudores,CARTERA COMERCIAL ($),Dic-2023,1371.21,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,situacion_deudores,Total cartera sobre financiaciones (%),Dic-2023,3.4,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,situacion_deudores,C.COM.Sit.1: En situación normal (%),Dic-2023,37.7,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,situacion_deudores,C.COM.Sit.5: Irrecuperable (%),Dic-2023,62.3,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,situacion_deudores,C.COM.TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Dic-2023,25.56,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,situacion_deudores,CARTERA DE CONSUMO O VIVIENDA ($),Dic-2023,34215.3,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,situacion_deudores,Total cartera sobre financiaciones (%),Dic-2023,84.82,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,situacion_deudores,C.CON.Sit.1: En situación normal (%),Dic-2023,97.59,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,situacion_deudores,C.CON.Sit.2: Riesgo bajo (%),Dic-2023,1.23,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,situacion_deudores,C.CON.Sit.3: Riesgo medio (%),Dic-2023,0.33,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,situacion_deudores,C.CON.Sit.4: Riesgo alto (%),Dic-2023,0.61,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,situacion_deudores,C.CON.Sit.5: Irrecuperable (%),Dic-2023,0.24,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,situacion_deudores,C.CON.TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Dic-2023,1.64,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,situacion_deudores,CARTERA COMERCIAL ASIMILABLE A CONSUMO ($),Dic-2023,4752.41,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,situacion_deudores,Total cartera sobre financiaciones (%),Dic-2023,11.78,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,situacion_deudores,C.CAC.Sit.1: En situación normal (%),Dic-2023,97.69,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,situacion_deudores,C.CAC.Sit.2: Riesgo bajo (%),Dic-2023,1.37,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,situacion_deudores,C.CAC.Sit.3: Riesgo medio (%),Dic-2023,0.26,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,situacion_deudores,C.CAC.Sit.4: Riesgo alto (%),Dic-2023,0.58,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,situacion_deudores,C.CAC.Sit.5: Irrecuperable (%),Dic-2023,0.1,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,situacion_deudores,C.CAC.TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Dic-2023,31.34,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,situacion_deudores,TOTAL DE FINANCIACIONES Y GARANTIAS OTORGADAS ($),Dic-2024,122030.47,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,situacion_deudores,TF.Sit.1: En situación normal (%),Dic-2024,96.71,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,situacion_deudores,TF.Sit.2: Con seguimiento especial/Riesgo bajo (%),Dic-2024,1.18,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,situacion_deudores,TF.Sit.3: Con problemas/Riesgo medio (%),Dic-2024,0.32,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,situacion_deudores,TF.Sit.4: Con alto riesgo de insolvencia/Riesgo alto (%),Dic-2024,0.57,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,situacion_deudores,TF.Sit.5: Irrecuperable (%),Dic-2024,1.21,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,situacion_deudores,TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Dic-2024,2.34,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,situacion_deudores,Previsiones por riesgo de incobrabilidad constituídas,Dic-2024,3185.32,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,situacion_deudores,CARTERA COMERCIAL ($),Dic-2024,1441.34,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,situacion_deudores,Total cartera sobre financiaciones (%),Dic-2024,1.18,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,situacion_deudores,C.COM.Sit.1: En situación normal (%),Dic-2024,20.23,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,situacion_deudores,C.COM.Sit.5: Irrecuperable (%),Dic-2024,79.77,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,situacion_deudores,C.COM.TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Dic-2024,20.19,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,situacion_deudores,CARTERA DE CONSUMO O VIVIENDA ($),Dic-2024,108979.08,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,situacion_deudores,Total cartera sobre financiaciones (%),Dic-2024,89.3,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,situacion_deudores,C.CON.Sit.1: En situación normal (%),Dic-2024,97.59,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,situacion_deudores,C.CON.Sit.2: Riesgo bajo (%),Dic-2024,1.22,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,situacion_deudores,C.CON.Sit.3: Riesgo medio (%),Dic-2024,0.34,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,situacion_deudores,C.CON.Sit.4: Riesgo alto (%),Dic-2024,0.58,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,situacion_deudores,C.CON.Sit.5: Irrecuperable (%),Dic-2024,0.28,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,situacion_deudores,C.CON.TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Dic-2024,0.45,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,situacion_deudores,CARTERA COMERCIAL ASIMILABLE A CONSUMO ($),Dic-2024,11610.05,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,situacion_deudores,Total cartera sobre financiaciones (%),Dic-2024,9.51,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,situacion_deudores,C.CAC.Sit.1: En situación normal (%),Dic-2024,97.98,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,situacion_deudores,C.CAC.Sit.2: Riesgo bajo (%),Dic-2024,1.01,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,situacion_deudores,C.CAC.Sit.3: Riesgo medio (%),Dic-2024,0.14,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,situacion_deudores,C.CAC.Sit.4: Riesgo alto (%),Dic-2024,0.64,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,situacion_deudores,C.CAC.Sit.5: Irrecuperable (%),Dic-2024,0.23,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,situacion_deudores,C.CAC.TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Dic-2024,17.88,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,situacion_deudores,TOTAL DE FINANCIACIONES Y GARANTIAS OTORGADAS ($),Nov-2025,182676.48,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,situacion_deudores,TF.Sit.1: En situación normal (%),Nov-2025,88.32,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,situacion_deudores,TF.Sit.2: Con seguimiento especial/Riesgo bajo (%),Nov-2025,5.5,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,situacion_deudores,TF.Sit.3: Con problemas/Riesgo medio (%),Nov-2025,2.9,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,situacion_deudores,TF.Sit.4: Con alto riesgo de insolvencia/Riesgo alto (%),Nov-2025,1.95,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,situacion_deudores,TF.Sit.5: Irrecuperable (%),Nov-2025,1.34,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,situacion_deudores,TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Nov-2025,1.6,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,situacion_deudores,Previsiones por riesgo de incobrabilidad constituídas,Nov-2025,10706.08,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,situacion_deudores,CARTERA COMERCIAL ($),Nov-2025,1812.0,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,situacion_deudores,Total cartera sobre financiaciones (%),Nov-2025,0.99,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,situacion_deudores,C.COM.Sit.1: En situación normal (%),Nov-2025,11.33,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,situacion_deudores,C.COM.Sit.5: Irrecuperable (%),Nov-2025,88.67,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,situacion_deudores,C.COM.TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Nov-2025,11.29,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,situacion_deudores,CARTERA DE CONSUMO O VIVIENDA ($),Nov-2025,161332.69,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,situacion_deudores,Total cartera sobre financiaciones (%),Nov-2025,88.32,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,situacion_deudores,C.CON.Sit.1: En situación normal (%),Nov-2025,89.18,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,situacion_deudores,C.CON.Sit.2: Riesgo bajo (%),Nov-2025,5.27,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,situacion_deudores,C.CON.Sit.3: Riesgo medio (%),Nov-2025,3.06,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,situacion_deudores,C.CON.Sit.4: Riesgo alto (%),Nov-2025,2.04,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,situacion_deudores,C.CON.Sit.5: Irrecuperable (%),Nov-2025,0.45,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,situacion_deudores,C.CON.TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Nov-2025,0.32,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,situacion_deudores,CARTERA COMERCIAL ASIMILABLE A CONSUMO ($),Nov-2025,19531.79,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,situacion_deudores,Total cartera sobre financiaciones (%),Nov-2025,10.69,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,situacion_deudores,C.CAC.Sit.1: En situación normal (%),Nov-2025,88.32,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,situacion_deudores,C.CAC.Sit.2: Riesgo bajo (%),Nov-2025,7.95,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,situacion_deudores,C.CAC.Sit.3: Riesgo medio (%),Nov-2025,1.83,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,situacion_deudores,C.CAC.Sit.4: Riesgo alto (%),Nov-2025,1.37,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,situacion_deudores,C.CAC.Sit.5: Irrecuperable (%),Nov-2025,0.53,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,situacion_deudores,C.CAC.TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Nov-2025,11.29,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,situacion_deudores,TOTAL DE FINANCIACIONES Y GARANTIAS OTORGADAS ($),Dic-2025,183935.95,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,situacion_deudores,TF.Sit.1: En situación normal (%),Dic-2025,86.51,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,situacion_deudores,TF.Sit.2: Con seguimiento especial/Riesgo bajo (%),Dic-2025,6.03,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,situacion_deudores,TF.Sit.3: Con problemas/Riesgo medio (%),Dic-2025,3.42,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,situacion_deudores,TF.Sit.4: Con alto riesgo de insolvencia/Riesgo alto (%),Dic-2025,2.27,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,situacion_deudores,TF.Sit.5: Irrecuperable (%),Dic-2025,1.76,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,situacion_deudores,TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Dic-2025,1.56,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,situacion_deudores,Previsiones por riesgo de incobrabilidad constituídas,Dic-2025,12561.62,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,situacion_deudores,CARTERA COMERCIAL ($),Dic-2025,1605.41,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,situacion_deudores,Total cartera sobre financiaciones (%),Dic-2025,0.87,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,situacion_deudores,C.COM.Sit.1: En situación normal (%),Dic-2025,12.85,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,situacion_deudores,C.COM.Sit.5: Irrecuperable (%),Dic-2025,87.15,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,situacion_deudores,C.COM.TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Dic-2025,12.39,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,situacion_deudores,CARTERA DE CONSUMO O VIVIENDA ($),Dic-2025,163081.76,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,situacion_deudores,Total cartera sobre financiaciones (%),Dic-2025,88.66,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,situacion_deudores,C.CON.Sit.1: En situación normal (%),Dic-2025,87.39,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,situacion_deudores,C.CON.Sit.2: Riesgo bajo (%),Dic-2025,5.75,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,situacion_deudores,C.CON.Sit.3: Riesgo medio (%),Dic-2025,3.45,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,situacion_deudores,C.CON.Sit.4: Riesgo alto (%),Dic-2025,2.38,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,situacion_deudores,C.CON.Sit.5: Irrecuperable (%),Dic-2025,1.03,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,situacion_deudores,C.CON.TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Dic-2025,0.32,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,situacion_deudores,CARTERA COMERCIAL ASIMILABLE A CONSUMO ($),Dic-2025,19248.77,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,situacion_deudores,Total cartera sobre financiaciones (%),Dic-2025,10.46,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,situacion_deudores,C.CAC.Sit.1: En situación normal (%),Dic-2025,85.14,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,situacion_deudores,C.CAC.Sit.2: Riesgo bajo (%),Dic-2025,8.87,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,situacion_deudores,C.CAC.Sit.3: Riesgo medio (%),Dic-2025,3.51,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,situacion_deudores,C.CAC.Sit.4: Riesgo alto (%),Dic-2025,1.6,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,situacion_deudores,C.CAC.Sit.5: Irrecuperable (%),Dic-2025,0.88,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,situacion_deudores,C.CAC.TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Dic-2025,11.18,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,situacion_deudores,TOTAL DE FINANCIACIONES Y GARANTIAS OTORGADAS ($),Ene-2026,185587.06,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,situacion_deudores,TF.Sit.1: En situación normal (%),Ene-2026,86.35,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,situacion_deudores,TF.Sit.2: Con seguimiento especial/Riesgo bajo (%),Ene-2026,5.13,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,situacion_deudores,TF.Sit.3: Con problemas/Riesgo medio (%),Ene-2026,3.9,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,situacion_deudores,TF.Sit.4: Con alto riesgo de insolvencia/Riesgo alto (%),Ene-2026,2.76,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,situacion_deudores,TF.Sit.5: Irrecuperable (%),Ene-2026,1.87,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,situacion_deudores,TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Ene-2026,1.63,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,situacion_deudores,Previsiones por riesgo de incobrabilidad constituídas,Ene-2026,12995.58,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,situacion_deudores,CARTERA COMERCIAL ($),Ene-2026,1596.56,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,situacion_deudores,Total cartera sobre financiaciones (%),Ene-2026,0.86,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,situacion_deudores,C.COM.Sit.1: En situación normal (%),Ene-2026,12.58,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,situacion_deudores,C.COM.Sit.5: Irrecuperable (%),Ene-2026,87.42,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,situacion_deudores,C.COM.TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Ene-2026,12.13,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,situacion_deudores,CARTERA DE CONSUMO O VIVIENDA ($),Ene-2026,162993.76,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,situacion_deudores,Total cartera sobre financiaciones (%),Ene-2026,87.83,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,situacion_deudores,C.CON.Sit.1: En situación normal (%),Ene-2026,86.78,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,situacion_deudores,C.CON.Sit.2: Riesgo bajo (%),Ene-2026,5.19,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,situacion_deudores,C.CON.Sit.3: Riesgo medio (%),Ene-2026,3.87,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,situacion_deudores,C.CON.Sit.4: Riesgo alto (%),Ene-2026,2.95,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,situacion_deudores,C.CON.Sit.5: Irrecuperable (%),Ene-2026,1.21,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,situacion_deudores,C.CON.TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Ene-2026,0.32,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,situacion_deudores,CARTERA COMERCIAL ASIMILABLE A CONSUMO ($),Ene-2026,20996.75,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,situacion_deudores,Total cartera sobre financiaciones (%),Ene-2026,11.31,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,situacion_deudores,C.CAC.Sit.1: En situación normal (%),Ene-2026,88.56,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,situacion_deudores,C.CAC.Sit.2: Riesgo bajo (%),Ene-2026,4.98,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,situacion_deudores,C.CAC.Sit.3: Riesgo medio (%),Ene-2026,4.43,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,situacion_deudores,C.CAC.Sit.4: Riesgo alto (%),Ene-2026,1.5,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,situacion_deudores,C.CAC.Sit.5: Irrecuperable (%),Ene-2026,0.54,2026-04-19
+00268,BANCO PROVINCIA DE TIERRA DEL FUEGO,publico,situacion_deudores,C.CAC.TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Ene-2026,11.0,2026-04-19

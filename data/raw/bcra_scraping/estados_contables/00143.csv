@@ -1,0 +1,291 @@
+codigo_bcra,nombre_banco,tipo_entidad,fuente,variable,periodo,valor,scraping_fecha
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,,Dic-2023,,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,A C T I V O,Dic-2023,71871322.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,EFECTIVO Y DEPOSITO EN BANCOS,Dic-2023,18367282.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,TÍTULOS PÚBLICOS Y PRIVADOS,Dic-2023,11410686.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,PRÉSTAMOS,Dic-2023,3689351.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,SECTOR PRIVADO NO FINANCIERO Y RESIDENTES EN EL EXT.,Dic-2023,3974236.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,ADELANTOS,Dic-2023,,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,"DOC A SOLA FIRMA, DESCONT. Y COMPRADOS",Dic-2023,,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,HIPOTECARIOS,Dic-2023,,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,PERSONALES,Dic-2023,2127250.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,OTROS,Dic-2023,1622903.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,INTERESES Y DIF. COTIZ. DEVENG. A COBRAR,Dic-2023,224083.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,INTERESES DOCUMENTADOS,Dic-2023,,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,AJUSTES NIIF,Dic-2023,,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,PREVISIONES,Dic-2023,-284885.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,OTROS CRED.POR INTERM.FINAN.,Dic-2023,30756416.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,CRÉDITOS DIVERSOS,Dic-2023,6459386.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,"PROPIEDAD, PLANTAS Y EQUIPO",Dic-2023,746626.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,ACTIVOS INTANGIBLES,Dic-2023,361943.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,PARTIDAS PEND. DE IMPUTACIÓN,Dic-2023,79632.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,P A S I V O,Dic-2023,64145411.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,DEPÓSITOS,Dic-2023,57671231.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,SECTOR PRIVADO NO FINANCIERO Y RESIDENTES EN EL EXT.,Dic-2023,57671231.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,CUENTAS CORRIENTES,Dic-2023,,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,CAJA DE AHORROS,Dic-2023,44726592.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,PLAZO FIJO E INVERSIONES A PLAZO,Dic-2023,11849928.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,OTROS,Dic-2023,92641.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,INTERESES Y DIF. COTIZ. DEVENG. A PAGAR,Dic-2023,1002070.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,OTRAS OBLIG.POR INTERMED. FINANC.,Dic-2023,3076027.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,OBLIGACIONES DIVERSAS,Dic-2023,3052802.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,PROVISIONES,Dic-2023,15259.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,PARTIDAS PENDIENTES DE IMPUTACIÓN,Dic-2023,330092.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,P A T R I M O N I O N E T O,Dic-2023,7725911.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,"CAPITAL, APORTES, RESERVAS Y ORI ACUMULADO",Dic-2023,30636983.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,RESULTADOS NO ASIGNADOS,Dic-2023,-22911072.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,R D O S. I N T E G R A L E S A C U M. D E L P E R I O D O,Dic-2023,-2489226.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,INGRESOS FINANCIEROS,Dic-2023,44449359.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,POR INTERESES,Dic-2023,43729980.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,OTROS INGRESOS FINANCIEROS,Dic-2023,719379.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,EGRESOS FINANCIEROS,Dic-2023,-18209237.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,POR INTERESES,Dic-2023,-14459126.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,OTROS EGRESOS FINANCIEROS,Dic-2023,-3750111.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,CARGO POR INCOBRABILIDAD,Dic-2023,-773794.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,INGRESOS POR SERVICIOS,Dic-2023,4569074.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,EGRESOS POR SERVICIOS,Dic-2023,-8492925.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,GASTOS DE ADMINISTRACIÓN,Dic-2023,-16276658.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,CRÉDITOS RECUPERADOS Y PREVISIONES DESAFECTADAS,Dic-2023,110069.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,RESULTADO MONETARIO,Dic-2023,-8982275.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,OTROS,Dic-2023,80800.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,IMPUESTO A LAS GANANCIAS,Dic-2023,1036361.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,PARTIDAS FUERA DE BALANCE,Dic-2023,,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,CRÉDITOS IRRECUPERABLES EN PARTIDAS FUERA DEL BALANCE,Dic-2023,148460.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,CONTINGENTES ACREEDORAS,Dic-2023,,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,DE CONTROL ACREEDORAS,Dic-2023,,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,DE DERIVADOS ACREEDORAS,Dic-2023,3000000.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,CONTINGENTES DEUDORAS,Dic-2023,3222254.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,DE CONTROL DEUDORAS,Dic-2023,30429031.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,DE DERIVADOS DEUDORAS,Dic-2023,3000000.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,,Dic-2024,,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,A C T I V O,Dic-2024,204294617.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,EFECTIVO Y DEPOSITO EN BANCOS,Dic-2024,39932271.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,TÍTULOS PÚBLICOS Y PRIVADOS,Dic-2024,64722585.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,PRÉSTAMOS,Dic-2024,38921381.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,SECTOR PRIVADO NO FINANCIERO Y RESIDENTES EN EL EXT.,Dic-2024,40767946.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,ADELANTOS,Dic-2024,,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,"DOC A SOLA FIRMA, DESCONT. Y COMPRADOS",Dic-2024,,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,HIPOTECARIOS,Dic-2024,,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,PERSONALES,Dic-2024,24903937.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,OTROS,Dic-2024,13541876.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,INTERESES Y DIF. COTIZ. DEVENG. A COBRAR,Dic-2024,2322133.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,INTERESES DOCUMENTADOS,Dic-2024,,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,AJUSTES NIIF,Dic-2024,,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,PREVISIONES,Dic-2024,-1846565.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,OTROS CRED.POR INTERM.FINAN.,Dic-2024,46376242.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,CRÉDITOS DIVERSOS,Dic-2024,9224225.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,"PROPIEDAD, PLANTAS Y EQUIPO",Dic-2024,1492914.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,ACTIVOS INTANGIBLES,Dic-2024,3583177.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,PARTIDAS PEND. DE IMPUTACIÓN,Dic-2024,41822.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,P A S I V O,Dic-2024,189967165.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,DEPÓSITOS,Dic-2024,140256938.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,SECTOR PRIVADO NO FINANCIERO Y RESIDENTES EN EL EXT.,Dic-2024,140256938.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,CUENTAS CORRIENTES,Dic-2024,188.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,CAJA DE AHORROS,Dic-2024,127672649.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,PLAZO FIJO E INVERSIONES A PLAZO,Dic-2024,11940819.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,OTROS,Dic-2024,213561.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,INTERESES Y DIF. COTIZ. DEVENG. A PAGAR,Dic-2024,429721.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,OTRAS OBLIG.POR INTERMED. FINANC.,Dic-2024,45506028.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,OBLIGACIONES DIVERSAS,Dic-2024,3497714.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,PROVISIONES,Dic-2024,32303.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,PARTIDAS PENDIENTES DE IMPUTACIÓN,Dic-2024,674182.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,P A T R I M O N I O N E T O,Dic-2024,14327452.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,"CAPITAL, APORTES, RESERVAS Y ORI ACUMULADO",Dic-2024,73465964.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,RESULTADOS NO ASIGNADOS,Dic-2024,-59138512.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,R D O S. I N T E G R A L E S A C U M. D E L P E R I O D O,Dic-2024,-9246527.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,INGRESOS FINANCIEROS,Dic-2024,53143768.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,POR INTERESES,Dic-2024,48352090.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,OTROS INGRESOS FINANCIEROS,Dic-2024,4791678.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,EGRESOS FINANCIEROS,Dic-2024,-19956431.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,POR INTERESES,Dic-2024,-13542458.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,OTROS EGRESOS FINANCIEROS,Dic-2024,-6413973.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,CARGO POR INCOBRABILIDAD,Dic-2024,-2526520.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,INGRESOS POR SERVICIOS,Dic-2024,8650240.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,EGRESOS POR SERVICIOS,Dic-2024,-13900748.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,GASTOS DE ADMINISTRACIÓN,Dic-2024,-30294101.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,CRÉDITOS RECUPERADOS Y PREVISIONES DESAFECTADAS,Dic-2024,406862.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,RESULTADO MONETARIO,Dic-2024,-7375888.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,OTROS,Dic-2024,738609.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,IMPUESTO A LAS GANANCIAS,Dic-2024,1867682.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,PARTIDAS FUERA DE BALANCE,Dic-2024,,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,CRÉDITOS IRRECUPERABLES EN PARTIDAS FUERA DEL BALANCE,Dic-2024,360776.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,CONTINGENTES ACREEDORAS,Dic-2024,30.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,DE CONTROL ACREEDORAS,Dic-2024,,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,DE DERIVADOS ACREEDORAS,Dic-2024,,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,CONTINGENTES DEUDORAS,Dic-2024,570409.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,DE CONTROL DEUDORAS,Dic-2024,29905846.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,DE DERIVADOS DEUDORAS,Dic-2024,,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,,Nov-2025,,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,A C T I V O,Nov-2025,293759303.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,EFECTIVO Y DEPOSITO EN BANCOS,Nov-2025,91039838.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,TÍTULOS PÚBLICOS Y PRIVADOS,Nov-2025,84031978.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,PRÉSTAMOS,Nov-2025,78231517.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,SECTOR PRIVADO NO FINANCIERO Y RESIDENTES EN EL EXT.,Nov-2025,88044966.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,ADELANTOS,Nov-2025,86255.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,"DOC A SOLA FIRMA, DESCONT. Y COMPRADOS",Nov-2025,196760.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,HIPOTECARIOS,Nov-2025,387435.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,PERSONALES,Nov-2025,51679200.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,OTROS,Nov-2025,30014985.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,INTERESES Y DIF. COTIZ. DEVENG. A COBRAR,Nov-2025,5273753.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,INTERESES DOCUMENTADOS,Nov-2025,-12595.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,AJUSTES NIIF,Nov-2025,419173.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,PREVISIONES,Nov-2025,-9813449.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,OTROS CRED.POR INTERM.FINAN.,Nov-2025,18529491.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,CRÉDITOS DIVERSOS,Nov-2025,9437613.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,"PROPIEDAD, PLANTAS Y EQUIPO",Nov-2025,1551281.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,ACTIVOS INTANGIBLES,Nov-2025,10919266.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,PARTIDAS PEND. DE IMPUTACIÓN,Nov-2025,18319.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,P A S I V O,Nov-2025,268222677.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,DEPÓSITOS,Nov-2025,238144874.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,SECTOR PRIVADO NO FINANCIERO Y RESIDENTES EN EL EXT.,Nov-2025,238144874.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,CUENTAS CORRIENTES,Nov-2025,3378016.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,CAJA DE AHORROS,Nov-2025,214925964.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,PLAZO FIJO E INVERSIONES A PLAZO,Nov-2025,18292135.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,OTROS,Nov-2025,1012822.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,INTERESES Y DIF. COTIZ. DEVENG. A PAGAR,Nov-2025,535937.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,OTRAS OBLIG.POR INTERMED. FINANC.,Nov-2025,24063827.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,OBLIGACIONES DIVERSAS,Nov-2025,5450452.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,PROVISIONES,Nov-2025,34407.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,PARTIDAS PENDIENTES DE IMPUTACIÓN,Nov-2025,529117.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,P A T R I M O N I O N E T O,Nov-2025,25536626.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,"CAPITAL, APORTES, RESERVAS Y ORI ACUMULADO",Nov-2025,97252268.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,RESULTADOS NO ASIGNADOS,Nov-2025,-71715642.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,R D O S. I N T E G R A L E S A C U M. D E L P E R I O D O,Nov-2025,3935018.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,INGRESOS FINANCIEROS,Nov-2025,69137617.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,POR INTERESES,Nov-2025,52688436.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,OTROS INGRESOS FINANCIEROS,Nov-2025,16449181.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,EGRESOS FINANCIEROS,Nov-2025,-21990142.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,POR INTERESES,Nov-2025,-15014008.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,OTROS EGRESOS FINANCIEROS,Nov-2025,-6976134.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,CARGO POR INCOBRABILIDAD,Nov-2025,-9875621.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,INGRESOS POR SERVICIOS,Nov-2025,12526321.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,EGRESOS POR SERVICIOS,Nov-2025,-16975310.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,GASTOS DE ADMINISTRACIÓN,Nov-2025,-27778841.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,CRÉDITOS RECUPERADOS Y PREVISIONES DESAFECTADAS,Nov-2025,577793.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,RESULTADO MONETARIO,Nov-2025,-1363564.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,OTROS,Nov-2025,865835.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,IMPUESTO A LAS GANANCIAS,Nov-2025,-1189070.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,PARTIDAS FUERA DE BALANCE,Nov-2025,,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,CRÉDITOS IRRECUPERABLES EN PARTIDAS FUERA DEL BALANCE,Nov-2025,697640.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,CONTINGENTES ACREEDORAS,Nov-2025,63517195.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,DE CONTROL ACREEDORAS,Nov-2025,334863.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,DE DERIVADOS ACREEDORAS,Nov-2025,,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,CONTINGENTES DEUDORAS,Nov-2025,2683253.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,DE CONTROL DEUDORAS,Nov-2025,2160703.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,DE DERIVADOS DEUDORAS,Nov-2025,,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,,Dic-2025,,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,A C T I V O,Dic-2025,326010000.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,EFECTIVO Y DEPOSITO EN BANCOS,Dic-2025,89211732.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,TÍTULOS PÚBLICOS Y PRIVADOS,Dic-2025,110957686.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,PRÉSTAMOS,Dic-2025,76407785.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,SECTOR PRIVADO NO FINANCIERO Y RESIDENTES EN EL EXT.,Dic-2025,86140342.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,ADELANTOS,Dic-2025,102261.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,"DOC A SOLA FIRMA, DESCONT. Y COMPRADOS",Dic-2025,215707.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,HIPOTECARIOS,Dic-2025,387027.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,PERSONALES,Dic-2025,48834747.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,OTROS,Dic-2025,31081847.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,INTERESES Y DIF. COTIZ. DEVENG. A COBRAR,Dic-2025,5127344.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,INTERESES DOCUMENTADOS,Dic-2025,-9539.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,AJUSTES NIIF,Dic-2025,400948.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,PREVISIONES,Dic-2025,-9732557.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,OTROS CRED.POR INTERM.FINAN.,Dic-2025,27246001.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,CRÉDITOS DIVERSOS,Dic-2025,8287149.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,"PROPIEDAD, PLANTAS Y EQUIPO",Dic-2025,1577844.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,ACTIVOS INTANGIBLES,Dic-2025,12287314.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,PARTIDAS PEND. DE IMPUTACIÓN,Dic-2025,34489.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,P A S I V O,Dic-2025,299792429.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,DEPÓSITOS,Dic-2025,274358222.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,SECTOR PRIVADO NO FINANCIERO Y RESIDENTES EN EL EXT.,Dic-2025,274358222.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,CUENTAS CORRIENTES,Dic-2025,4155562.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,CAJA DE AHORROS,Dic-2025,250261798.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,PLAZO FIJO E INVERSIONES A PLAZO,Dic-2025,17920789.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,OTROS,Dic-2025,1612141.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,INTERESES Y DIF. COTIZ. DEVENG. A PAGAR,Dic-2025,407932.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,OTRAS OBLIG.POR INTERMED. FINANC.,Dic-2025,19430552.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,OBLIGACIONES DIVERSAS,Dic-2025,5893622.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,PROVISIONES,Dic-2025,57257.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,PARTIDAS PENDIENTES DE IMPUTACIÓN,Dic-2025,52776.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,P A T R I M O N I O N E T O,Dic-2025,26217571.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,"CAPITAL, APORTES, RESERVAS Y ORI ACUMULADO",Dic-2025,100019359.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,RESULTADOS NO ASIGNADOS,Dic-2025,-73801788.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,R D O S. I N T E G R A L E S A C U M. D E L P E R I O D O,Dic-2025,4000860.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,INGRESOS FINANCIEROS,Dic-2025,78455819.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,POR INTERESES,Dic-2025,59777864.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,OTROS INGRESOS FINANCIEROS,Dic-2025,18677955.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,EGRESOS FINANCIEROS,Dic-2025,-24590139.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,POR INTERESES,Dic-2025,-16637682.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,OTROS EGRESOS FINANCIEROS,Dic-2025,-7952457.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,CARGO POR INCOBRABILIDAD,Dic-2025,-12038314.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,INGRESOS POR SERVICIOS,Dic-2025,14669052.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,EGRESOS POR SERVICIOS,Dic-2025,-19025223.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,GASTOS DE ADMINISTRACIÓN,Dic-2025,-31305523.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,CRÉDITOS RECUPERADOS Y PREVISIONES DESAFECTADAS,Dic-2025,609460.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,RESULTADO MONETARIO,Dic-2025,-1639368.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,OTROS,Dic-2025,985989.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,IMPUESTO A LAS GANANCIAS,Dic-2025,-2120893.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,PARTIDAS FUERA DE BALANCE,Dic-2025,,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,CRÉDITOS IRRECUPERABLES EN PARTIDAS FUERA DEL BALANCE,Dic-2025,2357512.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,CONTINGENTES ACREEDORAS,Dic-2025,61777441.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,DE CONTROL ACREEDORAS,Dic-2025,276994.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,DE DERIVADOS ACREEDORAS,Dic-2025,,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,CONTINGENTES DEUDORAS,Dic-2025,3179132.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,DE CONTROL DEUDORAS,Dic-2025,3379113.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,DE DERIVADOS DEUDORAS,Dic-2025,,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,,Ene-2026,,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,A C T I V O,Ene-2026,313695570.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,EFECTIVO Y DEPOSITO EN BANCOS,Ene-2026,97053254.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,TÍTULOS PÚBLICOS Y PRIVADOS,Ene-2026,99845458.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,PRÉSTAMOS,Ene-2026,76619226.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,SECTOR PRIVADO NO FINANCIERO Y RESIDENTES EN EL EXT.,Ene-2026,87492801.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,ADELANTOS,Ene-2026,110762.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,"DOC A SOLA FIRMA, DESCONT. Y COMPRADOS",Ene-2026,114032.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,HIPOTECARIOS,Ene-2026,386796.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,PERSONALES,Ene-2026,50115817.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,OTROS,Ene-2026,31237293.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,INTERESES Y DIF. COTIZ. DEVENG. A COBRAR,Ene-2026,5148790.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,INTERESES DOCUMENTADOS,Ene-2026,-3412.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,AJUSTES NIIF,Ene-2026,382723.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,PREVISIONES,Ene-2026,-10873575.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,OTROS CRED.POR INTERM.FINAN.,Ene-2026,16474825.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,CRÉDITOS DIVERSOS,Ene-2026,8723122.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,"PROPIEDAD, PLANTAS Y EQUIPO",Ene-2026,1625315.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,ACTIVOS INTANGIBLES,Ene-2026,13290429.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,PARTIDAS PEND. DE IMPUTACIÓN,Ene-2026,63941.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,P A S I V O,Ene-2026,286375892.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,DEPÓSITOS,Ene-2026,259459414.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,SECTOR PRIVADO NO FINANCIERO Y RESIDENTES EN EL EXT.,Ene-2026,259459414.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,CUENTAS CORRIENTES,Ene-2026,4028600.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,CAJA DE AHORROS,Ene-2026,237299442.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,PLAZO FIJO E INVERSIONES A PLAZO,Ene-2026,15992764.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,OTROS,Ene-2026,1810661.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,INTERESES Y DIF. COTIZ. DEVENG. A PAGAR,Ene-2026,327947.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,OTRAS OBLIG.POR INTERMED. FINANC.,Ene-2026,17816659.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,OBLIGACIONES DIVERSAS,Ene-2026,8009570.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,PROVISIONES,Ene-2026,70096.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,PARTIDAS PENDIENTES DE IMPUTACIÓN,Ene-2026,1020153.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,P A T R I M O N I O N E T O,Ene-2026,27319678.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,"CAPITAL, APORTES, RESERVAS Y ORI ACUMULADO",Ene-2026,102901536.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,RESULTADOS NO ASIGNADOS,Ene-2026,-75581858.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,R D O S. I N T E G R A L E S A C U M. D E L P E R I O D O,Ene-2026,346124.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,INGRESOS FINANCIEROS,Ene-2026,7771049.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,POR INTERESES,Ene-2026,5619899.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,OTROS INGRESOS FINANCIEROS,Ene-2026,2151150.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,EGRESOS FINANCIEROS,Ene-2026,-1871053.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,POR INTERESES,Ene-2026,-1034396.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,OTROS EGRESOS FINANCIEROS,Ene-2026,-836657.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,CARGO POR INCOBRABILIDAD,Ene-2026,-2119794.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,INGRESOS POR SERVICIOS,Ene-2026,1605261.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,EGRESOS POR SERVICIOS,Ene-2026,-1548687.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,GASTOS DE ADMINISTRACIÓN,Ene-2026,-2933921.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,CRÉDITOS RECUPERADOS Y PREVISIONES DESAFECTADAS,Ene-2026,168155.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,RESULTADO MONETARIO,Ene-2026,-231459.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,OTROS,Ene-2026,45529.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,IMPUESTO A LAS GANANCIAS,Ene-2026,-538956.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,PARTIDAS FUERA DE BALANCE,Ene-2026,,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,CRÉDITOS IRRECUPERABLES EN PARTIDAS FUERA DEL BALANCE,Ene-2026,2955434.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,CONTINGENTES ACREEDORAS,Ene-2026,61616900.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,DE CONTROL ACREEDORAS,Ene-2026,559318.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,DE DERIVADOS ACREEDORAS,Ene-2026,,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,CONTINGENTES DEUDORAS,Ene-2026,3379075.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,DE CONTROL DEUDORAS,Ene-2026,4152145.0,2026-04-19
+00143,BRUBANK S.A.U.,privado_nacional,estados_contables,DE DERIVADOS DEUDORAS,Ene-2026,,2026-04-19

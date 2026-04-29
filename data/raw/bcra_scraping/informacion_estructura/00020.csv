@@ -1,0 +1,103 @@
+codigo_bcra,nombre_banco,tipo_entidad,fuente,variable,periodo,valor,scraping_fecha
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,informacion_estructura,Cantidad de cuentas corrientes,Dic-2023,465113.0,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,informacion_estructura,Cantidad de cuentas de ahorro,Dic-2023,2646094.0,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,informacion_estructura,Cantidad de cajas de ahorro de ayuda social,Dic-2023,567777.0,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,informacion_estructura,Cantidad de cuentas previsionales,Dic-2023,459233.0,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,informacion_estructura,Cantidad de operaciones a plazo fijo Individuos,Dic-2023,227909.0,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,informacion_estructura,Cantidad de operaciones a plazo fijo Empresas,Dic-2023,4520.0,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,informacion_estructura,Cantidad de operaciones por préstamos hipotecarios,Dic-2023,8834.0,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,informacion_estructura,Cantidad de operaciones por préstamos prendarios,Dic-2023,1148.0,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,informacion_estructura,Cantidad de operaciones por otros préstamos,Dic-2023,1106265.0,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,informacion_estructura,Dotación de personal,Dic-2023,2088.0,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,informacion_estructura,Cantidad de titulares por tarjetas de crédito,Dic-2023,626088.0,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,informacion_estructura,Cantidad de tarjetas de crédito (plásticos),Dic-2023,971753.0,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,informacion_estructura,Cantidad de tarjetas de débito,Dic-2023,529027.0,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,informacion_estructura,Cantidad de cuentas corrientes,Dic-2024,623650.0,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,informacion_estructura,Cantidad de cuentas de ahorro,Dic-2024,2812381.0,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,informacion_estructura,Cantidad de cajas de ahorro de ayuda social,Dic-2024,604251.0,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,informacion_estructura,Cantidad de cuentas previsionales,Dic-2024,480784.0,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,informacion_estructura,Cantidad de operaciones a plazo fijo Individuos,Dic-2024,173398.0,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,informacion_estructura,Cantidad de operaciones a plazo fijo Empresas,Dic-2024,1856.0,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,informacion_estructura,Cantidad de operaciones por préstamos hipotecarios,Dic-2024,8834.0,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,informacion_estructura,Cantidad de operaciones por préstamos prendarios,Dic-2024,987.0,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,informacion_estructura,Cantidad de operaciones por otros préstamos,Dic-2024,1306587.0,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,informacion_estructura,Dotación de personal,Dic-2024,2014.0,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,informacion_estructura,Cantidad de titulares por tarjetas de crédito,Dic-2024,649318.0,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,informacion_estructura,Cantidad de tarjetas de crédito (plásticos),Dic-2024,951566.0,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,informacion_estructura,Cantidad de tarjetas de débito,Dic-2024,733843.0,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,informacion_estructura,Cantidad de cuentas corrientes,Jun-2025,647503.0,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,informacion_estructura,Cantidad de cuentas de ahorro,Jun-2025,2705756.0,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,informacion_estructura,Cantidad de cajas de ahorro de ayuda social,Jun-2025,621271.0,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,informacion_estructura,Cantidad de cuentas previsionales,Jun-2025,492618.0,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,informacion_estructura,Cantidad de operaciones a plazo fijo Individuos,Jun-2025,197978.0,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,informacion_estructura,Cantidad de operaciones a plazo fijo Empresas,Jun-2025,3069.0,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,informacion_estructura,Cantidad de operaciones por préstamos hipotecarios,Jun-2025,8834.0,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,informacion_estructura,Cantidad de operaciones por préstamos prendarios,Jun-2025,864.0,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,informacion_estructura,Cantidad de operaciones por otros préstamos,Jun-2025,1391696.0,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,informacion_estructura,Dotación de personal,Jun-2025,1952.0,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,informacion_estructura,Cantidad de titulares por tarjetas de crédito,Jun-2025,718386.0,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,informacion_estructura,Cantidad de tarjetas de crédito (plásticos),Jun-2025,1047576.0,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,informacion_estructura,Cantidad de tarjetas de débito,Jun-2025,631343.0,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,informacion_estructura,Cantidad de cuentas corrientes,Set-2025,644501.0,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,informacion_estructura,Cantidad de cuentas de ahorro,Set-2025,2934601.0,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,informacion_estructura,Cantidad de cajas de ahorro de ayuda social,Set-2025,622003.0,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,informacion_estructura,Cantidad de cuentas previsionales,Set-2025,497538.0,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,informacion_estructura,Cantidad de operaciones a plazo fijo Individuos,Set-2025,219179.0,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,informacion_estructura,Cantidad de operaciones a plazo fijo Empresas,Set-2025,3421.0,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,informacion_estructura,Cantidad de operaciones por préstamos hipotecarios,Set-2025,8834.0,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,informacion_estructura,Cantidad de operaciones por préstamos prendarios,Set-2025,837.0,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,informacion_estructura,Cantidad de operaciones por otros préstamos,Set-2025,1378419.0,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,informacion_estructura,Dotación de personal,Set-2025,1860.0,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,informacion_estructura,Cantidad de titulares por tarjetas de crédito,Set-2025,707755.0,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,informacion_estructura,Cantidad de tarjetas de crédito (plásticos),Set-2025,1050463.0,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,informacion_estructura,Cantidad de tarjetas de débito,Set-2025,554540.0,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,informacion_estructura,Cantidad de cuentas corrientes,Dic-2025,679983.0,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,informacion_estructura,Cantidad de cuentas de ahorro,Dic-2025,2972779.0,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,informacion_estructura,Cantidad de cajas de ahorro de ayuda social,Dic-2025,631660.0,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,informacion_estructura,Cantidad de cuentas previsionales,Dic-2025,502177.0,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,informacion_estructura,Cantidad de operaciones a plazo fijo Individuos,Dic-2025,180936.0,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,informacion_estructura,Cantidad de operaciones a plazo fijo Empresas,Dic-2025,2809.0,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,informacion_estructura,Cantidad de operaciones por préstamos hipotecarios,Dic-2025,8834.0,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,informacion_estructura,Cantidad de operaciones por préstamos prendarios,Dic-2025,775.0,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,informacion_estructura,Cantidad de operaciones por otros préstamos,Dic-2025,1298095.0,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,informacion_estructura,Dotación de personal,Dic-2025,1784.0,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,informacion_estructura,Cantidad de titulares por tarjetas de crédito,Dic-2025,692247.0,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,informacion_estructura,Cantidad de tarjetas de crédito (plásticos),Dic-2025,1021213.0,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,informacion_estructura,Cantidad de tarjetas de débito,Dic-2025,287391.0,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,informacion_estructura,Cantidad de Cuentas,Dic-2023,206873.0,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,informacion_estructura,Cantidad de Empresas,Dic-2023,2347.0,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,informacion_estructura,Cantidad de Cuentas,Dic-2024,228749.0,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,informacion_estructura,Cantidad de Empresas,Dic-2024,2278.0,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,informacion_estructura,Cantidad de Cuentas,Nov-2025,199343.0,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,informacion_estructura,Cantidad de Empresas,Nov-2025,1389.0,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,informacion_estructura,Cantidad de Cuentas,Dic-2025,200631.0,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,informacion_estructura,Cantidad de Empresas,Dic-2025,1396.0,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,informacion_estructura,Cantidad de Cuentas,Ene-2026,195408.0,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,informacion_estructura,Cantidad de Empresas,Ene-2026,1248.0,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,informacion_estructura,CABA,Habilitadas,1.0,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,informacion_estructura,CÓRDOBA,Habilitadas,154.0,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,informacion_estructura,SANTA FE,Habilitadas,1.0,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,informacion_estructura,CABA,Habilitadas,,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,informacion_estructura,CÓRDOBA,Habilitadas,34.0,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,informacion_estructura,SANTA FE,Habilitadas,,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,informacion_estructura,CABA,Habilitadas,,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,informacion_estructura,CÓRDOBA,Habilitadas,2.0,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,informacion_estructura,SANTA FE,Habilitadas,,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,informacion_estructura,CABA,Habilitadas,1.0,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,informacion_estructura,CÓRDOBA,Habilitadas,814.0,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,informacion_estructura,SANTA FE,Habilitadas,2.0,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,informacion_estructura,CABA,Habilitadas,,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,informacion_estructura,CÓRDOBA,Habilitadas,,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,informacion_estructura,SANTA FE,Habilitadas,,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,informacion_estructura,CABA,Habilitadas,,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,informacion_estructura,CÓRDOBA,Habilitadas,,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,informacion_estructura,SANTA FE,Habilitadas,,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,informacion_estructura,CABA,Habilitadas,,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,informacion_estructura,CÓRDOBA,Habilitadas,44.0,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,informacion_estructura,SANTA FE,Habilitadas,,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,informacion_estructura,CABA,Pendientes de habilitación,,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,informacion_estructura,CÓRDOBA,Pendientes de habilitación,,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,informacion_estructura,SANTA FE,Pendientes de habilitación,1.0,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,informacion_estructura,CABA,Total,1.0,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,informacion_estructura,CÓRDOBA,Total,154.0,2026-04-19
+00020,BANCO DE LA PROVINCIA DE CORDOBA S.,publico,informacion_estructura,SANTA FE,Total,2.0,2026-04-19

@@ -1,0 +1,161 @@
+codigo_bcra,nombre_banco,tipo_entidad,fuente,variable,periodo,valor,scraping_fecha
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,situacion_deudores,TOTAL DE FINANCIACIONES Y GARANTIAS OTORGADAS ($),Dic-2023,2053322.18,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,situacion_deudores,TF.Sit.1: En situación normal (%),Dic-2023,98.01,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,situacion_deudores,TF.Sit.2: Con seguimiento especial/Riesgo bajo (%),Dic-2023,0.67,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,situacion_deudores,TF.Sit.3: Con problemas/Riesgo medio (%),Dic-2023,0.76,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,situacion_deudores,TF.Sit.4: Con alto riesgo de insolvencia/Riesgo alto (%),Dic-2023,0.48,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,situacion_deudores,TF.Sit.5: Irrecuperable (%),Dic-2023,0.08,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,situacion_deudores,TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Dic-2023,4.04,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,situacion_deudores,Previsiones por riesgo de incobrabilidad constituídas,Dic-2023,49824.51,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,situacion_deudores,CARTERA COMERCIAL ($),Dic-2023,863065.1,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,situacion_deudores,Total cartera sobre financiaciones (%),Dic-2023,42.03,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,situacion_deudores,C.COM.Sit.1: En situación normal (%),Dic-2023,99.63,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,situacion_deudores,C.COM.Sit.2: Con seguimiento especial (%),Dic-2023,0.03,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,situacion_deudores,C.COM.Sit.3: Con problemas (%),Dic-2023,0.32,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,situacion_deudores,C.COM.Sit.4: Con alto riesgo de insolvencia (%),Dic-2023,0.0,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,situacion_deudores,C.COM.Sit.5: Irrecuperable (%),Dic-2023,0.0,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,situacion_deudores,C.COM.TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Dic-2023,1.03,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,situacion_deudores,CARTERA DE CONSUMO O VIVIENDA ($),Dic-2023,940853.39,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,situacion_deudores,Total cartera sobre financiaciones (%),Dic-2023,45.82,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,situacion_deudores,C.CON.Sit.1: En situación normal (%),Dic-2023,96.33,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,situacion_deudores,C.CON.Sit.2: Riesgo bajo (%),Dic-2023,1.36,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,situacion_deudores,C.CON.Sit.3: Riesgo medio (%),Dic-2023,1.27,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,situacion_deudores,C.CON.Sit.4: Riesgo alto (%),Dic-2023,0.95,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,situacion_deudores,C.CON.Sit.5: Irrecuperable (%),Dic-2023,0.09,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,situacion_deudores,C.CON.TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Dic-2023,7.1,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,situacion_deudores,CARTERA COMERCIAL ASIMILABLE A CONSUMO ($),Dic-2023,249403.7,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,situacion_deudores,Total cartera sobre financiaciones (%),Dic-2023,12.15,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,situacion_deudores,C.CAC.Sit.1: En situación normal (%),Dic-2023,98.72,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,situacion_deudores,C.CAC.Sit.2: Riesgo bajo (%),Dic-2023,0.26,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,situacion_deudores,C.CAC.Sit.3: Riesgo medio (%),Dic-2023,0.37,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,situacion_deudores,C.CAC.Sit.4: Riesgo alto (%),Dic-2023,0.35,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,situacion_deudores,C.CAC.Sit.5: Irrecuperable (%),Dic-2023,0.31,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,situacion_deudores,C.CAC.TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Dic-2023,2.92,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,situacion_deudores,TOTAL DE FINANCIACIONES Y GARANTIAS OTORGADAS ($),Dic-2024,7657531.0,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,situacion_deudores,TF.Sit.1: En situación normal (%),Dic-2024,98.06,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,situacion_deudores,TF.Sit.2: Con seguimiento especial/Riesgo bajo (%),Dic-2024,0.78,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,situacion_deudores,TF.Sit.3: Con problemas/Riesgo medio (%),Dic-2024,0.64,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,situacion_deudores,TF.Sit.4: Con alto riesgo de insolvencia/Riesgo alto (%),Dic-2024,0.46,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,situacion_deudores,TF.Sit.5: Irrecuperable (%),Dic-2024,0.06,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,situacion_deudores,TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Dic-2024,4.02,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,situacion_deudores,Previsiones por riesgo de incobrabilidad constituídas,Dic-2024,168847.25,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,situacion_deudores,CARTERA COMERCIAL ($),Dic-2024,3686324.98,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,situacion_deudores,Total cartera sobre financiaciones (%),Dic-2024,48.14,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,situacion_deudores,C.COM.Sit.1: En situación normal (%),Dic-2024,99.9,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,situacion_deudores,C.COM.Sit.2: Con seguimiento especial (%),Dic-2024,0.0,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,situacion_deudores,C.COM.Sit.3: Con problemas (%),Dic-2024,0.09,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,situacion_deudores,C.COM.Sit.4: Con alto riesgo de insolvencia (%),Dic-2024,0.01,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,situacion_deudores,C.COM.Sit.5: Irrecuperable (%),Dic-2024,0.0,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,situacion_deudores,C.COM.TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Dic-2024,0.54,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,situacion_deudores,CARTERA DE CONSUMO O VIVIENDA ($),Dic-2024,3157566.86,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,situacion_deudores,Total cartera sobre financiaciones (%),Dic-2024,41.23,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,situacion_deudores,C.CON.Sit.1: En situación normal (%),Dic-2024,95.64,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,situacion_deudores,C.CON.Sit.2: Riesgo bajo (%),Dic-2024,1.82,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,situacion_deudores,C.CON.Sit.3: Riesgo medio (%),Dic-2024,1.39,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,situacion_deudores,C.CON.Sit.4: Riesgo alto (%),Dic-2024,1.06,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,situacion_deudores,C.CON.Sit.5: Irrecuperable (%),Dic-2024,0.08,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,situacion_deudores,C.CON.TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Dic-2024,8.26,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,situacion_deudores,CARTERA COMERCIAL ASIMILABLE A CONSUMO ($),Dic-2024,813639.15,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,situacion_deudores,Total cartera sobre financiaciones (%),Dic-2024,10.63,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,situacion_deudores,C.CAC.Sit.1: En situación normal (%),Dic-2024,99.08,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,situacion_deudores,C.CAC.Sit.2: Riesgo bajo (%),Dic-2024,0.27,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,situacion_deudores,C.CAC.Sit.3: Riesgo medio (%),Dic-2024,0.2,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,situacion_deudores,C.CAC.Sit.4: Riesgo alto (%),Dic-2024,0.2,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,situacion_deudores,C.CAC.Sit.5: Irrecuperable (%),Dic-2024,0.25,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,situacion_deudores,C.CAC.TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Dic-2024,3.27,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,situacion_deudores,TOTAL DE FINANCIACIONES Y GARANTIAS OTORGADAS ($),Nov-2025,13163622.25,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,situacion_deudores,TF.Sit.1: En situación normal (%),Nov-2025,93.36,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,situacion_deudores,TF.Sit.2: Con seguimiento especial/Riesgo bajo (%),Nov-2025,2.52,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,situacion_deudores,TF.Sit.3: Con problemas/Riesgo medio (%),Nov-2025,2.14,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,situacion_deudores,TF.Sit.4: Con alto riesgo de insolvencia/Riesgo alto (%),Nov-2025,1.84,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,situacion_deudores,TF.Sit.5: Irrecuperable (%),Nov-2025,0.15,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,situacion_deudores,TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Nov-2025,4.6,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,situacion_deudores,Previsiones por riesgo de incobrabilidad constituídas,Nov-2025,557005.96,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,situacion_deudores,CARTERA COMERCIAL ($),Nov-2025,6201810.24,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,situacion_deudores,Total cartera sobre financiaciones (%),Nov-2025,47.11,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,situacion_deudores,C.COM.Sit.1: En situación normal (%),Nov-2025,99.7,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,situacion_deudores,C.COM.Sit.2: Con seguimiento especial (%),Nov-2025,0.06,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,situacion_deudores,C.COM.Sit.3: Con problemas (%),Nov-2025,0.13,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,situacion_deudores,C.COM.Sit.4: Con alto riesgo de insolvencia (%),Nov-2025,0.11,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,situacion_deudores,C.COM.Sit.5: Irrecuperable (%),Nov-2025,0.01,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,situacion_deudores,C.COM.TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Nov-2025,0.6,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,situacion_deudores,CARTERA DE CONSUMO O VIVIENDA ($),Nov-2025,5240607.24,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,situacion_deudores,Total cartera sobre financiaciones (%),Nov-2025,39.81,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,situacion_deudores,C.CON.Sit.1: En situación normal (%),Nov-2025,85.67,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,situacion_deudores,C.CON.Sit.2: Riesgo bajo (%),Nov-2025,5.14,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,situacion_deudores,C.CON.Sit.3: Riesgo medio (%),Nov-2025,4.82,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,situacion_deudores,C.CON.Sit.4: Riesgo alto (%),Nov-2025,4.07,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,situacion_deudores,C.CON.Sit.5: Irrecuperable (%),Nov-2025,0.3,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,situacion_deudores,C.CON.TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Nov-2025,10.29,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,situacion_deudores,CARTERA COMERCIAL ASIMILABLE A CONSUMO ($),Nov-2025,1721204.77,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,situacion_deudores,Total cartera sobre financiaciones (%),Nov-2025,13.08,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,situacion_deudores,C.CAC.Sit.1: En situación normal (%),Nov-2025,93.93,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,situacion_deudores,C.CAC.Sit.2: Riesgo bajo (%),Nov-2025,3.41,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,situacion_deudores,C.CAC.Sit.3: Riesgo medio (%),Nov-2025,1.22,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,situacion_deudores,C.CAC.Sit.4: Riesgo alto (%),Nov-2025,1.25,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,situacion_deudores,C.CAC.Sit.5: Irrecuperable (%),Nov-2025,0.18,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,situacion_deudores,C.CAC.TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Nov-2025,1.67,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,situacion_deudores,TOTAL DE FINANCIACIONES Y GARANTIAS OTORGADAS ($),Dic-2025,14218273.86,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,situacion_deudores,TF.Sit.1: En situación normal (%),Dic-2025,93.21,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,situacion_deudores,TF.Sit.2: Con seguimiento especial/Riesgo bajo (%),Dic-2025,2.4,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,situacion_deudores,TF.Sit.3: Con problemas/Riesgo medio (%),Dic-2025,2.02,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,situacion_deudores,TF.Sit.4: Con alto riesgo de insolvencia/Riesgo alto (%),Dic-2025,2.22,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,situacion_deudores,TF.Sit.5: Irrecuperable (%),Dic-2025,0.15,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,situacion_deudores,TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Dic-2025,4.53,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,situacion_deudores,Previsiones por riesgo de incobrabilidad constituídas,Dic-2025,638478.6,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,situacion_deudores,CARTERA COMERCIAL ($),Dic-2025,6823590.0,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,situacion_deudores,Total cartera sobre financiaciones (%),Dic-2025,47.99,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,situacion_deudores,C.COM.Sit.1: En situación normal (%),Dic-2025,99.5,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,situacion_deudores,C.COM.Sit.2: Con seguimiento especial (%),Dic-2025,0.16,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,situacion_deudores,C.COM.Sit.3: Con problemas (%),Dic-2025,0.13,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,situacion_deudores,C.COM.Sit.4: Con alto riesgo de insolvencia (%),Dic-2025,0.2,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,situacion_deudores,C.COM.Sit.5: Irrecuperable (%),Dic-2025,0.02,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,situacion_deudores,C.COM.TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Dic-2025,0.66,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,situacion_deudores,CARTERA DE CONSUMO O VIVIENDA ($),Dic-2025,5522533.69,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,situacion_deudores,Total cartera sobre financiaciones (%),Dic-2025,38.84,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,situacion_deudores,C.CON.Sit.1: En situación normal (%),Dic-2025,85.54,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,situacion_deudores,C.CON.Sit.2: Riesgo bajo (%),Dic-2025,4.71,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,situacion_deudores,C.CON.Sit.3: Riesgo medio (%),Dic-2025,4.49,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,situacion_deudores,C.CON.Sit.4: Riesgo alto (%),Dic-2025,4.95,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,situacion_deudores,C.CON.Sit.5: Irrecuperable (%),Dic-2025,0.31,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,situacion_deudores,C.CON.TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Dic-2025,10.22,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,situacion_deudores,CARTERA COMERCIAL ASIMILABLE A CONSUMO ($),Dic-2025,1872150.17,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,situacion_deudores,Total cartera sobre financiaciones (%),Dic-2025,13.17,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,situacion_deudores,C.CAC.Sit.1: En situación normal (%),Dic-2025,92.89,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,situacion_deudores,C.CAC.Sit.2: Riesgo bajo (%),Dic-2025,3.73,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,situacion_deudores,C.CAC.Sit.3: Riesgo medio (%),Dic-2025,1.63,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,situacion_deudores,C.CAC.Sit.4: Riesgo alto (%),Dic-2025,1.57,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,situacion_deudores,C.CAC.Sit.5: Irrecuperable (%),Dic-2025,0.18,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,situacion_deudores,C.CAC.TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Dic-2025,1.83,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,situacion_deudores,TOTAL DE FINANCIACIONES Y GARANTIAS OTORGADAS ($),Ene-2026,14093593.12,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,situacion_deudores,TF.Sit.1: En situación normal (%),Ene-2026,92.39,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,situacion_deudores,TF.Sit.2: Con seguimiento especial/Riesgo bajo (%),Ene-2026,2.25,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,situacion_deudores,TF.Sit.3: Con problemas/Riesgo medio (%),Ene-2026,2.48,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,situacion_deudores,TF.Sit.4: Con alto riesgo de insolvencia/Riesgo alto (%),Ene-2026,2.72,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,situacion_deudores,TF.Sit.5: Irrecuperable (%),Ene-2026,0.16,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,situacion_deudores,TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Ene-2026,4.97,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,situacion_deudores,Previsiones por riesgo de incobrabilidad constituídas,Ene-2026,697658.78,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,situacion_deudores,CARTERA COMERCIAL ($),Ene-2026,6650719.17,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,situacion_deudores,Total cartera sobre financiaciones (%),Ene-2026,47.19,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,situacion_deudores,C.COM.Sit.1: En situación normal (%),Ene-2026,99.38,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,situacion_deudores,C.COM.Sit.2: Con seguimiento especial (%),Ene-2026,0.15,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,situacion_deudores,C.COM.Sit.3: Con problemas (%),Ene-2026,0.2,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,situacion_deudores,C.COM.Sit.4: Con alto riesgo de insolvencia (%),Ene-2026,0.25,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,situacion_deudores,C.COM.Sit.5: Irrecuperable (%),Ene-2026,0.02,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,situacion_deudores,C.COM.TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Ene-2026,0.7,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,situacion_deudores,CARTERA DE CONSUMO O VIVIENDA ($),Ene-2026,5568800.92,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,situacion_deudores,Total cartera sobre financiaciones (%),Ene-2026,39.51,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,situacion_deudores,C.CON.Sit.1: En situación normal (%),Ene-2026,84.2,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,situacion_deudores,C.CON.Sit.2: Riesgo bajo (%),Ene-2026,4.22,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,situacion_deudores,C.CON.Sit.3: Riesgo medio (%),Ene-2026,5.33,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,situacion_deudores,C.CON.Sit.4: Riesgo alto (%),Ene-2026,5.89,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,situacion_deudores,C.CON.Sit.5: Irrecuperable (%),Ene-2026,0.35,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,situacion_deudores,C.CON.TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Ene-2026,11.1,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,situacion_deudores,CARTERA COMERCIAL ASIMILABLE A CONSUMO ($),Ene-2026,1874073.04,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,situacion_deudores,Total cartera sobre financiaciones (%),Ene-2026,13.3,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,situacion_deudores,C.CAC.Sit.1: En situación normal (%),Ene-2026,91.91,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,situacion_deudores,C.CAC.Sit.2: Riesgo bajo (%),Ene-2026,3.86,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,situacion_deudores,C.CAC.Sit.3: Riesgo medio (%),Ene-2026,2.04,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,situacion_deudores,C.CAC.Sit.4: Riesgo alto (%),Ene-2026,2.1,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,situacion_deudores,C.CAC.Sit.5: Irrecuperable (%),Ene-2026,0.09,2026-04-19
+00017,BANCO BBVA ARGENTINA S.A.,extranjero,situacion_deudores,C.CAC.TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Ene-2026,1.87,2026-04-19

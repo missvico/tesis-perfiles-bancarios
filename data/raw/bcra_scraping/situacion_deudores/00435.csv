@@ -1,0 +1,116 @@
+codigo_bcra,nombre_banco,tipo_entidad,fuente,variable,periodo,valor,scraping_fecha
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,situacion_deudores,TOTAL DE FINANCIACIONES Y GARANTIAS OTORGADAS ($),Dic-2023,392.01,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,situacion_deudores,TF.Sit.1: En situación normal (%),Dic-2023,77.0,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,situacion_deudores,TF.Sit.2: Con seguimiento especial/Riesgo bajo (%),Dic-2023,0.0,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,situacion_deudores,TF.Sit.3: Con problemas/Riesgo medio (%),Dic-2023,22.96,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,situacion_deudores,TF.Sit.4: Con alto riesgo de insolvencia/Riesgo alto (%),Dic-2023,0.04,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,situacion_deudores,TF.Sit.5: Irrecuperable (%),Dic-2023,0.0,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,situacion_deudores,TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Dic-2023,5.74,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,situacion_deudores,Previsiones por riesgo de incobrabilidad constituídas,Dic-2023,25.6,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,situacion_deudores,CARTERA DE CONSUMO O VIVIENDA ($),Dic-2023,19.63,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,situacion_deudores,Total cartera sobre financiaciones (%),Dic-2023,5.01,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,situacion_deudores,C.CON.Sit.1: En situación normal (%),Dic-2023,99.22,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,situacion_deudores,C.CON.Sit.2: Riesgo bajo (%),Dic-2023,0.0,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,situacion_deudores,C.CON.Sit.3: Riesgo medio (%),Dic-2023,0.0,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,situacion_deudores,C.CON.Sit.4: Riesgo alto (%),Dic-2023,0.78,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,situacion_deudores,C.CON.Sit.5: Irrecuperable (%),Dic-2023,0.0,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,situacion_deudores,CARTERA COMERCIAL ASIMILABLE A CONSUMO ($),Dic-2023,372.38,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,situacion_deudores,Total cartera sobre financiaciones (%),Dic-2023,94.99,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,situacion_deudores,C.CAC.Sit.1: En situación normal (%),Dic-2023,75.83,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,situacion_deudores,C.CAC.Sit.2: Riesgo bajo (%),Dic-2023,0.0,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,situacion_deudores,C.CAC.Sit.3: Riesgo medio (%),Dic-2023,24.17,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,situacion_deudores,C.CAC.Sit.4: Riesgo alto (%),Dic-2023,0.0,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,situacion_deudores,C.CAC.Sit.5: Irrecuperable (%),Dic-2023,0.0,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,situacion_deudores,C.CAC.TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Dic-2023,6.04,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,situacion_deudores,TOTAL DE FINANCIACIONES Y GARANTIAS OTORGADAS ($),Dic-2024,3426.25,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,situacion_deudores,TF.Sit.1: En situación normal (%),Dic-2024,79.54,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,situacion_deudores,TF.Sit.2: Con seguimiento especial/Riesgo bajo (%),Dic-2024,0.23,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,situacion_deudores,TF.Sit.3: Con problemas/Riesgo medio (%),Dic-2024,3.55,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,situacion_deudores,TF.Sit.4: Con alto riesgo de insolvencia/Riesgo alto (%),Dic-2024,14.05,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,situacion_deudores,TF.Sit.5: Irrecuperable (%),Dic-2024,2.63,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,situacion_deudores,TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Dic-2024,9.7,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,situacion_deudores,Previsiones por riesgo de incobrabilidad constituídas,Dic-2024,389.07,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,situacion_deudores,CARTERA DE CONSUMO O VIVIENDA ($),Dic-2024,378.28,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,situacion_deudores,Total cartera sobre financiaciones (%),Dic-2024,11.04,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,situacion_deudores,C.CON.Sit.1: En situación normal (%),Dic-2024,91.47,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,situacion_deudores,C.CON.Sit.2: Riesgo bajo (%),Dic-2024,2.09,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,situacion_deudores,C.CON.Sit.3: Riesgo medio (%),Dic-2024,1.99,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,situacion_deudores,C.CON.Sit.4: Riesgo alto (%),Dic-2024,4.41,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,situacion_deudores,C.CON.Sit.5: Irrecuperable (%),Dic-2024,0.04,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,situacion_deudores,CARTERA COMERCIAL ASIMILABLE A CONSUMO ($),Dic-2024,3047.98,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,situacion_deudores,Total cartera sobre financiaciones (%),Dic-2024,88.96,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,situacion_deudores,C.CAC.Sit.1: En situación normal (%),Dic-2024,78.06,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,situacion_deudores,C.CAC.Sit.2: Riesgo bajo (%),Dic-2024,0.0,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,situacion_deudores,C.CAC.Sit.3: Riesgo medio (%),Dic-2024,3.74,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,situacion_deudores,C.CAC.Sit.4: Riesgo alto (%),Dic-2024,15.25,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,situacion_deudores,C.CAC.Sit.5: Irrecuperable (%),Dic-2024,2.95,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,situacion_deudores,C.CAC.TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Dic-2024,10.9,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,situacion_deudores,TOTAL DE FINANCIACIONES Y GARANTIAS OTORGADAS ($),Nov-2025,4965.1,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,situacion_deudores,TF.Sit.1: En situación normal (%),Nov-2025,51.85,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,situacion_deudores,TF.Sit.2: Con seguimiento especial/Riesgo bajo (%),Nov-2025,13.41,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,situacion_deudores,TF.Sit.3: Con problemas/Riesgo medio (%),Nov-2025,2.39,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,situacion_deudores,TF.Sit.4: Con alto riesgo de insolvencia/Riesgo alto (%),Nov-2025,10.58,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,situacion_deudores,TF.Sit.5: Irrecuperable (%),Nov-2025,21.77,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,situacion_deudores,TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Nov-2025,0.0,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,situacion_deudores,Previsiones por riesgo de incobrabilidad constituídas,Nov-2025,1683.86,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,situacion_deudores,CARTERA DE CONSUMO O VIVIENDA ($),Nov-2025,827.38,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,situacion_deudores,Total cartera sobre financiaciones (%),Nov-2025,16.66,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,situacion_deudores,C.CON.Sit.1: En situación normal (%),Nov-2025,51.33,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,situacion_deudores,C.CON.Sit.2: Riesgo bajo (%),Nov-2025,32.07,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,situacion_deudores,C.CON.Sit.3: Riesgo medio (%),Nov-2025,7.09,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,situacion_deudores,C.CON.Sit.4: Riesgo alto (%),Nov-2025,7.36,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,situacion_deudores,C.CON.Sit.5: Irrecuperable (%),Nov-2025,2.16,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,situacion_deudores,CARTERA COMERCIAL ASIMILABLE A CONSUMO ($),Nov-2025,4137.72,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,situacion_deudores,Total cartera sobre financiaciones (%),Nov-2025,83.34,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,situacion_deudores,C.CAC.Sit.1: En situación normal (%),Nov-2025,51.96,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,situacion_deudores,C.CAC.Sit.2: Riesgo bajo (%),Nov-2025,9.67,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,situacion_deudores,C.CAC.Sit.3: Riesgo medio (%),Nov-2025,1.46,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,situacion_deudores,C.CAC.Sit.4: Riesgo alto (%),Nov-2025,11.23,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,situacion_deudores,C.CAC.Sit.5: Irrecuperable (%),Nov-2025,25.69,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,situacion_deudores,C.CAC.TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Nov-2025,0.0,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,situacion_deudores,TOTAL DE FINANCIACIONES Y GARANTIAS OTORGADAS ($),Dic-2025,3882.72,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,situacion_deudores,TF.Sit.1: En situación normal (%),Dic-2025,72.32,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,situacion_deudores,TF.Sit.2: Con seguimiento especial/Riesgo bajo (%),Dic-2025,9.44,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,situacion_deudores,TF.Sit.3: Con problemas/Riesgo medio (%),Dic-2025,4.41,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,situacion_deudores,TF.Sit.4: Con alto riesgo de insolvencia/Riesgo alto (%),Dic-2025,13.49,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,situacion_deudores,TF.Sit.5: Irrecuperable (%),Dic-2025,0.35,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,situacion_deudores,TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Dic-2025,0.0,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,situacion_deudores,Previsiones por riesgo de incobrabilidad constituídas,Dic-2025,586.12,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,situacion_deudores,CARTERA DE CONSUMO O VIVIENDA ($),Dic-2025,769.09,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,situacion_deudores,Total cartera sobre financiaciones (%),Dic-2025,19.81,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,situacion_deudores,C.CON.Sit.1: En situación normal (%),Dic-2025,77.67,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,situacion_deudores,C.CON.Sit.2: Riesgo bajo (%),Dic-2025,6.05,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,situacion_deudores,C.CON.Sit.3: Riesgo medio (%),Dic-2025,6.46,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,situacion_deudores,C.CON.Sit.4: Riesgo alto (%),Dic-2025,8.07,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,situacion_deudores,C.CON.Sit.5: Irrecuperable (%),Dic-2025,1.75,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,situacion_deudores,CARTERA COMERCIAL ASIMILABLE A CONSUMO ($),Dic-2025,3113.63,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,situacion_deudores,Total cartera sobre financiaciones (%),Dic-2025,80.19,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,situacion_deudores,C.CAC.Sit.1: En situación normal (%),Dic-2025,71.0,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,situacion_deudores,C.CAC.Sit.2: Riesgo bajo (%),Dic-2025,10.27,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,situacion_deudores,C.CAC.Sit.3: Riesgo medio (%),Dic-2025,3.9,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,situacion_deudores,C.CAC.Sit.4: Riesgo alto (%),Dic-2025,14.82,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,situacion_deudores,C.CAC.Sit.5: Irrecuperable (%),Dic-2025,0.0,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,situacion_deudores,C.CAC.TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Dic-2025,0.0,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,situacion_deudores,TOTAL DE FINANCIACIONES Y GARANTIAS OTORGADAS ($),Ene-2026,5026.48,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,situacion_deudores,TF.Sit.1: En situación normal (%),Ene-2026,78.12,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,situacion_deudores,TF.Sit.2: Con seguimiento especial/Riesgo bajo (%),Ene-2026,7.03,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,situacion_deudores,TF.Sit.3: Con problemas/Riesgo medio (%),Ene-2026,3.38,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,situacion_deudores,TF.Sit.4: Con alto riesgo de insolvencia/Riesgo alto (%),Ene-2026,11.18,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,situacion_deudores,TF.Sit.5: Irrecuperable (%),Ene-2026,0.28,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,situacion_deudores,TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Ene-2026,9.73,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,situacion_deudores,Previsiones por riesgo de incobrabilidad constituídas,Ene-2026,683.69,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,situacion_deudores,CARTERA DE CONSUMO O VIVIENDA ($),Ene-2026,854.71,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,situacion_deudores,Total cartera sobre financiaciones (%),Ene-2026,17.0,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,situacion_deudores,C.CON.Sit.1: En situación normal (%),Ene-2026,69.51,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,situacion_deudores,C.CON.Sit.2: Riesgo bajo (%),Ene-2026,10.76,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,situacion_deudores,C.CON.Sit.3: Riesgo medio (%),Ene-2026,8.11,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,situacion_deudores,C.CON.Sit.4: Riesgo alto (%),Ene-2026,9.94,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,situacion_deudores,C.CON.Sit.5: Irrecuperable (%),Ene-2026,1.67,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,situacion_deudores,CARTERA COMERCIAL ASIMILABLE A CONSUMO ($),Ene-2026,4171.77,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,situacion_deudores,Total cartera sobre financiaciones (%),Ene-2026,83.0,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,situacion_deudores,C.CAC.Sit.1: En situación normal (%),Ene-2026,79.89,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,situacion_deudores,C.CAC.Sit.2: Riesgo bajo (%),Ene-2026,6.27,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,situacion_deudores,C.CAC.Sit.3: Riesgo medio (%),Ene-2026,2.41,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,situacion_deudores,C.CAC.Sit.4: Riesgo alto (%),Ene-2026,11.43,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,situacion_deudores,C.CAC.Sit.5: Irrecuperable (%),Ene-2026,0.0,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,situacion_deudores,C.CAC.TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Ene-2026,11.72,2026-04-19

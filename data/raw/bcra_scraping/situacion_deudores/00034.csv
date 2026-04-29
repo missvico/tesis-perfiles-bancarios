@@ -1,0 +1,161 @@
+codigo_bcra,nombre_banco,tipo_entidad,fuente,variable,periodo,valor,scraping_fecha
+00034,BANCO PATAGONIA S.A.,privado_nacional,situacion_deudores,TOTAL DE FINANCIACIONES Y GARANTIAS OTORGADAS ($),Dic-2023,725941.26,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,situacion_deudores,TF.Sit.1: En situación normal (%),Dic-2023,99.37,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,situacion_deudores,TF.Sit.2: Con seguimiento especial/Riesgo bajo (%),Dic-2023,0.25,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,situacion_deudores,TF.Sit.3: Con problemas/Riesgo medio (%),Dic-2023,0.14,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,situacion_deudores,TF.Sit.4: Con alto riesgo de insolvencia/Riesgo alto (%),Dic-2023,0.21,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,situacion_deudores,TF.Sit.5: Irrecuperable (%),Dic-2023,0.04,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,situacion_deudores,TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Dic-2023,7.92,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,situacion_deudores,Previsiones por riesgo de incobrabilidad constituídas,Dic-2023,5458.74,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,situacion_deudores,CARTERA COMERCIAL ($),Dic-2023,506868.6,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,situacion_deudores,Total cartera sobre financiaciones (%),Dic-2023,69.82,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,situacion_deudores,C.COM.Sit.1: En situación normal (%),Dic-2023,100.0,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,situacion_deudores,C.COM.Sit.2: Con seguimiento especial (%),Dic-2023,0.0,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,situacion_deudores,C.COM.Sit.3: Con problemas (%),Dic-2023,0.0,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,situacion_deudores,C.COM.Sit.4: Con alto riesgo de insolvencia (%),Dic-2023,0.0,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,situacion_deudores,C.COM.Sit.5: Irrecuperable (%),Dic-2023,0.0,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,situacion_deudores,C.COM.TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Dic-2023,8.66,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,situacion_deudores,CARTERA DE CONSUMO O VIVIENDA ($),Dic-2023,202655.23,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,situacion_deudores,Total cartera sobre financiaciones (%),Dic-2023,27.92,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,situacion_deudores,C.CON.Sit.1: En situación normal (%),Dic-2023,97.81,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,situacion_deudores,C.CON.Sit.2: Riesgo bajo (%),Dic-2023,0.85,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,situacion_deudores,C.CON.Sit.3: Riesgo medio (%),Dic-2023,0.49,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,situacion_deudores,C.CON.Sit.4: Riesgo alto (%),Dic-2023,0.73,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,situacion_deudores,C.CON.Sit.5: Irrecuperable (%),Dic-2023,0.12,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,situacion_deudores,C.CON.TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Dic-2023,2.34,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,situacion_deudores,CARTERA COMERCIAL ASIMILABLE A CONSUMO ($),Dic-2023,16417.44,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,situacion_deudores,Total cartera sobre financiaciones (%),Dic-2023,2.26,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,situacion_deudores,C.CAC.Sit.1: En situación normal (%),Dic-2023,99.12,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,situacion_deudores,C.CAC.Sit.2: Riesgo bajo (%),Dic-2023,0.4,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,situacion_deudores,C.CAC.Sit.3: Riesgo medio (%),Dic-2023,0.18,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,situacion_deudores,C.CAC.Sit.4: Riesgo alto (%),Dic-2023,0.19,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,situacion_deudores,C.CAC.Sit.5: Irrecuperable (%),Dic-2023,0.11,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,situacion_deudores,C.CAC.TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Dic-2023,53.77,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,situacion_deudores,TOTAL DE FINANCIACIONES Y GARANTIAS OTORGADAS ($),Dic-2024,2475144.05,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,situacion_deudores,TF.Sit.1: En situación normal (%),Dic-2024,99.2,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,situacion_deudores,TF.Sit.2: Con seguimiento especial/Riesgo bajo (%),Dic-2024,0.36,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,situacion_deudores,TF.Sit.3: Con problemas/Riesgo medio (%),Dic-2024,0.22,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,situacion_deudores,TF.Sit.4: Con alto riesgo de insolvencia/Riesgo alto (%),Dic-2024,0.19,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,situacion_deudores,TF.Sit.5: Irrecuperable (%),Dic-2024,0.03,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,situacion_deudores,TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Dic-2024,8.54,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,situacion_deudores,Previsiones por riesgo de incobrabilidad constituídas,Dic-2024,19171.31,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,situacion_deudores,CARTERA COMERCIAL ($),Dic-2024,1711683.9,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,situacion_deudores,Total cartera sobre financiaciones (%),Dic-2024,69.15,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,situacion_deudores,C.COM.Sit.1: En situación normal (%),Dic-2024,100.0,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,situacion_deudores,C.COM.Sit.2: Con seguimiento especial (%),Dic-2024,0.0,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,situacion_deudores,C.COM.Sit.3: Con problemas (%),Dic-2024,0.0,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,situacion_deudores,C.COM.Sit.4: Con alto riesgo de insolvencia (%),Dic-2024,0.0,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,situacion_deudores,C.COM.Sit.5: Irrecuperable (%),Dic-2024,0.0,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,situacion_deudores,C.COM.TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Dic-2024,9.09,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,situacion_deudores,CARTERA DE CONSUMO O VIVIENDA ($),Dic-2024,673369.26,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,situacion_deudores,Total cartera sobre financiaciones (%),Dic-2024,27.21,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,situacion_deudores,C.CON.Sit.1: En situación normal (%),Dic-2024,97.1,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,situacion_deudores,C.CON.Sit.2: Riesgo bajo (%),Dic-2024,1.31,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,situacion_deudores,C.CON.Sit.3: Riesgo medio (%),Dic-2024,0.79,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,situacion_deudores,C.CON.Sit.4: Riesgo alto (%),Dic-2024,0.69,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,situacion_deudores,C.CON.Sit.5: Irrecuperable (%),Dic-2024,0.11,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,situacion_deudores,C.CON.TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Dic-2024,2.91,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,situacion_deudores,CARTERA COMERCIAL ASIMILABLE A CONSUMO ($),Dic-2024,90090.9,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,situacion_deudores,Total cartera sobre financiaciones (%),Dic-2024,3.64,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,situacion_deudores,C.CAC.Sit.1: En situación normal (%),Dic-2024,99.64,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,situacion_deudores,C.CAC.Sit.2: Riesgo bajo (%),Dic-2024,0.2,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,situacion_deudores,C.CAC.Sit.3: Riesgo medio (%),Dic-2024,0.1,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,situacion_deudores,C.CAC.Sit.4: Riesgo alto (%),Dic-2024,0.06,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,situacion_deudores,C.CAC.Sit.5: Irrecuperable (%),Dic-2024,0.01,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,situacion_deudores,C.CAC.TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Dic-2024,40.08,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,situacion_deudores,TOTAL DE FINANCIACIONES Y GARANTIAS OTORGADAS ($),Nov-2025,4675321.9,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,situacion_deudores,TF.Sit.1: En situación normal (%),Nov-2025,97.06,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,situacion_deudores,TF.Sit.2: Con seguimiento especial/Riesgo bajo (%),Nov-2025,1.18,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,situacion_deudores,TF.Sit.3: Con problemas/Riesgo medio (%),Nov-2025,0.81,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,situacion_deudores,TF.Sit.4: Con alto riesgo de insolvencia/Riesgo alto (%),Nov-2025,0.87,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,situacion_deudores,TF.Sit.5: Irrecuperable (%),Nov-2025,0.08,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,situacion_deudores,TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Nov-2025,9.01,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,situacion_deudores,Previsiones por riesgo de incobrabilidad constituídas,Nov-2025,75336.56,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,situacion_deudores,CARTERA COMERCIAL ($),Nov-2025,3382650.85,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,situacion_deudores,Total cartera sobre financiaciones (%),Nov-2025,72.35,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,situacion_deudores,C.COM.Sit.1: En situación normal (%),Nov-2025,99.98,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,situacion_deudores,C.COM.Sit.2: Con seguimiento especial (%),Nov-2025,0.0,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,situacion_deudores,C.COM.Sit.3: Con problemas (%),Nov-2025,0.0,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,situacion_deudores,C.COM.Sit.4: Con alto riesgo de insolvencia (%),Nov-2025,0.0,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,situacion_deudores,C.COM.Sit.5: Irrecuperable (%),Nov-2025,0.02,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,situacion_deudores,C.COM.TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Nov-2025,6.86,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,situacion_deudores,CARTERA DE CONSUMO O VIVIENDA ($),Nov-2025,1129229.49,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,situacion_deudores,Total cartera sobre financiaciones (%),Nov-2025,24.15,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,situacion_deudores,C.CON.Sit.1: En situación normal (%),Nov-2025,88.33,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,situacion_deudores,C.CON.Sit.2: Riesgo bajo (%),Nov-2025,4.61,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,situacion_deudores,C.CON.Sit.3: Riesgo medio (%),Nov-2025,3.23,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,situacion_deudores,C.CON.Sit.4: Riesgo alto (%),Nov-2025,3.58,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,situacion_deudores,C.CON.Sit.5: Irrecuperable (%),Nov-2025,0.26,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,situacion_deudores,C.CON.TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Nov-2025,10.99,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,situacion_deudores,CARTERA COMERCIAL ASIMILABLE A CONSUMO ($),Nov-2025,163441.56,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,situacion_deudores,Total cartera sobre financiaciones (%),Nov-2025,3.5,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,situacion_deudores,C.CAC.Sit.1: En situación normal (%),Nov-2025,97.01,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,situacion_deudores,C.CAC.Sit.2: Riesgo bajo (%),Nov-2025,1.81,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,situacion_deudores,C.CAC.Sit.3: Riesgo medio (%),Nov-2025,0.93,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,situacion_deudores,C.CAC.Sit.4: Riesgo alto (%),Nov-2025,0.22,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,situacion_deudores,C.CAC.Sit.5: Irrecuperable (%),Nov-2025,0.03,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,situacion_deudores,C.CAC.TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Nov-2025,39.82,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,situacion_deudores,TOTAL DE FINANCIACIONES Y GARANTIAS OTORGADAS ($),Dic-2025,4451384.8,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,situacion_deudores,TF.Sit.1: En situación normal (%),Dic-2025,96.84,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,situacion_deudores,TF.Sit.2: Con seguimiento especial/Riesgo bajo (%),Dic-2025,1.08,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,situacion_deudores,TF.Sit.3: Con problemas/Riesgo medio (%),Dic-2025,0.95,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,situacion_deudores,TF.Sit.4: Con alto riesgo de insolvencia/Riesgo alto (%),Dic-2025,1.06,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,situacion_deudores,TF.Sit.5: Irrecuperable (%),Dic-2025,0.07,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,situacion_deudores,TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Dic-2025,9.96,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,situacion_deudores,Previsiones por riesgo de incobrabilidad constituídas,Dic-2025,81703.55,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,situacion_deudores,CARTERA COMERCIAL ($),Dic-2025,3158761.89,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,situacion_deudores,Total cartera sobre financiaciones (%),Dic-2025,70.96,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,situacion_deudores,C.COM.Sit.1: En situación normal (%),Dic-2025,99.98,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,situacion_deudores,C.COM.Sit.2: Con seguimiento especial (%),Dic-2025,0.0,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,situacion_deudores,C.COM.Sit.3: Con problemas (%),Dic-2025,0.01,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,situacion_deudores,C.COM.Sit.4: Con alto riesgo de insolvencia (%),Dic-2025,0.0,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,situacion_deudores,C.COM.Sit.5: Irrecuperable (%),Dic-2025,0.01,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,situacion_deudores,C.COM.TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Dic-2025,7.87,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,situacion_deudores,CARTERA DE CONSUMO O VIVIENDA ($),Dic-2025,1124599.92,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,situacion_deudores,Total cartera sobre financiaciones (%),Dic-2025,25.26,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,situacion_deudores,C.CON.Sit.1: En situación normal (%),Dic-2025,88.0,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,situacion_deudores,C.CON.Sit.2: Riesgo bajo (%),Dic-2025,4.08,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,situacion_deudores,C.CON.Sit.3: Riesgo medio (%),Dic-2025,3.51,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,situacion_deudores,C.CON.Sit.4: Riesgo alto (%),Dic-2025,4.15,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,situacion_deudores,C.CON.Sit.5: Irrecuperable (%),Dic-2025,0.25,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,situacion_deudores,C.CON.TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Dic-2025,11.26,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,situacion_deudores,CARTERA COMERCIAL ASIMILABLE A CONSUMO ($),Dic-2025,168022.99,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,situacion_deudores,Total cartera sobre financiaciones (%),Dic-2025,3.77,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,situacion_deudores,C.CAC.Sit.1: En situación normal (%),Dic-2025,96.77,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,situacion_deudores,C.CAC.Sit.2: Riesgo bajo (%),Dic-2025,1.34,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,situacion_deudores,C.CAC.Sit.3: Riesgo medio (%),Dic-2025,1.65,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,situacion_deudores,C.CAC.Sit.4: Riesgo alto (%),Dic-2025,0.19,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,situacion_deudores,C.CAC.Sit.5: Irrecuperable (%),Dic-2025,0.05,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,situacion_deudores,C.CAC.TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Dic-2025,40.44,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,situacion_deudores,TOTAL DE FINANCIACIONES Y GARANTIAS OTORGADAS ($),Ene-2026,4510684.92,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,situacion_deudores,TF.Sit.1: En situación normal (%),Ene-2026,96.56,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,situacion_deudores,TF.Sit.2: Con seguimiento especial/Riesgo bajo (%),Ene-2026,1.05,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,situacion_deudores,TF.Sit.3: Con problemas/Riesgo medio (%),Ene-2026,1.15,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,situacion_deudores,TF.Sit.4: Con alto riesgo de insolvencia/Riesgo alto (%),Ene-2026,1.13,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,situacion_deudores,TF.Sit.5: Irrecuperable (%),Ene-2026,0.1,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,situacion_deudores,TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Ene-2026,9.56,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,situacion_deudores,Previsiones por riesgo de incobrabilidad constituídas,Ene-2026,89971.68,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,situacion_deudores,CARTERA COMERCIAL ($),Ene-2026,3208793.71,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,situacion_deudores,Total cartera sobre financiaciones (%),Ene-2026,71.14,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,situacion_deudores,C.COM.Sit.1: En situación normal (%),Ene-2026,99.98,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,situacion_deudores,C.COM.Sit.2: Con seguimiento especial (%),Ene-2026,0.01,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,situacion_deudores,C.COM.Sit.3: Con problemas (%),Ene-2026,0.01,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,situacion_deudores,C.COM.Sit.4: Con alto riesgo de insolvencia (%),Ene-2026,0.0,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,situacion_deudores,C.COM.Sit.5: Irrecuperable (%),Ene-2026,0.01,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,situacion_deudores,C.COM.TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Ene-2026,7.34,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,situacion_deudores,CARTERA DE CONSUMO O VIVIENDA ($),Ene-2026,1141738.15,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,situacion_deudores,Total cartera sobre financiaciones (%),Ene-2026,25.31,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,situacion_deudores,C.CON.Sit.1: En situación normal (%),Ene-2026,87.23,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,situacion_deudores,C.CON.Sit.2: Riesgo bajo (%),Ene-2026,3.7,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,situacion_deudores,C.CON.Sit.3: Riesgo medio (%),Ene-2026,4.27,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,situacion_deudores,C.CON.Sit.4: Riesgo alto (%),Ene-2026,4.42,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,situacion_deudores,C.CON.Sit.5: Irrecuperable (%),Ene-2026,0.38,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,situacion_deudores,C.CON.TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Ene-2026,11.16,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,situacion_deudores,CARTERA COMERCIAL ASIMILABLE A CONSUMO ($),Ene-2026,160153.06,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,situacion_deudores,Total cartera sobre financiaciones (%),Ene-2026,3.55,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,situacion_deudores,C.CAC.Sit.1: En situación normal (%),Ene-2026,94.64,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,situacion_deudores,C.CAC.Sit.2: Riesgo bajo (%),Ene-2026,2.99,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,situacion_deudores,C.CAC.Sit.3: Riesgo medio (%),Ene-2026,1.95,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,situacion_deudores,C.CAC.Sit.4: Riesgo alto (%),Ene-2026,0.41,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,situacion_deudores,C.CAC.Sit.5: Irrecuperable (%),Ene-2026,0.01,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,situacion_deudores,C.CAC.TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Ene-2026,42.56,2026-04-19

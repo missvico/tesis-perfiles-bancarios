@@ -1,0 +1,125 @@
+codigo_bcra,nombre_banco,tipo_entidad,fuente,variable,periodo,valor,scraping_fecha
+00300,BANCO DE INVERSION Y COMERCIO EXTER,publico,informacion_estructura,Cantidad de operaciones a plazo fijo Empresas,Dic-2023,42.0,2026-04-19
+00300,BANCO DE INVERSION Y COMERCIO EXTER,publico,informacion_estructura,Cantidad de operaciones por préstamos hipotecarios,Dic-2023,3396.0,2026-04-19
+00300,BANCO DE INVERSION Y COMERCIO EXTER,publico,informacion_estructura,Cantidad de operaciones por préstamos prendarios,Dic-2023,270.0,2026-04-19
+00300,BANCO DE INVERSION Y COMERCIO EXTER,publico,informacion_estructura,Cantidad de operaciones por otros préstamos,Dic-2023,8702.0,2026-04-19
+00300,BANCO DE INVERSION Y COMERCIO EXTER,publico,informacion_estructura,Dotación de personal,Dic-2023,459.0,2026-04-19
+00300,BANCO DE INVERSION Y COMERCIO EXTER,publico,informacion_estructura,Cantidad de operaciones a plazo fijo Empresas,Dic-2024,82.0,2026-04-19
+00300,BANCO DE INVERSION Y COMERCIO EXTER,publico,informacion_estructura,Cantidad de operaciones por préstamos hipotecarios,Dic-2024,2405.0,2026-04-19
+00300,BANCO DE INVERSION Y COMERCIO EXTER,publico,informacion_estructura,Cantidad de operaciones por préstamos prendarios,Dic-2024,112.0,2026-04-19
+00300,BANCO DE INVERSION Y COMERCIO EXTER,publico,informacion_estructura,Cantidad de operaciones por otros préstamos,Dic-2024,5543.0,2026-04-19
+00300,BANCO DE INVERSION Y COMERCIO EXTER,publico,informacion_estructura,Dotación de personal,Dic-2024,344.0,2026-04-19
+00300,BANCO DE INVERSION Y COMERCIO EXTER,publico,informacion_estructura,Cantidad de operaciones a plazo fijo Empresas,Jun-2025,58.0,2026-04-19
+00300,BANCO DE INVERSION Y COMERCIO EXTER,publico,informacion_estructura,Cantidad de operaciones por préstamos hipotecarios,Jun-2025,1945.0,2026-04-19
+00300,BANCO DE INVERSION Y COMERCIO EXTER,publico,informacion_estructura,Cantidad de operaciones por préstamos prendarios,Jun-2025,89.0,2026-04-19
+00300,BANCO DE INVERSION Y COMERCIO EXTER,publico,informacion_estructura,Cantidad de operaciones por otros préstamos,Jun-2025,6006.0,2026-04-19
+00300,BANCO DE INVERSION Y COMERCIO EXTER,publico,informacion_estructura,Dotación de personal,Jun-2025,336.0,2026-04-19
+00300,BANCO DE INVERSION Y COMERCIO EXTER,publico,informacion_estructura,Cantidad de operaciones a plazo fijo Empresas,Set-2025,75.0,2026-04-19
+00300,BANCO DE INVERSION Y COMERCIO EXTER,publico,informacion_estructura,Cantidad de operaciones por préstamos hipotecarios,Set-2025,1823.0,2026-04-19
+00300,BANCO DE INVERSION Y COMERCIO EXTER,publico,informacion_estructura,Cantidad de operaciones por préstamos prendarios,Set-2025,78.0,2026-04-19
+00300,BANCO DE INVERSION Y COMERCIO EXTER,publico,informacion_estructura,Cantidad de operaciones por otros préstamos,Set-2025,9238.0,2026-04-19
+00300,BANCO DE INVERSION Y COMERCIO EXTER,publico,informacion_estructura,Dotación de personal,Set-2025,342.0,2026-04-19
+00300,BANCO DE INVERSION Y COMERCIO EXTER,publico,informacion_estructura,Cantidad de operaciones a plazo fijo Empresas,Dic-2025,78.0,2026-04-19
+00300,BANCO DE INVERSION Y COMERCIO EXTER,publico,informacion_estructura,Cantidad de operaciones por préstamos hipotecarios,Dic-2025,1639.0,2026-04-19
+00300,BANCO DE INVERSION Y COMERCIO EXTER,publico,informacion_estructura,Cantidad de operaciones por préstamos prendarios,Dic-2025,61.0,2026-04-19
+00300,BANCO DE INVERSION Y COMERCIO EXTER,publico,informacion_estructura,Cantidad de operaciones por otros préstamos,Dic-2025,5130.0,2026-04-19
+00300,BANCO DE INVERSION Y COMERCIO EXTER,publico,informacion_estructura,Dotación de personal,Dic-2025,337.0,2026-04-19
+00300,BANCO DE INVERSION Y COMERCIO EXTER,publico,informacion_estructura,CABA,Habilitadas,2.0,2026-04-19
+00300,BANCO DE INVERSION Y COMERCIO EXTER,publico,informacion_estructura,CÓRDOBA,Habilitadas,,2026-04-19
+00300,BANCO DE INVERSION Y COMERCIO EXTER,publico,informacion_estructura,CORRIENTES,Habilitadas,,2026-04-19
+00300,BANCO DE INVERSION Y COMERCIO EXTER,publico,informacion_estructura,CHUBUT,Habilitadas,,2026-04-19
+00300,BANCO DE INVERSION Y COMERCIO EXTER,publico,informacion_estructura,ENTRE RÍOS,Habilitadas,,2026-04-19
+00300,BANCO DE INVERSION Y COMERCIO EXTER,publico,informacion_estructura,MENDOZA,Habilitadas,,2026-04-19
+00300,BANCO DE INVERSION Y COMERCIO EXTER,publico,informacion_estructura,NEUQUÉN,Habilitadas,,2026-04-19
+00300,BANCO DE INVERSION Y COMERCIO EXTER,publico,informacion_estructura,SALTA,Habilitadas,,2026-04-19
+00300,BANCO DE INVERSION Y COMERCIO EXTER,publico,informacion_estructura,SANTA FE,Habilitadas,,2026-04-19
+00300,BANCO DE INVERSION Y COMERCIO EXTER,publico,informacion_estructura,TUCUMÁN,Habilitadas,,2026-04-19
+00300,BANCO DE INVERSION Y COMERCIO EXTER,publico,informacion_estructura,TIERRA DE FUEGO,Habilitadas,,2026-04-19
+00300,BANCO DE INVERSION Y COMERCIO EXTER,publico,informacion_estructura,CABA,Habilitadas,,2026-04-19
+00300,BANCO DE INVERSION Y COMERCIO EXTER,publico,informacion_estructura,CÓRDOBA,Habilitadas,,2026-04-19
+00300,BANCO DE INVERSION Y COMERCIO EXTER,publico,informacion_estructura,CORRIENTES,Habilitadas,,2026-04-19
+00300,BANCO DE INVERSION Y COMERCIO EXTER,publico,informacion_estructura,CHUBUT,Habilitadas,,2026-04-19
+00300,BANCO DE INVERSION Y COMERCIO EXTER,publico,informacion_estructura,ENTRE RÍOS,Habilitadas,,2026-04-19
+00300,BANCO DE INVERSION Y COMERCIO EXTER,publico,informacion_estructura,MENDOZA,Habilitadas,,2026-04-19
+00300,BANCO DE INVERSION Y COMERCIO EXTER,publico,informacion_estructura,NEUQUÉN,Habilitadas,,2026-04-19
+00300,BANCO DE INVERSION Y COMERCIO EXTER,publico,informacion_estructura,SALTA,Habilitadas,,2026-04-19
+00300,BANCO DE INVERSION Y COMERCIO EXTER,publico,informacion_estructura,SANTA FE,Habilitadas,,2026-04-19
+00300,BANCO DE INVERSION Y COMERCIO EXTER,publico,informacion_estructura,TUCUMÁN,Habilitadas,,2026-04-19
+00300,BANCO DE INVERSION Y COMERCIO EXTER,publico,informacion_estructura,TIERRA DE FUEGO,Habilitadas,,2026-04-19
+00300,BANCO DE INVERSION Y COMERCIO EXTER,publico,informacion_estructura,CABA,Habilitadas,,2026-04-19
+00300,BANCO DE INVERSION Y COMERCIO EXTER,publico,informacion_estructura,CÓRDOBA,Habilitadas,,2026-04-19
+00300,BANCO DE INVERSION Y COMERCIO EXTER,publico,informacion_estructura,CORRIENTES,Habilitadas,,2026-04-19
+00300,BANCO DE INVERSION Y COMERCIO EXTER,publico,informacion_estructura,CHUBUT,Habilitadas,,2026-04-19
+00300,BANCO DE INVERSION Y COMERCIO EXTER,publico,informacion_estructura,ENTRE RÍOS,Habilitadas,,2026-04-19
+00300,BANCO DE INVERSION Y COMERCIO EXTER,publico,informacion_estructura,MENDOZA,Habilitadas,,2026-04-19
+00300,BANCO DE INVERSION Y COMERCIO EXTER,publico,informacion_estructura,NEUQUÉN,Habilitadas,,2026-04-19
+00300,BANCO DE INVERSION Y COMERCIO EXTER,publico,informacion_estructura,SALTA,Habilitadas,,2026-04-19
+00300,BANCO DE INVERSION Y COMERCIO EXTER,publico,informacion_estructura,SANTA FE,Habilitadas,,2026-04-19
+00300,BANCO DE INVERSION Y COMERCIO EXTER,publico,informacion_estructura,TUCUMÁN,Habilitadas,,2026-04-19
+00300,BANCO DE INVERSION Y COMERCIO EXTER,publico,informacion_estructura,TIERRA DE FUEGO,Habilitadas,,2026-04-19
+00300,BANCO DE INVERSION Y COMERCIO EXTER,publico,informacion_estructura,CABA,Habilitadas,,2026-04-19
+00300,BANCO DE INVERSION Y COMERCIO EXTER,publico,informacion_estructura,CÓRDOBA,Habilitadas,,2026-04-19
+00300,BANCO DE INVERSION Y COMERCIO EXTER,publico,informacion_estructura,CORRIENTES,Habilitadas,,2026-04-19
+00300,BANCO DE INVERSION Y COMERCIO EXTER,publico,informacion_estructura,CHUBUT,Habilitadas,,2026-04-19
+00300,BANCO DE INVERSION Y COMERCIO EXTER,publico,informacion_estructura,ENTRE RÍOS,Habilitadas,,2026-04-19
+00300,BANCO DE INVERSION Y COMERCIO EXTER,publico,informacion_estructura,MENDOZA,Habilitadas,,2026-04-19
+00300,BANCO DE INVERSION Y COMERCIO EXTER,publico,informacion_estructura,NEUQUÉN,Habilitadas,,2026-04-19
+00300,BANCO DE INVERSION Y COMERCIO EXTER,publico,informacion_estructura,SALTA,Habilitadas,,2026-04-19
+00300,BANCO DE INVERSION Y COMERCIO EXTER,publico,informacion_estructura,SANTA FE,Habilitadas,,2026-04-19
+00300,BANCO DE INVERSION Y COMERCIO EXTER,publico,informacion_estructura,TUCUMÁN,Habilitadas,,2026-04-19
+00300,BANCO DE INVERSION Y COMERCIO EXTER,publico,informacion_estructura,TIERRA DE FUEGO,Habilitadas,,2026-04-19
+00300,BANCO DE INVERSION Y COMERCIO EXTER,publico,informacion_estructura,CABA,Habilitadas,,2026-04-19
+00300,BANCO DE INVERSION Y COMERCIO EXTER,publico,informacion_estructura,CÓRDOBA,Habilitadas,,2026-04-19
+00300,BANCO DE INVERSION Y COMERCIO EXTER,publico,informacion_estructura,CORRIENTES,Habilitadas,,2026-04-19
+00300,BANCO DE INVERSION Y COMERCIO EXTER,publico,informacion_estructura,CHUBUT,Habilitadas,,2026-04-19
+00300,BANCO DE INVERSION Y COMERCIO EXTER,publico,informacion_estructura,ENTRE RÍOS,Habilitadas,,2026-04-19
+00300,BANCO DE INVERSION Y COMERCIO EXTER,publico,informacion_estructura,MENDOZA,Habilitadas,,2026-04-19
+00300,BANCO DE INVERSION Y COMERCIO EXTER,publico,informacion_estructura,NEUQUÉN,Habilitadas,,2026-04-19
+00300,BANCO DE INVERSION Y COMERCIO EXTER,publico,informacion_estructura,SALTA,Habilitadas,,2026-04-19
+00300,BANCO DE INVERSION Y COMERCIO EXTER,publico,informacion_estructura,SANTA FE,Habilitadas,,2026-04-19
+00300,BANCO DE INVERSION Y COMERCIO EXTER,publico,informacion_estructura,TUCUMÁN,Habilitadas,,2026-04-19
+00300,BANCO DE INVERSION Y COMERCIO EXTER,publico,informacion_estructura,TIERRA DE FUEGO,Habilitadas,,2026-04-19
+00300,BANCO DE INVERSION Y COMERCIO EXTER,publico,informacion_estructura,CABA,Habilitadas,,2026-04-19
+00300,BANCO DE INVERSION Y COMERCIO EXTER,publico,informacion_estructura,CÓRDOBA,Habilitadas,1.0,2026-04-19
+00300,BANCO DE INVERSION Y COMERCIO EXTER,publico,informacion_estructura,CORRIENTES,Habilitadas,1.0,2026-04-19
+00300,BANCO DE INVERSION Y COMERCIO EXTER,publico,informacion_estructura,CHUBUT,Habilitadas,1.0,2026-04-19
+00300,BANCO DE INVERSION Y COMERCIO EXTER,publico,informacion_estructura,ENTRE RÍOS,Habilitadas,1.0,2026-04-19
+00300,BANCO DE INVERSION Y COMERCIO EXTER,publico,informacion_estructura,MENDOZA,Habilitadas,1.0,2026-04-19
+00300,BANCO DE INVERSION Y COMERCIO EXTER,publico,informacion_estructura,NEUQUÉN,Habilitadas,1.0,2026-04-19
+00300,BANCO DE INVERSION Y COMERCIO EXTER,publico,informacion_estructura,SALTA,Habilitadas,1.0,2026-04-19
+00300,BANCO DE INVERSION Y COMERCIO EXTER,publico,informacion_estructura,SANTA FE,Habilitadas,1.0,2026-04-19
+00300,BANCO DE INVERSION Y COMERCIO EXTER,publico,informacion_estructura,TUCUMÁN,Habilitadas,1.0,2026-04-19
+00300,BANCO DE INVERSION Y COMERCIO EXTER,publico,informacion_estructura,TIERRA DE FUEGO,Habilitadas,1.0,2026-04-19
+00300,BANCO DE INVERSION Y COMERCIO EXTER,publico,informacion_estructura,CABA,Habilitadas,,2026-04-19
+00300,BANCO DE INVERSION Y COMERCIO EXTER,publico,informacion_estructura,CÓRDOBA,Habilitadas,,2026-04-19
+00300,BANCO DE INVERSION Y COMERCIO EXTER,publico,informacion_estructura,CORRIENTES,Habilitadas,,2026-04-19
+00300,BANCO DE INVERSION Y COMERCIO EXTER,publico,informacion_estructura,CHUBUT,Habilitadas,,2026-04-19
+00300,BANCO DE INVERSION Y COMERCIO EXTER,publico,informacion_estructura,ENTRE RÍOS,Habilitadas,,2026-04-19
+00300,BANCO DE INVERSION Y COMERCIO EXTER,publico,informacion_estructura,MENDOZA,Habilitadas,,2026-04-19
+00300,BANCO DE INVERSION Y COMERCIO EXTER,publico,informacion_estructura,NEUQUÉN,Habilitadas,,2026-04-19
+00300,BANCO DE INVERSION Y COMERCIO EXTER,publico,informacion_estructura,SALTA,Habilitadas,,2026-04-19
+00300,BANCO DE INVERSION Y COMERCIO EXTER,publico,informacion_estructura,SANTA FE,Habilitadas,,2026-04-19
+00300,BANCO DE INVERSION Y COMERCIO EXTER,publico,informacion_estructura,TUCUMÁN,Habilitadas,,2026-04-19
+00300,BANCO DE INVERSION Y COMERCIO EXTER,publico,informacion_estructura,TIERRA DE FUEGO,Habilitadas,,2026-04-19
+00300,BANCO DE INVERSION Y COMERCIO EXTER,publico,informacion_estructura,CABA,Pendientes de habilitación,,2026-04-19
+00300,BANCO DE INVERSION Y COMERCIO EXTER,publico,informacion_estructura,CÓRDOBA,Pendientes de habilitación,,2026-04-19
+00300,BANCO DE INVERSION Y COMERCIO EXTER,publico,informacion_estructura,CORRIENTES,Pendientes de habilitación,,2026-04-19
+00300,BANCO DE INVERSION Y COMERCIO EXTER,publico,informacion_estructura,CHUBUT,Pendientes de habilitación,,2026-04-19
+00300,BANCO DE INVERSION Y COMERCIO EXTER,publico,informacion_estructura,ENTRE RÍOS,Pendientes de habilitación,,2026-04-19
+00300,BANCO DE INVERSION Y COMERCIO EXTER,publico,informacion_estructura,MENDOZA,Pendientes de habilitación,,2026-04-19
+00300,BANCO DE INVERSION Y COMERCIO EXTER,publico,informacion_estructura,NEUQUÉN,Pendientes de habilitación,,2026-04-19
+00300,BANCO DE INVERSION Y COMERCIO EXTER,publico,informacion_estructura,SALTA,Pendientes de habilitación,,2026-04-19
+00300,BANCO DE INVERSION Y COMERCIO EXTER,publico,informacion_estructura,SANTA FE,Pendientes de habilitación,,2026-04-19
+00300,BANCO DE INVERSION Y COMERCIO EXTER,publico,informacion_estructura,TUCUMÁN,Pendientes de habilitación,,2026-04-19
+00300,BANCO DE INVERSION Y COMERCIO EXTER,publico,informacion_estructura,TIERRA DE FUEGO,Pendientes de habilitación,,2026-04-19
+00300,BANCO DE INVERSION Y COMERCIO EXTER,publico,informacion_estructura,CABA,Total,2.0,2026-04-19
+00300,BANCO DE INVERSION Y COMERCIO EXTER,publico,informacion_estructura,CÓRDOBA,Total,,2026-04-19
+00300,BANCO DE INVERSION Y COMERCIO EXTER,publico,informacion_estructura,CORRIENTES,Total,,2026-04-19
+00300,BANCO DE INVERSION Y COMERCIO EXTER,publico,informacion_estructura,CHUBUT,Total,,2026-04-19
+00300,BANCO DE INVERSION Y COMERCIO EXTER,publico,informacion_estructura,ENTRE RÍOS,Total,,2026-04-19
+00300,BANCO DE INVERSION Y COMERCIO EXTER,publico,informacion_estructura,MENDOZA,Total,,2026-04-19
+00300,BANCO DE INVERSION Y COMERCIO EXTER,publico,informacion_estructura,NEUQUÉN,Total,,2026-04-19
+00300,BANCO DE INVERSION Y COMERCIO EXTER,publico,informacion_estructura,SALTA,Total,,2026-04-19
+00300,BANCO DE INVERSION Y COMERCIO EXTER,publico,informacion_estructura,SANTA FE,Total,,2026-04-19
+00300,BANCO DE INVERSION Y COMERCIO EXTER,publico,informacion_estructura,TUCUMÁN,Total,,2026-04-19
+00300,BANCO DE INVERSION Y COMERCIO EXTER,publico,informacion_estructura,TIERRA DE FUEGO,Total,,2026-04-19

@@ -1,0 +1,156 @@
+codigo_bcra,nombre_banco,tipo_entidad,fuente,variable,periodo,valor,scraping_fecha
+00269,BANCO DE LA REPUBLICA ORIENTAL DEL,extranjero,indicadores_economicos,capital: C1 - Apalancamiento (en veces),Dic-2023,2.13,2026-04-19
+00269,BANCO DE LA REPUBLICA ORIENTAL DEL,extranjero,indicadores_economicos,capital: C1 - Apalancamiento (en veces),Dic-2024,0.62,2026-04-19
+00269,BANCO DE LA REPUBLICA ORIENTAL DEL,extranjero,indicadores_economicos,capital: C1 - Apalancamiento (en veces),Nov-2025,0.62,2026-04-19
+00269,BANCO DE LA REPUBLICA ORIENTAL DEL,extranjero,indicadores_economicos,capital: C1 - Apalancamiento (en veces),Dic-2025,0.57,2026-04-19
+00269,BANCO DE LA REPUBLICA ORIENTAL DEL,extranjero,indicadores_economicos,capital: C1 - Apalancamiento (en veces),Ene-2026,0.65,2026-04-19
+00269,BANCO DE LA REPUBLICA ORIENTAL DEL,extranjero,indicadores_economicos,capital: C2 - Pérdida Potencial de Cartera en Situación 2 a 5 (%),Dic-2023,-0.02,2026-04-19
+00269,BANCO DE LA REPUBLICA ORIENTAL DEL,extranjero,indicadores_economicos,capital: C2 - Pérdida Potencial de Cartera en Situación 2 a 5 (%),Dic-2024,-0.01,2026-04-19
+00269,BANCO DE LA REPUBLICA ORIENTAL DEL,extranjero,indicadores_economicos,capital: C2 - Pérdida Potencial de Cartera en Situación 2 a 5 (%),Nov-2025,-0.01,2026-04-19
+00269,BANCO DE LA REPUBLICA ORIENTAL DEL,extranjero,indicadores_economicos,capital: C2 - Pérdida Potencial de Cartera en Situación 2 a 5 (%),Dic-2025,0.0,2026-04-19
+00269,BANCO DE LA REPUBLICA ORIENTAL DEL,extranjero,indicadores_economicos,capital: C2 - Pérdida Potencial de Cartera en Situación 2 a 5 (%),Ene-2026,-0.02,2026-04-19
+00269,BANCO DE LA REPUBLICA ORIENTAL DEL,extranjero,indicadores_economicos,capital: C3 - Pérdida Potencial de Cartera en Situación 3 a 5 (%),Dic-2023,-0.03,2026-04-19
+00269,BANCO DE LA REPUBLICA ORIENTAL DEL,extranjero,indicadores_economicos,capital: C3 - Pérdida Potencial de Cartera en Situación 3 a 5 (%),Dic-2024,-0.01,2026-04-19
+00269,BANCO DE LA REPUBLICA ORIENTAL DEL,extranjero,indicadores_economicos,capital: C3 - Pérdida Potencial de Cartera en Situación 3 a 5 (%),Nov-2025,-0.01,2026-04-19
+00269,BANCO DE LA REPUBLICA ORIENTAL DEL,extranjero,indicadores_economicos,capital: C3 - Pérdida Potencial de Cartera en Situación 3 a 5 (%),Dic-2025,-0.02,2026-04-19
+00269,BANCO DE LA REPUBLICA ORIENTAL DEL,extranjero,indicadores_economicos,capital: C3 - Pérdida Potencial de Cartera en Situación 3 a 5 (%),Ene-2026,-0.02,2026-04-19
+00269,BANCO DE LA REPUBLICA ORIENTAL DEL,extranjero,indicadores_economicos,activos: A9 - Total Cartera Irregular / Total Financiaciones (%),Dic-2023,0.02,2026-04-19
+00269,BANCO DE LA REPUBLICA ORIENTAL DEL,extranjero,indicadores_economicos,activos: A9 - Total Cartera Irregular / Total Financiaciones (%),Dic-2024,0.09,2026-04-19
+00269,BANCO DE LA REPUBLICA ORIENTAL DEL,extranjero,indicadores_economicos,activos: A9 - Total Cartera Irregular / Total Financiaciones (%),Nov-2025,0.03,2026-04-19
+00269,BANCO DE LA REPUBLICA ORIENTAL DEL,extranjero,indicadores_economicos,activos: A9 - Total Cartera Irregular / Total Financiaciones (%),Dic-2025,0.1,2026-04-19
+00269,BANCO DE LA REPUBLICA ORIENTAL DEL,extranjero,indicadores_economicos,activos: A9 - Total Cartera Irregular / Total Financiaciones (%),Ene-2026,0.41,2026-04-19
+00269,BANCO DE LA REPUBLICA ORIENTAL DEL,extranjero,indicadores_economicos,activos: A11 - Cartera Irregular Sector Privado (%),Dic-2023,0.21,2026-04-19
+00269,BANCO DE LA REPUBLICA ORIENTAL DEL,extranjero,indicadores_economicos,activos: A11 - Cartera Irregular Sector Privado (%),Dic-2024,0.26,2026-04-19
+00269,BANCO DE LA REPUBLICA ORIENTAL DEL,extranjero,indicadores_economicos,activos: A11 - Cartera Irregular Sector Privado (%),Nov-2025,0.87,2026-04-19
+00269,BANCO DE LA REPUBLICA ORIENTAL DEL,extranjero,indicadores_economicos,activos: A11 - Cartera Irregular Sector Privado (%),Dic-2025,0.85,2026-04-19
+00269,BANCO DE LA REPUBLICA ORIENTAL DEL,extranjero,indicadores_economicos,activos: A11 - Cartera Irregular Sector Privado (%),Ene-2026,1.95,2026-04-19
+00269,BANCO DE LA REPUBLICA ORIENTAL DEL,extranjero,indicadores_economicos,activos: A12 - Participación Cartera Comercial Sector Privado (%),Dic-2023,55.57,2026-04-19
+00269,BANCO DE LA REPUBLICA ORIENTAL DEL,extranjero,indicadores_economicos,activos: A12 - Participación Cartera Comercial Sector Privado (%),Dic-2024,41.47,2026-04-19
+00269,BANCO DE LA REPUBLICA ORIENTAL DEL,extranjero,indicadores_economicos,activos: A12 - Participación Cartera Comercial Sector Privado (%),Nov-2025,39.06,2026-04-19
+00269,BANCO DE LA REPUBLICA ORIENTAL DEL,extranjero,indicadores_economicos,activos: A12 - Participación Cartera Comercial Sector Privado (%),Dic-2025,37.47,2026-04-19
+00269,BANCO DE LA REPUBLICA ORIENTAL DEL,extranjero,indicadores_economicos,activos: A12 - Participación Cartera Comercial Sector Privado (%),Ene-2026,35.99,2026-04-19
+00269,BANCO DE LA REPUBLICA ORIENTAL DEL,extranjero,indicadores_economicos,activos: A13 - Participación Cartera Consumo Sector Privado (%),Dic-2023,44.43,2026-04-19
+00269,BANCO DE LA REPUBLICA ORIENTAL DEL,extranjero,indicadores_economicos,activos: A13 - Participación Cartera Consumo Sector Privado (%),Dic-2024,58.53,2026-04-19
+00269,BANCO DE LA REPUBLICA ORIENTAL DEL,extranjero,indicadores_economicos,activos: A13 - Participación Cartera Consumo Sector Privado (%),Nov-2025,60.94,2026-04-19
+00269,BANCO DE LA REPUBLICA ORIENTAL DEL,extranjero,indicadores_economicos,activos: A13 - Participación Cartera Consumo Sector Privado (%),Dic-2025,62.53,2026-04-19
+00269,BANCO DE LA REPUBLICA ORIENTAL DEL,extranjero,indicadores_economicos,activos: A13 - Participación Cartera Consumo Sector Privado (%),Ene-2026,64.01,2026-04-19
+00269,BANCO DE LA REPUBLICA ORIENTAL DEL,extranjero,indicadores_economicos,activos: A14 - Previsiones sobre Cartera Irregular Total (%),Dic-2023,561.73,2026-04-19
+00269,BANCO DE LA REPUBLICA ORIENTAL DEL,extranjero,indicadores_economicos,activos: A14 - Previsiones sobre Cartera Irregular Total (%),Dic-2024,393.69,2026-04-19
+00269,BANCO DE LA REPUBLICA ORIENTAL DEL,extranjero,indicadores_economicos,activos: A14 - Previsiones sobre Cartera Irregular Total (%),Nov-2025,231.05,2026-04-19
+00269,BANCO DE LA REPUBLICA ORIENTAL DEL,extranjero,indicadores_economicos,activos: A14 - Previsiones sobre Cartera Irregular Total (%),Dic-2025,259.19,2026-04-19
+00269,BANCO DE LA REPUBLICA ORIENTAL DEL,extranjero,indicadores_economicos,activos: A14 - Previsiones sobre Cartera Irregular Total (%),Ene-2026,159.67,2026-04-19
+00269,BANCO DE LA REPUBLICA ORIENTAL DEL,extranjero,indicadores_economicos,activos: A16 - Cartera Irregular Consumo Sector Privado (%),Dic-2023,0.46,2026-04-19
+00269,BANCO DE LA REPUBLICA ORIENTAL DEL,extranjero,indicadores_economicos,activos: A16 - Cartera Irregular Consumo Sector Privado (%),Dic-2024,0.44,2026-04-19
+00269,BANCO DE LA REPUBLICA ORIENTAL DEL,extranjero,indicadores_economicos,activos: A16 - Cartera Irregular Consumo Sector Privado (%),Nov-2025,1.42,2026-04-19
+00269,BANCO DE LA REPUBLICA ORIENTAL DEL,extranjero,indicadores_economicos,activos: A16 - Cartera Irregular Consumo Sector Privado (%),Dic-2025,1.36,2026-04-19
+00269,BANCO DE LA REPUBLICA ORIENTAL DEL,extranjero,indicadores_economicos,activos: A16 - Cartera Irregular Consumo Sector Privado (%),Ene-2026,3.05,2026-04-19
+00269,BANCO DE LA REPUBLICA ORIENTAL DEL,extranjero,indicadores_economicos,activos: A17 - Cartera Irregular Comercial Sector Privado (%),Dic-2023,0.0,2026-04-19
+00269,BANCO DE LA REPUBLICA ORIENTAL DEL,extranjero,indicadores_economicos,activos: A17 - Cartera Irregular Comercial Sector Privado (%),Dic-2024,0.0,2026-04-19
+00269,BANCO DE LA REPUBLICA ORIENTAL DEL,extranjero,indicadores_economicos,activos: A17 - Cartera Irregular Comercial Sector Privado (%),Nov-2025,0.0,2026-04-19
+00269,BANCO DE LA REPUBLICA ORIENTAL DEL,extranjero,indicadores_economicos,activos: A17 - Cartera Irregular Comercial Sector Privado (%),Dic-2025,0.0,2026-04-19
+00269,BANCO DE LA REPUBLICA ORIENTAL DEL,extranjero,indicadores_economicos,activos: A17 - Cartera Irregular Comercial Sector Privado (%),Ene-2026,0.0,2026-04-19
+00269,BANCO DE LA REPUBLICA ORIENTAL DEL,extranjero,indicadores_economicos,activos: A21 - Posición de Previsiones Mín Sector Priv No Fciero (%),Dic-2023,-1.73,2026-04-19
+00269,BANCO DE LA REPUBLICA ORIENTAL DEL,extranjero,indicadores_economicos,activos: A21 - Posición de Previsiones Mín Sector Priv No Fciero (%),Dic-2024,0.0,2026-04-19
+00269,BANCO DE LA REPUBLICA ORIENTAL DEL,extranjero,indicadores_economicos,activos: A21 - Posición de Previsiones Mín Sector Priv No Fciero (%),Nov-2025,72.91,2026-04-19
+00269,BANCO DE LA REPUBLICA ORIENTAL DEL,extranjero,indicadores_economicos,activos: A21 - Posición de Previsiones Mín Sector Priv No Fciero (%),Dic-2025,61.25,2026-04-19
+00269,BANCO DE LA REPUBLICA ORIENTAL DEL,extranjero,indicadores_economicos,activos: A21 - Posición de Previsiones Mín Sector Priv No Fciero (%),Ene-2026,96.78,2026-04-19
+00269,BANCO DE LA REPUBLICA ORIENTAL DEL,extranjero,indicadores_economicos,activos: AG3 - Importancia de Cartera Vencida del Sector Privado (%),Dic-2023,0.21,2026-04-19
+00269,BANCO DE LA REPUBLICA ORIENTAL DEL,extranjero,indicadores_economicos,activos: AG3 - Importancia de Cartera Vencida del Sector Privado (%),Dic-2024,0.0,2026-04-19
+00269,BANCO DE LA REPUBLICA ORIENTAL DEL,extranjero,indicadores_economicos,activos: AG3 - Importancia de Cartera Vencida del Sector Privado (%),Nov-2025,0.87,2026-04-19
+00269,BANCO DE LA REPUBLICA ORIENTAL DEL,extranjero,indicadores_economicos,activos: AG3 - Importancia de Cartera Vencida del Sector Privado (%),Dic-2025,0.85,2026-04-19
+00269,BANCO DE LA REPUBLICA ORIENTAL DEL,extranjero,indicadores_economicos,activos: AG3 - Importancia de Cartera Vencida del Sector Privado (%),Ene-2026,0.0,2026-04-19
+00269,BANCO DE LA REPUBLICA ORIENTAL DEL,extranjero,indicadores_economicos,activos: AG29 - Efectivo y Depósito en Bancos / Activo (%),Dic-2023,58.17,2026-04-19
+00269,BANCO DE LA REPUBLICA ORIENTAL DEL,extranjero,indicadores_economicos,activos: AG29 - Efectivo y Depósito en Bancos / Activo (%),Dic-2024,27.98,2026-04-19
+00269,BANCO DE LA REPUBLICA ORIENTAL DEL,extranjero,indicadores_economicos,activos: AG29 - Efectivo y Depósito en Bancos / Activo (%),Nov-2025,28.0,2026-04-19
+00269,BANCO DE LA REPUBLICA ORIENTAL DEL,extranjero,indicadores_economicos,activos: AG29 - Efectivo y Depósito en Bancos / Activo (%),Dic-2025,26.35,2026-04-19
+00269,BANCO DE LA REPUBLICA ORIENTAL DEL,extranjero,indicadores_economicos,activos: AG29 - Efectivo y Depósito en Bancos / Activo (%),Ene-2026,29.93,2026-04-19
+00269,BANCO DE LA REPUBLICA ORIENTAL DEL,extranjero,indicadores_economicos,eficiencia: E1 - Absorción de Gastos de Ad. con Volúmen de Negocio (%),Dic-2023,47.71,2026-04-19
+00269,BANCO DE LA REPUBLICA ORIENTAL DEL,extranjero,indicadores_economicos,eficiencia: E1 - Absorción de Gastos de Ad. con Volúmen de Negocio (%),Dic-2024,85.66,2026-04-19
+00269,BANCO DE LA REPUBLICA ORIENTAL DEL,extranjero,indicadores_economicos,eficiencia: E1 - Absorción de Gastos de Ad. con Volúmen de Negocio (%),Nov-2025,63.87,2026-04-19
+00269,BANCO DE LA REPUBLICA ORIENTAL DEL,extranjero,indicadores_economicos,eficiencia: E1 - Absorción de Gastos de Ad. con Volúmen de Negocio (%),Dic-2025,101.12,2026-04-19
+00269,BANCO DE LA REPUBLICA ORIENTAL DEL,extranjero,indicadores_economicos,eficiencia: E1 - Absorción de Gastos de Ad. con Volúmen de Negocio (%),Ene-2026,103.6,2026-04-19
+00269,BANCO DE LA REPUBLICA ORIENTAL DEL,extranjero,indicadores_economicos,eficiencia: E2 - Margen de Rentabilidad Operat./Gastos de Estructura (%),Dic-2023,-79.23,2026-04-19
+00269,BANCO DE LA REPUBLICA ORIENTAL DEL,extranjero,indicadores_economicos,eficiencia: E2 - Margen de Rentabilidad Operat./Gastos de Estructura (%),Dic-2024,-75.46,2026-04-19
+00269,BANCO DE LA REPUBLICA ORIENTAL DEL,extranjero,indicadores_economicos,eficiencia: E2 - Margen de Rentabilidad Operat./Gastos de Estructura (%),Nov-2025,-69.86,2026-04-19
+00269,BANCO DE LA REPUBLICA ORIENTAL DEL,extranjero,indicadores_economicos,eficiencia: E2 - Margen de Rentabilidad Operat./Gastos de Estructura (%),Dic-2025,-70.08,2026-04-19
+00269,BANCO DE LA REPUBLICA ORIENTAL DEL,extranjero,indicadores_economicos,eficiencia: E2 - Margen de Rentabilidad Operat./Gastos de Estructura (%),Ene-2026,-71.41,2026-04-19
+00269,BANCO DE LA REPUBLICA ORIENTAL DEL,extranjero,indicadores_economicos,eficiencia: E4 - Depósitos por Empleado (en millones de pesos),Dic-2023,97.74,2026-04-19
+00269,BANCO DE LA REPUBLICA ORIENTAL DEL,extranjero,indicadores_economicos,eficiencia: E4 - Depósitos por Empleado (en millones de pesos),Dic-2024,135.92,2026-04-19
+00269,BANCO DE LA REPUBLICA ORIENTAL DEL,extranjero,indicadores_economicos,eficiencia: E4 - Depósitos por Empleado (en millones de pesos),Nov-2025,181.35,2026-04-19
+00269,BANCO DE LA REPUBLICA ORIENTAL DEL,extranjero,indicadores_economicos,eficiencia: E4 - Depósitos por Empleado (en millones de pesos),Dic-2025,157.52,2026-04-19
+00269,BANCO DE LA REPUBLICA ORIENTAL DEL,extranjero,indicadores_economicos,eficiencia: E4 - Depósitos por Empleado (en millones de pesos),Ene-2026,177.82,2026-04-19
+00269,BANCO DE LA REPUBLICA ORIENTAL DEL,extranjero,indicadores_economicos,eficiencia: E5 - Financiaciones por Empleado (en millones de pesos),Dic-2023,15.13,2026-04-19
+00269,BANCO DE LA REPUBLICA ORIENTAL DEL,extranjero,indicadores_economicos,eficiencia: E5 - Financiaciones por Empleado (en millones de pesos),Dic-2024,10.51,2026-04-19
+00269,BANCO DE LA REPUBLICA ORIENTAL DEL,extranjero,indicadores_economicos,eficiencia: E5 - Financiaciones por Empleado (en millones de pesos),Nov-2025,117.31,2026-04-19
+00269,BANCO DE LA REPUBLICA ORIENTAL DEL,extranjero,indicadores_economicos,eficiencia: E5 - Financiaciones por Empleado (en millones de pesos),Dic-2025,40.41,2026-04-19
+00269,BANCO DE LA REPUBLICA ORIENTAL DEL,extranjero,indicadores_economicos,eficiencia: E5 - Financiaciones por Empleado (en millones de pesos),Ene-2026,22.43,2026-04-19
+00269,BANCO DE LA REPUBLICA ORIENTAL DEL,extranjero,indicadores_economicos,rentabilidad: R1 - Rendimiento Anual del Patrimonio ( ROE) (%),Dic-2023,-121.07,2026-04-19
+00269,BANCO DE LA REPUBLICA ORIENTAL DEL,extranjero,indicadores_economicos,rentabilidad: R1 - Rendimiento Anual del Patrimonio ( ROE) (%),Dic-2024,-93.01,2026-04-19
+00269,BANCO DE LA REPUBLICA ORIENTAL DEL,extranjero,indicadores_economicos,rentabilidad: R1 - Rendimiento Anual del Patrimonio ( ROE) (%),Nov-2025,-60.11,2026-04-19
+00269,BANCO DE LA REPUBLICA ORIENTAL DEL,extranjero,indicadores_economicos,rentabilidad: R1 - Rendimiento Anual del Patrimonio ( ROE) (%),Dic-2025,-63.18,2026-04-19
+00269,BANCO DE LA REPUBLICA ORIENTAL DEL,extranjero,indicadores_economicos,rentabilidad: R1 - Rendimiento Anual del Patrimonio ( ROE) (%),Ene-2026,-65.03,2026-04-19
+00269,BANCO DE LA REPUBLICA ORIENTAL DEL,extranjero,indicadores_economicos,rentabilidad: R2 - Rendimiento Ordinario del Patrimonio (%),Dic-2023,-85.97,2026-04-19
+00269,BANCO DE LA REPUBLICA ORIENTAL DEL,extranjero,indicadores_economicos,rentabilidad: R2 - Rendimiento Ordinario del Patrimonio (%),Dic-2024,-64.4,2026-04-19
+00269,BANCO DE LA REPUBLICA ORIENTAL DEL,extranjero,indicadores_economicos,rentabilidad: R2 - Rendimiento Ordinario del Patrimonio (%),Nov-2025,-43.04,2026-04-19
+00269,BANCO DE LA REPUBLICA ORIENTAL DEL,extranjero,indicadores_economicos,rentabilidad: R2 - Rendimiento Ordinario del Patrimonio (%),Dic-2025,-44.15,2026-04-19
+00269,BANCO DE LA REPUBLICA ORIENTAL DEL,extranjero,indicadores_economicos,rentabilidad: R2 - Rendimiento Ordinario del Patrimonio (%),Ene-2026,-45.47,2026-04-19
+00269,BANCO DE LA REPUBLICA ORIENTAL DEL,extranjero,indicadores_economicos,rentabilidad: R8 - Tasa Implicita Préstamos Totales (%),Dic-2023,73.22,2026-04-19
+00269,BANCO DE LA REPUBLICA ORIENTAL DEL,extranjero,indicadores_economicos,rentabilidad: R8 - Tasa Implicita Préstamos Totales (%),Dic-2024,43.59,2026-04-19
+00269,BANCO DE LA REPUBLICA ORIENTAL DEL,extranjero,indicadores_economicos,rentabilidad: R8 - Tasa Implicita Préstamos Totales (%),Nov-2025,24.34,2026-04-19
+00269,BANCO DE LA REPUBLICA ORIENTAL DEL,extranjero,indicadores_economicos,rentabilidad: R8 - Tasa Implicita Préstamos Totales (%),Dic-2025,24.95,2026-04-19
+00269,BANCO DE LA REPUBLICA ORIENTAL DEL,extranjero,indicadores_economicos,rentabilidad: R8 - Tasa Implicita Préstamos Totales (%),Ene-2026,25.43,2026-04-19
+00269,BANCO DE LA REPUBLICA ORIENTAL DEL,extranjero,indicadores_economicos,rentabilidad: R9 - Tasa Implicita Depósitos Totales (%),Dic-2023,123.54,2026-04-19
+00269,BANCO DE LA REPUBLICA ORIENTAL DEL,extranjero,indicadores_economicos,rentabilidad: R9 - Tasa Implicita Depósitos Totales (%),Dic-2024,0.32,2026-04-19
+00269,BANCO DE LA REPUBLICA ORIENTAL DEL,extranjero,indicadores_economicos,rentabilidad: R9 - Tasa Implicita Depósitos Totales (%),Nov-2025,0.17,2026-04-19
+00269,BANCO DE LA REPUBLICA ORIENTAL DEL,extranjero,indicadores_economicos,rentabilidad: R9 - Tasa Implicita Depósitos Totales (%),Dic-2025,0.17,2026-04-19
+00269,BANCO DE LA REPUBLICA ORIENTAL DEL,extranjero,indicadores_economicos,rentabilidad: R9 - Tasa Implicita Depósitos Totales (%),Ene-2026,0.17,2026-04-19
+00269,BANCO DE LA REPUBLICA ORIENTAL DEL,extranjero,indicadores_economicos,rentabilidad: R17 - Gastos en Personal / Gastos de Administración (%),Dic-2023,61.05,2026-04-19
+00269,BANCO DE LA REPUBLICA ORIENTAL DEL,extranjero,indicadores_economicos,rentabilidad: R17 - Gastos en Personal / Gastos de Administración (%),Dic-2024,59.39,2026-04-19
+00269,BANCO DE LA REPUBLICA ORIENTAL DEL,extranjero,indicadores_economicos,rentabilidad: R17 - Gastos en Personal / Gastos de Administración (%),Nov-2025,49.88,2026-04-19
+00269,BANCO DE LA REPUBLICA ORIENTAL DEL,extranjero,indicadores_economicos,rentabilidad: R17 - Gastos en Personal / Gastos de Administración (%),Dic-2025,48.98,2026-04-19
+00269,BANCO DE LA REPUBLICA ORIENTAL DEL,extranjero,indicadores_economicos,rentabilidad: R17 - Gastos en Personal / Gastos de Administración (%),Ene-2026,48.63,2026-04-19
+00269,BANCO DE LA REPUBLICA ORIENTAL DEL,extranjero,indicadores_economicos,rentabilidad: RG1 - Retorno sobre Activos ( ROA) (%),Dic-2023,-42.33,2026-04-19
+00269,BANCO DE LA REPUBLICA ORIENTAL DEL,extranjero,indicadores_economicos,rentabilidad: RG1 - Retorno sobre Activos ( ROA) (%),Dic-2024,-40.91,2026-04-19
+00269,BANCO DE LA REPUBLICA ORIENTAL DEL,extranjero,indicadores_economicos,rentabilidad: RG1 - Retorno sobre Activos ( ROA) (%),Nov-2025,-36.22,2026-04-19
+00269,BANCO DE LA REPUBLICA ORIENTAL DEL,extranjero,indicadores_economicos,rentabilidad: RG1 - Retorno sobre Activos ( ROA) (%),Dic-2025,-38.15,2026-04-19
+00269,BANCO DE LA REPUBLICA ORIENTAL DEL,extranjero,indicadores_economicos,rentabilidad: RG1 - Retorno sobre Activos ( ROA) (%),Ene-2026,-39.24,2026-04-19
+00269,BANCO DE LA REPUBLICA ORIENTAL DEL,extranjero,indicadores_economicos,rentabilidad: RG2_II - Margen Financiero en Términos de Activo (%),Dic-2023,10.57,2026-04-19
+00269,BANCO DE LA REPUBLICA ORIENTAL DEL,extranjero,indicadores_economicos,rentabilidad: RG2_II - Margen Financiero en Términos de Activo (%),Dic-2024,11.4,2026-04-19
+00269,BANCO DE LA REPUBLICA ORIENTAL DEL,extranjero,indicadores_economicos,rentabilidad: RG2_II - Margen Financiero en Términos de Activo (%),Nov-2025,13.5,2026-04-19
+00269,BANCO DE LA REPUBLICA ORIENTAL DEL,extranjero,indicadores_economicos,rentabilidad: RG2_II - Margen Financiero en Términos de Activo (%),Dic-2025,13.75,2026-04-19
+00269,BANCO DE LA REPUBLICA ORIENTAL DEL,extranjero,indicadores_economicos,rentabilidad: RG2_II - Margen Financiero en Términos de Activo (%),Ene-2026,13.36,2026-04-19
+00269,BANCO DE LA REPUBLICA ORIENTAL DEL,extranjero,indicadores_economicos,rentabilidad: RG3 - Cargos por Incobrabilidad / Activo  (%),Dic-2023,-0.02,2026-04-19
+00269,BANCO DE LA REPUBLICA ORIENTAL DEL,extranjero,indicadores_economicos,rentabilidad: RG3 - Cargos por Incobrabilidad / Activo  (%),Dic-2024,-0.02,2026-04-19
+00269,BANCO DE LA REPUBLICA ORIENTAL DEL,extranjero,indicadores_economicos,rentabilidad: RG3 - Cargos por Incobrabilidad / Activo  (%),Nov-2025,-0.03,2026-04-19
+00269,BANCO DE LA REPUBLICA ORIENTAL DEL,extranjero,indicadores_economicos,rentabilidad: RG3 - Cargos por Incobrabilidad / Activo  (%),Dic-2025,-0.03,2026-04-19
+00269,BANCO DE LA REPUBLICA ORIENTAL DEL,extranjero,indicadores_economicos,rentabilidad: RG3 - Cargos por Incobrabilidad / Activo  (%),Ene-2026,-0.04,2026-04-19
+00269,BANCO DE LA REPUBLICA ORIENTAL DEL,extranjero,indicadores_economicos,rentabilidad: RG4_II - Resultados por Servicios / Activo (%),Dic-2023,-1.75,2026-04-19
+00269,BANCO DE LA REPUBLICA ORIENTAL DEL,extranjero,indicadores_economicos,rentabilidad: RG4_II - Resultados por Servicios / Activo (%),Dic-2024,-1.39,2026-04-19
+00269,BANCO DE LA REPUBLICA ORIENTAL DEL,extranjero,indicadores_economicos,rentabilidad: RG4_II - Resultados por Servicios / Activo (%),Nov-2025,-1.9,2026-04-19
+00269,BANCO DE LA REPUBLICA ORIENTAL DEL,extranjero,indicadores_economicos,rentabilidad: RG4_II - Resultados por Servicios / Activo (%),Dic-2025,-1.93,2026-04-19
+00269,BANCO DE LA REPUBLICA ORIENTAL DEL,extranjero,indicadores_economicos,rentabilidad: RG4_II - Resultados por Servicios / Activo (%),Ene-2026,-1.92,2026-04-19
+00269,BANCO DE LA REPUBLICA ORIENTAL DEL,extranjero,indicadores_economicos,rentabilidad: RG5 - Gastos de Administración / Activo  (%),Dic-2023,-37.93,2026-04-19
+00269,BANCO DE LA REPUBLICA ORIENTAL DEL,extranjero,indicadores_economicos,rentabilidad: RG5 - Gastos de Administración / Activo  (%),Dic-2024,-37.54,2026-04-19
+00269,BANCO DE LA REPUBLICA ORIENTAL DEL,extranjero,indicadores_economicos,rentabilidad: RG5 - Gastos de Administración / Activo  (%),Nov-2025,-37.12,2026-04-19
+00269,BANCO DE LA REPUBLICA ORIENTAL DEL,extranjero,indicadores_economicos,rentabilidad: RG5 - Gastos de Administración / Activo  (%),Dic-2025,-38.04,2026-04-19
+00269,BANCO DE LA REPUBLICA ORIENTAL DEL,extranjero,indicadores_economicos,rentabilidad: RG5 - Gastos de Administración / Activo  (%),Ene-2026,-38.42,2026-04-19
+00269,BANCO DE LA REPUBLICA ORIENTAL DEL,extranjero,indicadores_economicos,rentabilidad: RG15 - Retorno sobre Activos (ROA) antes Imp. de Gcias (%),Dic-2023,-42.35,2026-04-19
+00269,BANCO DE LA REPUBLICA ORIENTAL DEL,extranjero,indicadores_economicos,rentabilidad: RG15 - Retorno sobre Activos (ROA) antes Imp. de Gcias (%),Dic-2024,-41.02,2026-04-19
+00269,BANCO DE LA REPUBLICA ORIENTAL DEL,extranjero,indicadores_economicos,rentabilidad: RG15 - Retorno sobre Activos (ROA) antes Imp. de Gcias (%),Nov-2025,-36.32,2026-04-19
+00269,BANCO DE LA REPUBLICA ORIENTAL DEL,extranjero,indicadores_economicos,rentabilidad: RG15 - Retorno sobre Activos (ROA) antes Imp. de Gcias (%),Dic-2025,-38.27,2026-04-19
+00269,BANCO DE LA REPUBLICA ORIENTAL DEL,extranjero,indicadores_economicos,rentabilidad: RG15 - Retorno sobre Activos (ROA) antes Imp. de Gcias (%),Ene-2026,-39.36,2026-04-19
+00269,BANCO DE LA REPUBLICA ORIENTAL DEL,extranjero,indicadores_economicos,"liquidez: L1-Liquidez Tit c/cot, POS. CALL, LELIQ, LEFIs (netas) (%)",Dic-2023,99999.0,2026-04-19
+00269,BANCO DE LA REPUBLICA ORIENTAL DEL,extranjero,indicadores_economicos,"liquidez: L1-Liquidez Tit c/cot, POS. CALL, LELIQ, LEFIs (netas) (%)",Dic-2024,226.12,2026-04-19
+00269,BANCO DE LA REPUBLICA ORIENTAL DEL,extranjero,indicadores_economicos,"liquidez: L1-Liquidez Tit c/cot, POS. CALL, LELIQ, LEFIs (netas) (%)",Nov-2025,151.6,2026-04-19
+00269,BANCO DE LA REPUBLICA ORIENTAL DEL,extranjero,indicadores_economicos,"liquidez: L1-Liquidez Tit c/cot, POS. CALL, LELIQ, LEFIs (netas) (%)",Dic-2025,113.21,2026-04-19
+00269,BANCO DE LA REPUBLICA ORIENTAL DEL,extranjero,indicadores_economicos,"liquidez: L1-Liquidez Tit c/cot, POS. CALL, LELIQ, LEFIs (netas) (%)",Ene-2026,102.59,2026-04-19
+00269,BANCO DE LA REPUBLICA ORIENTAL DEL,extranjero,indicadores_economicos,liquidez: L8_II - Liquidez con títulos con cotiz (%),Dic-2023,96.29,2026-04-19
+00269,BANCO DE LA REPUBLICA ORIENTAL DEL,extranjero,indicadores_economicos,liquidez: L8_II - Liquidez con títulos con cotiz (%),Dic-2024,88.64,2026-04-19
+00269,BANCO DE LA REPUBLICA ORIENTAL DEL,extranjero,indicadores_economicos,liquidez: L8_II - Liquidez con títulos con cotiz (%),Nov-2025,88.95,2026-04-19
+00269,BANCO DE LA REPUBLICA ORIENTAL DEL,extranjero,indicadores_economicos,liquidez: L8_II - Liquidez con títulos con cotiz (%),Dic-2025,90.12,2026-04-19
+00269,BANCO DE LA REPUBLICA ORIENTAL DEL,extranjero,indicadores_economicos,liquidez: L8_II - Liquidez con títulos con cotiz (%),Ene-2026,92.36,2026-04-19
+00269,BANCO DE LA REPUBLICA ORIENTAL DEL,extranjero,indicadores_economicos,"liquidez: L9 -Liq LELIQ, PASES y LEFIs (netos pases activos BCRA) (%)",Dic-2023,96.27,2026-04-19
+00269,BANCO DE LA REPUBLICA ORIENTAL DEL,extranjero,indicadores_economicos,"liquidez: L9 -Liq LELIQ, PASES y LEFIs (netos pases activos BCRA) (%)",Dic-2024,220.89,2026-04-19
+00269,BANCO DE LA REPUBLICA ORIENTAL DEL,extranjero,indicadores_economicos,"liquidez: L9 -Liq LELIQ, PASES y LEFIs (netos pases activos BCRA) (%)",Nov-2025,88.86,2026-04-19
+00269,BANCO DE LA REPUBLICA ORIENTAL DEL,extranjero,indicadores_economicos,"liquidez: L9 -Liq LELIQ, PASES y LEFIs (netos pases activos BCRA) (%)",Dic-2025,90.03,2026-04-19
+00269,BANCO DE LA REPUBLICA ORIENTAL DEL,extranjero,indicadores_economicos,"liquidez: L9 -Liq LELIQ, PASES y LEFIs (netos pases activos BCRA) (%)",Ene-2026,92.28,2026-04-19

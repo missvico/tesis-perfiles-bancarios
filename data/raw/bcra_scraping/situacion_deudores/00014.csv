@@ -1,0 +1,156 @@
+codigo_bcra,nombre_banco,tipo_entidad,fuente,variable,periodo,valor,scraping_fecha
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,situacion_deudores,TOTAL DE FINANCIACIONES Y GARANTIAS OTORGADAS ($),Dic-2023,2271634.3,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,situacion_deudores,TF.Sit.1: En situación normal (%),Dic-2023,96.7,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,situacion_deudores,TF.Sit.2: Con seguimiento especial/Riesgo bajo (%),Dic-2023,1.31,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,situacion_deudores,TF.Sit.3: Con problemas/Riesgo medio (%),Dic-2023,1.04,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,situacion_deudores,TF.Sit.4: Con alto riesgo de insolvencia/Riesgo alto (%),Dic-2023,0.55,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,situacion_deudores,TF.Sit.5: Irrecuperable (%),Dic-2023,0.39,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,situacion_deudores,TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Dic-2023,7.74,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,situacion_deudores,Previsiones por riesgo de incobrabilidad constituídas,Dic-2023,88555.19,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,situacion_deudores,CARTERA COMERCIAL ($),Dic-2023,433185.12,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,situacion_deudores,Total cartera sobre financiaciones (%),Dic-2023,19.07,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,situacion_deudores,C.COM.Sit.1: En situación normal (%),Dic-2023,95.41,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,situacion_deudores,C.COM.Sit.2: Con seguimiento especial (%),Dic-2023,1.75,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,situacion_deudores,C.COM.Sit.3: Con problemas (%),Dic-2023,2.5,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,situacion_deudores,C.COM.Sit.4: Con alto riesgo de insolvencia (%),Dic-2023,0.35,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,situacion_deudores,C.COM.TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Dic-2023,7.41,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,situacion_deudores,CARTERA DE CONSUMO O VIVIENDA ($),Dic-2023,1123597.78,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,situacion_deudores,Total cartera sobre financiaciones (%),Dic-2023,49.46,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,situacion_deudores,C.CON.Sit.1: En situación normal (%),Dic-2023,96.2,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,situacion_deudores,C.CON.Sit.2: Riesgo bajo (%),Dic-2023,1.3,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,situacion_deudores,C.CON.Sit.3: Riesgo medio (%),Dic-2023,1.01,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,situacion_deudores,C.CON.Sit.4: Riesgo alto (%),Dic-2023,0.83,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,situacion_deudores,C.CON.Sit.5: Irrecuperable (%),Dic-2023,0.67,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,situacion_deudores,C.CON.TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Dic-2023,3.53,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,situacion_deudores,CARTERA COMERCIAL ASIMILABLE A CONSUMO ($),Dic-2023,714851.41,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,situacion_deudores,Total cartera sobre financiaciones (%),Dic-2023,31.47,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,situacion_deudores,C.CAC.Sit.1: En situación normal (%),Dic-2023,98.28,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,situacion_deudores,C.CAC.Sit.2: Riesgo bajo (%),Dic-2023,1.07,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,situacion_deudores,C.CAC.Sit.3: Riesgo medio (%),Dic-2023,0.22,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,situacion_deudores,C.CAC.Sit.4: Riesgo alto (%),Dic-2023,0.25,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,situacion_deudores,C.CAC.Sit.5: Irrecuperable (%),Dic-2023,0.18,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,situacion_deudores,C.CAC.TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Dic-2023,14.56,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,situacion_deudores,TOTAL DE FINANCIACIONES Y GARANTIAS OTORGADAS ($),Dic-2024,6335459.98,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,situacion_deudores,TF.Sit.1: En situación normal (%),Dic-2024,96.97,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,situacion_deudores,TF.Sit.2: Con seguimiento especial/Riesgo bajo (%),Dic-2024,1.49,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,situacion_deudores,TF.Sit.3: Con problemas/Riesgo medio (%),Dic-2024,0.8,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,situacion_deudores,TF.Sit.4: Con alto riesgo de insolvencia/Riesgo alto (%),Dic-2024,0.51,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,situacion_deudores,TF.Sit.5: Irrecuperable (%),Dic-2024,0.24,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,situacion_deudores,TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Dic-2024,5.19,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,situacion_deudores,Previsiones por riesgo de incobrabilidad constituídas,Dic-2024,118169.35,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,situacion_deudores,CARTERA COMERCIAL ($),Dic-2024,1253743.43,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,situacion_deudores,Total cartera sobre financiaciones (%),Dic-2024,19.79,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,situacion_deudores,C.COM.Sit.1: En situación normal (%),Dic-2024,98.36,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,situacion_deudores,C.COM.Sit.2: Con seguimiento especial (%),Dic-2024,1.59,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,situacion_deudores,C.COM.Sit.3: Con problemas (%),Dic-2024,0.0,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,situacion_deudores,C.COM.Sit.4: Con alto riesgo de insolvencia (%),Dic-2024,0.04,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,situacion_deudores,C.COM.TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Dic-2024,4.2,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,situacion_deudores,CARTERA DE CONSUMO O VIVIENDA ($),Dic-2024,3390120.93,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,situacion_deudores,Total cartera sobre financiaciones (%),Dic-2024,53.51,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,situacion_deudores,C.CON.Sit.1: En situación normal (%),Dic-2024,95.74,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,situacion_deudores,C.CON.Sit.2: Riesgo bajo (%),Dic-2024,1.74,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,situacion_deudores,C.CON.Sit.3: Riesgo medio (%),Dic-2024,1.3,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,situacion_deudores,C.CON.Sit.4: Riesgo alto (%),Dic-2024,0.83,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,situacion_deudores,C.CON.Sit.5: Irrecuperable (%),Dic-2024,0.39,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,situacion_deudores,C.CON.TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Dic-2024,2.24,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,situacion_deudores,CARTERA COMERCIAL ASIMILABLE A CONSUMO ($),Dic-2024,1691595.62,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,situacion_deudores,Total cartera sobre financiaciones (%),Dic-2024,26.7,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,situacion_deudores,C.CAC.Sit.1: En situación normal (%),Dic-2024,98.39,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,situacion_deudores,C.CAC.Sit.2: Riesgo bajo (%),Dic-2024,0.92,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,situacion_deudores,C.CAC.Sit.3: Riesgo medio (%),Dic-2024,0.37,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,situacion_deudores,C.CAC.Sit.4: Riesgo alto (%),Dic-2024,0.22,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,situacion_deudores,C.CAC.Sit.5: Irrecuperable (%),Dic-2024,0.1,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,situacion_deudores,C.CAC.TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Dic-2024,11.86,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,situacion_deudores,TOTAL DE FINANCIACIONES Y GARANTIAS OTORGADAS ($),Nov-2025,9669881.46,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,situacion_deudores,TF.Sit.1: En situación normal (%),Nov-2025,85.95,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,situacion_deudores,TF.Sit.2: Con seguimiento especial/Riesgo bajo (%),Nov-2025,5.53,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,situacion_deudores,TF.Sit.3: Con problemas/Riesgo medio (%),Nov-2025,4.72,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,situacion_deudores,TF.Sit.4: Con alto riesgo de insolvencia/Riesgo alto (%),Nov-2025,3.4,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,situacion_deudores,TF.Sit.5: Irrecuperable (%),Nov-2025,0.4,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,situacion_deudores,TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Nov-2025,5.19,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,situacion_deudores,Previsiones por riesgo de incobrabilidad constituídas,Nov-2025,542151.82,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,situacion_deudores,CARTERA COMERCIAL ($),Nov-2025,2071298.02,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,situacion_deudores,Total cartera sobre financiaciones (%),Nov-2025,21.42,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,situacion_deudores,C.COM.Sit.1: En situación normal (%),Nov-2025,92.07,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,situacion_deudores,C.COM.Sit.2: Con seguimiento especial (%),Nov-2025,0.32,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,situacion_deudores,C.COM.Sit.3: Con problemas (%),Nov-2025,5.93,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,situacion_deudores,C.COM.Sit.4: Con alto riesgo de insolvencia (%),Nov-2025,1.67,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,situacion_deudores,C.COM.TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Nov-2025,7.26,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,situacion_deudores,CARTERA DE CONSUMO O VIVIENDA ($),Nov-2025,5524061.11,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,situacion_deudores,Total cartera sobre financiaciones (%),Nov-2025,57.13,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,situacion_deudores,C.CON.Sit.1: En situación normal (%),Nov-2025,82.32,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,situacion_deudores,C.CON.Sit.2: Riesgo bajo (%),Nov-2025,7.47,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,situacion_deudores,C.CON.Sit.3: Riesgo medio (%),Nov-2025,5.0,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,situacion_deudores,C.CON.Sit.4: Riesgo alto (%),Nov-2025,4.57,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,situacion_deudores,C.CON.Sit.5: Irrecuperable (%),Nov-2025,0.63,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,situacion_deudores,C.CON.TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Nov-2025,1.91,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,situacion_deudores,CARTERA COMERCIAL ASIMILABLE A CONSUMO ($),Nov-2025,2074522.33,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,situacion_deudores,Total cartera sobre financiaciones (%),Nov-2025,21.45,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,situacion_deudores,C.CAC.Sit.1: En situación normal (%),Nov-2025,89.49,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,situacion_deudores,C.CAC.Sit.2: Riesgo bajo (%),Nov-2025,5.54,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,situacion_deudores,C.CAC.Sit.3: Riesgo medio (%),Nov-2025,2.77,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,situacion_deudores,C.CAC.Sit.4: Riesgo alto (%),Nov-2025,2.0,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,situacion_deudores,C.CAC.Sit.5: Irrecuperable (%),Nov-2025,0.2,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,situacion_deudores,C.CAC.TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Nov-2025,11.84,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,situacion_deudores,TOTAL DE FINANCIACIONES Y GARANTIAS OTORGADAS ($),Dic-2025,10112266.02,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,situacion_deudores,TF.Sit.1: En situación normal (%),Dic-2025,86.53,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,situacion_deudores,TF.Sit.2: Con seguimiento especial/Riesgo bajo (%),Dic-2025,4.63,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,situacion_deudores,TF.Sit.3: Con problemas/Riesgo medio (%),Dic-2025,4.61,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,situacion_deudores,TF.Sit.4: Con alto riesgo de insolvencia/Riesgo alto (%),Dic-2025,3.76,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,situacion_deudores,TF.Sit.5: Irrecuperable (%),Dic-2025,0.47,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,situacion_deudores,TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Dic-2025,4.8,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,situacion_deudores,Previsiones por riesgo de incobrabilidad constituídas,Dic-2025,569181.61,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,situacion_deudores,CARTERA COMERCIAL ($),Dic-2025,2159871.45,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,situacion_deudores,Total cartera sobre financiaciones (%),Dic-2025,21.36,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,situacion_deudores,C.COM.Sit.1: En situación normal (%),Dic-2025,92.6,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,situacion_deudores,C.COM.Sit.2: Con seguimiento especial (%),Dic-2025,0.03,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,situacion_deudores,C.COM.Sit.3: Con problemas (%),Dic-2025,5.65,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,situacion_deudores,C.COM.Sit.4: Con alto riesgo de insolvencia (%),Dic-2025,1.73,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,situacion_deudores,C.COM.TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Dic-2025,6.96,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,situacion_deudores,CARTERA DE CONSUMO O VIVIENDA ($),Dic-2025,5677481.58,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,situacion_deudores,Total cartera sobre financiaciones (%),Dic-2025,56.14,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,situacion_deudores,C.CON.Sit.1: En situación normal (%),Dic-2025,82.94,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,situacion_deudores,C.CON.Sit.2: Riesgo bajo (%),Dic-2025,6.41,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,situacion_deudores,C.CON.Sit.3: Riesgo medio (%),Dic-2025,4.77,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,situacion_deudores,C.CON.Sit.4: Riesgo alto (%),Dic-2025,5.14,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,situacion_deudores,C.CON.Sit.5: Irrecuperable (%),Dic-2025,0.75,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,situacion_deudores,C.CON.TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Dic-2025,1.84,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,situacion_deudores,CARTERA COMERCIAL ASIMILABLE A CONSUMO ($),Dic-2025,2274912.99,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,situacion_deudores,Total cartera sobre financiaciones (%),Dic-2025,22.5,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,situacion_deudores,C.CAC.Sit.1: En situación normal (%),Dic-2025,89.76,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,situacion_deudores,C.CAC.Sit.2: Riesgo bajo (%),Dic-2025,4.54,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,situacion_deudores,C.CAC.Sit.3: Riesgo medio (%),Dic-2025,3.2,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,situacion_deudores,C.CAC.Sit.4: Riesgo alto (%),Dic-2025,2.26,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,situacion_deudores,C.CAC.Sit.5: Irrecuperable (%),Dic-2025,0.23,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,situacion_deudores,C.CAC.TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Dic-2025,10.11,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,situacion_deudores,TOTAL DE FINANCIACIONES Y GARANTIAS OTORGADAS ($),Ene-2026,10400645.13,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,situacion_deudores,TF.Sit.1: En situación normal (%),Ene-2026,86.13,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,situacion_deudores,TF.Sit.2: Con seguimiento especial/Riesgo bajo (%),Ene-2026,3.84,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,situacion_deudores,TF.Sit.3: Con problemas/Riesgo medio (%),Ene-2026,5.43,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,situacion_deudores,TF.Sit.4: Con alto riesgo de insolvencia/Riesgo alto (%),Ene-2026,3.99,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,situacion_deudores,TF.Sit.5: Irrecuperable (%),Ene-2026,0.62,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,situacion_deudores,TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Ene-2026,4.72,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,situacion_deudores,Previsiones por riesgo de incobrabilidad constituídas,Ene-2026,625812.32,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,situacion_deudores,CARTERA COMERCIAL ($),Ene-2026,2238750.68,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,situacion_deudores,Total cartera sobre financiaciones (%),Ene-2026,21.53,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,situacion_deudores,C.COM.Sit.1: En situación normal (%),Ene-2026,92.81,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,situacion_deudores,C.COM.Sit.2: Con seguimiento especial (%),Ene-2026,0.0,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,situacion_deudores,C.COM.Sit.3: Con problemas (%),Ene-2026,5.41,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,situacion_deudores,C.COM.Sit.4: Con alto riesgo de insolvencia (%),Ene-2026,1.78,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,situacion_deudores,C.COM.TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Ene-2026,6.82,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,situacion_deudores,CARTERA DE CONSUMO O VIVIENDA ($),Ene-2026,5812930.57,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,situacion_deudores,Total cartera sobre financiaciones (%),Ene-2026,55.89,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,situacion_deudores,C.CON.Sit.1: En situación normal (%),Ene-2026,82.12,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,situacion_deudores,C.CON.Sit.2: Riesgo bajo (%),Ene-2026,5.35,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,situacion_deudores,C.CON.Sit.3: Riesgo medio (%),Ene-2026,6.21,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,situacion_deudores,C.CON.Sit.4: Riesgo alto (%),Ene-2026,5.34,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,situacion_deudores,C.CON.Sit.5: Irrecuperable (%),Ene-2026,0.98,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,situacion_deudores,C.CON.TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Ene-2026,1.8,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,situacion_deudores,CARTERA COMERCIAL ASIMILABLE A CONSUMO ($),Ene-2026,2348963.88,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,situacion_deudores,Total cartera sobre financiaciones (%),Ene-2026,22.58,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,situacion_deudores,C.CAC.Sit.1: En situación normal (%),Ene-2026,89.67,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,situacion_deudores,C.CAC.Sit.2: Riesgo bajo (%),Ene-2026,3.75,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,situacion_deudores,C.CAC.Sit.3: Riesgo medio (%),Ene-2026,3.52,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,situacion_deudores,C.CAC.Sit.4: Riesgo alto (%),Ene-2026,2.74,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,situacion_deudores,C.CAC.Sit.5: Irrecuperable (%),Ene-2026,0.32,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,situacion_deudores,C.CAC.TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Ene-2026,9.93,2026-04-19

@@ -1,0 +1,156 @@
+codigo_bcra,nombre_banco,tipo_entidad,fuente,variable,periodo,valor,scraping_fecha
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,indicadores_economicos,capital: C1 - Apalancamiento (en veces),Dic-2023,0.17,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,indicadores_economicos,capital: C1 - Apalancamiento (en veces),Dic-2024,2.1,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,indicadores_economicos,capital: C1 - Apalancamiento (en veces),Nov-2025,0.16,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,indicadores_economicos,capital: C1 - Apalancamiento (en veces),Dic-2025,0.2,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,indicadores_economicos,capital: C1 - Apalancamiento (en veces),Ene-2026,0.21,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,indicadores_economicos,capital: C2 - Pérdida Potencial de Cartera en Situación 2 a 5 (%),Dic-2023,2.32,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,indicadores_economicos,capital: C2 - Pérdida Potencial de Cartera en Situación 2 a 5 (%),Dic-2024,6.65,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,indicadores_economicos,capital: C2 - Pérdida Potencial de Cartera en Situación 2 a 5 (%),Nov-2025,9.57,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,indicadores_economicos,capital: C2 - Pérdida Potencial de Cartera en Situación 2 a 5 (%),Dic-2025,6.27,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,indicadores_economicos,capital: C2 - Pérdida Potencial de Cartera en Situación 2 a 5 (%),Ene-2026,5.35,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,indicadores_economicos,capital: C3 - Pérdida Potencial de Cartera en Situación 3 a 5 (%),Dic-2023,2.32,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,indicadores_economicos,capital: C3 - Pérdida Potencial de Cartera en Situación 3 a 5 (%),Dic-2024,6.48,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,indicadores_economicos,capital: C3 - Pérdida Potencial de Cartera en Situación 3 a 5 (%),Nov-2025,0.56,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,indicadores_economicos,capital: C3 - Pérdida Potencial de Cartera en Situación 3 a 5 (%),Dic-2025,1.57,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,indicadores_economicos,capital: C3 - Pérdida Potencial de Cartera en Situación 3 a 5 (%),Ene-2026,0.8,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,indicadores_economicos,activos: A9 - Total Cartera Irregular / Total Financiaciones (%),Dic-2023,23.0,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,indicadores_economicos,activos: A9 - Total Cartera Irregular / Total Financiaciones (%),Dic-2024,20.23,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,indicadores_economicos,activos: A9 - Total Cartera Irregular / Total Financiaciones (%),Nov-2025,34.74,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,indicadores_economicos,activos: A9 - Total Cartera Irregular / Total Financiaciones (%),Dic-2025,18.24,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,indicadores_economicos,activos: A9 - Total Cartera Irregular / Total Financiaciones (%),Ene-2026,14.84,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,indicadores_economicos,activos: A11 - Cartera Irregular Sector Privado (%),Dic-2023,23.0,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,indicadores_economicos,activos: A11 - Cartera Irregular Sector Privado (%),Dic-2024,20.23,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,indicadores_economicos,activos: A11 - Cartera Irregular Sector Privado (%),Nov-2025,34.74,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,indicadores_economicos,activos: A11 - Cartera Irregular Sector Privado (%),Dic-2025,18.24,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,indicadores_economicos,activos: A11 - Cartera Irregular Sector Privado (%),Ene-2026,14.84,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,indicadores_economicos,activos: A12 - Participación Cartera Comercial Sector Privado (%),Dic-2023,94.99,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,indicadores_economicos,activos: A12 - Participación Cartera Comercial Sector Privado (%),Dic-2024,88.96,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,indicadores_economicos,activos: A12 - Participación Cartera Comercial Sector Privado (%),Nov-2025,83.34,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,indicadores_economicos,activos: A12 - Participación Cartera Comercial Sector Privado (%),Dic-2025,80.19,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,indicadores_economicos,activos: A12 - Participación Cartera Comercial Sector Privado (%),Ene-2026,83.0,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,indicadores_economicos,activos: A13 - Participación Cartera Consumo Sector Privado (%),Dic-2023,5.01,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,indicadores_economicos,activos: A13 - Participación Cartera Consumo Sector Privado (%),Dic-2024,11.04,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,indicadores_economicos,activos: A13 - Participación Cartera Consumo Sector Privado (%),Nov-2025,16.66,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,indicadores_economicos,activos: A13 - Participación Cartera Consumo Sector Privado (%),Dic-2025,19.81,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,indicadores_economicos,activos: A13 - Participación Cartera Consumo Sector Privado (%),Ene-2026,17.0,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,indicadores_economicos,activos: A14 - Previsiones sobre Cartera Irregular Total (%),Dic-2023,28.39,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,indicadores_economicos,activos: A14 - Previsiones sobre Cartera Irregular Total (%),Dic-2024,56.13,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,indicadores_economicos,activos: A14 - Previsiones sobre Cartera Irregular Total (%),Nov-2025,97.61,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,indicadores_economicos,activos: A14 - Previsiones sobre Cartera Irregular Total (%),Dic-2025,82.75,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,indicadores_economicos,activos: A14 - Previsiones sobre Cartera Irregular Total (%),Ene-2026,91.63,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,indicadores_economicos,activos: A16 - Cartera Irregular Consumo Sector Privado (%),Dic-2023,0.78,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,indicadores_economicos,activos: A16 - Cartera Irregular Consumo Sector Privado (%),Dic-2024,6.44,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,indicadores_economicos,activos: A16 - Cartera Irregular Consumo Sector Privado (%),Nov-2025,16.6,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,indicadores_economicos,activos: A16 - Cartera Irregular Consumo Sector Privado (%),Dic-2025,16.28,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,indicadores_economicos,activos: A16 - Cartera Irregular Consumo Sector Privado (%),Ene-2026,19.72,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,indicadores_economicos,activos: A17 - Cartera Irregular Comercial Sector Privado (%),Dic-2023,24.17,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,indicadores_economicos,activos: A17 - Cartera Irregular Comercial Sector Privado (%),Dic-2024,21.94,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,indicadores_economicos,activos: A17 - Cartera Irregular Comercial Sector Privado (%),Nov-2025,38.37,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,indicadores_economicos,activos: A17 - Cartera Irregular Comercial Sector Privado (%),Dic-2025,18.73,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,indicadores_economicos,activos: A17 - Cartera Irregular Comercial Sector Privado (%),Ene-2026,13.84,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,indicadores_economicos,activos: A21 - Posición de Previsiones Mín Sector Priv No Fciero (%),Dic-2023,0.0,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,indicadores_economicos,activos: A21 - Posición de Previsiones Mín Sector Priv No Fciero (%),Dic-2024,0.04,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,indicadores_economicos,activos: A21 - Posición de Previsiones Mín Sector Priv No Fciero (%),Nov-2025,17.57,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,indicadores_economicos,activos: A21 - Posición de Previsiones Mín Sector Priv No Fciero (%),Dic-2025,60.82,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,indicadores_economicos,activos: A21 - Posición de Previsiones Mín Sector Priv No Fciero (%),Ene-2026,73.23,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,indicadores_economicos,activos: AG3 - Importancia de Cartera Vencida del Sector Privado (%),Dic-2023,23.0,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,indicadores_economicos,activos: AG3 - Importancia de Cartera Vencida del Sector Privado (%),Dic-2024,6.08,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,indicadores_economicos,activos: AG3 - Importancia de Cartera Vencida del Sector Privado (%),Nov-2025,23.86,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,indicadores_economicos,activos: AG3 - Importancia de Cartera Vencida del Sector Privado (%),Dic-2025,3.55,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,indicadores_economicos,activos: AG3 - Importancia de Cartera Vencida del Sector Privado (%),Ene-2026,2.11,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,indicadores_economicos,activos: AG29 - Efectivo y Depósito en Bancos / Activo (%),Dic-2023,2.61,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,indicadores_economicos,activos: AG29 - Efectivo y Depósito en Bancos / Activo (%),Dic-2024,4.05,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,indicadores_economicos,activos: AG29 - Efectivo y Depósito en Bancos / Activo (%),Nov-2025,2.68,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,indicadores_economicos,activos: AG29 - Efectivo y Depósito en Bancos / Activo (%),Dic-2025,3.9,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,indicadores_economicos,activos: AG29 - Efectivo y Depósito en Bancos / Activo (%),Ene-2026,3.15,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,indicadores_economicos,eficiencia: E1 - Absorción de Gastos de Ad. con Volúmen de Negocio (%),Dic-2023,174.72,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,indicadores_economicos,eficiencia: E1 - Absorción de Gastos de Ad. con Volúmen de Negocio (%),Dic-2024,26.94,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,indicadores_economicos,eficiencia: E1 - Absorción de Gastos de Ad. con Volúmen de Negocio (%),Nov-2025,81.23,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,indicadores_economicos,eficiencia: E1 - Absorción de Gastos de Ad. con Volúmen de Negocio (%),Dic-2025,97.43,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,indicadores_economicos,eficiencia: E1 - Absorción de Gastos de Ad. con Volúmen de Negocio (%),Ene-2026,78.65,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,indicadores_economicos,eficiencia: E2 - Margen de Rentabilidad Operat./Gastos de Estructura (%),Dic-2023,237.29,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,indicadores_economicos,eficiencia: E2 - Margen de Rentabilidad Operat./Gastos de Estructura (%),Dic-2024,47.75,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,indicadores_economicos,eficiencia: E2 - Margen de Rentabilidad Operat./Gastos de Estructura (%),Nov-2025,-47.52,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,indicadores_economicos,eficiencia: E2 - Margen de Rentabilidad Operat./Gastos de Estructura (%),Dic-2025,-58.98,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,indicadores_economicos,eficiencia: E2 - Margen de Rentabilidad Operat./Gastos de Estructura (%),Ene-2026,-66.38,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,indicadores_economicos,eficiencia: E4 - Depósitos por Empleado (en millones de pesos),Dic-2023,100.91,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,indicadores_economicos,eficiencia: E4 - Depósitos por Empleado (en millones de pesos),Dic-2024,843.53,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,indicadores_economicos,eficiencia: E4 - Depósitos por Empleado (en millones de pesos),Nov-2025,56.29,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,indicadores_economicos,eficiencia: E4 - Depósitos por Empleado (en millones de pesos),Dic-2025,62.71,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,indicadores_economicos,eficiencia: E4 - Depósitos por Empleado (en millones de pesos),Ene-2026,74.36,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,indicadores_economicos,eficiencia: E5 - Financiaciones por Empleado (en millones de pesos),Dic-2023,119.69,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,indicadores_economicos,eficiencia: E5 - Financiaciones por Empleado (en millones de pesos),Dic-2024,294.5,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,indicadores_economicos,eficiencia: E5 - Financiaciones por Empleado (en millones de pesos),Nov-2025,391.87,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,indicadores_economicos,eficiencia: E5 - Financiaciones por Empleado (en millones de pesos),Dic-2025,242.65,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,indicadores_economicos,eficiencia: E5 - Financiaciones por Empleado (en millones de pesos),Ene-2026,315.02,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,indicadores_economicos,rentabilidad: R1 - Rendimiento Anual del Patrimonio ( ROE) (%),Dic-2023,53.8,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,indicadores_economicos,rentabilidad: R1 - Rendimiento Anual del Patrimonio ( ROE) (%),Dic-2024,-28.54,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,indicadores_economicos,rentabilidad: R1 - Rendimiento Anual del Patrimonio ( ROE) (%),Nov-2025,-32.67,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,indicadores_economicos,rentabilidad: R1 - Rendimiento Anual del Patrimonio ( ROE) (%),Dic-2025,-33.4,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,indicadores_economicos,rentabilidad: R1 - Rendimiento Anual del Patrimonio ( ROE) (%),Ene-2026,-39.46,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,indicadores_economicos,rentabilidad: R2 - Rendimiento Ordinario del Patrimonio (%),Dic-2023,143.85,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,indicadores_economicos,rentabilidad: R2 - Rendimiento Ordinario del Patrimonio (%),Dic-2024,31.66,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,indicadores_economicos,rentabilidad: R2 - Rendimiento Ordinario del Patrimonio (%),Nov-2025,-28.59,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,indicadores_economicos,rentabilidad: R2 - Rendimiento Ordinario del Patrimonio (%),Dic-2025,-34.62,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,indicadores_economicos,rentabilidad: R2 - Rendimiento Ordinario del Patrimonio (%),Ene-2026,-38.7,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,indicadores_economicos,rentabilidad: R8 - Tasa Implicita Préstamos Totales (%),Dic-2023,140.52,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,indicadores_economicos,rentabilidad: R8 - Tasa Implicita Préstamos Totales (%),Dic-2024,89.19,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,indicadores_economicos,rentabilidad: R8 - Tasa Implicita Préstamos Totales (%),Nov-2025,62.82,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,indicadores_economicos,rentabilidad: R8 - Tasa Implicita Préstamos Totales (%),Dic-2025,62.7,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,indicadores_economicos,rentabilidad: R8 - Tasa Implicita Préstamos Totales (%),Ene-2026,62.29,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,indicadores_economicos,rentabilidad: R9 - Tasa Implicita Depósitos Totales (%),Dic-2023,22.4,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,indicadores_economicos,rentabilidad: R9 - Tasa Implicita Depósitos Totales (%),Dic-2024,4.18,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,indicadores_economicos,rentabilidad: R9 - Tasa Implicita Depósitos Totales (%),Nov-2025,10.45,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,indicadores_economicos,rentabilidad: R9 - Tasa Implicita Depósitos Totales (%),Dic-2025,15.93,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,indicadores_economicos,rentabilidad: R9 - Tasa Implicita Depósitos Totales (%),Ene-2026,21.92,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,indicadores_economicos,rentabilidad: R17 - Gastos en Personal / Gastos de Administración (%),Dic-2023,7.07,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,indicadores_economicos,rentabilidad: R17 - Gastos en Personal / Gastos de Administración (%),Dic-2024,12.35,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,indicadores_economicos,rentabilidad: R17 - Gastos en Personal / Gastos de Administración (%),Nov-2025,12.39,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,indicadores_economicos,rentabilidad: R17 - Gastos en Personal / Gastos de Administración (%),Dic-2025,12.85,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,indicadores_economicos,rentabilidad: R17 - Gastos en Personal / Gastos de Administración (%),Ene-2026,13.08,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,indicadores_economicos,rentabilidad: RG1 - Retorno sobre Activos ( ROA) (%),Dic-2023,29.95,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,indicadores_economicos,rentabilidad: RG1 - Retorno sobre Activos ( ROA) (%),Dic-2024,-16.01,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,indicadores_economicos,rentabilidad: RG1 - Retorno sobre Activos ( ROA) (%),Nov-2025,-22.86,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,indicadores_economicos,rentabilidad: RG1 - Retorno sobre Activos ( ROA) (%),Dic-2025,-25.77,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,indicadores_economicos,rentabilidad: RG1 - Retorno sobre Activos ( ROA) (%),Ene-2026,-31.99,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,indicadores_economicos,rentabilidad: RG2_II - Margen Financiero en Términos de Activo (%),Dic-2023,121.15,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,indicadores_economicos,rentabilidad: RG2_II - Margen Financiero en Términos de Activo (%),Dic-2024,53.76,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,indicadores_economicos,rentabilidad: RG2_II - Margen Financiero en Términos de Activo (%),Nov-2025,36.08,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,indicadores_economicos,rentabilidad: RG2_II - Margen Financiero en Términos de Activo (%),Dic-2025,36.38,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,indicadores_economicos,rentabilidad: RG2_II - Margen Financiero en Términos de Activo (%),Ene-2026,36.17,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,indicadores_economicos,rentabilidad: RG3 - Cargos por Incobrabilidad / Activo  (%),Dic-2023,-1.08,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,indicadores_economicos,rentabilidad: RG3 - Cargos por Incobrabilidad / Activo  (%),Dic-2024,-4.61,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,indicadores_economicos,rentabilidad: RG3 - Cargos por Incobrabilidad / Activo  (%),Nov-2025,-15.7,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,indicadores_economicos,rentabilidad: RG3 - Cargos por Incobrabilidad / Activo  (%),Dic-2025,-15.94,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,indicadores_economicos,rentabilidad: RG3 - Cargos por Incobrabilidad / Activo  (%),Ene-2026,-17.55,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,indicadores_economicos,rentabilidad: RG4_II - Resultados por Servicios / Activo (%),Dic-2023,0.06,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,indicadores_economicos,rentabilidad: RG4_II - Resultados por Servicios / Activo (%),Dic-2024,8.74,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,indicadores_economicos,rentabilidad: RG4_II - Resultados por Servicios / Activo (%),Nov-2025,5.11,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,indicadores_economicos,rentabilidad: RG4_II - Resultados por Servicios / Activo (%),Dic-2025,1.61,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,indicadores_economicos,rentabilidad: RG4_II - Resultados por Servicios / Activo (%),Ene-2026,0.83,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,indicadores_economicos,rentabilidad: RG5 - Gastos de Administración / Activo  (%),Dic-2023,-33.75,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,indicadores_economicos,rentabilidad: RG5 - Gastos de Administración / Activo  (%),Dic-2024,-37.2,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,indicadores_economicos,rentabilidad: RG5 - Gastos de Administración / Activo  (%),Nov-2025,-42.09,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,indicadores_economicos,rentabilidad: RG5 - Gastos de Administración / Activo  (%),Dic-2025,-45.29,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,indicadores_economicos,rentabilidad: RG5 - Gastos de Administración / Activo  (%),Ene-2026,-47.27,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,indicadores_economicos,rentabilidad: RG15 - Retorno sobre Activos (ROA) antes Imp. de Gcias (%),Dic-2023,23.73,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,indicadores_economicos,rentabilidad: RG15 - Retorno sobre Activos (ROA) antes Imp. de Gcias (%),Dic-2024,-20.14,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,indicadores_economicos,rentabilidad: RG15 - Retorno sobre Activos (ROA) antes Imp. de Gcias (%),Nov-2025,-34.46,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,indicadores_economicos,rentabilidad: RG15 - Retorno sobre Activos (ROA) antes Imp. de Gcias (%),Dic-2025,-42.49,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,indicadores_economicos,rentabilidad: RG15 - Retorno sobre Activos (ROA) antes Imp. de Gcias (%),Ene-2026,-49.44,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,indicadores_economicos,"liquidez: L1-Liquidez Tit c/cot, POS. CALL, LELIQ, LEFIs (netas) (%)",Dic-2023,99999.0,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,indicadores_economicos,"liquidez: L1-Liquidez Tit c/cot, POS. CALL, LELIQ, LEFIs (netas) (%)",Dic-2024,106.59,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,indicadores_economicos,"liquidez: L1-Liquidez Tit c/cot, POS. CALL, LELIQ, LEFIs (netas) (%)",Nov-2025,33.92,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,indicadores_economicos,"liquidez: L1-Liquidez Tit c/cot, POS. CALL, LELIQ, LEFIs (netas) (%)",Dic-2025,38.61,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,indicadores_economicos,"liquidez: L1-Liquidez Tit c/cot, POS. CALL, LELIQ, LEFIs (netas) (%)",Ene-2026,26.12,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,indicadores_economicos,liquidez: L8_II - Liquidez con títulos con cotiz (%),Dic-2023,28.04,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,indicadores_economicos,liquidez: L8_II - Liquidez con títulos con cotiz (%),Dic-2024,6.36,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,indicadores_economicos,liquidez: L8_II - Liquidez con títulos con cotiz (%),Nov-2025,33.92,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,indicadores_economicos,liquidez: L8_II - Liquidez con títulos con cotiz (%),Dic-2025,38.61,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,indicadores_economicos,liquidez: L8_II - Liquidez con títulos con cotiz (%),Ene-2026,26.12,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,indicadores_economicos,"liquidez: L9 -Liq LELIQ, PASES y LEFIs (netos pases activos BCRA) (%)",Dic-2023,850.8,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,indicadores_economicos,"liquidez: L9 -Liq LELIQ, PASES y LEFIs (netos pases activos BCRA) (%)",Dic-2024,106.59,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,indicadores_economicos,"liquidez: L9 -Liq LELIQ, PASES y LEFIs (netos pases activos BCRA) (%)",Nov-2025,33.92,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,indicadores_economicos,"liquidez: L9 -Liq LELIQ, PASES y LEFIs (netos pases activos BCRA) (%)",Dic-2025,38.61,2026-04-19
+00435,BANCO SUCREDITO REGIONAL S.A.U.,privado_nacional,indicadores_economicos,"liquidez: L9 -Liq LELIQ, PASES y LEFIs (netos pases activos BCRA) (%)",Ene-2026,26.12,2026-04-19

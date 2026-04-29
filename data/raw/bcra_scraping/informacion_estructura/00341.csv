@@ -1,0 +1,84 @@
+codigo_bcra,nombre_banco,tipo_entidad,fuente,variable,periodo,valor,scraping_fecha
+00341,BANCO MASVENTAS S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones por préstamos hipotecarios,Dic-2023,4.0,2026-04-19
+00341,BANCO MASVENTAS S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones por préstamos prendarios,Dic-2023,1.0,2026-04-19
+00341,BANCO MASVENTAS S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones por otros préstamos,Dic-2023,60804.0,2026-04-19
+00341,BANCO MASVENTAS S.A.,privado_nacional,informacion_estructura,Dotación de personal,Dic-2023,103.0,2026-04-19
+00341,BANCO MASVENTAS S.A.,privado_nacional,informacion_estructura,Cantidad de titulares por tarjetas de crédito,Dic-2023,2614.0,2026-04-19
+00341,BANCO MASVENTAS S.A.,privado_nacional,informacion_estructura,Cantidad de tarjetas de crédito (plásticos),Dic-2023,2614.0,2026-04-19
+00341,BANCO MASVENTAS S.A.,privado_nacional,informacion_estructura,Cantidad de tarjetas de débito,Dic-2023,4705.0,2026-04-19
+00341,BANCO MASVENTAS S.A.,privado_nacional,informacion_estructura,Cantidad de cuentas corrientes,Dic-2023,377.0,2026-04-19
+00341,BANCO MASVENTAS S.A.,privado_nacional,informacion_estructura,Cantidad de cuentas de ahorro,Dic-2023,9644.0,2026-04-19
+00341,BANCO MASVENTAS S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones a plazo fijo Individuos,Dic-2023,4695.0,2026-04-19
+00341,BANCO MASVENTAS S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones a plazo fijo Empresas,Dic-2023,117.0,2026-04-19
+00341,BANCO MASVENTAS S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones por préstamos hipotecarios,Dic-2024,,2026-04-19
+00341,BANCO MASVENTAS S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones por préstamos prendarios,Dic-2024,,2026-04-19
+00341,BANCO MASVENTAS S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones por otros préstamos,Dic-2024,26533.0,2026-04-19
+00341,BANCO MASVENTAS S.A.,privado_nacional,informacion_estructura,Dotación de personal,Dic-2024,96.0,2026-04-19
+00341,BANCO MASVENTAS S.A.,privado_nacional,informacion_estructura,Cantidad de titulares por tarjetas de crédito,Dic-2024,1385.0,2026-04-19
+00341,BANCO MASVENTAS S.A.,privado_nacional,informacion_estructura,Cantidad de tarjetas de crédito (plásticos),Dic-2024,1385.0,2026-04-19
+00341,BANCO MASVENTAS S.A.,privado_nacional,informacion_estructura,Cantidad de tarjetas de débito,Dic-2024,4925.0,2026-04-19
+00341,BANCO MASVENTAS S.A.,privado_nacional,informacion_estructura,Cantidad de cuentas corrientes,Dic-2024,340.0,2026-04-19
+00341,BANCO MASVENTAS S.A.,privado_nacional,informacion_estructura,Cantidad de cuentas de ahorro,Dic-2024,8543.0,2026-04-19
+00341,BANCO MASVENTAS S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones a plazo fijo Individuos,Dic-2024,4022.0,2026-04-19
+00341,BANCO MASVENTAS S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones a plazo fijo Empresas,Dic-2024,105.0,2026-04-19
+00341,BANCO MASVENTAS S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones por préstamos hipotecarios,Jun-2025,2.0,2026-04-19
+00341,BANCO MASVENTAS S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones por préstamos prendarios,Jun-2025,1.0,2026-04-19
+00341,BANCO MASVENTAS S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones por otros préstamos,Jun-2025,19685.0,2026-04-19
+00341,BANCO MASVENTAS S.A.,privado_nacional,informacion_estructura,Dotación de personal,Jun-2025,94.0,2026-04-19
+00341,BANCO MASVENTAS S.A.,privado_nacional,informacion_estructura,Cantidad de titulares por tarjetas de crédito,Jun-2025,2045.0,2026-04-19
+00341,BANCO MASVENTAS S.A.,privado_nacional,informacion_estructura,Cantidad de tarjetas de crédito (plásticos),Jun-2025,2045.0,2026-04-19
+00341,BANCO MASVENTAS S.A.,privado_nacional,informacion_estructura,Cantidad de tarjetas de débito,Jun-2025,4885.0,2026-04-19
+00341,BANCO MASVENTAS S.A.,privado_nacional,informacion_estructura,Cantidad de cuentas corrientes,Jun-2025,301.0,2026-04-19
+00341,BANCO MASVENTAS S.A.,privado_nacional,informacion_estructura,Cantidad de cuentas de ahorro,Jun-2025,7855.0,2026-04-19
+00341,BANCO MASVENTAS S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones a plazo fijo Individuos,Jun-2025,3896.0,2026-04-19
+00341,BANCO MASVENTAS S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones a plazo fijo Empresas,Jun-2025,107.0,2026-04-19
+00341,BANCO MASVENTAS S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones por préstamos hipotecarios,Set-2025,2.0,2026-04-19
+00341,BANCO MASVENTAS S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones por préstamos prendarios,Set-2025,1.0,2026-04-19
+00341,BANCO MASVENTAS S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones por otros préstamos,Set-2025,13110.0,2026-04-19
+00341,BANCO MASVENTAS S.A.,privado_nacional,informacion_estructura,Dotación de personal,Set-2025,93.0,2026-04-19
+00341,BANCO MASVENTAS S.A.,privado_nacional,informacion_estructura,Cantidad de titulares por tarjetas de crédito,Set-2025,1948.0,2026-04-19
+00341,BANCO MASVENTAS S.A.,privado_nacional,informacion_estructura,Cantidad de tarjetas de crédito (plásticos),Set-2025,1948.0,2026-04-19
+00341,BANCO MASVENTAS S.A.,privado_nacional,informacion_estructura,Cantidad de tarjetas de débito,Set-2025,4753.0,2026-04-19
+00341,BANCO MASVENTAS S.A.,privado_nacional,informacion_estructura,Cantidad de cuentas corrientes,Set-2025,285.0,2026-04-19
+00341,BANCO MASVENTAS S.A.,privado_nacional,informacion_estructura,Cantidad de cuentas de ahorro,Set-2025,7902.0,2026-04-19
+00341,BANCO MASVENTAS S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones a plazo fijo Individuos,Set-2025,3463.0,2026-04-19
+00341,BANCO MASVENTAS S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones a plazo fijo Empresas,Set-2025,89.0,2026-04-19
+00341,BANCO MASVENTAS S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones por préstamos hipotecarios,Dic-2025,,2026-04-19
+00341,BANCO MASVENTAS S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones por préstamos prendarios,Dic-2025,,2026-04-19
+00341,BANCO MASVENTAS S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones por otros préstamos,Dic-2025,,2026-04-19
+00341,BANCO MASVENTAS S.A.,privado_nacional,informacion_estructura,Dotación de personal,Dic-2025,,2026-04-19
+00341,BANCO MASVENTAS S.A.,privado_nacional,informacion_estructura,Cantidad de titulares por tarjetas de crédito,Dic-2025,,2026-04-19
+00341,BANCO MASVENTAS S.A.,privado_nacional,informacion_estructura,Cantidad de tarjetas de crédito (plásticos),Dic-2025,,2026-04-19
+00341,BANCO MASVENTAS S.A.,privado_nacional,informacion_estructura,Cantidad de tarjetas de débito,Dic-2025,,2026-04-19
+00341,BANCO MASVENTAS S.A.,privado_nacional,informacion_estructura,Cantidad de cuentas corrientes,Dic-2025,278.0,2026-04-19
+00341,BANCO MASVENTAS S.A.,privado_nacional,informacion_estructura,Cantidad de cuentas de ahorro,Dic-2025,7818.0,2026-04-19
+00341,BANCO MASVENTAS S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones a plazo fijo Individuos,Dic-2025,,2026-04-19
+00341,BANCO MASVENTAS S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones a plazo fijo Empresas,Dic-2025,,2026-04-19
+00341,BANCO MASVENTAS S.A.,privado_nacional,informacion_estructura,Cantidad de Cuentas,Dic-2023,1401.0,2026-04-19
+00341,BANCO MASVENTAS S.A.,privado_nacional,informacion_estructura,Cantidad de Empresas,Dic-2023,62.0,2026-04-19
+00341,BANCO MASVENTAS S.A.,privado_nacional,informacion_estructura,Cantidad de Cuentas,Dic-2024,1180.0,2026-04-19
+00341,BANCO MASVENTAS S.A.,privado_nacional,informacion_estructura,Cantidad de Empresas,Dic-2024,57.0,2026-04-19
+00341,BANCO MASVENTAS S.A.,privado_nacional,informacion_estructura,Cantidad de Cuentas,Nov-2025,979.0,2026-04-19
+00341,BANCO MASVENTAS S.A.,privado_nacional,informacion_estructura,Cantidad de Empresas,Nov-2025,48.0,2026-04-19
+00341,BANCO MASVENTAS S.A.,privado_nacional,informacion_estructura,Cantidad de Cuentas,Dic-2025,894.0,2026-04-19
+00341,BANCO MASVENTAS S.A.,privado_nacional,informacion_estructura,Cantidad de Empresas,Dic-2025,47.0,2026-04-19
+00341,BANCO MASVENTAS S.A.,privado_nacional,informacion_estructura,Cantidad de Cuentas,Ene-2026,684.0,2026-04-19
+00341,BANCO MASVENTAS S.A.,privado_nacional,informacion_estructura,Cantidad de Empresas,Ene-2026,40.0,2026-04-19
+00341,BANCO MASVENTAS S.A.,privado_nacional,informacion_estructura,JUJUY,Habilitadas,1.0,2026-04-19
+00341,BANCO MASVENTAS S.A.,privado_nacional,informacion_estructura,SALTA,Habilitadas,1.0,2026-04-19
+00341,BANCO MASVENTAS S.A.,privado_nacional,informacion_estructura,JUJUY,Habilitadas,,2026-04-19
+00341,BANCO MASVENTAS S.A.,privado_nacional,informacion_estructura,SALTA,Habilitadas,,2026-04-19
+00341,BANCO MASVENTAS S.A.,privado_nacional,informacion_estructura,JUJUY,Habilitadas,,2026-04-19
+00341,BANCO MASVENTAS S.A.,privado_nacional,informacion_estructura,SALTA,Habilitadas,,2026-04-19
+00341,BANCO MASVENTAS S.A.,privado_nacional,informacion_estructura,JUJUY,Habilitadas,2.0,2026-04-19
+00341,BANCO MASVENTAS S.A.,privado_nacional,informacion_estructura,SALTA,Habilitadas,13.0,2026-04-19
+00341,BANCO MASVENTAS S.A.,privado_nacional,informacion_estructura,JUJUY,Habilitadas,1.0,2026-04-19
+00341,BANCO MASVENTAS S.A.,privado_nacional,informacion_estructura,SALTA,Habilitadas,3.0,2026-04-19
+00341,BANCO MASVENTAS S.A.,privado_nacional,informacion_estructura,JUJUY,Habilitadas,,2026-04-19
+00341,BANCO MASVENTAS S.A.,privado_nacional,informacion_estructura,SALTA,Habilitadas,,2026-04-19
+00341,BANCO MASVENTAS S.A.,privado_nacional,informacion_estructura,JUJUY,Habilitadas,,2026-04-19
+00341,BANCO MASVENTAS S.A.,privado_nacional,informacion_estructura,SALTA,Habilitadas,,2026-04-19
+00341,BANCO MASVENTAS S.A.,privado_nacional,informacion_estructura,JUJUY,Pendientes de habilitación,,2026-04-19
+00341,BANCO MASVENTAS S.A.,privado_nacional,informacion_estructura,SALTA,Pendientes de habilitación,,2026-04-19
+00341,BANCO MASVENTAS S.A.,privado_nacional,informacion_estructura,JUJUY,Total,1.0,2026-04-19
+00341,BANCO MASVENTAS S.A.,privado_nacional,informacion_estructura,SALTA,Total,1.0,2026-04-19

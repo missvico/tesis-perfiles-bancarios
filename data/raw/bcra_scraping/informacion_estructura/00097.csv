@@ -1,0 +1,103 @@
+codigo_bcra,nombre_banco,tipo_entidad,fuente,variable,periodo,valor,scraping_fecha
+00097,BANCO PROVINCIA DEL NEUQUÉN SOCIEDA,publico,informacion_estructura,Cantidad de operaciones por préstamos prendarios,Dic-2023,360.0,2026-04-19
+00097,BANCO PROVINCIA DEL NEUQUÉN SOCIEDA,publico,informacion_estructura,Cantidad de operaciones por otros préstamos,Dic-2023,444175.0,2026-04-19
+00097,BANCO PROVINCIA DEL NEUQUÉN SOCIEDA,publico,informacion_estructura,Dotación de personal,Dic-2023,1142.0,2026-04-19
+00097,BANCO PROVINCIA DEL NEUQUÉN SOCIEDA,publico,informacion_estructura,Cantidad de titulares por tarjetas de crédito,Dic-2023,235174.0,2026-04-19
+00097,BANCO PROVINCIA DEL NEUQUÉN SOCIEDA,publico,informacion_estructura,Cantidad de tarjetas de crédito (plásticos),Dic-2023,254454.0,2026-04-19
+00097,BANCO PROVINCIA DEL NEUQUÉN SOCIEDA,publico,informacion_estructura,Cantidad de cuentas corrientes,Dic-2023,11703.0,2026-04-19
+00097,BANCO PROVINCIA DEL NEUQUÉN SOCIEDA,publico,informacion_estructura,Cantidad de cuentas de ahorro,Dic-2023,406318.0,2026-04-19
+00097,BANCO PROVINCIA DEL NEUQUÉN SOCIEDA,publico,informacion_estructura,Cantidad de cajas de ahorro de ayuda social,Dic-2023,168772.0,2026-04-19
+00097,BANCO PROVINCIA DEL NEUQUÉN SOCIEDA,publico,informacion_estructura,Cantidad de cuentas previsionales,Dic-2023,93967.0,2026-04-19
+00097,BANCO PROVINCIA DEL NEUQUÉN SOCIEDA,publico,informacion_estructura,Cantidad de operaciones a plazo fijo Individuos,Dic-2023,38216.0,2026-04-19
+00097,BANCO PROVINCIA DEL NEUQUÉN SOCIEDA,publico,informacion_estructura,Cantidad de operaciones a plazo fijo Empresas,Dic-2023,1076.0,2026-04-19
+00097,BANCO PROVINCIA DEL NEUQUÉN SOCIEDA,publico,informacion_estructura,Cantidad de operaciones por préstamos hipotecarios,Dic-2023,464.0,2026-04-19
+00097,BANCO PROVINCIA DEL NEUQUÉN SOCIEDA,publico,informacion_estructura,Cantidad de tarjetas de débito,Dic-2023,472097.0,2026-04-19
+00097,BANCO PROVINCIA DEL NEUQUÉN SOCIEDA,publico,informacion_estructura,Cantidad de operaciones por préstamos prendarios,Dic-2024,325.0,2026-04-19
+00097,BANCO PROVINCIA DEL NEUQUÉN SOCIEDA,publico,informacion_estructura,Cantidad de operaciones por otros préstamos,Dic-2024,427482.0,2026-04-19
+00097,BANCO PROVINCIA DEL NEUQUÉN SOCIEDA,publico,informacion_estructura,Dotación de personal,Dic-2024,1158.0,2026-04-19
+00097,BANCO PROVINCIA DEL NEUQUÉN SOCIEDA,publico,informacion_estructura,Cantidad de titulares por tarjetas de crédito,Dic-2024,224998.0,2026-04-19
+00097,BANCO PROVINCIA DEL NEUQUÉN SOCIEDA,publico,informacion_estructura,Cantidad de tarjetas de crédito (plásticos),Dic-2024,241991.0,2026-04-19
+00097,BANCO PROVINCIA DEL NEUQUÉN SOCIEDA,publico,informacion_estructura,Cantidad de cuentas corrientes,Dic-2024,12198.0,2026-04-19
+00097,BANCO PROVINCIA DEL NEUQUÉN SOCIEDA,publico,informacion_estructura,Cantidad de cuentas de ahorro,Dic-2024,409365.0,2026-04-19
+00097,BANCO PROVINCIA DEL NEUQUÉN SOCIEDA,publico,informacion_estructura,Cantidad de cajas de ahorro de ayuda social,Dic-2024,113902.0,2026-04-19
+00097,BANCO PROVINCIA DEL NEUQUÉN SOCIEDA,publico,informacion_estructura,Cantidad de cuentas previsionales,Dic-2024,89154.0,2026-04-19
+00097,BANCO PROVINCIA DEL NEUQUÉN SOCIEDA,publico,informacion_estructura,Cantidad de operaciones a plazo fijo Individuos,Dic-2024,30151.0,2026-04-19
+00097,BANCO PROVINCIA DEL NEUQUÉN SOCIEDA,publico,informacion_estructura,Cantidad de operaciones a plazo fijo Empresas,Dic-2024,995.0,2026-04-19
+00097,BANCO PROVINCIA DEL NEUQUÉN SOCIEDA,publico,informacion_estructura,Cantidad de operaciones por préstamos hipotecarios,Dic-2024,371.0,2026-04-19
+00097,BANCO PROVINCIA DEL NEUQUÉN SOCIEDA,publico,informacion_estructura,Cantidad de tarjetas de débito,Dic-2024,479055.0,2026-04-19
+00097,BANCO PROVINCIA DEL NEUQUÉN SOCIEDA,publico,informacion_estructura,Cantidad de operaciones por préstamos prendarios,Jun-2025,363.0,2026-04-19
+00097,BANCO PROVINCIA DEL NEUQUÉN SOCIEDA,publico,informacion_estructura,Cantidad de operaciones por otros préstamos,Jun-2025,432722.0,2026-04-19
+00097,BANCO PROVINCIA DEL NEUQUÉN SOCIEDA,publico,informacion_estructura,Dotación de personal,Jun-2025,1153.0,2026-04-19
+00097,BANCO PROVINCIA DEL NEUQUÉN SOCIEDA,publico,informacion_estructura,Cantidad de titulares por tarjetas de crédito,Jun-2025,222400.0,2026-04-19
+00097,BANCO PROVINCIA DEL NEUQUÉN SOCIEDA,publico,informacion_estructura,Cantidad de tarjetas de crédito (plásticos),Jun-2025,239231.0,2026-04-19
+00097,BANCO PROVINCIA DEL NEUQUÉN SOCIEDA,publico,informacion_estructura,Cantidad de cuentas corrientes,Jun-2025,75344.0,2026-04-19
+00097,BANCO PROVINCIA DEL NEUQUÉN SOCIEDA,publico,informacion_estructura,Cantidad de cuentas de ahorro,Jun-2025,481158.0,2026-04-19
+00097,BANCO PROVINCIA DEL NEUQUÉN SOCIEDA,publico,informacion_estructura,Cantidad de cajas de ahorro de ayuda social,Jun-2025,107202.0,2026-04-19
+00097,BANCO PROVINCIA DEL NEUQUÉN SOCIEDA,publico,informacion_estructura,Cantidad de cuentas previsionales,Jun-2025,90751.0,2026-04-19
+00097,BANCO PROVINCIA DEL NEUQUÉN SOCIEDA,publico,informacion_estructura,Cantidad de operaciones a plazo fijo Individuos,Jun-2025,27134.0,2026-04-19
+00097,BANCO PROVINCIA DEL NEUQUÉN SOCIEDA,publico,informacion_estructura,Cantidad de operaciones a plazo fijo Empresas,Jun-2025,1038.0,2026-04-19
+00097,BANCO PROVINCIA DEL NEUQUÉN SOCIEDA,publico,informacion_estructura,Cantidad de operaciones por préstamos hipotecarios,Jun-2025,435.0,2026-04-19
+00097,BANCO PROVINCIA DEL NEUQUÉN SOCIEDA,publico,informacion_estructura,Cantidad de tarjetas de débito,Jun-2025,499377.0,2026-04-19
+00097,BANCO PROVINCIA DEL NEUQUÉN SOCIEDA,publico,informacion_estructura,Cantidad de operaciones por préstamos prendarios,Set-2025,375.0,2026-04-19
+00097,BANCO PROVINCIA DEL NEUQUÉN SOCIEDA,publico,informacion_estructura,Cantidad de operaciones por otros préstamos,Set-2025,426004.0,2026-04-19
+00097,BANCO PROVINCIA DEL NEUQUÉN SOCIEDA,publico,informacion_estructura,Dotación de personal,Set-2025,1161.0,2026-04-19
+00097,BANCO PROVINCIA DEL NEUQUÉN SOCIEDA,publico,informacion_estructura,Cantidad de titulares por tarjetas de crédito,Set-2025,222798.0,2026-04-19
+00097,BANCO PROVINCIA DEL NEUQUÉN SOCIEDA,publico,informacion_estructura,Cantidad de tarjetas de crédito (plásticos),Set-2025,239437.0,2026-04-19
+00097,BANCO PROVINCIA DEL NEUQUÉN SOCIEDA,publico,informacion_estructura,Cantidad de cuentas corrientes,Set-2025,73426.0,2026-04-19
+00097,BANCO PROVINCIA DEL NEUQUÉN SOCIEDA,publico,informacion_estructura,Cantidad de cuentas de ahorro,Set-2025,483651.0,2026-04-19
+00097,BANCO PROVINCIA DEL NEUQUÉN SOCIEDA,publico,informacion_estructura,Cantidad de cajas de ahorro de ayuda social,Set-2025,107128.0,2026-04-19
+00097,BANCO PROVINCIA DEL NEUQUÉN SOCIEDA,publico,informacion_estructura,Cantidad de cuentas previsionales,Set-2025,91141.0,2026-04-19
+00097,BANCO PROVINCIA DEL NEUQUÉN SOCIEDA,publico,informacion_estructura,Cantidad de operaciones a plazo fijo Individuos,Set-2025,26288.0,2026-04-19
+00097,BANCO PROVINCIA DEL NEUQUÉN SOCIEDA,publico,informacion_estructura,Cantidad de operaciones a plazo fijo Empresas,Set-2025,1010.0,2026-04-19
+00097,BANCO PROVINCIA DEL NEUQUÉN SOCIEDA,publico,informacion_estructura,Cantidad de operaciones por préstamos hipotecarios,Set-2025,462.0,2026-04-19
+00097,BANCO PROVINCIA DEL NEUQUÉN SOCIEDA,publico,informacion_estructura,Cantidad de tarjetas de débito,Set-2025,507926.0,2026-04-19
+00097,BANCO PROVINCIA DEL NEUQUÉN SOCIEDA,publico,informacion_estructura,Cantidad de operaciones por préstamos prendarios,Dic-2025,405.0,2026-04-19
+00097,BANCO PROVINCIA DEL NEUQUÉN SOCIEDA,publico,informacion_estructura,Cantidad de operaciones por otros préstamos,Dic-2025,426193.0,2026-04-19
+00097,BANCO PROVINCIA DEL NEUQUÉN SOCIEDA,publico,informacion_estructura,Dotación de personal,Dic-2025,1148.0,2026-04-19
+00097,BANCO PROVINCIA DEL NEUQUÉN SOCIEDA,publico,informacion_estructura,Cantidad de titulares por tarjetas de crédito,Dic-2025,224140.0,2026-04-19
+00097,BANCO PROVINCIA DEL NEUQUÉN SOCIEDA,publico,informacion_estructura,Cantidad de tarjetas de crédito (plásticos),Dic-2025,240735.0,2026-04-19
+00097,BANCO PROVINCIA DEL NEUQUÉN SOCIEDA,publico,informacion_estructura,Cantidad de cuentas corrientes,Dic-2025,74850.0,2026-04-19
+00097,BANCO PROVINCIA DEL NEUQUÉN SOCIEDA,publico,informacion_estructura,Cantidad de cuentas de ahorro,Dic-2025,480470.0,2026-04-19
+00097,BANCO PROVINCIA DEL NEUQUÉN SOCIEDA,publico,informacion_estructura,Cantidad de cajas de ahorro de ayuda social,Dic-2025,104340.0,2026-04-19
+00097,BANCO PROVINCIA DEL NEUQUÉN SOCIEDA,publico,informacion_estructura,Cantidad de cuentas previsionales,Dic-2025,92066.0,2026-04-19
+00097,BANCO PROVINCIA DEL NEUQUÉN SOCIEDA,publico,informacion_estructura,Cantidad de operaciones a plazo fijo Individuos,Dic-2025,22684.0,2026-04-19
+00097,BANCO PROVINCIA DEL NEUQUÉN SOCIEDA,publico,informacion_estructura,Cantidad de operaciones a plazo fijo Empresas,Dic-2025,859.0,2026-04-19
+00097,BANCO PROVINCIA DEL NEUQUÉN SOCIEDA,publico,informacion_estructura,Cantidad de operaciones por préstamos hipotecarios,Dic-2025,549.0,2026-04-19
+00097,BANCO PROVINCIA DEL NEUQUÉN SOCIEDA,publico,informacion_estructura,Cantidad de tarjetas de débito,Dic-2025,514276.0,2026-04-19
+00097,BANCO PROVINCIA DEL NEUQUÉN SOCIEDA,publico,informacion_estructura,Cantidad de Cuentas,Dic-2023,211914.0,2026-04-19
+00097,BANCO PROVINCIA DEL NEUQUÉN SOCIEDA,publico,informacion_estructura,Cantidad de Empresas,Dic-2023,3024.0,2026-04-19
+00097,BANCO PROVINCIA DEL NEUQUÉN SOCIEDA,publico,informacion_estructura,Cantidad de Cuentas,Dic-2024,215543.0,2026-04-19
+00097,BANCO PROVINCIA DEL NEUQUÉN SOCIEDA,publico,informacion_estructura,Cantidad de Empresas,Dic-2024,2397.0,2026-04-19
+00097,BANCO PROVINCIA DEL NEUQUÉN SOCIEDA,publico,informacion_estructura,Cantidad de Cuentas,Nov-2025,209378.0,2026-04-19
+00097,BANCO PROVINCIA DEL NEUQUÉN SOCIEDA,publico,informacion_estructura,Cantidad de Empresas,Nov-2025,2473.0,2026-04-19
+00097,BANCO PROVINCIA DEL NEUQUÉN SOCIEDA,publico,informacion_estructura,Cantidad de Cuentas,Dic-2025,213829.0,2026-04-19
+00097,BANCO PROVINCIA DEL NEUQUÉN SOCIEDA,publico,informacion_estructura,Cantidad de Empresas,Dic-2025,2409.0,2026-04-19
+00097,BANCO PROVINCIA DEL NEUQUÉN SOCIEDA,publico,informacion_estructura,Cantidad de Cuentas,Ene-2026,209112.0,2026-04-19
+00097,BANCO PROVINCIA DEL NEUQUÉN SOCIEDA,publico,informacion_estructura,Cantidad de Empresas,Ene-2026,2229.0,2026-04-19
+00097,BANCO PROVINCIA DEL NEUQUÉN SOCIEDA,publico,informacion_estructura,CABA,Habilitadas,1.0,2026-04-19
+00097,BANCO PROVINCIA DEL NEUQUÉN SOCIEDA,publico,informacion_estructura,NEUQUÉN,Habilitadas,37.0,2026-04-19
+00097,BANCO PROVINCIA DEL NEUQUÉN SOCIEDA,publico,informacion_estructura,RÍO NEGRO,Habilitadas,5.0,2026-04-19
+00097,BANCO PROVINCIA DEL NEUQUÉN SOCIEDA,publico,informacion_estructura,CABA,Habilitadas,,2026-04-19
+00097,BANCO PROVINCIA DEL NEUQUÉN SOCIEDA,publico,informacion_estructura,NEUQUÉN,Habilitadas,7.0,2026-04-19
+00097,BANCO PROVINCIA DEL NEUQUÉN SOCIEDA,publico,informacion_estructura,RÍO NEGRO,Habilitadas,,2026-04-19
+00097,BANCO PROVINCIA DEL NEUQUÉN SOCIEDA,publico,informacion_estructura,CABA,Habilitadas,,2026-04-19
+00097,BANCO PROVINCIA DEL NEUQUÉN SOCIEDA,publico,informacion_estructura,NEUQUÉN,Habilitadas,1.0,2026-04-19
+00097,BANCO PROVINCIA DEL NEUQUÉN SOCIEDA,publico,informacion_estructura,RÍO NEGRO,Habilitadas,,2026-04-19
+00097,BANCO PROVINCIA DEL NEUQUÉN SOCIEDA,publico,informacion_estructura,CABA,Habilitadas,1.0,2026-04-19
+00097,BANCO PROVINCIA DEL NEUQUÉN SOCIEDA,publico,informacion_estructura,NEUQUÉN,Habilitadas,218.0,2026-04-19
+00097,BANCO PROVINCIA DEL NEUQUÉN SOCIEDA,publico,informacion_estructura,RÍO NEGRO,Habilitadas,9.0,2026-04-19
+00097,BANCO PROVINCIA DEL NEUQUÉN SOCIEDA,publico,informacion_estructura,CABA,Habilitadas,,2026-04-19
+00097,BANCO PROVINCIA DEL NEUQUÉN SOCIEDA,publico,informacion_estructura,NEUQUÉN,Habilitadas,,2026-04-19
+00097,BANCO PROVINCIA DEL NEUQUÉN SOCIEDA,publico,informacion_estructura,RÍO NEGRO,Habilitadas,,2026-04-19
+00097,BANCO PROVINCIA DEL NEUQUÉN SOCIEDA,publico,informacion_estructura,CABA,Habilitadas,,2026-04-19
+00097,BANCO PROVINCIA DEL NEUQUÉN SOCIEDA,publico,informacion_estructura,NEUQUÉN,Habilitadas,1.0,2026-04-19
+00097,BANCO PROVINCIA DEL NEUQUÉN SOCIEDA,publico,informacion_estructura,RÍO NEGRO,Habilitadas,,2026-04-19
+00097,BANCO PROVINCIA DEL NEUQUÉN SOCIEDA,publico,informacion_estructura,CABA,Habilitadas,,2026-04-19
+00097,BANCO PROVINCIA DEL NEUQUÉN SOCIEDA,publico,informacion_estructura,NEUQUÉN,Habilitadas,16.0,2026-04-19
+00097,BANCO PROVINCIA DEL NEUQUÉN SOCIEDA,publico,informacion_estructura,RÍO NEGRO,Habilitadas,,2026-04-19
+00097,BANCO PROVINCIA DEL NEUQUÉN SOCIEDA,publico,informacion_estructura,CABA,Pendientes de habilitación,,2026-04-19
+00097,BANCO PROVINCIA DEL NEUQUÉN SOCIEDA,publico,informacion_estructura,NEUQUÉN,Pendientes de habilitación,,2026-04-19
+00097,BANCO PROVINCIA DEL NEUQUÉN SOCIEDA,publico,informacion_estructura,RÍO NEGRO,Pendientes de habilitación,,2026-04-19
+00097,BANCO PROVINCIA DEL NEUQUÉN SOCIEDA,publico,informacion_estructura,CABA,Total,1.0,2026-04-19
+00097,BANCO PROVINCIA DEL NEUQUÉN SOCIEDA,publico,informacion_estructura,NEUQUÉN,Total,37.0,2026-04-19
+00097,BANCO PROVINCIA DEL NEUQUÉN SOCIEDA,publico,informacion_estructura,RÍO NEGRO,Total,5.0,2026-04-19

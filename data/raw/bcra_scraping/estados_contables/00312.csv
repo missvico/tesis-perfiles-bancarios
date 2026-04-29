@@ -1,0 +1,276 @@
+codigo_bcra,nombre_banco,tipo_entidad,fuente,variable,periodo,valor,scraping_fecha
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,,Dic-2023,,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,A C T I V O,Dic-2023,35611942.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,EFECTIVO Y DEPOSITO EN BANCOS,Dic-2023,342779.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,TÍTULOS PÚBLICOS Y PRIVADOS,Dic-2023,13815323.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,PRÉSTAMOS,Dic-2023,5072602.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,SECTOR FINANCIERO,Dic-2023,,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,SECTOR PRIVADO NO FINANCIERO Y RESIDENTES EN EL EXT.,Dic-2023,5265353.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,ADELANTOS,Dic-2023,504374.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,"DOC A SOLA FIRMA, DESCONT. Y COMPRADOS",Dic-2023,348466.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,PERSONALES,Dic-2023,3189728.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,OTROS,Dic-2023,274721.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,INTERESES Y DIF. COTIZ. DEVENG. A COBRAR,Dic-2023,613530.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,AJUSTES NIIF,Dic-2023,334534.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,PREVISIONES,Dic-2023,-192751.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,OTROS CRED.POR INTERM.FINAN.,Dic-2023,5099879.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,CRÉDITOS DIVERSOS,Dic-2023,3128425.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,"PROPIEDAD, PLANTAS Y EQUIPO",Dic-2023,7420411.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,ACTIVOS INTANGIBLES,Dic-2023,732523.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,P A S I V O,Dic-2023,29905546.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,DEPÓSITOS,Dic-2023,24102472.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,SECTOR PÚBLICO NO FINANCIERO,Dic-2023,6512760.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,SECTOR FINANCIERO,Dic-2023,287.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,SECTOR PRIVADO NO FINANCIERO Y RESIDENTES EN EL EXT.,Dic-2023,17589425.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,CUENTAS CORRIENTES,Dic-2023,7741341.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,CAJA DE AHORROS,Dic-2023,331402.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,PLAZO FIJO E INVERSIONES A PLAZO,Dic-2023,8775972.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,OTROS,Dic-2023,32997.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,INTERESES Y DIF. COTIZ. DEVENG. A PAGAR,Dic-2023,707713.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,OTRAS OBLIG.POR INTERMED. FINANC.,Dic-2023,672328.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,OBLIGACIONES DIVERSAS,Dic-2023,5130703.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,PROVISIONES,Dic-2023,43.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,P A T R I M O N I O N E T O,Dic-2023,5706396.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,"CAPITAL, APORTES, RESERVAS Y ORI ACUMULADO",Dic-2023,11274998.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,RESULTADOS NO ASIGNADOS,Dic-2023,-5568602.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,R D O S. I N T E G R A L E S A C U M. D E L P E R I O D O,Dic-2023,-5361686.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,INGRESOS FINANCIEROS,Dic-2023,29947777.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,POR INTERESES,Dic-2023,13563600.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,OTROS INGRESOS FINANCIEROS,Dic-2023,16384177.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,EGRESOS FINANCIEROS,Dic-2023,-36286783.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,POR INTERESES,Dic-2023,-27387741.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,OTROS EGRESOS FINANCIEROS,Dic-2023,-8899042.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,CARGO POR INCOBRABILIDAD,Dic-2023,-403909.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,INGRESOS POR SERVICIOS,Dic-2023,223515.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,EGRESOS POR SERVICIOS,Dic-2023,-1884383.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,GASTOS DE ADMINISTRACIÓN,Dic-2023,-6497954.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,CRÉDITOS RECUPERADOS Y PREVISIONES DESAFECTADAS,Dic-2023,28971.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,RESULTADO MONETARIO,Dic-2023,10613334.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,OTROS,Dic-2023,-130074.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,IMPUESTO A LAS GANANCIAS,Dic-2023,-972180.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,PARTIDAS FUERA DE BALANCE,Dic-2023,,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,CRÉDITOS IRRECUPERABLES EN PARTIDAS FUERA DEL BALANCE,Dic-2023,241910.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,CONTINGENTES ACREEDORAS,Dic-2023,45664.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,DE CONTROL ACREEDORAS,Dic-2023,3253.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,DE DERIVADOS ACREEDORAS,Dic-2023,,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,DE CONTROL DEUDORAS,Dic-2023,17733955.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,,Dic-2024,,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,A C T I V O,Dic-2024,92205226.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,EFECTIVO Y DEPOSITO EN BANCOS,Dic-2024,925024.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,TÍTULOS PÚBLICOS Y PRIVADOS,Dic-2024,31594731.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,PRÉSTAMOS,Dic-2024,20185094.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,SECTOR FINANCIERO,Dic-2024,,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,SECTOR PRIVADO NO FINANCIERO Y RESIDENTES EN EL EXT.,Dic-2024,20349933.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,ADELANTOS,Dic-2024,389.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,"DOC A SOLA FIRMA, DESCONT. Y COMPRADOS",Dic-2024,80590.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,PERSONALES,Dic-2024,13694975.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,OTROS,Dic-2024,158235.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,INTERESES Y DIF. COTIZ. DEVENG. A COBRAR,Dic-2024,1103839.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,AJUSTES NIIF,Dic-2024,5311905.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,PREVISIONES,Dic-2024,-164839.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,OTROS CRED.POR INTERM.FINAN.,Dic-2024,27153374.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,CRÉDITOS DIVERSOS,Dic-2024,2020242.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,"PROPIEDAD, PLANTAS Y EQUIPO",Dic-2024,8986660.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,ACTIVOS INTANGIBLES,Dic-2024,1340101.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,P A S I V O,Dic-2024,76871739.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,DEPÓSITOS,Dic-2024,71010784.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,SECTOR PÚBLICO NO FINANCIERO,Dic-2024,12706115.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,SECTOR FINANCIERO,Dic-2024,3386.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,SECTOR PRIVADO NO FINANCIERO Y RESIDENTES EN EL EXT.,Dic-2024,58301283.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,CUENTAS CORRIENTES,Dic-2024,15627739.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,CAJA DE AHORROS,Dic-2024,2779266.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,PLAZO FIJO E INVERSIONES A PLAZO,Dic-2024,38988967.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,OTROS,Dic-2024,33402.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,INTERESES Y DIF. COTIZ. DEVENG. A PAGAR,Dic-2024,871909.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,OTRAS OBLIG.POR INTERMED. FINANC.,Dic-2024,1025883.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,OBLIGACIONES DIVERSAS,Dic-2024,4395708.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,PROVISIONES,Dic-2024,439364.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,P A T R I M O N I O N E T O,Dic-2024,15333487.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,"CAPITAL, APORTES, RESERVAS Y ORI ACUMULADO",Dic-2024,12426452.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,RESULTADOS NO ASIGNADOS,Dic-2024,2907035.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,R D O S. I N T E G R A L E S A C U M. D E L P E R I O D O,Dic-2024,2907035.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,INGRESOS FINANCIEROS,Dic-2024,38424910.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,POR INTERESES,Dic-2024,16082252.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,OTROS INGRESOS FINANCIEROS,Dic-2024,22342658.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,EGRESOS FINANCIEROS,Dic-2024,-29029332.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,POR INTERESES,Dic-2024,-22581592.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,OTROS EGRESOS FINANCIEROS,Dic-2024,-6447740.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,CARGO POR INCOBRABILIDAD,Dic-2024,-85351.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,INGRESOS POR SERVICIOS,Dic-2024,990553.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,EGRESOS POR SERVICIOS,Dic-2024,-2693578.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,GASTOS DE ADMINISTRACIÓN,Dic-2024,-13447111.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,CRÉDITOS RECUPERADOS Y PREVISIONES DESAFECTADAS,Dic-2024,84116.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,RESULTADO MONETARIO,Dic-2024,14860150.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,OTROS,Dic-2024,-3712920.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,IMPUESTO A LAS GANANCIAS,Dic-2024,-2484402.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,PARTIDAS FUERA DE BALANCE,Dic-2024,,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,CRÉDITOS IRRECUPERABLES EN PARTIDAS FUERA DEL BALANCE,Dic-2024,229645.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,CONTINGENTES ACREEDORAS,Dic-2024,1650000.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,DE CONTROL ACREEDORAS,Dic-2024,4077.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,DE DERIVADOS ACREEDORAS,Dic-2024,158850.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,DE CONTROL DEUDORAS,Dic-2024,62085909.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,,Nov-2025,,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,A C T I V O,Nov-2025,173810720.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,EFECTIVO Y DEPOSITO EN BANCOS,Nov-2025,12324573.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,TÍTULOS PÚBLICOS Y PRIVADOS,Nov-2025,47145030.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,PRÉSTAMOS,Nov-2025,65296685.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,SECTOR FINANCIERO,Nov-2025,2004118.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,SECTOR PRIVADO NO FINANCIERO Y RESIDENTES EN EL EXT.,Nov-2025,64049326.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,ADELANTOS,Nov-2025,1836106.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,"DOC A SOLA FIRMA, DESCONT. Y COMPRADOS",Nov-2025,5805.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,PERSONALES,Nov-2025,47368685.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,OTROS,Nov-2025,316089.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,INTERESES Y DIF. COTIZ. DEVENG. A COBRAR,Nov-2025,3420319.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,AJUSTES NIIF,Nov-2025,11102322.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,PREVISIONES,Nov-2025,-756759.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,OTROS CRED.POR INTERM.FINAN.,Nov-2025,30576602.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,CRÉDITOS DIVERSOS,Nov-2025,5133790.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,"PROPIEDAD, PLANTAS Y EQUIPO",Nov-2025,12128777.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,ACTIVOS INTANGIBLES,Nov-2025,1205263.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,P A S I V O,Nov-2025,163489335.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,DEPÓSITOS,Nov-2025,156605372.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,SECTOR PÚBLICO NO FINANCIERO,Nov-2025,6041722.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,SECTOR FINANCIERO,Nov-2025,39752.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,SECTOR PRIVADO NO FINANCIERO Y RESIDENTES EN EL EXT.,Nov-2025,150523898.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,CUENTAS CORRIENTES,Nov-2025,27099982.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,CAJA DE AHORROS,Nov-2025,6442257.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,PLAZO FIJO E INVERSIONES A PLAZO,Nov-2025,114519675.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,OTROS,Nov-2025,46208.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,INTERESES Y DIF. COTIZ. DEVENG. A PAGAR,Nov-2025,2415776.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,OTRAS OBLIG.POR INTERMED. FINANC.,Nov-2025,790972.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,OBLIGACIONES DIVERSAS,Nov-2025,5735521.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,PROVISIONES,Nov-2025,357470.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,P A T R I M O N I O N E T O,Nov-2025,10321385.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,"CAPITAL, APORTES, RESERVAS Y ORI ACUMULADO",Nov-2025,19612970.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,RESULTADOS NO ASIGNADOS,Nov-2025,-9291585.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,R D O S. I N T E G R A L E S A C U M. D E L P E R I O D O,Nov-2025,-9291585.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,INGRESOS FINANCIEROS,Nov-2025,55802666.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,POR INTERESES,Nov-2025,28582517.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,OTROS INGRESOS FINANCIEROS,Nov-2025,27220149.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,EGRESOS FINANCIEROS,Nov-2025,-35339891.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,POR INTERESES,Nov-2025,-31801118.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,OTROS EGRESOS FINANCIEROS,Nov-2025,-3538773.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,CARGO POR INCOBRABILIDAD,Nov-2025,-948377.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,INGRESOS POR SERVICIOS,Nov-2025,2575338.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,EGRESOS POR SERVICIOS,Nov-2025,-12239968.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,GASTOS DE ADMINISTRACIÓN,Nov-2025,-18490590.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,CRÉDITOS RECUPERADOS Y PREVISIONES DESAFECTADAS,Nov-2025,72329.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,RESULTADO MONETARIO,Nov-2025,428363.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,OTROS,Nov-2025,-169404.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,IMPUESTO A LAS GANANCIAS,Nov-2025,-982051.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,PARTIDAS FUERA DE BALANCE,Nov-2025,,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,CRÉDITOS IRRECUPERABLES EN PARTIDAS FUERA DEL BALANCE,Nov-2025,239201.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,CONTINGENTES ACREEDORAS,Nov-2025,1450548.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,DE CONTROL ACREEDORAS,Nov-2025,,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,DE DERIVADOS ACREEDORAS,Nov-2025,223200.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,DE CONTROL DEUDORAS,Nov-2025,80758507.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,,Dic-2025,,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,A C T I V O,Dic-2025,184270075.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,EFECTIVO Y DEPOSITO EN BANCOS,Dic-2025,14595361.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,TÍTULOS PÚBLICOS Y PRIVADOS,Dic-2025,61933870.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,PRÉSTAMOS,Dic-2025,56134348.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,SECTOR FINANCIERO,Dic-2025,,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,SECTOR PRIVADO NO FINANCIERO Y RESIDENTES EN EL EXT.,Dic-2025,56816603.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,ADELANTOS,Dic-2025,1217386.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,"DOC A SOLA FIRMA, DESCONT. Y COMPRADOS",Dic-2025,4381.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,PERSONALES,Dic-2025,42369518.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,OTROS,Dic-2025,313966.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,INTERESES Y DIF. COTIZ. DEVENG. A COBRAR,Dic-2025,3039155.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,AJUSTES NIIF,Dic-2025,9872197.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,PREVISIONES,Dic-2025,-682255.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,OTROS CRED.POR INTERM.FINAN.,Dic-2025,34702391.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,CRÉDITOS DIVERSOS,Dic-2025,3281409.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,"PROPIEDAD, PLANTAS Y EQUIPO",Dic-2025,12430715.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,ACTIVOS INTANGIBLES,Dic-2025,1191981.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,P A S I V O,Dic-2025,171954372.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,DEPÓSITOS,Dic-2025,161359137.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,SECTOR PÚBLICO NO FINANCIERO,Dic-2025,6145527.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,SECTOR FINANCIERO,Dic-2025,34702.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,SECTOR PRIVADO NO FINANCIERO Y RESIDENTES EN EL EXT.,Dic-2025,155178908.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,CUENTAS CORRIENTES,Dic-2025,42040458.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,CAJA DE AHORROS,Dic-2025,3815674.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,PLAZO FIJO E INVERSIONES A PLAZO,Dic-2025,107496917.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,OTROS,Dic-2025,46301.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,INTERESES Y DIF. COTIZ. DEVENG. A PAGAR,Dic-2025,1779558.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,OTRAS OBLIG.POR INTERMED. FINANC.,Dic-2025,989508.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,OBLIGACIONES DIVERSAS,Dic-2025,9109710.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,PROVISIONES,Dic-2025,496017.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,P A T R I M O N I O N E T O,Dic-2025,12315703.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,"CAPITAL, APORTES, RESERVAS Y ORI ACUMULADO",Dic-2025,20171012.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,RESULTADOS NO ASIGNADOS,Dic-2025,-7855309.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,R D O S. I N T E G R A L E S A C U M. D E L P E R I O D O,Dic-2025,-7855309.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,INGRESOS FINANCIEROS,Dic-2025,64928493.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,POR INTERESES,Dic-2025,33255872.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,OTROS INGRESOS FINANCIEROS,Dic-2025,31672621.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,EGRESOS FINANCIEROS,Dic-2025,-40385322.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,POR INTERESES,Dic-2025,-36069341.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,OTROS EGRESOS FINANCIEROS,Dic-2025,-4315981.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,CARGO POR INCOBRABILIDAD,Dic-2025,-962238.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,INGRESOS POR SERVICIOS,Dic-2025,2921545.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,EGRESOS POR SERVICIOS,Dic-2025,-13201892.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,GASTOS DE ADMINISTRACIÓN,Dic-2025,-20949759.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,CRÉDITOS RECUPERADOS Y PREVISIONES DESAFECTADAS,Dic-2025,82794.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,RESULTADO MONETARIO,Dic-2025,560134.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,OTROS,Dic-2025,-422910.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,IMPUESTO A LAS GANANCIAS,Dic-2025,-426154.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,PARTIDAS FUERA DE BALANCE,Dic-2025,,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,CRÉDITOS IRRECUPERABLES EN PARTIDAS FUERA DEL BALANCE,Dic-2025,239797.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,CONTINGENTES ACREEDORAS,Dic-2025,2557781.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,DE CONTROL ACREEDORAS,Dic-2025,,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,DE DERIVADOS ACREEDORAS,Dic-2025,223650.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,DE CONTROL DEUDORAS,Dic-2025,91611551.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,,Ene-2026,,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,A C T I V O,Ene-2026,190702848.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,EFECTIVO Y DEPOSITO EN BANCOS,Ene-2026,12816992.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,TÍTULOS PÚBLICOS Y PRIVADOS,Ene-2026,76174107.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,PRÉSTAMOS,Ene-2026,64697090.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,SECTOR FINANCIERO,Ene-2026,1502244.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,SECTOR PRIVADO NO FINANCIERO Y RESIDENTES EN EL EXT.,Ene-2026,63848905.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,ADELANTOS,Ene-2026,17152.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,"DOC A SOLA FIRMA, DESCONT. Y COMPRADOS",Ene-2026,3017.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,PERSONALES,Ene-2026,48475036.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,OTROS,Ene-2026,311690.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,INTERESES Y DIF. COTIZ. DEVENG. A COBRAR,Ene-2026,3304370.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,AJUSTES NIIF,Ene-2026,11737640.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,PREVISIONES,Ene-2026,-654059.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,OTROS CRED.POR INTERM.FINAN.,Ene-2026,18991990.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,CRÉDITOS DIVERSOS,Ene-2026,4019275.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,"PROPIEDAD, PLANTAS Y EQUIPO",Ene-2026,12733922.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,ACTIVOS INTANGIBLES,Ene-2026,1269472.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,P A S I V O,Ene-2026,177897724.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,DEPÓSITOS,Ene-2026,167400046.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,SECTOR PÚBLICO NO FINANCIERO,Ene-2026,5475586.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,SECTOR FINANCIERO,Ene-2026,38605.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,SECTOR PRIVADO NO FINANCIERO Y RESIDENTES EN EL EXT.,Ene-2026,161885855.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,CUENTAS CORRIENTES,Ene-2026,41339289.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,CAJA DE AHORROS,Ene-2026,3853142.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,PLAZO FIJO E INVERSIONES A PLAZO,Ene-2026,114928401.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,OTROS,Ene-2026,49564.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,INTERESES Y DIF. COTIZ. DEVENG. A PAGAR,Ene-2026,1715459.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,OTRAS OBLIG.POR INTERMED. FINANC.,Ene-2026,763892.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,OBLIGACIONES DIVERSAS,Ene-2026,9080450.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,PROVISIONES,Ene-2026,653336.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,P A T R I M O N I O N E T O,Ene-2026,12805124.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,"CAPITAL, APORTES, RESERVAS Y ORI ACUMULADO",Ene-2026,20752263.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,RESULTADOS NO ASIGNADOS,Ene-2026,-7947139.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,R D O S. I N T E G R A L E S A C U M. D E L P E R I O D O,Ene-2026,134529.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,INGRESOS FINANCIEROS,Ene-2026,5789478.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,POR INTERESES,Ene-2026,2893704.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,OTROS INGRESOS FINANCIEROS,Ene-2026,2895774.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,EGRESOS FINANCIEROS,Ene-2026,-3218622.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,POR INTERESES,Ene-2026,-2959828.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,OTROS EGRESOS FINANCIEROS,Ene-2026,-258794.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,CARGO POR INCOBRABILIDAD,Ene-2026,50246.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,INGRESOS POR SERVICIOS,Ene-2026,309014.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,EGRESOS POR SERVICIOS,Ene-2026,-1413249.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,GASTOS DE ADMINISTRACIÓN,Ene-2026,-1790782.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,CRÉDITOS RECUPERADOS Y PREVISIONES DESAFECTADAS,Ene-2026,9298.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,RESULTADO MONETARIO,Ene-2026,314812.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,OTROS,Ene-2026,105645.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,IMPUESTO A LAS GANANCIAS,Ene-2026,-21311.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,PARTIDAS FUERA DE BALANCE,Ene-2026,,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,CRÉDITOS IRRECUPERABLES EN PARTIDAS FUERA DEL BALANCE,Ene-2026,241873.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,CONTINGENTES ACREEDORAS,Ene-2026,158648.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,DE CONTROL ACREEDORAS,Ene-2026,,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,DE DERIVADOS ACREEDORAS,Ene-2026,221775.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,estados_contables,DE CONTROL DEUDORAS,Ene-2026,74432665.0,2026-04-19

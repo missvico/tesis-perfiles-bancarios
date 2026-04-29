@@ -1,0 +1,45 @@
+codigo_bcra,nombre_banco,tipo_entidad,fuente,variable,periodo,valor,scraping_fecha
+00147,BIBANK S.A.,privado_nacional,informacion_estructura,Cantidad de cuentas corrientes,Dic-2023,448.0,2026-04-19
+00147,BIBANK S.A.,privado_nacional,informacion_estructura,Cantidad de cuentas de ahorro,Dic-2023,256.0,2026-04-19
+00147,BIBANK S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones a plazo fijo Individuos,Dic-2023,49.0,2026-04-19
+00147,BIBANK S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones a plazo fijo Empresas,Dic-2023,77.0,2026-04-19
+00147,BIBANK S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones por préstamos prendarios,Dic-2023,176.0,2026-04-19
+00147,BIBANK S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones por otros préstamos,Dic-2023,225.0,2026-04-19
+00147,BIBANK S.A.,privado_nacional,informacion_estructura,Dotación de personal,Dic-2023,105.0,2026-04-19
+00147,BIBANK S.A.,privado_nacional,informacion_estructura,Cantidad de cuentas corrientes,Dic-2024,444.0,2026-04-19
+00147,BIBANK S.A.,privado_nacional,informacion_estructura,Cantidad de cuentas de ahorro,Dic-2024,259.0,2026-04-19
+00147,BIBANK S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones a plazo fijo Individuos,Dic-2024,11.0,2026-04-19
+00147,BIBANK S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones a plazo fijo Empresas,Dic-2024,103.0,2026-04-19
+00147,BIBANK S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones por préstamos prendarios,Dic-2024,15.0,2026-04-19
+00147,BIBANK S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones por otros préstamos,Dic-2024,284.0,2026-04-19
+00147,BIBANK S.A.,privado_nacional,informacion_estructura,Dotación de personal,Dic-2024,112.0,2026-04-19
+00147,BIBANK S.A.,privado_nacional,informacion_estructura,Cantidad de cuentas corrientes,Jun-2025,472.0,2026-04-19
+00147,BIBANK S.A.,privado_nacional,informacion_estructura,Cantidad de cuentas de ahorro,Jun-2025,268.0,2026-04-19
+00147,BIBANK S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones a plazo fijo Individuos,Jun-2025,27.0,2026-04-19
+00147,BIBANK S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones a plazo fijo Empresas,Jun-2025,62.0,2026-04-19
+00147,BIBANK S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones por préstamos prendarios,Jun-2025,3.0,2026-04-19
+00147,BIBANK S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones por otros préstamos,Jun-2025,275.0,2026-04-19
+00147,BIBANK S.A.,privado_nacional,informacion_estructura,Dotación de personal,Jun-2025,108.0,2026-04-19
+00147,BIBANK S.A.,privado_nacional,informacion_estructura,Cantidad de cuentas corrientes,Set-2025,451.0,2026-04-19
+00147,BIBANK S.A.,privado_nacional,informacion_estructura,Cantidad de cuentas de ahorro,Set-2025,267.0,2026-04-19
+00147,BIBANK S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones a plazo fijo Individuos,Set-2025,29.0,2026-04-19
+00147,BIBANK S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones a plazo fijo Empresas,Set-2025,72.0,2026-04-19
+00147,BIBANK S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones por préstamos prendarios,Set-2025,,2026-04-19
+00147,BIBANK S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones por otros préstamos,Set-2025,248.0,2026-04-19
+00147,BIBANK S.A.,privado_nacional,informacion_estructura,Dotación de personal,Set-2025,105.0,2026-04-19
+00147,BIBANK S.A.,privado_nacional,informacion_estructura,Cantidad de cuentas corrientes,Dic-2025,476.0,2026-04-19
+00147,BIBANK S.A.,privado_nacional,informacion_estructura,Cantidad de cuentas de ahorro,Dic-2025,282.0,2026-04-19
+00147,BIBANK S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones a plazo fijo Individuos,Dic-2025,36.0,2026-04-19
+00147,BIBANK S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones a plazo fijo Empresas,Dic-2025,111.0,2026-04-19
+00147,BIBANK S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones por préstamos prendarios,Dic-2025,,2026-04-19
+00147,BIBANK S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones por otros préstamos,Dic-2025,249.0,2026-04-19
+00147,BIBANK S.A.,privado_nacional,informacion_estructura,Dotación de personal,Dic-2025,99.0,2026-04-19
+00147,BIBANK S.A.,privado_nacional,informacion_estructura,CABA,Habilitadas,1.0,2026-04-19
+00147,BIBANK S.A.,privado_nacional,informacion_estructura,CABA,Habilitadas,,2026-04-19
+00147,BIBANK S.A.,privado_nacional,informacion_estructura,CABA,Habilitadas,,2026-04-19
+00147,BIBANK S.A.,privado_nacional,informacion_estructura,CABA,Habilitadas,,2026-04-19
+00147,BIBANK S.A.,privado_nacional,informacion_estructura,CABA,Habilitadas,,2026-04-19
+00147,BIBANK S.A.,privado_nacional,informacion_estructura,CABA,Habilitadas,,2026-04-19
+00147,BIBANK S.A.,privado_nacional,informacion_estructura,CABA,Habilitadas,,2026-04-19
+00147,BIBANK S.A.,privado_nacional,informacion_estructura,CABA,Pendientes de habilitación,,2026-04-19
+00147,BIBANK S.A.,privado_nacional,informacion_estructura,CABA,Total,1.0,2026-04-19

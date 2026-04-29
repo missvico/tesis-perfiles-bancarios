@@ -1,0 +1,156 @@
+codigo_bcra,nombre_banco,tipo_entidad,fuente,variable,periodo,valor,scraping_fecha
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,indicadores_economicos,capital: C1 - Apalancamiento (en veces),Dic-2023,3.72,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,indicadores_economicos,capital: C1 - Apalancamiento (en veces),Dic-2024,1.79,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,indicadores_economicos,capital: C1 - Apalancamiento (en veces),Nov-2025,3.09,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,indicadores_economicos,capital: C1 - Apalancamiento (en veces),Dic-2025,3.38,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,indicadores_economicos,capital: C1 - Apalancamiento (en veces),Ene-2026,3.29,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,indicadores_economicos,capital: C2 - Pérdida Potencial de Cartera en Situación 2 a 5 (%),Dic-2023,-3.59,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,indicadores_economicos,capital: C2 - Pérdida Potencial de Cartera en Situación 2 a 5 (%),Dic-2024,-1.83,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,indicadores_economicos,capital: C2 - Pérdida Potencial de Cartera en Situación 2 a 5 (%),Nov-2025,-3.36,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,indicadores_economicos,capital: C2 - Pérdida Potencial de Cartera en Situación 2 a 5 (%),Dic-2025,-3.83,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,indicadores_economicos,capital: C2 - Pérdida Potencial de Cartera en Situación 2 a 5 (%),Ene-2026,-0.99,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,indicadores_economicos,capital: C3 - Pérdida Potencial de Cartera en Situación 3 a 5 (%),Dic-2023,-3.59,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,indicadores_economicos,capital: C3 - Pérdida Potencial de Cartera en Situación 3 a 5 (%),Dic-2024,-1.83,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,indicadores_economicos,capital: C3 - Pérdida Potencial de Cartera en Situación 3 a 5 (%),Nov-2025,-4.69,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,indicadores_economicos,capital: C3 - Pérdida Potencial de Cartera en Situación 3 a 5 (%),Dic-2025,-4.09,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,indicadores_economicos,capital: C3 - Pérdida Potencial de Cartera en Situación 3 a 5 (%),Ene-2026,-2.69,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,indicadores_economicos,activos: A9 - Total Cartera Irregular / Total Financiaciones (%),Dic-2023,0.17,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,indicadores_economicos,activos: A9 - Total Cartera Irregular / Total Financiaciones (%),Dic-2024,0.06,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,indicadores_economicos,activos: A9 - Total Cartera Irregular / Total Financiaciones (%),Nov-2025,1.09,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,indicadores_economicos,activos: A9 - Total Cartera Irregular / Total Financiaciones (%),Dic-2025,1.46,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,indicadores_economicos,activos: A9 - Total Cartera Irregular / Total Financiaciones (%),Ene-2026,1.38,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,indicadores_economicos,activos: A11 - Cartera Irregular Sector Privado (%),Dic-2023,0.17,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,indicadores_economicos,activos: A11 - Cartera Irregular Sector Privado (%),Dic-2024,0.07,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,indicadores_economicos,activos: A11 - Cartera Irregular Sector Privado (%),Nov-2025,1.12,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,indicadores_economicos,activos: A11 - Cartera Irregular Sector Privado (%),Dic-2025,1.5,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,indicadores_economicos,activos: A11 - Cartera Irregular Sector Privado (%),Ene-2026,1.43,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,indicadores_economicos,activos: A12 - Participación Cartera Comercial Sector Privado (%),Dic-2023,99.55,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,indicadores_economicos,activos: A12 - Participación Cartera Comercial Sector Privado (%),Dic-2024,99.41,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,indicadores_economicos,activos: A12 - Participación Cartera Comercial Sector Privado (%),Nov-2025,98.24,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,indicadores_economicos,activos: A12 - Participación Cartera Comercial Sector Privado (%),Dic-2025,98.38,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,indicadores_economicos,activos: A12 - Participación Cartera Comercial Sector Privado (%),Ene-2026,97.62,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,indicadores_economicos,activos: A13 - Participación Cartera Consumo Sector Privado (%),Dic-2023,0.45,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,indicadores_economicos,activos: A13 - Participación Cartera Consumo Sector Privado (%),Dic-2024,0.59,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,indicadores_economicos,activos: A13 - Participación Cartera Consumo Sector Privado (%),Nov-2025,1.76,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,indicadores_economicos,activos: A13 - Participación Cartera Consumo Sector Privado (%),Dic-2025,1.62,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,indicadores_economicos,activos: A13 - Participación Cartera Consumo Sector Privado (%),Ene-2026,2.38,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,indicadores_economicos,activos: A14 - Previsiones sobre Cartera Irregular Total (%),Dic-2023,1473.94,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,indicadores_economicos,activos: A14 - Previsiones sobre Cartera Irregular Total (%),Dic-2024,2390.58,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,indicadores_economicos,activos: A14 - Previsiones sobre Cartera Irregular Total (%),Nov-2025,261.54,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,indicadores_economicos,activos: A14 - Previsiones sobre Cartera Irregular Total (%),Dic-2025,200.3,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,indicadores_economicos,activos: A14 - Previsiones sobre Cartera Irregular Total (%),Ene-2026,171.04,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,indicadores_economicos,activos: A16 - Cartera Irregular Consumo Sector Privado (%),Dic-2023,0.44,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,indicadores_economicos,activos: A16 - Cartera Irregular Consumo Sector Privado (%),Dic-2024,0.06,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,indicadores_economicos,activos: A16 - Cartera Irregular Consumo Sector Privado (%),Nov-2025,2.78,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,indicadores_economicos,activos: A16 - Cartera Irregular Consumo Sector Privado (%),Dic-2025,3.66,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,indicadores_economicos,activos: A16 - Cartera Irregular Consumo Sector Privado (%),Ene-2026,2.67,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,indicadores_economicos,activos: A17 - Cartera Irregular Comercial Sector Privado (%),Dic-2023,0.17,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,indicadores_economicos,activos: A17 - Cartera Irregular Comercial Sector Privado (%),Dic-2024,0.07,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,indicadores_economicos,activos: A17 - Cartera Irregular Comercial Sector Privado (%),Nov-2025,1.09,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,indicadores_economicos,activos: A17 - Cartera Irregular Comercial Sector Privado (%),Dic-2025,1.47,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,indicadores_economicos,activos: A17 - Cartera Irregular Comercial Sector Privado (%),Ene-2026,1.4,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,indicadores_economicos,activos: A21 - Posición de Previsiones Mín Sector Priv No Fciero (%),Dic-2023,145.0,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,indicadores_economicos,activos: A21 - Posición de Previsiones Mín Sector Priv No Fciero (%),Dic-2024,72.28,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,indicadores_economicos,activos: A21 - Posición de Previsiones Mín Sector Priv No Fciero (%),Nov-2025,95.69,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,indicadores_economicos,activos: A21 - Posición de Previsiones Mín Sector Priv No Fciero (%),Dic-2025,85.3,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,indicadores_economicos,activos: A21 - Posición de Previsiones Mín Sector Priv No Fciero (%),Ene-2026,51.06,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,indicadores_economicos,activos: AG3 - Importancia de Cartera Vencida del Sector Privado (%),Dic-2023,0.13,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,indicadores_economicos,activos: AG3 - Importancia de Cartera Vencida del Sector Privado (%),Dic-2024,0.07,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,indicadores_economicos,activos: AG3 - Importancia de Cartera Vencida del Sector Privado (%),Nov-2025,1.12,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,indicadores_economicos,activos: AG3 - Importancia de Cartera Vencida del Sector Privado (%),Dic-2025,1.5,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,indicadores_economicos,activos: AG3 - Importancia de Cartera Vencida del Sector Privado (%),Ene-2026,1.43,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,indicadores_economicos,activos: AG29 - Efectivo y Depósito en Bancos / Activo (%),Dic-2023,5.07,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,indicadores_economicos,activos: AG29 - Efectivo y Depósito en Bancos / Activo (%),Dic-2024,9.65,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,indicadores_economicos,activos: AG29 - Efectivo y Depósito en Bancos / Activo (%),Nov-2025,12.98,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,indicadores_economicos,activos: AG29 - Efectivo y Depósito en Bancos / Activo (%),Dic-2025,10.5,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,indicadores_economicos,activos: AG29 - Efectivo y Depósito en Bancos / Activo (%),Ene-2026,6.77,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,indicadores_economicos,eficiencia: E1 - Absorción de Gastos de Ad. con Volúmen de Negocio (%),Dic-2023,29.1,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,indicadores_economicos,eficiencia: E1 - Absorción de Gastos de Ad. con Volúmen de Negocio (%),Dic-2024,19.45,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,indicadores_economicos,eficiencia: E1 - Absorción de Gastos de Ad. con Volúmen de Negocio (%),Nov-2025,11.43,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,indicadores_economicos,eficiencia: E1 - Absorción de Gastos de Ad. con Volúmen de Negocio (%),Dic-2025,9.22,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,indicadores_economicos,eficiencia: E1 - Absorción de Gastos de Ad. con Volúmen de Negocio (%),Ene-2026,9.82,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,indicadores_economicos,eficiencia: E2 - Margen de Rentabilidad Operat./Gastos de Estructura (%),Dic-2023,216.76,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,indicadores_economicos,eficiencia: E2 - Margen de Rentabilidad Operat./Gastos de Estructura (%),Dic-2024,385.1,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,indicadores_economicos,eficiencia: E2 - Margen de Rentabilidad Operat./Gastos de Estructura (%),Nov-2025,44.46,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,indicadores_economicos,eficiencia: E2 - Margen de Rentabilidad Operat./Gastos de Estructura (%),Dic-2025,34.04,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,indicadores_economicos,eficiencia: E2 - Margen de Rentabilidad Operat./Gastos de Estructura (%),Ene-2026,26.43,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,indicadores_economicos,eficiencia: E4 - Depósitos por Empleado (en millones de pesos),Dic-2023,549.55,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,indicadores_economicos,eficiencia: E4 - Depósitos por Empleado (en millones de pesos),Dic-2024,961.36,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,indicadores_economicos,eficiencia: E4 - Depósitos por Empleado (en millones de pesos),Nov-2025,1710.15,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,indicadores_economicos,eficiencia: E4 - Depósitos por Empleado (en millones de pesos),Dic-2025,2210.53,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,indicadores_economicos,eficiencia: E4 - Depósitos por Empleado (en millones de pesos),Ene-2026,2068.85,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,indicadores_economicos,eficiencia: E5 - Financiaciones por Empleado (en millones de pesos),Dic-2023,174.18,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,indicadores_economicos,eficiencia: E5 - Financiaciones por Empleado (en millones de pesos),Dic-2024,738.12,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,indicadores_economicos,eficiencia: E5 - Financiaciones por Empleado (en millones de pesos),Nov-2025,1545.65,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,indicadores_economicos,eficiencia: E5 - Financiaciones por Empleado (en millones de pesos),Dic-2025,1672.81,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,indicadores_economicos,eficiencia: E5 - Financiaciones por Empleado (en millones de pesos),Ene-2026,1732.97,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,indicadores_economicos,rentabilidad: R1 - Rendimiento Anual del Patrimonio ( ROE) (%),Dic-2023,110.47,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,indicadores_economicos,rentabilidad: R1 - Rendimiento Anual del Patrimonio ( ROE) (%),Dic-2024,59.31,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,indicadores_economicos,rentabilidad: R1 - Rendimiento Anual del Patrimonio ( ROE) (%),Nov-2025,7.37,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,indicadores_economicos,rentabilidad: R1 - Rendimiento Anual del Patrimonio ( ROE) (%),Dic-2025,6.23,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,indicadores_economicos,rentabilidad: R1 - Rendimiento Anual del Patrimonio ( ROE) (%),Ene-2026,3.71,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,indicadores_economicos,rentabilidad: R2 - Rendimiento Ordinario del Patrimonio (%),Dic-2023,319.38,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,indicadores_economicos,rentabilidad: R2 - Rendimiento Ordinario del Patrimonio (%),Dic-2024,156.65,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,indicadores_economicos,rentabilidad: R2 - Rendimiento Ordinario del Patrimonio (%),Nov-2025,15.21,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,indicadores_economicos,rentabilidad: R2 - Rendimiento Ordinario del Patrimonio (%),Dic-2025,11.41,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,indicadores_economicos,rentabilidad: R2 - Rendimiento Ordinario del Patrimonio (%),Ene-2026,9.24,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,indicadores_economicos,rentabilidad: R8 - Tasa Implicita Préstamos Totales (%),Dic-2023,79.37,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,indicadores_economicos,rentabilidad: R8 - Tasa Implicita Préstamos Totales (%),Dic-2024,50.09,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,indicadores_economicos,rentabilidad: R8 - Tasa Implicita Préstamos Totales (%),Nov-2025,36.79,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,indicadores_economicos,rentabilidad: R8 - Tasa Implicita Préstamos Totales (%),Dic-2025,35.73,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,indicadores_economicos,rentabilidad: R8 - Tasa Implicita Préstamos Totales (%),Ene-2026,35.09,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,indicadores_economicos,rentabilidad: R9 - Tasa Implicita Depósitos Totales (%),Dic-2023,107.79,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,indicadores_economicos,rentabilidad: R9 - Tasa Implicita Depósitos Totales (%),Dic-2024,29.67,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,indicadores_economicos,rentabilidad: R9 - Tasa Implicita Depósitos Totales (%),Nov-2025,20.18,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,indicadores_economicos,rentabilidad: R9 - Tasa Implicita Depósitos Totales (%),Dic-2025,19.78,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,indicadores_economicos,rentabilidad: R9 - Tasa Implicita Depósitos Totales (%),Ene-2026,20.19,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,indicadores_economicos,rentabilidad: R17 - Gastos en Personal / Gastos de Administración (%),Dic-2023,41.33,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,indicadores_economicos,rentabilidad: R17 - Gastos en Personal / Gastos de Administración (%),Dic-2024,43.64,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,indicadores_economicos,rentabilidad: R17 - Gastos en Personal / Gastos de Administración (%),Nov-2025,29.82,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,indicadores_economicos,rentabilidad: R17 - Gastos en Personal / Gastos de Administración (%),Dic-2025,25.97,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,indicadores_economicos,rentabilidad: R17 - Gastos en Personal / Gastos de Administración (%),Ene-2026,24.13,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,indicadores_economicos,rentabilidad: RG1 - Retorno sobre Activos ( ROA) (%),Dic-2023,15.53,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,indicadores_economicos,rentabilidad: RG1 - Retorno sobre Activos ( ROA) (%),Dic-2024,15.95,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,indicadores_economicos,rentabilidad: RG1 - Retorno sobre Activos ( ROA) (%),Nov-2025,2.08,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,indicadores_economicos,rentabilidad: RG1 - Retorno sobre Activos ( ROA) (%),Dic-2025,1.71,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,indicadores_economicos,rentabilidad: RG1 - Retorno sobre Activos ( ROA) (%),Ene-2026,0.99,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,indicadores_economicos,rentabilidad: RG2_II - Margen Financiero en Términos de Activo (%),Dic-2023,71.09,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,indicadores_economicos,rentabilidad: RG2_II - Margen Financiero en Términos de Activo (%),Dic-2024,53.24,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,indicadores_economicos,rentabilidad: RG2_II - Margen Financiero en Términos de Activo (%),Nov-2025,15.54,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,indicadores_economicos,rentabilidad: RG2_II - Margen Financiero en Términos de Activo (%),Dic-2025,14.32,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,indicadores_economicos,rentabilidad: RG2_II - Margen Financiero en Términos de Activo (%),Ene-2026,13.77,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,indicadores_economicos,rentabilidad: RG3 - Cargos por Incobrabilidad / Activo  (%),Dic-2023,-2.62,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,indicadores_economicos,rentabilidad: RG3 - Cargos por Incobrabilidad / Activo  (%),Dic-2024,-0.44,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,indicadores_economicos,rentabilidad: RG3 - Cargos por Incobrabilidad / Activo  (%),Nov-2025,-1.35,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,indicadores_economicos,rentabilidad: RG3 - Cargos por Incobrabilidad / Activo  (%),Dic-2025,-1.67,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,indicadores_economicos,rentabilidad: RG3 - Cargos por Incobrabilidad / Activo  (%),Ene-2026,-1.58,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,indicadores_economicos,rentabilidad: RG4_II - Resultados por Servicios / Activo (%),Dic-2023,4.07,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,indicadores_economicos,rentabilidad: RG4_II - Resultados por Servicios / Activo (%),Dic-2024,2.98,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,indicadores_economicos,rentabilidad: RG4_II - Resultados por Servicios / Activo (%),Nov-2025,1.45,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,indicadores_economicos,rentabilidad: RG4_II - Resultados por Servicios / Activo (%),Dic-2025,1.39,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,indicadores_economicos,rentabilidad: RG4_II - Resultados por Servicios / Activo (%),Ene-2026,1.36,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,indicadores_economicos,rentabilidad: RG5 - Gastos de Administración / Activo  (%),Dic-2023,-20.71,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,indicadores_economicos,rentabilidad: RG5 - Gastos de Administración / Activo  (%),Dic-2024,-10.94,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,indicadores_economicos,rentabilidad: RG5 - Gastos de Administración / Activo  (%),Nov-2025,-9.67,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,indicadores_economicos,rentabilidad: RG5 - Gastos de Administración / Activo  (%),Dic-2025,-9.22,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,indicadores_economicos,rentabilidad: RG5 - Gastos de Administración / Activo  (%),Ene-2026,-9.36,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,indicadores_economicos,rentabilidad: RG15 - Retorno sobre Activos (ROA) antes Imp. de Gcias (%),Dic-2023,30.34,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,indicadores_economicos,rentabilidad: RG15 - Retorno sobre Activos (ROA) antes Imp. de Gcias (%),Dic-2024,28.09,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,indicadores_economicos,rentabilidad: RG15 - Retorno sobre Activos (ROA) antes Imp. de Gcias (%),Nov-2025,-1.26,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,indicadores_economicos,rentabilidad: RG15 - Retorno sobre Activos (ROA) antes Imp. de Gcias (%),Dic-2025,-2.43,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,indicadores_economicos,rentabilidad: RG15 - Retorno sobre Activos (ROA) antes Imp. de Gcias (%),Ene-2026,-3.18,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,indicadores_economicos,"liquidez: L1-Liquidez Tit c/cot, POS. CALL, LELIQ, LEFIs (netas) (%)",Dic-2023,99999.0,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,indicadores_economicos,"liquidez: L1-Liquidez Tit c/cot, POS. CALL, LELIQ, LEFIs (netas) (%)",Dic-2024,159.48,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,indicadores_economicos,"liquidez: L1-Liquidez Tit c/cot, POS. CALL, LELIQ, LEFIs (netas) (%)",Nov-2025,54.16,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,indicadores_economicos,"liquidez: L1-Liquidez Tit c/cot, POS. CALL, LELIQ, LEFIs (netas) (%)",Dic-2025,50.3,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,indicadores_economicos,"liquidez: L1-Liquidez Tit c/cot, POS. CALL, LELIQ, LEFIs (netas) (%)",Ene-2026,54.87,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,indicadores_economicos,liquidez: L8_II - Liquidez con títulos con cotiz (%),Dic-2023,70.96,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,indicadores_economicos,liquidez: L8_II - Liquidez con títulos con cotiz (%),Dic-2024,140.42,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,indicadores_economicos,liquidez: L8_II - Liquidez con títulos con cotiz (%),Nov-2025,54.16,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,indicadores_economicos,liquidez: L8_II - Liquidez con títulos con cotiz (%),Dic-2025,50.3,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,indicadores_economicos,liquidez: L8_II - Liquidez con títulos con cotiz (%),Ene-2026,54.87,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,indicadores_economicos,"liquidez: L9 -Liq LELIQ, PASES y LEFIs (netos pases activos BCRA) (%)",Dic-2023,65.73,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,indicadores_economicos,"liquidez: L9 -Liq LELIQ, PASES y LEFIs (netos pases activos BCRA) (%)",Dic-2024,46.41,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,indicadores_economicos,"liquidez: L9 -Liq LELIQ, PASES y LEFIs (netos pases activos BCRA) (%)",Nov-2025,27.09,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,indicadores_economicos,"liquidez: L9 -Liq LELIQ, PASES y LEFIs (netos pases activos BCRA) (%)",Dic-2025,22.62,2026-04-19
+00338,BANCO DE SERVICIOS Y TRANSACCIONES,privado_nacional,indicadores_economicos,"liquidez: L9 -Liq LELIQ, PASES y LEFIs (netos pases activos BCRA) (%)",Ene-2026,69.35,2026-04-19

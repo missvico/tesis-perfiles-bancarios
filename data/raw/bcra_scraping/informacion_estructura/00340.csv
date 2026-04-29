@@ -1,0 +1,45 @@
+codigo_bcra,nombre_banco,tipo_entidad,fuente,variable,periodo,valor,scraping_fecha
+00340,BACS BANCO DE CREDITO Y SECURITIZAC,privado_nacional,informacion_estructura,Cantidad de cuentas corrientes,Dic-2023,,2026-04-19
+00340,BACS BANCO DE CREDITO Y SECURITIZAC,privado_nacional,informacion_estructura,Cantidad de cuentas de ahorro,Dic-2023,65.0,2026-04-19
+00340,BACS BANCO DE CREDITO Y SECURITIZAC,privado_nacional,informacion_estructura,Cantidad de operaciones a plazo fijo Empresas,Dic-2023,7.0,2026-04-19
+00340,BACS BANCO DE CREDITO Y SECURITIZAC,privado_nacional,informacion_estructura,Cantidad de operaciones por préstamos hipotecarios,Dic-2023,85.0,2026-04-19
+00340,BACS BANCO DE CREDITO Y SECURITIZAC,privado_nacional,informacion_estructura,Cantidad de operaciones por préstamos prendarios,Dic-2023,8.0,2026-04-19
+00340,BACS BANCO DE CREDITO Y SECURITIZAC,privado_nacional,informacion_estructura,Cantidad de operaciones por otros préstamos,Dic-2023,734.0,2026-04-19
+00340,BACS BANCO DE CREDITO Y SECURITIZAC,privado_nacional,informacion_estructura,Dotación de personal,Dic-2023,69.0,2026-04-19
+00340,BACS BANCO DE CREDITO Y SECURITIZAC,privado_nacional,informacion_estructura,Cantidad de cuentas corrientes,Dic-2024,,2026-04-19
+00340,BACS BANCO DE CREDITO Y SECURITIZAC,privado_nacional,informacion_estructura,Cantidad de cuentas de ahorro,Dic-2024,13.0,2026-04-19
+00340,BACS BANCO DE CREDITO Y SECURITIZAC,privado_nacional,informacion_estructura,Cantidad de operaciones a plazo fijo Empresas,Dic-2024,15.0,2026-04-19
+00340,BACS BANCO DE CREDITO Y SECURITIZAC,privado_nacional,informacion_estructura,Cantidad de operaciones por préstamos hipotecarios,Dic-2024,18.0,2026-04-19
+00340,BACS BANCO DE CREDITO Y SECURITIZAC,privado_nacional,informacion_estructura,Cantidad de operaciones por préstamos prendarios,Dic-2024,2.0,2026-04-19
+00340,BACS BANCO DE CREDITO Y SECURITIZAC,privado_nacional,informacion_estructura,Cantidad de operaciones por otros préstamos,Dic-2024,12008.0,2026-04-19
+00340,BACS BANCO DE CREDITO Y SECURITIZAC,privado_nacional,informacion_estructura,Dotación de personal,Dic-2024,74.0,2026-04-19
+00340,BACS BANCO DE CREDITO Y SECURITIZAC,privado_nacional,informacion_estructura,Cantidad de cuentas corrientes,Jun-2025,1.0,2026-04-19
+00340,BACS BANCO DE CREDITO Y SECURITIZAC,privado_nacional,informacion_estructura,Cantidad de cuentas de ahorro,Jun-2025,13.0,2026-04-19
+00340,BACS BANCO DE CREDITO Y SECURITIZAC,privado_nacional,informacion_estructura,Cantidad de operaciones a plazo fijo Empresas,Jun-2025,8.0,2026-04-19
+00340,BACS BANCO DE CREDITO Y SECURITIZAC,privado_nacional,informacion_estructura,Cantidad de operaciones por préstamos hipotecarios,Jun-2025,,2026-04-19
+00340,BACS BANCO DE CREDITO Y SECURITIZAC,privado_nacional,informacion_estructura,Cantidad de operaciones por préstamos prendarios,Jun-2025,1.0,2026-04-19
+00340,BACS BANCO DE CREDITO Y SECURITIZAC,privado_nacional,informacion_estructura,Cantidad de operaciones por otros préstamos,Jun-2025,18223.0,2026-04-19
+00340,BACS BANCO DE CREDITO Y SECURITIZAC,privado_nacional,informacion_estructura,Dotación de personal,Jun-2025,72.0,2026-04-19
+00340,BACS BANCO DE CREDITO Y SECURITIZAC,privado_nacional,informacion_estructura,Cantidad de cuentas corrientes,Set-2025,1.0,2026-04-19
+00340,BACS BANCO DE CREDITO Y SECURITIZAC,privado_nacional,informacion_estructura,Cantidad de cuentas de ahorro,Set-2025,17.0,2026-04-19
+00340,BACS BANCO DE CREDITO Y SECURITIZAC,privado_nacional,informacion_estructura,Cantidad de operaciones a plazo fijo Empresas,Set-2025,8.0,2026-04-19
+00340,BACS BANCO DE CREDITO Y SECURITIZAC,privado_nacional,informacion_estructura,Cantidad de operaciones por préstamos hipotecarios,Set-2025,,2026-04-19
+00340,BACS BANCO DE CREDITO Y SECURITIZAC,privado_nacional,informacion_estructura,Cantidad de operaciones por préstamos prendarios,Set-2025,1.0,2026-04-19
+00340,BACS BANCO DE CREDITO Y SECURITIZAC,privado_nacional,informacion_estructura,Cantidad de operaciones por otros préstamos,Set-2025,17897.0,2026-04-19
+00340,BACS BANCO DE CREDITO Y SECURITIZAC,privado_nacional,informacion_estructura,Dotación de personal,Set-2025,72.0,2026-04-19
+00340,BACS BANCO DE CREDITO Y SECURITIZAC,privado_nacional,informacion_estructura,Cantidad de cuentas corrientes,Dic-2025,1.0,2026-04-19
+00340,BACS BANCO DE CREDITO Y SECURITIZAC,privado_nacional,informacion_estructura,Cantidad de cuentas de ahorro,Dic-2025,19.0,2026-04-19
+00340,BACS BANCO DE CREDITO Y SECURITIZAC,privado_nacional,informacion_estructura,Cantidad de operaciones a plazo fijo Empresas,Dic-2025,39.0,2026-04-19
+00340,BACS BANCO DE CREDITO Y SECURITIZAC,privado_nacional,informacion_estructura,Cantidad de operaciones por préstamos hipotecarios,Dic-2025,,2026-04-19
+00340,BACS BANCO DE CREDITO Y SECURITIZAC,privado_nacional,informacion_estructura,Cantidad de operaciones por préstamos prendarios,Dic-2025,1.0,2026-04-19
+00340,BACS BANCO DE CREDITO Y SECURITIZAC,privado_nacional,informacion_estructura,Cantidad de operaciones por otros préstamos,Dic-2025,31070.0,2026-04-19
+00340,BACS BANCO DE CREDITO Y SECURITIZAC,privado_nacional,informacion_estructura,Dotación de personal,Dic-2025,71.0,2026-04-19
+00340,BACS BANCO DE CREDITO Y SECURITIZAC,privado_nacional,informacion_estructura,CABA,Habilitadas,1.0,2026-04-19
+00340,BACS BANCO DE CREDITO Y SECURITIZAC,privado_nacional,informacion_estructura,CABA,Habilitadas,,2026-04-19
+00340,BACS BANCO DE CREDITO Y SECURITIZAC,privado_nacional,informacion_estructura,CABA,Habilitadas,,2026-04-19
+00340,BACS BANCO DE CREDITO Y SECURITIZAC,privado_nacional,informacion_estructura,CABA,Habilitadas,,2026-04-19
+00340,BACS BANCO DE CREDITO Y SECURITIZAC,privado_nacional,informacion_estructura,CABA,Habilitadas,,2026-04-19
+00340,BACS BANCO DE CREDITO Y SECURITIZAC,privado_nacional,informacion_estructura,CABA,Habilitadas,,2026-04-19
+00340,BACS BANCO DE CREDITO Y SECURITIZAC,privado_nacional,informacion_estructura,CABA,Habilitadas,,2026-04-19
+00340,BACS BANCO DE CREDITO Y SECURITIZAC,privado_nacional,informacion_estructura,CABA,Pendientes de habilitación,,2026-04-19
+00340,BACS BANCO DE CREDITO Y SECURITIZAC,privado_nacional,informacion_estructura,CABA,Total,1.0,2026-04-19

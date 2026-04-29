@@ -1,0 +1,256 @@
+codigo_bcra,nombre_banco,tipo_entidad,fuente,variable,periodo,valor,scraping_fecha
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,,Dic-2023,,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,A C T I V O,Dic-2023,27138311.0,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,EFECTIVO Y DEPOSITO EN BANCOS,Dic-2023,12263400.0,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,TÍTULOS PÚBLICOS Y PRIVADOS,Dic-2023,1170845.0,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,PRÉSTAMOS,Dic-2023,320599.0,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,SECTOR FINANCIERO,Dic-2023,,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,SECTOR PRIVADO NO FINANCIERO Y RESIDENTES EN EL EXT.,Dic-2023,333476.0,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,"DOC A SOLA FIRMA, DESCONT. Y COMPRADOS",Dic-2023,42892.0,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,PERSONALES,Dic-2023,32.0,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,OTROS,Dic-2023,287425.0,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,INTERESES Y DIF. COTIZ. DEVENG. A COBRAR,Dic-2023,3127.0,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,INTERESES DOCUMENTADOS,Dic-2023,,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,AJUSTES NIIF,Dic-2023,,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,PREVISIONES,Dic-2023,-12877.0,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,OTROS CRED.POR INTERM.FINAN.,Dic-2023,11114045.0,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,CRÉDITOS DIVERSOS,Dic-2023,1370538.0,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,"PROPIEDAD, PLANTAS Y EQUIPO",Dic-2023,47510.0,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,BIENES DIVERSOS,Dic-2023,,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,ACTIVOS INTANGIBLES,Dic-2023,851374.0,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,P A S I V O,Dic-2023,22755689.0,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,DEPÓSITOS,Dic-2023,20960184.0,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,SECTOR PRIVADO NO FINANCIERO Y RESIDENTES EN EL EXT.,Dic-2023,20960184.0,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,CAJA DE AHORROS,Dic-2023,20125166.0,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,PLAZO FIJO E INVERSIONES A PLAZO,Dic-2023,588912.0,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,OTROS,Dic-2023,24645.0,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,INTERESES Y DIF. COTIZ. DEVENG. A PAGAR,Dic-2023,221461.0,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,OTRAS OBLIG.POR INTERMED. FINANC.,Dic-2023,130545.0,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,OBLIGACIONES DIVERSAS,Dic-2023,1664960.0,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,PROVISIONES,Dic-2023,,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,P A T R I M O N I O N E T O,Dic-2023,4382622.0,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,"CAPITAL, APORTES, RESERVAS Y ORI ACUMULADO",Dic-2023,36408923.0,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,RESULTADOS NO ASIGNADOS,Dic-2023,-32026301.0,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,R D O S. I N T E G R A L E S A C U M. D E L P E R I O D O,Dic-2023,-5759558.0,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,INGRESOS FINANCIEROS,Dic-2023,6860263.0,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,POR INTERESES,Dic-2023,4160039.0,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,OTROS INGRESOS FINANCIEROS,Dic-2023,2700224.0,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,EGRESOS FINANCIEROS,Dic-2023,-1542648.0,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,POR INTERESES,Dic-2023,-1242943.0,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,OTROS EGRESOS FINANCIEROS,Dic-2023,-299705.0,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,CARGO POR INCOBRABILIDAD,Dic-2023,-13516.0,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,INGRESOS POR SERVICIOS,Dic-2023,1359422.0,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,EGRESOS POR SERVICIOS,Dic-2023,-1766742.0,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,GASTOS DE ADMINISTRACIÓN,Dic-2023,-4409559.0,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,CRÉDITOS RECUPERADOS Y PREVISIONES DESAFECTADAS,Dic-2023,1789.0,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,RESULTADO MONETARIO,Dic-2023,-6246357.0,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,OTROS,Dic-2023,-2210.0,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,PARTIDAS FUERA DE BALANCE,Dic-2023,,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,CRÉDITOS IRRECUPERABLES EN PARTIDAS FUERA DEL BALANCE,Dic-2023,21651.0,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,CONTINGENTES ACREEDORAS,Dic-2023,,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,CONTINGENTES DEUDORAS,Dic-2023,19215.0,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,DE CONTROL DEUDORAS,Dic-2023,10247063.0,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,,Dic-2024,,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,A C T I V O,Dic-2024,353773712.0,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,EFECTIVO Y DEPOSITO EN BANCOS,Dic-2024,45807298.0,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,TÍTULOS PÚBLICOS Y PRIVADOS,Dic-2024,192253671.0,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,PRÉSTAMOS,Dic-2024,92007385.0,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,SECTOR FINANCIERO,Dic-2024,,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,SECTOR PRIVADO NO FINANCIERO Y RESIDENTES EN EL EXT.,Dic-2024,93307868.0,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,"DOC A SOLA FIRMA, DESCONT. Y COMPRADOS",Dic-2024,800000.0,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,PERSONALES,Dic-2024,67385548.0,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,OTROS,Dic-2024,19851565.0,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,INTERESES Y DIF. COTIZ. DEVENG. A COBRAR,Dic-2024,5270755.0,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,INTERESES DOCUMENTADOS,Dic-2024,,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,AJUSTES NIIF,Dic-2024,,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,PREVISIONES,Dic-2024,-1300483.0,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,OTROS CRED.POR INTERM.FINAN.,Dic-2024,20776541.0,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,CRÉDITOS DIVERSOS,Dic-2024,1656004.0,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,"PROPIEDAD, PLANTAS Y EQUIPO",Dic-2024,93900.0,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,BIENES DIVERSOS,Dic-2024,,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,ACTIVOS INTANGIBLES,Dic-2024,1178913.0,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,P A S I V O,Dic-2024,329692949.0,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,DEPÓSITOS,Dic-2024,316393740.0,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,SECTOR PRIVADO NO FINANCIERO Y RESIDENTES EN EL EXT.,Dic-2024,316393740.0,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,CAJA DE AHORROS,Dic-2024,266893679.0,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,PLAZO FIJO E INVERSIONES A PLAZO,Dic-2024,46208750.0,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,OTROS,Dic-2024,331366.0,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,INTERESES Y DIF. COTIZ. DEVENG. A PAGAR,Dic-2024,2959945.0,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,OTRAS OBLIG.POR INTERMED. FINANC.,Dic-2024,4985941.0,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,OBLIGACIONES DIVERSAS,Dic-2024,8299322.0,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,PROVISIONES,Dic-2024,13946.0,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,P A T R I M O N I O N E T O,Dic-2024,24080763.0,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,"CAPITAL, APORTES, RESERVAS Y ORI ACUMULADO",Dic-2024,22262871.0,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,RESULTADOS NO ASIGNADOS,Dic-2024,1817892.0,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,R D O S. I N T E G R A L E S A C U M. D E L P E R I O D O,Dic-2024,4017283.0,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,INGRESOS FINANCIEROS,Dic-2024,70050199.0,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,POR INTERESES,Dic-2024,37830292.0,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,OTROS INGRESOS FINANCIEROS,Dic-2024,32219907.0,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,EGRESOS FINANCIEROS,Dic-2024,-45172257.0,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,POR INTERESES,Dic-2024,-42692268.0,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,OTROS EGRESOS FINANCIEROS,Dic-2024,-2479989.0,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,CARGO POR INCOBRABILIDAD,Dic-2024,-1515172.0,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,INGRESOS POR SERVICIOS,Dic-2024,4363666.0,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,EGRESOS POR SERVICIOS,Dic-2024,-5601601.0,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,GASTOS DE ADMINISTRACIÓN,Dic-2024,-12890643.0,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,CRÉDITOS RECUPERADOS Y PREVISIONES DESAFECTADAS,Dic-2024,2140.0,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,RESULTADO MONETARIO,Dic-2024,-5326469.0,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,OTROS,Dic-2024,107420.0,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,PARTIDAS FUERA DE BALANCE,Dic-2024,,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,CRÉDITOS IRRECUPERABLES EN PARTIDAS FUERA DEL BALANCE,Dic-2024,22770.0,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,CONTINGENTES ACREEDORAS,Dic-2024,,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,CONTINGENTES DEUDORAS,Dic-2024,,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,DE CONTROL DEUDORAS,Dic-2024,10575.0,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,,Nov-2025,,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,A C T I V O,Nov-2025,601856707.0,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,EFECTIVO Y DEPOSITO EN BANCOS,Nov-2025,72013397.0,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,TÍTULOS PÚBLICOS Y PRIVADOS,Nov-2025,231015562.0,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,PRÉSTAMOS,Nov-2025,213040847.0,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,SECTOR FINANCIERO,Nov-2025,11018082.0,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,SECTOR PRIVADO NO FINANCIERO Y RESIDENTES EN EL EXT.,Nov-2025,314794845.0,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,"DOC A SOLA FIRMA, DESCONT. Y COMPRADOS",Nov-2025,2750000.0,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,PERSONALES,Nov-2025,203952526.0,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,OTROS,Nov-2025,70239241.0,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,INTERESES Y DIF. COTIZ. DEVENG. A COBRAR,Nov-2025,33881691.0,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,INTERESES DOCUMENTADOS,Nov-2025,,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,AJUSTES NIIF,Nov-2025,3971387.0,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,PREVISIONES,Nov-2025,-112772080.0,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,OTROS CRED.POR INTERM.FINAN.,Nov-2025,77782955.0,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,CRÉDITOS DIVERSOS,Nov-2025,3262557.0,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,"PROPIEDAD, PLANTAS Y EQUIPO",Nov-2025,1438122.0,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,BIENES DIVERSOS,Nov-2025,1646157.0,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,ACTIVOS INTANGIBLES,Nov-2025,1657110.0,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,P A S I V O,Nov-2025,591759086.0,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,DEPÓSITOS,Nov-2025,557131307.0,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,SECTOR PRIVADO NO FINANCIERO Y RESIDENTES EN EL EXT.,Nov-2025,557131307.0,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,CAJA DE AHORROS,Nov-2025,326192443.0,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,PLAZO FIJO E INVERSIONES A PLAZO,Nov-2025,220206068.0,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,OTROS,Nov-2025,607850.0,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,INTERESES Y DIF. COTIZ. DEVENG. A PAGAR,Nov-2025,10124946.0,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,OTRAS OBLIG.POR INTERMED. FINANC.,Nov-2025,24948381.0,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,OBLIGACIONES DIVERSAS,Nov-2025,9228917.0,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,PROVISIONES,Nov-2025,450481.0,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,P A T R I M O N I O N E T O,Nov-2025,10097621.0,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,"CAPITAL, APORTES, RESERVAS Y ORI ACUMULADO",Nov-2025,95688417.0,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,RESULTADOS NO ASIGNADOS,Nov-2025,-85590796.0,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,R D O S. I N T E G R A L E S A C U M. D E L P E R I O D O,Nov-2025,-87451001.0,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,INGRESOS FINANCIEROS,Nov-2025,208421179.0,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,POR INTERESES,Nov-2025,189044286.0,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,OTROS INGRESOS FINANCIEROS,Nov-2025,19376893.0,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,EGRESOS FINANCIEROS,Nov-2025,-144876166.0,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,POR INTERESES,Nov-2025,-131117865.0,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,OTROS EGRESOS FINANCIEROS,Nov-2025,-13758301.0,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,CARGO POR INCOBRABILIDAD,Nov-2025,-119086115.0,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,INGRESOS POR SERVICIOS,Nov-2025,5427160.0,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,EGRESOS POR SERVICIOS,Nov-2025,-11173382.0,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,GASTOS DE ADMINISTRACIÓN,Nov-2025,-25766182.0,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,CRÉDITOS RECUPERADOS Y PREVISIONES DESAFECTADAS,Nov-2025,13803.0,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,RESULTADO MONETARIO,Nov-2025,-4042730.0,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,OTROS,Nov-2025,3631432.0,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,PARTIDAS FUERA DE BALANCE,Nov-2025,,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,CRÉDITOS IRRECUPERABLES EN PARTIDAS FUERA DEL BALANCE,Nov-2025,,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,CONTINGENTES ACREEDORAS,Nov-2025,165902750.0,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,CONTINGENTES DEUDORAS,Nov-2025,,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,DE CONTROL DEUDORAS,Nov-2025,29863157.0,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,,Dic-2025,,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,A C T I V O,Dic-2025,619333156.0,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,EFECTIVO Y DEPOSITO EN BANCOS,Dic-2025,54412827.0,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,TÍTULOS PÚBLICOS Y PRIVADOS,Dic-2025,234859776.0,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,PRÉSTAMOS,Dic-2025,238015435.0,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,SECTOR FINANCIERO,Dic-2025,22072329.0,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,SECTOR PRIVADO NO FINANCIERO Y RESIDENTES EN EL EXT.,Dic-2025,339551066.0,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,"DOC A SOLA FIRMA, DESCONT. Y COMPRADOS",Dic-2025,2550000.0,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,PERSONALES,Dic-2025,225182972.0,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,OTROS,Dic-2025,71793892.0,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,INTERESES Y DIF. COTIZ. DEVENG. A COBRAR,Dic-2025,36203985.0,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,INTERESES DOCUMENTADOS,Dic-2025,,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,AJUSTES NIIF,Dic-2025,3820217.0,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,PREVISIONES,Dic-2025,-123607960.0,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,OTROS CRED.POR INTERM.FINAN.,Dic-2025,83625900.0,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,CRÉDITOS DIVERSOS,Dic-2025,3569939.0,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,"PROPIEDAD, PLANTAS Y EQUIPO",Dic-2025,3142273.0,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,BIENES DIVERSOS,Dic-2025,,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,ACTIVOS INTANGIBLES,Dic-2025,1707006.0,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,P A S I V O,Dic-2025,581774728.0,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,DEPÓSITOS,Dic-2025,549174056.0,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,SECTOR PRIVADO NO FINANCIERO Y RESIDENTES EN EL EXT.,Dic-2025,549174056.0,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,CAJA DE AHORROS,Dic-2025,341367632.0,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,PLAZO FIJO E INVERSIONES A PLAZO,Dic-2025,198213764.0,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,OTROS,Dic-2025,666187.0,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,INTERESES Y DIF. COTIZ. DEVENG. A PAGAR,Dic-2025,8926473.0,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,OTRAS OBLIG.POR INTERMED. FINANC.,Dic-2025,21996106.0,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,OBLIGACIONES DIVERSAS,Dic-2025,9551445.0,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,PROVISIONES,Dic-2025,1053121.0,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,P A T R I M O N I O N E T O,Dic-2025,37558428.0,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,"CAPITAL, APORTES, RESERVAS Y ORI ACUMULADO",Dic-2025,132274631.0,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,RESULTADOS NO ASIGNADOS,Dic-2025,-94716203.0,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,R D O S. I N T E G R A L E S A C U M. D E L P E R I O D O,Dic-2025,-96629336.0,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,INGRESOS FINANCIEROS,Dic-2025,235988649.0,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,POR INTERESES,Dic-2025,213904377.0,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,OTROS INGRESOS FINANCIEROS,Dic-2025,22084272.0,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,EGRESOS FINANCIEROS,Dic-2025,-160294950.0,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,POR INTERESES,Dic-2025,-144924535.0,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,OTROS EGRESOS FINANCIEROS,Dic-2025,-15370415.0,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,CARGO POR INCOBRABILIDAD,Dic-2025,-134590441.0,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,INGRESOS POR SERVICIOS,Dic-2025,6309473.0,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,EGRESOS POR SERVICIOS,Dic-2025,-12594520.0,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,GASTOS DE ADMINISTRACIÓN,Dic-2025,-29945671.0,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,CRÉDITOS RECUPERADOS Y PREVISIONES DESAFECTADAS,Dic-2025,15696.0,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,RESULTADO MONETARIO,Dic-2025,-4310156.0,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,OTROS,Dic-2025,2792584.0,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,PARTIDAS FUERA DE BALANCE,Dic-2025,,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,CRÉDITOS IRRECUPERABLES EN PARTIDAS FUERA DEL BALANCE,Dic-2025,,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,CONTINGENTES ACREEDORAS,Dic-2025,158919639.0,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,CONTINGENTES DEUDORAS,Dic-2025,,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,DE CONTROL DEUDORAS,Dic-2025,27959659.0,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,,Ene-2026,,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,A C T I V O,Ene-2026,570703319.0,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,EFECTIVO Y DEPOSITO EN BANCOS,Ene-2026,43158607.0,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,TÍTULOS PÚBLICOS Y PRIVADOS,Ene-2026,229187229.0,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,PRÉSTAMOS,Ene-2026,233675763.0,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,SECTOR FINANCIERO,Ene-2026,24031562.0,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,SECTOR PRIVADO NO FINANCIERO Y RESIDENTES EN EL EXT.,Ene-2026,341306437.0,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,"DOC A SOLA FIRMA, DESCONT. Y COMPRADOS",Ene-2026,4550000.0,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,PERSONALES,Ene-2026,224195644.0,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,OTROS,Ene-2026,71510346.0,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,INTERESES Y DIF. COTIZ. DEVENG. A COBRAR,Ene-2026,37439147.0,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,INTERESES DOCUMENTADOS,Ene-2026,-77282.0,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,AJUSTES NIIF,Ene-2026,3688582.0,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,PREVISIONES,Ene-2026,-131662236.0,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,OTROS CRED.POR INTERM.FINAN.,Ene-2026,53053411.0,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,CRÉDITOS DIVERSOS,Ene-2026,6743375.0,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,"PROPIEDAD, PLANTAS Y EQUIPO",Ene-2026,3221055.0,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,BIENES DIVERSOS,Ene-2026,,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,ACTIVOS INTANGIBLES,Ene-2026,1663879.0,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,P A S I V O,Ene-2026,536335758.0,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,DEPÓSITOS,Ene-2026,507997803.0,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,SECTOR PRIVADO NO FINANCIERO Y RESIDENTES EN EL EXT.,Ene-2026,507997803.0,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,CAJA DE AHORROS,Ene-2026,268558189.0,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,PLAZO FIJO E INVERSIONES A PLAZO,Ene-2026,229862297.0,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,OTROS,Ene-2026,629721.0,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,INTERESES Y DIF. COTIZ. DEVENG. A PAGAR,Ene-2026,8947596.0,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,OTRAS OBLIG.POR INTERMED. FINANC.,Ene-2026,18513177.0,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,OBLIGACIONES DIVERSAS,Ene-2026,8930984.0,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,PROVISIONES,Ene-2026,893794.0,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,P A T R I M O N I O N E T O,Ene-2026,34367561.0,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,"CAPITAL, APORTES, RESERVAS Y ORI ACUMULADO",Ene-2026,136136115.0,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,RESULTADOS NO ASIGNADOS,Ene-2026,-101768554.0,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,R D O S. I N T E G R A L E S A C U M. D E L P E R I O D O,Ene-2026,-4386127.0,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,INGRESOS FINANCIEROS,Ene-2026,19477895.0,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,POR INTERESES,Ene-2026,17589098.0,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,OTROS INGRESOS FINANCIEROS,Ene-2026,1888797.0,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,EGRESOS FINANCIEROS,Ene-2026,-10254743.0,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,POR INTERESES,Ene-2026,-8766636.0,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,OTROS EGRESOS FINANCIEROS,Ene-2026,-1488107.0,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,CARGO POR INCOBRABILIDAD,Ene-2026,-8703576.0,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,INGRESOS POR SERVICIOS,Ene-2026,524878.0,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,EGRESOS POR SERVICIOS,Ene-2026,-1106493.0,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,GASTOS DE ADMINISTRACIÓN,Ene-2026,-3607926.0,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,CRÉDITOS RECUPERADOS Y PREVISIONES DESAFECTADAS,Ene-2026,1216.0,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,RESULTADO MONETARIO,Ene-2026,-988826.0,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,OTROS,Ene-2026,271448.0,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,PARTIDAS FUERA DE BALANCE,Ene-2026,,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,CRÉDITOS IRRECUPERABLES EN PARTIDAS FUERA DEL BALANCE,Ene-2026,,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,CONTINGENTES ACREEDORAS,Ene-2026,160202158.0,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,CONTINGENTES DEUDORAS,Ene-2026,,2026-04-19
+00384,UALA BANK S.A.U.,privado_nacional,estados_contables,DE CONTROL DEUDORAS,Ene-2026,5563340.0,2026-04-19

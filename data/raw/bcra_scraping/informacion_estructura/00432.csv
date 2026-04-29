@@ -1,0 +1,75 @@
+codigo_bcra,nombre_banco,tipo_entidad,fuente,variable,periodo,valor,scraping_fecha
+00432,BANCO DE COMERCIO S.A.,privado_nacional,informacion_estructura,Cantidad de cuentas corrientes,Dic-2023,1484.0,2026-04-19
+00432,BANCO DE COMERCIO S.A.,privado_nacional,informacion_estructura,Cantidad de cuentas de ahorro,Dic-2023,1263.0,2026-04-19
+00432,BANCO DE COMERCIO S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones a plazo fijo Individuos,Dic-2023,25.0,2026-04-19
+00432,BANCO DE COMERCIO S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones a plazo fijo Empresas,Dic-2023,57.0,2026-04-19
+00432,BANCO DE COMERCIO S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones por préstamos hipotecarios,Dic-2023,,2026-04-19
+00432,BANCO DE COMERCIO S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones por préstamos prendarios,Dic-2023,9.0,2026-04-19
+00432,BANCO DE COMERCIO S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones por otros préstamos,Dic-2023,28599.0,2026-04-19
+00432,BANCO DE COMERCIO S.A.,privado_nacional,informacion_estructura,Dotación de personal,Dic-2023,107.0,2026-04-19
+00432,BANCO DE COMERCIO S.A.,privado_nacional,informacion_estructura,Cantidad de titulares por tarjetas de crédito,Dic-2023,627.0,2026-04-19
+00432,BANCO DE COMERCIO S.A.,privado_nacional,informacion_estructura,Cantidad de tarjetas de crédito (plásticos),Dic-2023,719.0,2026-04-19
+00432,BANCO DE COMERCIO S.A.,privado_nacional,informacion_estructura,Cantidad de tarjetas de débito,Dic-2023,1963.0,2026-04-19
+00432,BANCO DE COMERCIO S.A.,privado_nacional,informacion_estructura,Cantidad de cuentas corrientes,Dic-2024,1307.0,2026-04-19
+00432,BANCO DE COMERCIO S.A.,privado_nacional,informacion_estructura,Cantidad de cuentas de ahorro,Dic-2024,1204.0,2026-04-19
+00432,BANCO DE COMERCIO S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones a plazo fijo Individuos,Dic-2024,61.0,2026-04-19
+00432,BANCO DE COMERCIO S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones a plazo fijo Empresas,Dic-2024,132.0,2026-04-19
+00432,BANCO DE COMERCIO S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones por préstamos hipotecarios,Dic-2024,2.0,2026-04-19
+00432,BANCO DE COMERCIO S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones por préstamos prendarios,Dic-2024,5.0,2026-04-19
+00432,BANCO DE COMERCIO S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones por otros préstamos,Dic-2024,23316.0,2026-04-19
+00432,BANCO DE COMERCIO S.A.,privado_nacional,informacion_estructura,Dotación de personal,Dic-2024,107.0,2026-04-19
+00432,BANCO DE COMERCIO S.A.,privado_nacional,informacion_estructura,Cantidad de titulares por tarjetas de crédito,Dic-2024,499.0,2026-04-19
+00432,BANCO DE COMERCIO S.A.,privado_nacional,informacion_estructura,Cantidad de tarjetas de crédito (plásticos),Dic-2024,574.0,2026-04-19
+00432,BANCO DE COMERCIO S.A.,privado_nacional,informacion_estructura,Cantidad de tarjetas de débito,Dic-2024,,2026-04-19
+00432,BANCO DE COMERCIO S.A.,privado_nacional,informacion_estructura,Cantidad de cuentas corrientes,Jun-2025,1290.0,2026-04-19
+00432,BANCO DE COMERCIO S.A.,privado_nacional,informacion_estructura,Cantidad de cuentas de ahorro,Jun-2025,1235.0,2026-04-19
+00432,BANCO DE COMERCIO S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones a plazo fijo Individuos,Jun-2025,65.0,2026-04-19
+00432,BANCO DE COMERCIO S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones a plazo fijo Empresas,Jun-2025,116.0,2026-04-19
+00432,BANCO DE COMERCIO S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones por préstamos hipotecarios,Jun-2025,3.0,2026-04-19
+00432,BANCO DE COMERCIO S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones por préstamos prendarios,Jun-2025,4.0,2026-04-19
+00432,BANCO DE COMERCIO S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones por otros préstamos,Jun-2025,35676.0,2026-04-19
+00432,BANCO DE COMERCIO S.A.,privado_nacional,informacion_estructura,Dotación de personal,Jun-2025,110.0,2026-04-19
+00432,BANCO DE COMERCIO S.A.,privado_nacional,informacion_estructura,Cantidad de titulares por tarjetas de crédito,Jun-2025,414.0,2026-04-19
+00432,BANCO DE COMERCIO S.A.,privado_nacional,informacion_estructura,Cantidad de tarjetas de crédito (plásticos),Jun-2025,498.0,2026-04-19
+00432,BANCO DE COMERCIO S.A.,privado_nacional,informacion_estructura,Cantidad de tarjetas de débito,Jun-2025,,2026-04-19
+00432,BANCO DE COMERCIO S.A.,privado_nacional,informacion_estructura,Cantidad de cuentas corrientes,Set-2025,1214.0,2026-04-19
+00432,BANCO DE COMERCIO S.A.,privado_nacional,informacion_estructura,Cantidad de cuentas de ahorro,Set-2025,1176.0,2026-04-19
+00432,BANCO DE COMERCIO S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones a plazo fijo Individuos,Set-2025,74.0,2026-04-19
+00432,BANCO DE COMERCIO S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones a plazo fijo Empresas,Set-2025,104.0,2026-04-19
+00432,BANCO DE COMERCIO S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones por préstamos hipotecarios,Set-2025,2.0,2026-04-19
+00432,BANCO DE COMERCIO S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones por préstamos prendarios,Set-2025,5.0,2026-04-19
+00432,BANCO DE COMERCIO S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones por otros préstamos,Set-2025,45107.0,2026-04-19
+00432,BANCO DE COMERCIO S.A.,privado_nacional,informacion_estructura,Dotación de personal,Set-2025,115.0,2026-04-19
+00432,BANCO DE COMERCIO S.A.,privado_nacional,informacion_estructura,Cantidad de titulares por tarjetas de crédito,Set-2025,471.0,2026-04-19
+00432,BANCO DE COMERCIO S.A.,privado_nacional,informacion_estructura,Cantidad de tarjetas de crédito (plásticos),Set-2025,549.0,2026-04-19
+00432,BANCO DE COMERCIO S.A.,privado_nacional,informacion_estructura,Cantidad de tarjetas de débito,Set-2025,1897.0,2026-04-19
+00432,BANCO DE COMERCIO S.A.,privado_nacional,informacion_estructura,Cantidad de cuentas corrientes,Dic-2025,1278.0,2026-04-19
+00432,BANCO DE COMERCIO S.A.,privado_nacional,informacion_estructura,Cantidad de cuentas de ahorro,Dic-2025,1125.0,2026-04-19
+00432,BANCO DE COMERCIO S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones a plazo fijo Individuos,Dic-2025,72.0,2026-04-19
+00432,BANCO DE COMERCIO S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones a plazo fijo Empresas,Dic-2025,94.0,2026-04-19
+00432,BANCO DE COMERCIO S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones por préstamos hipotecarios,Dic-2025,5.0,2026-04-19
+00432,BANCO DE COMERCIO S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones por préstamos prendarios,Dic-2025,9.0,2026-04-19
+00432,BANCO DE COMERCIO S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones por otros préstamos,Dic-2025,44366.0,2026-04-19
+00432,BANCO DE COMERCIO S.A.,privado_nacional,informacion_estructura,Dotación de personal,Dic-2025,117.0,2026-04-19
+00432,BANCO DE COMERCIO S.A.,privado_nacional,informacion_estructura,Cantidad de titulares por tarjetas de crédito,Dic-2025,386.0,2026-04-19
+00432,BANCO DE COMERCIO S.A.,privado_nacional,informacion_estructura,Cantidad de tarjetas de crédito (plásticos),Dic-2025,463.0,2026-04-19
+00432,BANCO DE COMERCIO S.A.,privado_nacional,informacion_estructura,Cantidad de tarjetas de débito,Dic-2025,1911.0,2026-04-19
+00432,BANCO DE COMERCIO S.A.,privado_nacional,informacion_estructura,Cantidad de Cuentas,Dic-2023,76.0,2026-04-19
+00432,BANCO DE COMERCIO S.A.,privado_nacional,informacion_estructura,Cantidad de Empresas,Dic-2023,9.0,2026-04-19
+00432,BANCO DE COMERCIO S.A.,privado_nacional,informacion_estructura,Cantidad de Cuentas,Dic-2024,44.0,2026-04-19
+00432,BANCO DE COMERCIO S.A.,privado_nacional,informacion_estructura,Cantidad de Empresas,Dic-2024,4.0,2026-04-19
+00432,BANCO DE COMERCIO S.A.,privado_nacional,informacion_estructura,Cantidad de Cuentas,Nov-2025,40.0,2026-04-19
+00432,BANCO DE COMERCIO S.A.,privado_nacional,informacion_estructura,Cantidad de Empresas,Nov-2025,4.0,2026-04-19
+00432,BANCO DE COMERCIO S.A.,privado_nacional,informacion_estructura,Cantidad de Cuentas,Dic-2025,38.0,2026-04-19
+00432,BANCO DE COMERCIO S.A.,privado_nacional,informacion_estructura,Cantidad de Empresas,Dic-2025,4.0,2026-04-19
+00432,BANCO DE COMERCIO S.A.,privado_nacional,informacion_estructura,Cantidad de Cuentas,Ene-2026,37.0,2026-04-19
+00432,BANCO DE COMERCIO S.A.,privado_nacional,informacion_estructura,Cantidad de Empresas,Ene-2026,4.0,2026-04-19
+00432,BANCO DE COMERCIO S.A.,privado_nacional,informacion_estructura,CABA,Habilitadas,2.0,2026-04-19
+00432,BANCO DE COMERCIO S.A.,privado_nacional,informacion_estructura,CABA,Habilitadas,,2026-04-19
+00432,BANCO DE COMERCIO S.A.,privado_nacional,informacion_estructura,CABA,Habilitadas,,2026-04-19
+00432,BANCO DE COMERCIO S.A.,privado_nacional,informacion_estructura,CABA,Habilitadas,,2026-04-19
+00432,BANCO DE COMERCIO S.A.,privado_nacional,informacion_estructura,CABA,Habilitadas,,2026-04-19
+00432,BANCO DE COMERCIO S.A.,privado_nacional,informacion_estructura,CABA,Habilitadas,,2026-04-19
+00432,BANCO DE COMERCIO S.A.,privado_nacional,informacion_estructura,CABA,Habilitadas,4.0,2026-04-19
+00432,BANCO DE COMERCIO S.A.,privado_nacional,informacion_estructura,CABA,Pendientes de habilitación,,2026-04-19
+00432,BANCO DE COMERCIO S.A.,privado_nacional,informacion_estructura,CABA,Total,2.0,2026-04-19

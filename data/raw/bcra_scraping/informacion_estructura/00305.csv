@@ -1,0 +1,59 @@
+codigo_bcra,nombre_banco,tipo_entidad,fuente,variable,periodo,valor,scraping_fecha
+00305,BANCO JULIO SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,Cantidad de cuentas corrientes,Dic-2023,516.0,2026-04-19
+00305,BANCO JULIO SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,Cantidad de cuentas de ahorro,Dic-2023,797.0,2026-04-19
+00305,BANCO JULIO SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,Cantidad de operaciones a plazo fijo Individuos,Dic-2023,69.0,2026-04-19
+00305,BANCO JULIO SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,Cantidad de operaciones a plazo fijo Empresas,Dic-2023,53.0,2026-04-19
+00305,BANCO JULIO SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,Cantidad de operaciones por préstamos hipotecarios,Dic-2023,2.0,2026-04-19
+00305,BANCO JULIO SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,Cantidad de operaciones por préstamos prendarios,Dic-2023,5.0,2026-04-19
+00305,BANCO JULIO SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,Cantidad de operaciones por otros préstamos,Dic-2023,757.0,2026-04-19
+00305,BANCO JULIO SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,Dotación de personal,Dic-2023,79.0,2026-04-19
+00305,BANCO JULIO SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,Cantidad de cuentas corrientes,Dic-2024,510.0,2026-04-19
+00305,BANCO JULIO SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,Cantidad de cuentas de ahorro,Dic-2024,819.0,2026-04-19
+00305,BANCO JULIO SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,Cantidad de operaciones a plazo fijo Individuos,Dic-2024,105.0,2026-04-19
+00305,BANCO JULIO SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,Cantidad de operaciones a plazo fijo Empresas,Dic-2024,40.0,2026-04-19
+00305,BANCO JULIO SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,Cantidad de operaciones por préstamos hipotecarios,Dic-2024,2.0,2026-04-19
+00305,BANCO JULIO SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,Cantidad de operaciones por préstamos prendarios,Dic-2024,4.0,2026-04-19
+00305,BANCO JULIO SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,Cantidad de operaciones por otros préstamos,Dic-2024,634.0,2026-04-19
+00305,BANCO JULIO SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,Dotación de personal,Dic-2024,83.0,2026-04-19
+00305,BANCO JULIO SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,Cantidad de cuentas corrientes,Jun-2025,494.0,2026-04-19
+00305,BANCO JULIO SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,Cantidad de cuentas de ahorro,Jun-2025,785.0,2026-04-19
+00305,BANCO JULIO SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,Cantidad de operaciones a plazo fijo Individuos,Jun-2025,71.0,2026-04-19
+00305,BANCO JULIO SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,Cantidad de operaciones a plazo fijo Empresas,Jun-2025,35.0,2026-04-19
+00305,BANCO JULIO SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,Cantidad de operaciones por préstamos hipotecarios,Jun-2025,2.0,2026-04-19
+00305,BANCO JULIO SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,Cantidad de operaciones por préstamos prendarios,Jun-2025,4.0,2026-04-19
+00305,BANCO JULIO SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,Cantidad de operaciones por otros préstamos,Jun-2025,665.0,2026-04-19
+00305,BANCO JULIO SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,Dotación de personal,Jun-2025,81.0,2026-04-19
+00305,BANCO JULIO SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,Cantidad de cuentas corrientes,Set-2025,508.0,2026-04-19
+00305,BANCO JULIO SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,Cantidad de cuentas de ahorro,Set-2025,803.0,2026-04-19
+00305,BANCO JULIO SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,Cantidad de operaciones a plazo fijo Individuos,Set-2025,68.0,2026-04-19
+00305,BANCO JULIO SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,Cantidad de operaciones a plazo fijo Empresas,Set-2025,45.0,2026-04-19
+00305,BANCO JULIO SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,Cantidad de operaciones por préstamos hipotecarios,Set-2025,2.0,2026-04-19
+00305,BANCO JULIO SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,Cantidad de operaciones por préstamos prendarios,Set-2025,5.0,2026-04-19
+00305,BANCO JULIO SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,Cantidad de operaciones por otros préstamos,Set-2025,649.0,2026-04-19
+00305,BANCO JULIO SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,Dotación de personal,Set-2025,82.0,2026-04-19
+00305,BANCO JULIO SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,Cantidad de cuentas corrientes,Dic-2025,519.0,2026-04-19
+00305,BANCO JULIO SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,Cantidad de cuentas de ahorro,Dic-2025,802.0,2026-04-19
+00305,BANCO JULIO SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,Cantidad de operaciones a plazo fijo Individuos,Dic-2025,81.0,2026-04-19
+00305,BANCO JULIO SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,Cantidad de operaciones a plazo fijo Empresas,Dic-2025,50.0,2026-04-19
+00305,BANCO JULIO SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,Cantidad de operaciones por préstamos hipotecarios,Dic-2025,3.0,2026-04-19
+00305,BANCO JULIO SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,Cantidad de operaciones por préstamos prendarios,Dic-2025,11.0,2026-04-19
+00305,BANCO JULIO SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,Cantidad de operaciones por otros préstamos,Dic-2025,630.0,2026-04-19
+00305,BANCO JULIO SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,Dotación de personal,Dic-2025,83.0,2026-04-19
+00305,BANCO JULIO SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,CABA,Habilitadas,1.0,2026-04-19
+00305,BANCO JULIO SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,CÓRDOBA,Habilitadas,1.0,2026-04-19
+00305,BANCO JULIO SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,CABA,Habilitadas,,2026-04-19
+00305,BANCO JULIO SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,CÓRDOBA,Habilitadas,,2026-04-19
+00305,BANCO JULIO SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,CABA,Habilitadas,,2026-04-19
+00305,BANCO JULIO SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,CÓRDOBA,Habilitadas,,2026-04-19
+00305,BANCO JULIO SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,CABA,Habilitadas,,2026-04-19
+00305,BANCO JULIO SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,CÓRDOBA,Habilitadas,,2026-04-19
+00305,BANCO JULIO SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,CABA,Habilitadas,,2026-04-19
+00305,BANCO JULIO SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,CÓRDOBA,Habilitadas,,2026-04-19
+00305,BANCO JULIO SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,CABA,Habilitadas,,2026-04-19
+00305,BANCO JULIO SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,CÓRDOBA,Habilitadas,,2026-04-19
+00305,BANCO JULIO SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,CABA,Habilitadas,,2026-04-19
+00305,BANCO JULIO SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,CÓRDOBA,Habilitadas,,2026-04-19
+00305,BANCO JULIO SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,CABA,Pendientes de habilitación,,2026-04-19
+00305,BANCO JULIO SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,CÓRDOBA,Pendientes de habilitación,,2026-04-19
+00305,BANCO JULIO SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,CABA,Total,1.0,2026-04-19
+00305,BANCO JULIO SOCIEDAD ANONIMA,privado_nacional,informacion_estructura,CÓRDOBA,Total,1.0,2026-04-19

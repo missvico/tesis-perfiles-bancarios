@@ -1,0 +1,45 @@
+codigo_bcra,nombre_banco,tipo_entidad,fuente,variable,periodo,valor,scraping_fecha
+00198,BANCO DE VALORES S.A.,privado_nacional,informacion_estructura,Cantidad de cuentas corrientes,Dic-2023,1228.0,2026-04-19
+00198,BANCO DE VALORES S.A.,privado_nacional,informacion_estructura,Cantidad de cuentas de ahorro,Dic-2023,1961.0,2026-04-19
+00198,BANCO DE VALORES S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones a plazo fijo Individuos,Dic-2023,14.0,2026-04-19
+00198,BANCO DE VALORES S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones a plazo fijo Empresas,Dic-2023,92.0,2026-04-19
+00198,BANCO DE VALORES S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones por préstamos hipotecarios,Dic-2023,48.0,2026-04-19
+00198,BANCO DE VALORES S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones por otros préstamos,Dic-2023,495.0,2026-04-19
+00198,BANCO DE VALORES S.A.,privado_nacional,informacion_estructura,Dotación de personal,Dic-2023,273.0,2026-04-19
+00198,BANCO DE VALORES S.A.,privado_nacional,informacion_estructura,Cantidad de cuentas corrientes,Dic-2024,1528.0,2026-04-19
+00198,BANCO DE VALORES S.A.,privado_nacional,informacion_estructura,Cantidad de cuentas de ahorro,Dic-2024,2102.0,2026-04-19
+00198,BANCO DE VALORES S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones a plazo fijo Individuos,Dic-2024,15.0,2026-04-19
+00198,BANCO DE VALORES S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones a plazo fijo Empresas,Dic-2024,66.0,2026-04-19
+00198,BANCO DE VALORES S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones por préstamos hipotecarios,Dic-2024,42.0,2026-04-19
+00198,BANCO DE VALORES S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones por otros préstamos,Dic-2024,1046.0,2026-04-19
+00198,BANCO DE VALORES S.A.,privado_nacional,informacion_estructura,Dotación de personal,Dic-2024,251.0,2026-04-19
+00198,BANCO DE VALORES S.A.,privado_nacional,informacion_estructura,Cantidad de cuentas corrientes,Jun-2025,1227.0,2026-04-19
+00198,BANCO DE VALORES S.A.,privado_nacional,informacion_estructura,Cantidad de cuentas de ahorro,Jun-2025,2071.0,2026-04-19
+00198,BANCO DE VALORES S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones a plazo fijo Individuos,Jun-2025,17.0,2026-04-19
+00198,BANCO DE VALORES S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones a plazo fijo Empresas,Jun-2025,76.0,2026-04-19
+00198,BANCO DE VALORES S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones por préstamos hipotecarios,Jun-2025,33.0,2026-04-19
+00198,BANCO DE VALORES S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones por otros préstamos,Jun-2025,164747.0,2026-04-19
+00198,BANCO DE VALORES S.A.,privado_nacional,informacion_estructura,Dotación de personal,Jun-2025,290.0,2026-04-19
+00198,BANCO DE VALORES S.A.,privado_nacional,informacion_estructura,Cantidad de cuentas corrientes,Set-2025,1254.0,2026-04-19
+00198,BANCO DE VALORES S.A.,privado_nacional,informacion_estructura,Cantidad de cuentas de ahorro,Set-2025,2066.0,2026-04-19
+00198,BANCO DE VALORES S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones a plazo fijo Individuos,Set-2025,15.0,2026-04-19
+00198,BANCO DE VALORES S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones a plazo fijo Empresas,Set-2025,113.0,2026-04-19
+00198,BANCO DE VALORES S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones por préstamos hipotecarios,Set-2025,35.0,2026-04-19
+00198,BANCO DE VALORES S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones por otros préstamos,Set-2025,9761.0,2026-04-19
+00198,BANCO DE VALORES S.A.,privado_nacional,informacion_estructura,Dotación de personal,Set-2025,285.0,2026-04-19
+00198,BANCO DE VALORES S.A.,privado_nacional,informacion_estructura,Cantidad de cuentas corrientes,Dic-2025,1304.0,2026-04-19
+00198,BANCO DE VALORES S.A.,privado_nacional,informacion_estructura,Cantidad de cuentas de ahorro,Dic-2025,2080.0,2026-04-19
+00198,BANCO DE VALORES S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones a plazo fijo Individuos,Dic-2025,12.0,2026-04-19
+00198,BANCO DE VALORES S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones a plazo fijo Empresas,Dic-2025,85.0,2026-04-19
+00198,BANCO DE VALORES S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones por préstamos hipotecarios,Dic-2025,34.0,2026-04-19
+00198,BANCO DE VALORES S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones por otros préstamos,Dic-2025,18691.0,2026-04-19
+00198,BANCO DE VALORES S.A.,privado_nacional,informacion_estructura,Dotación de personal,Dic-2025,288.0,2026-04-19
+00198,BANCO DE VALORES S.A.,privado_nacional,informacion_estructura,CABA,Habilitadas,2.0,2026-04-19
+00198,BANCO DE VALORES S.A.,privado_nacional,informacion_estructura,CABA,Habilitadas,,2026-04-19
+00198,BANCO DE VALORES S.A.,privado_nacional,informacion_estructura,CABA,Habilitadas,,2026-04-19
+00198,BANCO DE VALORES S.A.,privado_nacional,informacion_estructura,CABA,Habilitadas,,2026-04-19
+00198,BANCO DE VALORES S.A.,privado_nacional,informacion_estructura,CABA,Habilitadas,,2026-04-19
+00198,BANCO DE VALORES S.A.,privado_nacional,informacion_estructura,CABA,Habilitadas,,2026-04-19
+00198,BANCO DE VALORES S.A.,privado_nacional,informacion_estructura,CABA,Habilitadas,,2026-04-19
+00198,BANCO DE VALORES S.A.,privado_nacional,informacion_estructura,CABA,Pendientes de habilitación,,2026-04-19
+00198,BANCO DE VALORES S.A.,privado_nacional,informacion_estructura,CABA,Total,2.0,2026-04-19

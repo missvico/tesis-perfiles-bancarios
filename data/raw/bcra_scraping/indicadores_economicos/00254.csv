@@ -1,0 +1,156 @@
+codigo_bcra,nombre_banco,tipo_entidad,fuente,variable,periodo,valor,scraping_fecha
+00254,BANCO MARIVA S.A.,privado_nacional,indicadores_economicos,capital: C1 - Apalancamiento (en veces),Dic-2023,1.94,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,indicadores_economicos,capital: C1 - Apalancamiento (en veces),Dic-2024,2.27,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,indicadores_economicos,capital: C1 - Apalancamiento (en veces),Nov-2025,3.4,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,indicadores_economicos,capital: C1 - Apalancamiento (en veces),Dic-2025,3.48,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,indicadores_economicos,capital: C1 - Apalancamiento (en veces),Ene-2026,3.64,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,indicadores_economicos,capital: C2 - Pérdida Potencial de Cartera en Situación 2 a 5 (%),Dic-2023,-0.27,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,indicadores_economicos,capital: C2 - Pérdida Potencial de Cartera en Situación 2 a 5 (%),Dic-2024,-0.79,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,indicadores_economicos,capital: C2 - Pérdida Potencial de Cartera en Situación 2 a 5 (%),Nov-2025,-0.37,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,indicadores_economicos,capital: C2 - Pérdida Potencial de Cartera en Situación 2 a 5 (%),Dic-2025,-0.32,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,indicadores_economicos,capital: C2 - Pérdida Potencial de Cartera en Situación 2 a 5 (%),Ene-2026,-0.34,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,indicadores_economicos,capital: C3 - Pérdida Potencial de Cartera en Situación 3 a 5 (%),Dic-2023,-0.27,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,indicadores_economicos,capital: C3 - Pérdida Potencial de Cartera en Situación 3 a 5 (%),Dic-2024,-0.79,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,indicadores_economicos,capital: C3 - Pérdida Potencial de Cartera en Situación 3 a 5 (%),Nov-2025,-0.43,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,indicadores_economicos,capital: C3 - Pérdida Potencial de Cartera en Situación 3 a 5 (%),Dic-2025,-0.38,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,indicadores_economicos,capital: C3 - Pérdida Potencial de Cartera en Situación 3 a 5 (%),Ene-2026,-0.34,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,indicadores_economicos,activos: A9 - Total Cartera Irregular / Total Financiaciones (%),Dic-2023,1.03,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,indicadores_economicos,activos: A9 - Total Cartera Irregular / Total Financiaciones (%),Dic-2024,0.42,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,indicadores_economicos,activos: A9 - Total Cartera Irregular / Total Financiaciones (%),Nov-2025,0.18,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,indicadores_economicos,activos: A9 - Total Cartera Irregular / Total Financiaciones (%),Dic-2025,0.2,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,indicadores_economicos,activos: A9 - Total Cartera Irregular / Total Financiaciones (%),Ene-2026,0.23,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,indicadores_economicos,activos: A11 - Cartera Irregular Sector Privado (%),Dic-2023,1.04,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,indicadores_economicos,activos: A11 - Cartera Irregular Sector Privado (%),Dic-2024,0.46,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,indicadores_economicos,activos: A11 - Cartera Irregular Sector Privado (%),Nov-2025,0.19,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,indicadores_economicos,activos: A11 - Cartera Irregular Sector Privado (%),Dic-2025,0.21,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,indicadores_economicos,activos: A11 - Cartera Irregular Sector Privado (%),Ene-2026,0.24,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,indicadores_economicos,activos: A12 - Participación Cartera Comercial Sector Privado (%),Dic-2023,100.14,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,indicadores_economicos,activos: A12 - Participación Cartera Comercial Sector Privado (%),Dic-2024,99.92,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,indicadores_economicos,activos: A12 - Participación Cartera Comercial Sector Privado (%),Nov-2025,99.96,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,indicadores_economicos,activos: A12 - Participación Cartera Comercial Sector Privado (%),Dic-2025,99.9,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,indicadores_economicos,activos: A12 - Participación Cartera Comercial Sector Privado (%),Ene-2026,99.88,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,indicadores_economicos,activos: A13 - Participación Cartera Consumo Sector Privado (%),Dic-2023,0.29,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,indicadores_economicos,activos: A13 - Participación Cartera Consumo Sector Privado (%),Dic-2024,0.08,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,indicadores_economicos,activos: A13 - Participación Cartera Consumo Sector Privado (%),Nov-2025,0.09,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,indicadores_economicos,activos: A13 - Participación Cartera Consumo Sector Privado (%),Dic-2025,0.1,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,indicadores_economicos,activos: A13 - Participación Cartera Consumo Sector Privado (%),Ene-2026,0.12,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,indicadores_economicos,activos: A14 - Previsiones sobre Cartera Irregular Total (%),Dic-2023,144.15,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,indicadores_economicos,activos: A14 - Previsiones sobre Cartera Irregular Total (%),Dic-2024,291.56,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,indicadores_economicos,activos: A14 - Previsiones sobre Cartera Irregular Total (%),Nov-2025,236.13,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,indicadores_economicos,activos: A14 - Previsiones sobre Cartera Irregular Total (%),Dic-2025,220.21,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,indicadores_economicos,activos: A14 - Previsiones sobre Cartera Irregular Total (%),Ene-2026,190.47,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,indicadores_economicos,activos: A16 - Cartera Irregular Consumo Sector Privado (%),Dic-2023,14.68,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,indicadores_economicos,activos: A16 - Cartera Irregular Consumo Sector Privado (%),Dic-2024,16.54,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,indicadores_economicos,activos: A16 - Cartera Irregular Consumo Sector Privado (%),Nov-2025,7.46,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,indicadores_economicos,activos: A16 - Cartera Irregular Consumo Sector Privado (%),Dic-2025,7.33,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,indicadores_economicos,activos: A16 - Cartera Irregular Consumo Sector Privado (%),Ene-2026,5.98,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,indicadores_economicos,activos: A17 - Cartera Irregular Comercial Sector Privado (%),Dic-2023,0.99,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,indicadores_economicos,activos: A17 - Cartera Irregular Comercial Sector Privado (%),Dic-2024,0.44,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,indicadores_economicos,activos: A17 - Cartera Irregular Comercial Sector Privado (%),Nov-2025,0.18,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,indicadores_economicos,activos: A17 - Cartera Irregular Comercial Sector Privado (%),Dic-2025,0.2,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,indicadores_economicos,activos: A17 - Cartera Irregular Comercial Sector Privado (%),Ene-2026,0.23,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,indicadores_economicos,activos: A21 - Posición de Previsiones Mín Sector Priv No Fciero (%),Dic-2023,0.0,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,indicadores_economicos,activos: A21 - Posición de Previsiones Mín Sector Priv No Fciero (%),Dic-2024,-0.26,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,indicadores_economicos,activos: A21 - Posición de Previsiones Mín Sector Priv No Fciero (%),Nov-2025,-59.0,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,indicadores_economicos,activos: A21 - Posición de Previsiones Mín Sector Priv No Fciero (%),Dic-2025,-58.0,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,indicadores_economicos,activos: A21 - Posición de Previsiones Mín Sector Priv No Fciero (%),Ene-2026,-58.17,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,indicadores_economicos,activos: AG3 - Importancia de Cartera Vencida del Sector Privado (%),Dic-2023,0.96,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,indicadores_economicos,activos: AG3 - Importancia de Cartera Vencida del Sector Privado (%),Dic-2024,0.46,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,indicadores_economicos,activos: AG3 - Importancia de Cartera Vencida del Sector Privado (%),Nov-2025,0.19,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,indicadores_economicos,activos: AG3 - Importancia de Cartera Vencida del Sector Privado (%),Dic-2025,0.21,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,indicadores_economicos,activos: AG3 - Importancia de Cartera Vencida del Sector Privado (%),Ene-2026,0.22,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,indicadores_economicos,activos: AG29 - Efectivo y Depósito en Bancos / Activo (%),Dic-2023,13.82,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,indicadores_economicos,activos: AG29 - Efectivo y Depósito en Bancos / Activo (%),Dic-2024,6.59,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,indicadores_economicos,activos: AG29 - Efectivo y Depósito en Bancos / Activo (%),Nov-2025,17.2,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,indicadores_economicos,activos: AG29 - Efectivo y Depósito en Bancos / Activo (%),Dic-2025,19.45,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,indicadores_economicos,activos: AG29 - Efectivo y Depósito en Bancos / Activo (%),Ene-2026,21.48,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,indicadores_economicos,eficiencia: E1 - Absorción de Gastos de Ad. con Volúmen de Negocio (%),Dic-2023,14.52,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,indicadores_economicos,eficiencia: E1 - Absorción de Gastos de Ad. con Volúmen de Negocio (%),Dic-2024,9.47,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,indicadores_economicos,eficiencia: E1 - Absorción de Gastos de Ad. con Volúmen de Negocio (%),Nov-2025,7.28,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,indicadores_economicos,eficiencia: E1 - Absorción de Gastos de Ad. con Volúmen de Negocio (%),Dic-2025,7.39,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,indicadores_economicos,eficiencia: E1 - Absorción de Gastos de Ad. con Volúmen de Negocio (%),Ene-2026,7.99,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,indicadores_economicos,eficiencia: E2 - Margen de Rentabilidad Operat./Gastos de Estructura (%),Dic-2023,365.78,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,indicadores_economicos,eficiencia: E2 - Margen de Rentabilidad Operat./Gastos de Estructura (%),Dic-2024,131.97,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,indicadores_economicos,eficiencia: E2 - Margen de Rentabilidad Operat./Gastos de Estructura (%),Nov-2025,-26.18,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,indicadores_economicos,eficiencia: E2 - Margen de Rentabilidad Operat./Gastos de Estructura (%),Dic-2025,-10.38,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,indicadores_economicos,eficiencia: E2 - Margen de Rentabilidad Operat./Gastos de Estructura (%),Ene-2026,-30.33,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,indicadores_economicos,eficiencia: E4 - Depósitos por Empleado (en millones de pesos),Dic-2023,380.39,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,indicadores_economicos,eficiencia: E4 - Depósitos por Empleado (en millones de pesos),Dic-2024,1042.41,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,indicadores_economicos,eficiencia: E4 - Depósitos por Empleado (en millones de pesos),Nov-2025,1664.72,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,indicadores_economicos,eficiencia: E4 - Depósitos por Empleado (en millones de pesos),Dic-2025,1781.05,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,indicadores_economicos,eficiencia: E4 - Depósitos por Empleado (en millones de pesos),Ene-2026,1644.64,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,indicadores_economicos,eficiencia: E5 - Financiaciones por Empleado (en millones de pesos),Dic-2023,89.4,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,indicadores_economicos,eficiencia: E5 - Financiaciones por Empleado (en millones de pesos),Dic-2024,567.27,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,indicadores_economicos,eficiencia: E5 - Financiaciones por Empleado (en millones de pesos),Nov-2025,1128.63,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,indicadores_economicos,eficiencia: E5 - Financiaciones por Empleado (en millones de pesos),Dic-2025,988.49,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,indicadores_economicos,eficiencia: E5 - Financiaciones por Empleado (en millones de pesos),Ene-2026,1043.58,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,indicadores_economicos,rentabilidad: R1 - Rendimiento Anual del Patrimonio ( ROE) (%),Dic-2023,91.13,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,indicadores_economicos,rentabilidad: R1 - Rendimiento Anual del Patrimonio ( ROE) (%),Dic-2024,13.05,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,indicadores_economicos,rentabilidad: R1 - Rendimiento Anual del Patrimonio ( ROE) (%),Nov-2025,-0.54,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,indicadores_economicos,rentabilidad: R1 - Rendimiento Anual del Patrimonio ( ROE) (%),Dic-2025,-1.61,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,indicadores_economicos,rentabilidad: R1 - Rendimiento Anual del Patrimonio ( ROE) (%),Ene-2026,-1.47,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,indicadores_economicos,rentabilidad: R2 - Rendimiento Ordinario del Patrimonio (%),Dic-2023,125.17,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,indicadores_economicos,rentabilidad: R2 - Rendimiento Ordinario del Patrimonio (%),Dic-2024,30.48,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,indicadores_economicos,rentabilidad: R2 - Rendimiento Ordinario del Patrimonio (%),Nov-2025,-6.77,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,indicadores_economicos,rentabilidad: R2 - Rendimiento Ordinario del Patrimonio (%),Dic-2025,-2.71,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,indicadores_economicos,rentabilidad: R2 - Rendimiento Ordinario del Patrimonio (%),Ene-2026,-8.16,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,indicadores_economicos,rentabilidad: R8 - Tasa Implicita Préstamos Totales (%),Dic-2023,98.18,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,indicadores_economicos,rentabilidad: R8 - Tasa Implicita Préstamos Totales (%),Dic-2024,55.05,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,indicadores_economicos,rentabilidad: R8 - Tasa Implicita Préstamos Totales (%),Nov-2025,37.86,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,indicadores_economicos,rentabilidad: R8 - Tasa Implicita Préstamos Totales (%),Dic-2025,37.12,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,indicadores_economicos,rentabilidad: R8 - Tasa Implicita Préstamos Totales (%),Ene-2026,36.37,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,indicadores_economicos,rentabilidad: R9 - Tasa Implicita Depósitos Totales (%),Dic-2023,97.97,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,indicadores_economicos,rentabilidad: R9 - Tasa Implicita Depósitos Totales (%),Dic-2024,31.61,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,indicadores_economicos,rentabilidad: R9 - Tasa Implicita Depósitos Totales (%),Nov-2025,23.57,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,indicadores_economicos,rentabilidad: R9 - Tasa Implicita Depósitos Totales (%),Dic-2025,22.7,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,indicadores_economicos,rentabilidad: R9 - Tasa Implicita Depósitos Totales (%),Ene-2026,22.27,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,indicadores_economicos,rentabilidad: R17 - Gastos en Personal / Gastos de Administración (%),Dic-2023,66.44,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,indicadores_economicos,rentabilidad: R17 - Gastos en Personal / Gastos de Administración (%),Dic-2024,66.14,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,indicadores_economicos,rentabilidad: R17 - Gastos en Personal / Gastos de Administración (%),Nov-2025,61.47,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,indicadores_economicos,rentabilidad: R17 - Gastos en Personal / Gastos de Administración (%),Dic-2025,62.31,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,indicadores_economicos,rentabilidad: R17 - Gastos en Personal / Gastos de Administración (%),Ene-2026,62.02,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,indicadores_economicos,rentabilidad: RG1 - Retorno sobre Activos ( ROA) (%),Dic-2023,23.23,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,indicadores_economicos,rentabilidad: RG1 - Retorno sobre Activos ( ROA) (%),Dic-2024,4.46,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,indicadores_economicos,rentabilidad: RG1 - Retorno sobre Activos ( ROA) (%),Nov-2025,-0.12,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,indicadores_economicos,rentabilidad: RG1 - Retorno sobre Activos ( ROA) (%),Dic-2025,-0.35,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,indicadores_economicos,rentabilidad: RG1 - Retorno sobre Activos ( ROA) (%),Ene-2026,-0.31,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,indicadores_economicos,rentabilidad: RG2_II - Margen Financiero en Términos de Activo (%),Dic-2023,46.67,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,indicadores_economicos,rentabilidad: RG2_II - Margen Financiero en Términos de Activo (%),Dic-2024,20.6,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,indicadores_economicos,rentabilidad: RG2_II - Margen Financiero en Términos de Activo (%),Nov-2025,5.37,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,indicadores_economicos,rentabilidad: RG2_II - Margen Financiero en Términos de Activo (%),Dic-2025,6.09,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,indicadores_economicos,rentabilidad: RG2_II - Margen Financiero en Términos de Activo (%),Ene-2026,5.0,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,indicadores_economicos,rentabilidad: RG3 - Cargos por Incobrabilidad / Activo  (%),Dic-2023,-0.6,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,indicadores_economicos,rentabilidad: RG3 - Cargos por Incobrabilidad / Activo  (%),Dic-2024,-0.41,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,indicadores_economicos,rentabilidad: RG3 - Cargos por Incobrabilidad / Activo  (%),Nov-2025,-0.19,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,indicadores_economicos,rentabilidad: RG3 - Cargos por Incobrabilidad / Activo  (%),Dic-2025,-0.1,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,indicadores_economicos,rentabilidad: RG3 - Cargos por Incobrabilidad / Activo  (%),Ene-2026,-0.1,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,indicadores_economicos,rentabilidad: RG4_II - Resultados por Servicios / Activo (%),Dic-2023,1.25,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,indicadores_economicos,rentabilidad: RG4_II - Resultados por Servicios / Activo (%),Dic-2024,0.75,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,indicadores_economicos,rentabilidad: RG4_II - Resultados por Servicios / Activo (%),Nov-2025,0.25,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,indicadores_economicos,rentabilidad: RG4_II - Resultados por Servicios / Activo (%),Dic-2025,0.25,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,indicadores_economicos,rentabilidad: RG4_II - Resultados por Servicios / Activo (%),Ene-2026,0.25,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,indicadores_economicos,rentabilidad: RG5 - Gastos de Administración / Activo  (%),Dic-2023,-8.72,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,indicadores_economicos,rentabilidad: RG5 - Gastos de Administración / Activo  (%),Dic-2024,-7.9,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,indicadores_economicos,rentabilidad: RG5 - Gastos de Administración / Activo  (%),Nov-2025,-5.7,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,indicadores_economicos,rentabilidad: RG5 - Gastos de Administración / Activo  (%),Dic-2025,-5.64,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,indicadores_economicos,rentabilidad: RG5 - Gastos de Administración / Activo  (%),Ene-2026,-5.67,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,indicadores_economicos,rentabilidad: RG15 - Retorno sobre Activos (ROA) antes Imp. de Gcias (%),Dic-2023,30.17,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,indicadores_economicos,rentabilidad: RG15 - Retorno sobre Activos (ROA) antes Imp. de Gcias (%),Dic-2024,3.17,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,indicadores_economicos,rentabilidad: RG15 - Retorno sobre Activos (ROA) antes Imp. de Gcias (%),Nov-2025,-0.84,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,indicadores_economicos,rentabilidad: RG15 - Retorno sobre Activos (ROA) antes Imp. de Gcias (%),Dic-2025,-0.6,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,indicadores_economicos,rentabilidad: RG15 - Retorno sobre Activos (ROA) antes Imp. de Gcias (%),Ene-2026,-1.31,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,indicadores_economicos,"liquidez: L1-Liquidez Tit c/cot, POS. CALL, LELIQ, LEFIs (netas) (%)",Dic-2023,99999.0,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,indicadores_economicos,"liquidez: L1-Liquidez Tit c/cot, POS. CALL, LELIQ, LEFIs (netas) (%)",Dic-2024,82.3,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,indicadores_economicos,"liquidez: L1-Liquidez Tit c/cot, POS. CALL, LELIQ, LEFIs (netas) (%)",Nov-2025,60.5,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,indicadores_economicos,"liquidez: L1-Liquidez Tit c/cot, POS. CALL, LELIQ, LEFIs (netas) (%)",Dic-2025,53.17,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,indicadores_economicos,"liquidez: L1-Liquidez Tit c/cot, POS. CALL, LELIQ, LEFIs (netas) (%)",Ene-2026,58.69,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,indicadores_economicos,liquidez: L8_II - Liquidez con títulos con cotiz (%),Dic-2023,37.28,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,indicadores_economicos,liquidez: L8_II - Liquidez con títulos con cotiz (%),Dic-2024,67.79,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,indicadores_economicos,liquidez: L8_II - Liquidez con títulos con cotiz (%),Nov-2025,55.78,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,indicadores_economicos,liquidez: L8_II - Liquidez con títulos con cotiz (%),Dic-2025,50.05,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,indicadores_economicos,liquidez: L8_II - Liquidez con títulos con cotiz (%),Ene-2026,56.16,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,indicadores_economicos,"liquidez: L9 -Liq LELIQ, PASES y LEFIs (netos pases activos BCRA) (%)",Dic-2023,164.26,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,indicadores_economicos,"liquidez: L9 -Liq LELIQ, PASES y LEFIs (netos pases activos BCRA) (%)",Dic-2024,28.32,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,indicadores_economicos,"liquidez: L9 -Liq LELIQ, PASES y LEFIs (netos pases activos BCRA) (%)",Nov-2025,39.83,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,indicadores_economicos,"liquidez: L9 -Liq LELIQ, PASES y LEFIs (netos pases activos BCRA) (%)",Dic-2025,40.22,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,indicadores_economicos,"liquidez: L9 -Liq LELIQ, PASES y LEFIs (netos pases activos BCRA) (%)",Ene-2026,46.85,2026-04-19

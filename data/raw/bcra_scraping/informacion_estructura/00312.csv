@@ -1,0 +1,68 @@
+codigo_bcra,nombre_banco,tipo_entidad,fuente,variable,periodo,valor,scraping_fecha
+00312,BANCO VOII S.A.,privado_nacional,informacion_estructura,Cantidad de cuentas corrientes,Dic-2023,131.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,informacion_estructura,Cantidad de cuentas de ahorro,Dic-2023,1398.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones a plazo fijo Individuos,Dic-2023,536.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones por otros préstamos,Dic-2023,78784.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,informacion_estructura,Dotación de personal,Dic-2023,66.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,informacion_estructura,Cantidad de tarjetas de débito,Dic-2023,,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,informacion_estructura,Cantidad de tarjetas de crédito (plásticos),Dic-2023,,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones a plazo fijo Empresas,Dic-2023,73.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,informacion_estructura,Cantidad de cuentas corrientes,Dic-2024,94.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,informacion_estructura,Cantidad de cuentas de ahorro,Dic-2024,164.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones a plazo fijo Individuos,Dic-2024,2906.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones por otros préstamos,Dic-2024,56181.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,informacion_estructura,Dotación de personal,Dic-2024,66.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,informacion_estructura,Cantidad de tarjetas de débito,Dic-2024,,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,informacion_estructura,Cantidad de tarjetas de crédito (plásticos),Dic-2024,,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones a plazo fijo Empresas,Dic-2024,75.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,informacion_estructura,Cantidad de cuentas corrientes,Jun-2025,78.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,informacion_estructura,Cantidad de cuentas de ahorro,Jun-2025,206.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones a plazo fijo Individuos,Jun-2025,2862.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones por otros préstamos,Jun-2025,61066.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,informacion_estructura,Dotación de personal,Jun-2025,68.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,informacion_estructura,Cantidad de tarjetas de débito,Jun-2025,,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,informacion_estructura,Cantidad de tarjetas de crédito (plásticos),Jun-2025,87.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones a plazo fijo Empresas,Jun-2025,90.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,informacion_estructura,Cantidad de cuentas corrientes,Set-2025,76.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,informacion_estructura,Cantidad de cuentas de ahorro,Set-2025,300.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones a plazo fijo Individuos,Set-2025,10431.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones por otros préstamos,Set-2025,96484.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,informacion_estructura,Dotación de personal,Set-2025,66.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,informacion_estructura,Cantidad de tarjetas de débito,Set-2025,87.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,informacion_estructura,Cantidad de tarjetas de crédito (plásticos),Set-2025,,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones a plazo fijo Empresas,Set-2025,87.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,informacion_estructura,Cantidad de cuentas corrientes,Dic-2025,78.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,informacion_estructura,Cantidad de cuentas de ahorro,Dic-2025,716.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones a plazo fijo Individuos,Dic-2025,10378.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones por otros préstamos,Dic-2025,92203.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,informacion_estructura,Dotación de personal,Dic-2025,67.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,informacion_estructura,Cantidad de tarjetas de débito,Dic-2025,87.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,informacion_estructura,Cantidad de tarjetas de crédito (plásticos),Dic-2025,,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones a plazo fijo Empresas,Dic-2025,56.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,informacion_estructura,CABA,Habilitadas,2.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,informacion_estructura,MISIONES,Habilitadas,,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,informacion_estructura,SANTA FE,Habilitadas,,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,informacion_estructura,CABA,Habilitadas,,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,informacion_estructura,MISIONES,Habilitadas,,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,informacion_estructura,SANTA FE,Habilitadas,,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,informacion_estructura,CABA,Habilitadas,,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,informacion_estructura,MISIONES,Habilitadas,,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,informacion_estructura,SANTA FE,Habilitadas,,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,informacion_estructura,CABA,Habilitadas,3.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,informacion_estructura,MISIONES,Habilitadas,,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,informacion_estructura,SANTA FE,Habilitadas,,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,informacion_estructura,CABA,Habilitadas,,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,informacion_estructura,MISIONES,Habilitadas,,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,informacion_estructura,SANTA FE,Habilitadas,,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,informacion_estructura,CABA,Habilitadas,,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,informacion_estructura,MISIONES,Habilitadas,1.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,informacion_estructura,SANTA FE,Habilitadas,1.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,informacion_estructura,CABA,Habilitadas,,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,informacion_estructura,MISIONES,Habilitadas,,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,informacion_estructura,SANTA FE,Habilitadas,,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,informacion_estructura,CABA,Pendientes de habilitación,,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,informacion_estructura,MISIONES,Pendientes de habilitación,,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,informacion_estructura,SANTA FE,Pendientes de habilitación,,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,informacion_estructura,CABA,Total,2.0,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,informacion_estructura,MISIONES,Total,,2026-04-19
+00312,BANCO VOII S.A.,privado_nacional,informacion_estructura,SANTA FE,Total,,2026-04-19

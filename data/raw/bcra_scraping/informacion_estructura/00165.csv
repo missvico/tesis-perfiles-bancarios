@@ -1,0 +1,35 @@
+codigo_bcra,nombre_banco,tipo_entidad,fuente,variable,periodo,valor,scraping_fecha
+00165,"JPMORGAN CHASE BANK, NATIONAL ASSOC",extranjero,informacion_estructura,Cantidad de cuentas corrientes,Dic-2023,38.0,2026-04-19
+00165,"JPMORGAN CHASE BANK, NATIONAL ASSOC",extranjero,informacion_estructura,Cantidad de cuentas de ahorro,Dic-2023,68.0,2026-04-19
+00165,"JPMORGAN CHASE BANK, NATIONAL ASSOC",extranjero,informacion_estructura,Cantidad de operaciones a plazo fijo Empresas,Dic-2023,,2026-04-19
+00165,"JPMORGAN CHASE BANK, NATIONAL ASSOC",extranjero,informacion_estructura,Cantidad de operaciones por otros préstamos,Dic-2023,,2026-04-19
+00165,"JPMORGAN CHASE BANK, NATIONAL ASSOC",extranjero,informacion_estructura,Dotación de personal,Dic-2023,172.0,2026-04-19
+00165,"JPMORGAN CHASE BANK, NATIONAL ASSOC",extranjero,informacion_estructura,Cantidad de cuentas corrientes,Dic-2024,38.0,2026-04-19
+00165,"JPMORGAN CHASE BANK, NATIONAL ASSOC",extranjero,informacion_estructura,Cantidad de cuentas de ahorro,Dic-2024,71.0,2026-04-19
+00165,"JPMORGAN CHASE BANK, NATIONAL ASSOC",extranjero,informacion_estructura,Cantidad de operaciones a plazo fijo Empresas,Dic-2024,,2026-04-19
+00165,"JPMORGAN CHASE BANK, NATIONAL ASSOC",extranjero,informacion_estructura,Cantidad de operaciones por otros préstamos,Dic-2024,4.0,2026-04-19
+00165,"JPMORGAN CHASE BANK, NATIONAL ASSOC",extranjero,informacion_estructura,Dotación de personal,Dic-2024,173.0,2026-04-19
+00165,"JPMORGAN CHASE BANK, NATIONAL ASSOC",extranjero,informacion_estructura,Cantidad de cuentas corrientes,Jun-2025,35.0,2026-04-19
+00165,"JPMORGAN CHASE BANK, NATIONAL ASSOC",extranjero,informacion_estructura,Cantidad de cuentas de ahorro,Jun-2025,83.0,2026-04-19
+00165,"JPMORGAN CHASE BANK, NATIONAL ASSOC",extranjero,informacion_estructura,Cantidad de operaciones a plazo fijo Empresas,Jun-2025,3.0,2026-04-19
+00165,"JPMORGAN CHASE BANK, NATIONAL ASSOC",extranjero,informacion_estructura,Cantidad de operaciones por otros préstamos,Jun-2025,8.0,2026-04-19
+00165,"JPMORGAN CHASE BANK, NATIONAL ASSOC",extranjero,informacion_estructura,Dotación de personal,Jun-2025,160.0,2026-04-19
+00165,"JPMORGAN CHASE BANK, NATIONAL ASSOC",extranjero,informacion_estructura,Cantidad de cuentas corrientes,Set-2025,34.0,2026-04-19
+00165,"JPMORGAN CHASE BANK, NATIONAL ASSOC",extranjero,informacion_estructura,Cantidad de cuentas de ahorro,Set-2025,82.0,2026-04-19
+00165,"JPMORGAN CHASE BANK, NATIONAL ASSOC",extranjero,informacion_estructura,Cantidad de operaciones a plazo fijo Empresas,Set-2025,2.0,2026-04-19
+00165,"JPMORGAN CHASE BANK, NATIONAL ASSOC",extranjero,informacion_estructura,Cantidad de operaciones por otros préstamos,Set-2025,5.0,2026-04-19
+00165,"JPMORGAN CHASE BANK, NATIONAL ASSOC",extranjero,informacion_estructura,Dotación de personal,Set-2025,171.0,2026-04-19
+00165,"JPMORGAN CHASE BANK, NATIONAL ASSOC",extranjero,informacion_estructura,Cantidad de cuentas corrientes,Dic-2025,35.0,2026-04-19
+00165,"JPMORGAN CHASE BANK, NATIONAL ASSOC",extranjero,informacion_estructura,Cantidad de cuentas de ahorro,Dic-2025,85.0,2026-04-19
+00165,"JPMORGAN CHASE BANK, NATIONAL ASSOC",extranjero,informacion_estructura,Cantidad de operaciones a plazo fijo Empresas,Dic-2025,,2026-04-19
+00165,"JPMORGAN CHASE BANK, NATIONAL ASSOC",extranjero,informacion_estructura,Cantidad de operaciones por otros préstamos,Dic-2025,3.0,2026-04-19
+00165,"JPMORGAN CHASE BANK, NATIONAL ASSOC",extranjero,informacion_estructura,Dotación de personal,Dic-2025,175.0,2026-04-19
+00165,"JPMORGAN CHASE BANK, NATIONAL ASSOC",extranjero,informacion_estructura,CABA,Habilitadas,1.0,2026-04-19
+00165,"JPMORGAN CHASE BANK, NATIONAL ASSOC",extranjero,informacion_estructura,CABA,Habilitadas,,2026-04-19
+00165,"JPMORGAN CHASE BANK, NATIONAL ASSOC",extranjero,informacion_estructura,CABA,Habilitadas,,2026-04-19
+00165,"JPMORGAN CHASE BANK, NATIONAL ASSOC",extranjero,informacion_estructura,CABA,Habilitadas,,2026-04-19
+00165,"JPMORGAN CHASE BANK, NATIONAL ASSOC",extranjero,informacion_estructura,CABA,Habilitadas,,2026-04-19
+00165,"JPMORGAN CHASE BANK, NATIONAL ASSOC",extranjero,informacion_estructura,CABA,Habilitadas,,2026-04-19
+00165,"JPMORGAN CHASE BANK, NATIONAL ASSOC",extranjero,informacion_estructura,CABA,Habilitadas,,2026-04-19
+00165,"JPMORGAN CHASE BANK, NATIONAL ASSOC",extranjero,informacion_estructura,CABA,Pendientes de habilitación,,2026-04-19
+00165,"JPMORGAN CHASE BANK, NATIONAL ASSOC",extranjero,informacion_estructura,CABA,Total,1.0,2026-04-19

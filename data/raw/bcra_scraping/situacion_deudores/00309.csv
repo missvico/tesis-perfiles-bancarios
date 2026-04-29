@@ -1,0 +1,161 @@
+codigo_bcra,nombre_banco,tipo_entidad,fuente,variable,periodo,valor,scraping_fecha
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,situacion_deudores,TOTAL DE FINANCIACIONES Y GARANTIAS OTORGADAS ($),Dic-2023,33072.31,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,situacion_deudores,TF.Sit.1: En situación normal (%),Dic-2023,85.55,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,situacion_deudores,TF.Sit.2: Con seguimiento especial/Riesgo bajo (%),Dic-2023,1.59,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,situacion_deudores,TF.Sit.3: Con problemas/Riesgo medio (%),Dic-2023,1.44,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,situacion_deudores,TF.Sit.4: Con alto riesgo de insolvencia/Riesgo alto (%),Dic-2023,5.93,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,situacion_deudores,TF.Sit.5: Irrecuperable (%),Dic-2023,5.49,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,situacion_deudores,TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Dic-2023,17.84,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,situacion_deudores,Previsiones por riesgo de incobrabilidad constituídas,Dic-2023,3161.58,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,situacion_deudores,CARTERA COMERCIAL ($),Dic-2023,14857.21,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,situacion_deudores,Total cartera sobre financiaciones (%),Dic-2023,44.92,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,situacion_deudores,C.COM.Sit.1: En situación normal (%),Dic-2023,78.25,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,situacion_deudores,C.COM.Sit.2: Con seguimiento especial (%),Dic-2023,0.0,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,situacion_deudores,C.COM.Sit.3: Con problemas (%),Dic-2023,1.03,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,situacion_deudores,C.COM.Sit.4: Con alto riesgo de insolvencia (%),Dic-2023,9.38,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,situacion_deudores,C.COM.Sit.5: Irrecuperable (%),Dic-2023,11.35,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,situacion_deudores,C.COM.TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Dic-2023,26.3,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,situacion_deudores,CARTERA DE CONSUMO O VIVIENDA ($),Dic-2023,12398.12,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,situacion_deudores,Total cartera sobre financiaciones (%),Dic-2023,37.49,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,situacion_deudores,C.CON.Sit.1: En situación normal (%),Dic-2023,94.34,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,situacion_deudores,C.CON.Sit.2: Riesgo bajo (%),Dic-2023,1.6,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,situacion_deudores,C.CON.Sit.3: Riesgo medio (%),Dic-2023,1.45,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,situacion_deudores,C.CON.Sit.4: Riesgo alto (%),Dic-2023,1.81,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,situacion_deudores,C.CON.Sit.5: Irrecuperable (%),Dic-2023,0.8,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,situacion_deudores,C.CON.TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Dic-2023,0.16,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,situacion_deudores,CARTERA COMERCIAL ASIMILABLE A CONSUMO ($),Dic-2023,5816.98,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,situacion_deudores,Total cartera sobre financiaciones (%),Dic-2023,17.59,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,situacion_deudores,C.CAC.Sit.1: En situación normal (%),Dic-2023,85.46,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,situacion_deudores,C.CAC.Sit.2: Riesgo bajo (%),Dic-2023,5.65,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,situacion_deudores,C.CAC.Sit.3: Riesgo medio (%),Dic-2023,2.45,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,situacion_deudores,C.CAC.Sit.4: Riesgo alto (%),Dic-2023,5.9,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,situacion_deudores,C.CAC.Sit.5: Irrecuperable (%),Dic-2023,0.54,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,situacion_deudores,C.CAC.TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Dic-2023,33.91,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,situacion_deudores,TOTAL DE FINANCIACIONES Y GARANTIAS OTORGADAS ($),Dic-2024,100918.88,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,situacion_deudores,TF.Sit.1: En situación normal (%),Dic-2024,90.44,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,situacion_deudores,TF.Sit.2: Con seguimiento especial/Riesgo bajo (%),Dic-2024,1.94,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,situacion_deudores,TF.Sit.3: Con problemas/Riesgo medio (%),Dic-2024,1.12,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,situacion_deudores,TF.Sit.4: Con alto riesgo de insolvencia/Riesgo alto (%),Dic-2024,1.06,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,situacion_deudores,TF.Sit.5: Irrecuperable (%),Dic-2024,5.44,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,situacion_deudores,TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Dic-2024,17.8,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,situacion_deudores,Previsiones por riesgo de incobrabilidad constituídas,Dic-2024,7077.06,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,situacion_deudores,CARTERA COMERCIAL ($),Dic-2024,37005.66,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,situacion_deudores,Total cartera sobre financiaciones (%),Dic-2024,36.67,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,situacion_deudores,C.COM.Sit.1: En situación normal (%),Dic-2024,85.91,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,situacion_deudores,C.COM.Sit.2: Con seguimiento especial (%),Dic-2024,0.06,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,situacion_deudores,C.COM.Sit.3: Con problemas (%),Dic-2024,0.19,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,situacion_deudores,C.COM.Sit.4: Con alto riesgo de insolvencia (%),Dic-2024,0.0,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,situacion_deudores,C.COM.Sit.5: Irrecuperable (%),Dic-2024,13.84,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,situacion_deudores,C.COM.TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Dic-2024,42.07,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,situacion_deudores,CARTERA DE CONSUMO O VIVIENDA ($),Dic-2024,57894.23,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,situacion_deudores,Total cartera sobre financiaciones (%),Dic-2024,57.37,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,situacion_deudores,C.CON.Sit.1: En situación normal (%),Dic-2024,94.28,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,situacion_deudores,C.CON.Sit.2: Riesgo bajo (%),Dic-2024,3.17,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,situacion_deudores,C.CON.Sit.3: Riesgo medio (%),Dic-2024,1.52,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,situacion_deudores,C.CON.Sit.4: Riesgo alto (%),Dic-2024,0.82,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,situacion_deudores,C.CON.Sit.5: Irrecuperable (%),Dic-2024,0.2,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,situacion_deudores,C.CON.TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Dic-2024,0.04,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,situacion_deudores,CARTERA COMERCIAL ASIMILABLE A CONSUMO ($),Dic-2024,6018.99,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,situacion_deudores,Total cartera sobre financiaciones (%),Dic-2024,5.96,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,situacion_deudores,C.CAC.Sit.1: En situación normal (%),Dic-2024,81.27,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,situacion_deudores,C.CAC.Sit.2: Riesgo bajo (%),Dic-2024,1.64,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,situacion_deudores,C.CAC.Sit.3: Riesgo medio (%),Dic-2024,2.99,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,situacion_deudores,C.CAC.Sit.4: Riesgo alto (%),Dic-2024,9.93,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,situacion_deudores,C.CAC.Sit.5: Irrecuperable (%),Dic-2024,4.18,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,situacion_deudores,C.CAC.TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Dic-2024,39.41,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,situacion_deudores,TOTAL DE FINANCIACIONES Y GARANTIAS OTORGADAS ($),Nov-2025,140809.56,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,situacion_deudores,TF.Sit.1: En situación normal (%),Nov-2025,66.5,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,situacion_deudores,TF.Sit.2: Con seguimiento especial/Riesgo bajo (%),Nov-2025,15.48,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,situacion_deudores,TF.Sit.3: Con problemas/Riesgo medio (%),Nov-2025,4.23,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,situacion_deudores,TF.Sit.4: Con alto riesgo de insolvencia/Riesgo alto (%),Nov-2025,9.84,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,situacion_deudores,TF.Sit.5: Irrecuperable (%),Nov-2025,3.95,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,situacion_deudores,TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Nov-2025,8.45,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,situacion_deudores,Previsiones por riesgo de incobrabilidad constituídas,Nov-2025,12152.7,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,situacion_deudores,CARTERA COMERCIAL ($),Nov-2025,34213.38,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,situacion_deudores,Total cartera sobre financiaciones (%),Nov-2025,24.3,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,situacion_deudores,C.COM.Sit.1: En situación normal (%),Nov-2025,26.13,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,situacion_deudores,C.COM.Sit.2: Con seguimiento especial (%),Nov-2025,35.06,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,situacion_deudores,C.COM.Sit.3: Con problemas (%),Nov-2025,0.0,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,situacion_deudores,C.COM.Sit.4: Con alto riesgo de insolvencia (%),Nov-2025,26.01,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,situacion_deudores,C.COM.Sit.5: Irrecuperable (%),Nov-2025,12.8,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,situacion_deudores,C.COM.TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Nov-2025,22.84,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,situacion_deudores,CARTERA DE CONSUMO O VIVIENDA ($),Nov-2025,93940.71,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,situacion_deudores,Total cartera sobre financiaciones (%),Nov-2025,66.71,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,situacion_deudores,C.CON.Sit.1: En situación normal (%),Nov-2025,82.17,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,situacion_deudores,C.CON.Sit.2: Riesgo bajo (%),Nov-2025,8.45,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,situacion_deudores,C.CON.Sit.3: Riesgo medio (%),Nov-2025,5.6,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,situacion_deudores,C.CON.Sit.4: Riesgo alto (%),Nov-2025,3.17,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,situacion_deudores,C.CON.Sit.5: Irrecuperable (%),Nov-2025,0.61,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,situacion_deudores,C.CON.TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Nov-2025,0.04,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,situacion_deudores,CARTERA COMERCIAL ASIMILABLE A CONSUMO ($),Nov-2025,12655.47,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,situacion_deudores,Total cartera sobre financiaciones (%),Nov-2025,8.99,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,situacion_deudores,C.CAC.Sit.1: En situación normal (%),Nov-2025,59.29,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,situacion_deudores,C.CAC.Sit.2: Riesgo bajo (%),Nov-2025,14.69,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,situacion_deudores,C.CAC.Sit.3: Riesgo medio (%),Nov-2025,5.56,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,situacion_deudores,C.CAC.Sit.4: Riesgo alto (%),Nov-2025,15.56,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,situacion_deudores,C.CAC.Sit.5: Irrecuperable (%),Nov-2025,4.9,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,situacion_deudores,C.CAC.TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Nov-2025,31.92,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,situacion_deudores,TOTAL DE FINANCIACIONES Y GARANTIAS OTORGADAS ($),Dic-2025,139438.43,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,situacion_deudores,TF.Sit.1: En situación normal (%),Dic-2025,66.73,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,situacion_deudores,TF.Sit.2: Con seguimiento especial/Riesgo bajo (%),Dic-2025,14.02,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,situacion_deudores,TF.Sit.3: Con problemas/Riesgo medio (%),Dic-2025,4.81,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,situacion_deudores,TF.Sit.4: Con alto riesgo de insolvencia/Riesgo alto (%),Dic-2025,10.38,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,situacion_deudores,TF.Sit.5: Irrecuperable (%),Dic-2025,4.06,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,situacion_deudores,TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Dic-2025,8.52,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,situacion_deudores,Previsiones por riesgo de incobrabilidad constituídas,Dic-2025,12494.27,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,situacion_deudores,CARTERA COMERCIAL ($),Dic-2025,31391.73,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,situacion_deudores,Total cartera sobre financiaciones (%),Dic-2025,22.51,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,situacion_deudores,C.COM.Sit.1: En situación normal (%),Dic-2025,27.35,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,situacion_deudores,C.COM.Sit.2: Con seguimiento especial (%),Dic-2025,31.13,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,situacion_deudores,C.COM.Sit.3: Con problemas (%),Dic-2025,0.0,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,situacion_deudores,C.COM.Sit.4: Con alto riesgo de insolvencia (%),Dic-2025,27.78,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,situacion_deudores,C.COM.Sit.5: Irrecuperable (%),Dic-2025,13.73,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,situacion_deudores,C.COM.TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Dic-2025,26.32,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,situacion_deudores,CARTERA DE CONSUMO O VIVIENDA ($),Dic-2025,95570.69,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,situacion_deudores,Total cartera sobre financiaciones (%),Dic-2025,68.54,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,situacion_deudores,C.CON.Sit.1: En situación normal (%),Dic-2025,81.35,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,situacion_deudores,C.CON.Sit.2: Riesgo bajo (%),Dic-2025,7.87,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,situacion_deudores,C.CON.Sit.3: Riesgo medio (%),Dic-2025,6.25,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,situacion_deudores,C.CON.Sit.4: Riesgo alto (%),Dic-2025,3.79,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,situacion_deudores,C.CON.Sit.5: Irrecuperable (%),Dic-2025,0.75,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,situacion_deudores,C.CON.TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Dic-2025,0.04,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,situacion_deudores,CARTERA COMERCIAL ASIMILABLE A CONSUMO ($),Dic-2025,12476.01,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,situacion_deudores,Total cartera sobre financiaciones (%),Dic-2025,8.95,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,situacion_deudores,C.CAC.Sit.1: En situación normal (%),Dic-2025,53.83,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,situacion_deudores,C.CAC.Sit.2: Riesgo bajo (%),Dic-2025,18.09,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,situacion_deudores,C.CAC.Sit.3: Riesgo medio (%),Dic-2025,5.9,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,situacion_deudores,C.CAC.Sit.4: Riesgo alto (%),Dic-2025,17.07,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,situacion_deudores,C.CAC.Sit.5: Irrecuperable (%),Dic-2025,5.1,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,situacion_deudores,C.CAC.TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Dic-2025,28.69,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,situacion_deudores,TOTAL DE FINANCIACIONES Y GARANTIAS OTORGADAS ($),Ene-2026,140144.86,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,situacion_deudores,TF.Sit.1: En situación normal (%),Ene-2026,67.19,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,situacion_deudores,TF.Sit.2: Con seguimiento especial/Riesgo bajo (%),Ene-2026,12.28,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,situacion_deudores,TF.Sit.3: Con problemas/Riesgo medio (%),Ene-2026,5.33,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,situacion_deudores,TF.Sit.4: Con alto riesgo de insolvencia/Riesgo alto (%),Ene-2026,10.99,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,situacion_deudores,TF.Sit.5: Irrecuperable (%),Ene-2026,4.2,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,situacion_deudores,TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Ene-2026,9.17,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,situacion_deudores,Previsiones por riesgo de incobrabilidad constituídas,Ene-2026,12895.51,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,situacion_deudores,CARTERA COMERCIAL ($),Ene-2026,30163.83,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,situacion_deudores,Total cartera sobre financiaciones (%),Ene-2026,21.52,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,situacion_deudores,C.COM.Sit.1: En situación normal (%),Ene-2026,29.89,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,situacion_deudores,C.COM.Sit.2: Con seguimiento especial (%),Ene-2026,26.46,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,situacion_deudores,C.COM.Sit.3: Con problemas (%),Ene-2026,0.0,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,situacion_deudores,C.COM.Sit.4: Con alto riesgo de insolvencia (%),Ene-2026,29.55,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,situacion_deudores,C.COM.Sit.5: Irrecuperable (%),Ene-2026,14.1,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,situacion_deudores,C.COM.TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Ene-2026,27.71,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,situacion_deudores,CARTERA DE CONSUMO O VIVIENDA ($),Ene-2026,97122.97,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,situacion_deudores,Total cartera sobre financiaciones (%),Ene-2026,69.3,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,situacion_deudores,C.CON.Sit.1: En situación normal (%),Ene-2026,80.08,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,situacion_deudores,C.CON.Sit.2: Riesgo bajo (%),Ene-2026,7.53,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,situacion_deudores,C.CON.Sit.3: Riesgo medio (%),Ene-2026,7.05,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,situacion_deudores,C.CON.Sit.4: Riesgo alto (%),Ene-2026,4.37,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,situacion_deudores,C.CON.Sit.5: Irrecuperable (%),Ene-2026,0.97,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,situacion_deudores,C.CON.TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Ene-2026,0.0,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,situacion_deudores,CARTERA COMERCIAL ASIMILABLE A CONSUMO ($),Ene-2026,12858.07,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,situacion_deudores,Total cartera sobre financiaciones (%),Ene-2026,9.17,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,situacion_deudores,C.CAC.Sit.1: En situación normal (%),Ene-2026,57.37,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,situacion_deudores,C.CAC.Sit.2: Riesgo bajo (%),Ene-2026,14.88,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,situacion_deudores,C.CAC.Sit.3: Riesgo medio (%),Ene-2026,4.91,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,situacion_deudores,C.CAC.Sit.4: Riesgo alto (%),Ene-2026,17.43,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,situacion_deudores,C.CAC.Sit.5: Irrecuperable (%),Ene-2026,5.41,2026-04-19
+00309,BANCO RIOJA SOCIEDAD ANONIMA UNIPER,publico,situacion_deudores,C.CAC.TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Ene-2026,34.99,2026-04-19

@@ -1,0 +1,141 @@
+codigo_bcra,nombre_banco,tipo_entidad,fuente,variable,periodo,valor,scraping_fecha
+00254,BANCO MARIVA S.A.,privado_nacional,situacion_deudores,TOTAL DE FINANCIACIONES Y GARANTIAS OTORGADAS ($),Dic-2023,36871.05,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,situacion_deudores,TF.Sit.1: En situación normal (%),Dic-2023,98.97,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,situacion_deudores,TF.Sit.2: Con seguimiento especial/Riesgo bajo (%),Dic-2023,0.0,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,situacion_deudores,TF.Sit.3: Con problemas/Riesgo medio (%),Dic-2023,0.0,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,situacion_deudores,TF.Sit.4: Con alto riesgo de insolvencia/Riesgo alto (%),Dic-2023,0.15,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,situacion_deudores,TF.Sit.5: Irrecuperable (%),Dic-2023,0.89,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,situacion_deudores,TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Dic-2023,4.6,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,situacion_deudores,Previsiones por riesgo de incobrabilidad constituídas,Dic-2023,548.97,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,situacion_deudores,CARTERA COMERCIAL ($),Dic-2023,24995.05,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,situacion_deudores,Total cartera sobre financiaciones (%),Dic-2023,67.79,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,situacion_deudores,C.COM.Sit.1: En situación normal (%),Dic-2023,100.0,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,situacion_deudores,C.COM.Sit.4: Con alto riesgo de insolvencia (%),Dic-2023,0.0,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,situacion_deudores,C.COM.TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Dic-2023,5.24,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,situacion_deudores,CARTERA DE CONSUMO O VIVIENDA ($),Dic-2023,106.68,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,situacion_deudores,Total cartera sobre financiaciones (%),Dic-2023,0.29,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,situacion_deudores,C.CON.Sit.1: En situación normal (%),Dic-2023,85.32,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,situacion_deudores,C.CON.Sit.3: Riesgo medio (%),Dic-2023,0.0,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,situacion_deudores,C.CON.Sit.4: Riesgo alto (%),Dic-2023,0.0,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,situacion_deudores,C.CON.Sit.5: Irrecuperable (%),Dic-2023,14.68,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,situacion_deudores,C.CON.TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Dic-2023,0.0,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,situacion_deudores,CARTERA COMERCIAL ASIMILABLE A CONSUMO ($),Dic-2023,11769.32,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,situacion_deudores,Total cartera sobre financiaciones (%),Dic-2023,31.92,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,situacion_deudores,C.CAC.Sit.1: En situación normal (%),Dic-2023,96.9,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,situacion_deudores,C.CAC.Sit.2: Riesgo bajo (%),Dic-2023,0.0,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,situacion_deudores,C.CAC.Sit.3: Riesgo medio (%),Dic-2023,0.0,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,situacion_deudores,C.CAC.Sit.4: Riesgo alto (%),Dic-2023,0.46,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,situacion_deudores,C.CAC.Sit.5: Irrecuperable (%),Dic-2023,2.65,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,situacion_deudores,C.CAC.TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Dic-2023,3.27,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,situacion_deudores,TOTAL DE FINANCIACIONES Y GARANTIAS OTORGADAS ($),Dic-2024,129759.98,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,situacion_deudores,TF.Sit.1: En situación normal (%),Dic-2024,99.58,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,situacion_deudores,TF.Sit.2: Con seguimiento especial/Riesgo bajo (%),Dic-2024,0.0,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,situacion_deudores,TF.Sit.3: Con problemas/Riesgo medio (%),Dic-2024,0.0,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,situacion_deudores,TF.Sit.4: Con alto riesgo de insolvencia/Riesgo alto (%),Dic-2024,0.0,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,situacion_deudores,TF.Sit.5: Irrecuperable (%),Dic-2024,0.42,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,situacion_deudores,TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Dic-2024,1.09,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,situacion_deudores,Previsiones por riesgo de incobrabilidad constituídas,Dic-2024,1596.16,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,situacion_deudores,CARTERA COMERCIAL ($),Dic-2024,116093.77,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,situacion_deudores,Total cartera sobre financiaciones (%),Dic-2024,89.47,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,situacion_deudores,C.COM.Sit.1: En situación normal (%),Dic-2024,100.0,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,situacion_deudores,C.COM.Sit.4: Con alto riesgo de insolvencia (%),Dic-2024,0.0,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,situacion_deudores,C.COM.TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Dic-2024,1.01,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,situacion_deudores,CARTERA DE CONSUMO O VIVIENDA ($),Dic-2024,101.0,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,situacion_deudores,Total cartera sobre financiaciones (%),Dic-2024,0.08,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,situacion_deudores,C.CON.Sit.1: En situación normal (%),Dic-2024,83.46,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,situacion_deudores,C.CON.Sit.3: Riesgo medio (%),Dic-2024,0.0,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,situacion_deudores,C.CON.Sit.4: Riesgo alto (%),Dic-2024,0.01,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,situacion_deudores,C.CON.Sit.5: Irrecuperable (%),Dic-2024,16.53,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,situacion_deudores,C.CON.TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Dic-2024,0.0,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,situacion_deudores,CARTERA COMERCIAL ASIMILABLE A CONSUMO ($),Dic-2024,13565.21,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,situacion_deudores,Total cartera sobre financiaciones (%),Dic-2024,10.45,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,situacion_deudores,C.CAC.Sit.1: En situación normal (%),Dic-2024,96.1,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,situacion_deudores,C.CAC.Sit.2: Riesgo bajo (%),Dic-2024,0.0,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,situacion_deudores,C.CAC.Sit.3: Riesgo medio (%),Dic-2024,0.0,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,situacion_deudores,C.CAC.Sit.4: Riesgo alto (%),Dic-2024,0.0,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,situacion_deudores,C.CAC.Sit.5: Irrecuperable (%),Dic-2024,3.9,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,situacion_deudores,C.CAC.TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Dic-2024,1.82,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,situacion_deudores,TOTAL DE FINANCIACIONES Y GARANTIAS OTORGADAS ($),Nov-2025,294800.78,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,situacion_deudores,TF.Sit.1: En situación normal (%),Nov-2025,99.79,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,situacion_deudores,TF.Sit.2: Con seguimiento especial/Riesgo bajo (%),Nov-2025,0.03,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,situacion_deudores,TF.Sit.3: Con problemas/Riesgo medio (%),Nov-2025,0.0,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,situacion_deudores,TF.Sit.4: Con alto riesgo de insolvencia/Riesgo alto (%),Nov-2025,0.0,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,situacion_deudores,TF.Sit.5: Irrecuperable (%),Nov-2025,0.18,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,situacion_deudores,TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Nov-2025,1.8,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,situacion_deudores,Previsiones por riesgo de incobrabilidad constituídas,Nov-2025,1311.68,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,situacion_deudores,CARTERA COMERCIAL ($),Nov-2025,254704.98,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,situacion_deudores,Total cartera sobre financiaciones (%),Nov-2025,86.4,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,situacion_deudores,C.COM.Sit.1: En situación normal (%),Nov-2025,100.0,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,situacion_deudores,C.COM.Sit.4: Con alto riesgo de insolvencia (%),Nov-2025,0.0,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,situacion_deudores,C.COM.TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Nov-2025,1.95,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,situacion_deudores,CARTERA DE CONSUMO O VIVIENDA ($),Nov-2025,253.24,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,situacion_deudores,Total cartera sobre financiaciones (%),Nov-2025,0.09,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,situacion_deudores,C.CON.Sit.1: En situación normal (%),Nov-2025,92.54,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,situacion_deudores,C.CON.Sit.3: Riesgo medio (%),Nov-2025,0.49,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,situacion_deudores,C.CON.Sit.4: Riesgo alto (%),Nov-2025,0.01,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,situacion_deudores,C.CON.Sit.5: Irrecuperable (%),Nov-2025,6.96,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,situacion_deudores,C.CON.TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Nov-2025,0.0,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,situacion_deudores,CARTERA COMERCIAL ASIMILABLE A CONSUMO ($),Nov-2025,39842.57,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,situacion_deudores,Total cartera sobre financiaciones (%),Nov-2025,13.52,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,situacion_deudores,C.CAC.Sit.1: En situación normal (%),Nov-2025,98.48,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,situacion_deudores,C.CAC.Sit.2: Riesgo bajo (%),Nov-2025,0.26,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,situacion_deudores,C.CAC.Sit.3: Riesgo medio (%),Nov-2025,0.0,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,situacion_deudores,C.CAC.Sit.4: Riesgo alto (%),Nov-2025,0.0,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,situacion_deudores,C.CAC.Sit.5: Irrecuperable (%),Nov-2025,1.26,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,situacion_deudores,C.CAC.TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Nov-2025,0.87,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,situacion_deudores,TOTAL DE FINANCIACIONES Y GARANTIAS OTORGADAS ($),Dic-2025,262629.25,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,situacion_deudores,TF.Sit.1: En situación normal (%),Dic-2025,99.76,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,situacion_deudores,TF.Sit.2: Con seguimiento especial/Riesgo bajo (%),Dic-2025,0.04,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,situacion_deudores,TF.Sit.3: Con problemas/Riesgo medio (%),Dic-2025,0.0,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,situacion_deudores,TF.Sit.4: Con alto riesgo de insolvencia/Riesgo alto (%),Dic-2025,0.0,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,situacion_deudores,TF.Sit.5: Irrecuperable (%),Dic-2025,0.2,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,situacion_deudores,TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Dic-2025,2.01,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,situacion_deudores,Previsiones por riesgo de incobrabilidad constituídas,Dic-2025,1214.67,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,situacion_deudores,CARTERA COMERCIAL ($),Dic-2025,222090.32,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,situacion_deudores,Total cartera sobre financiaciones (%),Dic-2025,84.56,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,situacion_deudores,C.COM.Sit.1: En situación normal (%),Dic-2025,100.0,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,situacion_deudores,C.COM.Sit.4: Con alto riesgo de insolvencia (%),Dic-2025,0.0,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,situacion_deudores,C.COM.TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Dic-2025,2.25,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,situacion_deudores,CARTERA DE CONSUMO O VIVIENDA ($),Dic-2025,255.79,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,situacion_deudores,Total cartera sobre financiaciones (%),Dic-2025,0.1,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,situacion_deudores,C.CON.Sit.1: En situación normal (%),Dic-2025,92.67,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,situacion_deudores,C.CON.Sit.3: Riesgo medio (%),Dic-2025,0.4,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,situacion_deudores,C.CON.Sit.4: Riesgo alto (%),Dic-2025,0.01,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,situacion_deudores,C.CON.Sit.5: Irrecuperable (%),Dic-2025,6.93,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,situacion_deudores,C.CON.TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Dic-2025,0.0,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,situacion_deudores,CARTERA COMERCIAL ASIMILABLE A CONSUMO ($),Dic-2025,40283.15,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,situacion_deudores,Total cartera sobre financiaciones (%),Dic-2025,15.34,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,situacion_deudores,C.CAC.Sit.1: En situación normal (%),Dic-2025,98.49,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,situacion_deudores,C.CAC.Sit.2: Riesgo bajo (%),Dic-2025,0.26,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,situacion_deudores,C.CAC.Sit.3: Riesgo medio (%),Dic-2025,0.0,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,situacion_deudores,C.CAC.Sit.4: Riesgo alto (%),Dic-2025,0.0,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,situacion_deudores,C.CAC.Sit.5: Irrecuperable (%),Dic-2025,1.25,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,situacion_deudores,C.CAC.TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Dic-2025,0.75,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,situacion_deudores,TOTAL DE FINANCIACIONES Y GARANTIAS OTORGADAS ($),Ene-2026,278312.57,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,situacion_deudores,TF.Sit.1: En situación normal (%),Ene-2026,99.77,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,situacion_deudores,TF.Sit.2: Con seguimiento especial/Riesgo bajo (%),Ene-2026,0.0,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,situacion_deudores,TF.Sit.3: Con problemas/Riesgo medio (%),Ene-2026,0.04,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,situacion_deudores,TF.Sit.4: Con alto riesgo de insolvencia/Riesgo alto (%),Ene-2026,0.0,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,situacion_deudores,TF.Sit.5: Irrecuperable (%),Ene-2026,0.19,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,situacion_deudores,TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Ene-2026,1.99,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,situacion_deudores,Previsiones por riesgo de incobrabilidad constituídas,Ene-2026,1250.32,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,situacion_deudores,CARTERA COMERCIAL ($),Ene-2026,230833.95,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,situacion_deudores,Total cartera sobre financiaciones (%),Ene-2026,82.94,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,situacion_deudores,C.COM.Sit.1: En situación normal (%),Ene-2026,100.0,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,situacion_deudores,C.COM.Sit.4: Con alto riesgo de insolvencia (%),Ene-2026,0.0,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,situacion_deudores,C.COM.TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Ene-2026,2.24,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,situacion_deudores,CARTERA DE CONSUMO O VIVIENDA ($),Ene-2026,315.62,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,situacion_deudores,Total cartera sobre financiaciones (%),Ene-2026,0.11,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,situacion_deudores,C.CON.Sit.1: En situación normal (%),Ene-2026,94.02,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,situacion_deudores,C.CON.Sit.3: Riesgo medio (%),Ene-2026,0.33,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,situacion_deudores,C.CON.Sit.4: Riesgo alto (%),Ene-2026,0.0,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,situacion_deudores,C.CON.Sit.5: Irrecuperable (%),Ene-2026,5.64,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,situacion_deudores,C.CON.TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Ene-2026,24.28,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,situacion_deudores,CARTERA COMERCIAL ASIMILABLE A CONSUMO ($),Ene-2026,47163.0,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,situacion_deudores,Total cartera sobre financiaciones (%),Ene-2026,16.95,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,situacion_deudores,C.CAC.Sit.1: En situación normal (%),Ene-2026,98.71,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,situacion_deudores,C.CAC.Sit.2: Riesgo bajo (%),Ene-2026,0.0,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,situacion_deudores,C.CAC.Sit.3: Riesgo medio (%),Ene-2026,0.22,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,situacion_deudores,C.CAC.Sit.4: Riesgo alto (%),Ene-2026,0.0,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,situacion_deudores,C.CAC.Sit.5: Irrecuperable (%),Ene-2026,1.07,2026-04-19
+00254,BANCO MARIVA S.A.,privado_nacional,situacion_deudores,C.CAC.TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Ene-2026,0.64,2026-04-19

@@ -1,0 +1,103 @@
+codigo_bcra,nombre_banco,tipo_entidad,fuente,variable,periodo,valor,scraping_fecha
+00045,BANCO DE SAN JUAN S.A.,publico,informacion_estructura,Cantidad de cuentas corrientes,Dic-2023,28732.0,2026-04-19
+00045,BANCO DE SAN JUAN S.A.,publico,informacion_estructura,Cantidad de cuentas de ahorro,Dic-2023,570120.0,2026-04-19
+00045,BANCO DE SAN JUAN S.A.,publico,informacion_estructura,Cantidad de cajas de ahorro de ayuda social,Dic-2023,103848.0,2026-04-19
+00045,BANCO DE SAN JUAN S.A.,publico,informacion_estructura,Cantidad de cuentas previsionales,Dic-2023,154560.0,2026-04-19
+00045,BANCO DE SAN JUAN S.A.,publico,informacion_estructura,Cantidad de operaciones a plazo fijo Individuos,Dic-2023,21405.0,2026-04-19
+00045,BANCO DE SAN JUAN S.A.,publico,informacion_estructura,Cantidad de operaciones a plazo fijo Empresas,Dic-2023,291.0,2026-04-19
+00045,BANCO DE SAN JUAN S.A.,publico,informacion_estructura,Cantidad de operaciones por préstamos hipotecarios,Dic-2023,17.0,2026-04-19
+00045,BANCO DE SAN JUAN S.A.,publico,informacion_estructura,Cantidad de operaciones por préstamos prendarios,Dic-2023,67.0,2026-04-19
+00045,BANCO DE SAN JUAN S.A.,publico,informacion_estructura,Cantidad de operaciones por otros préstamos,Dic-2023,180695.0,2026-04-19
+00045,BANCO DE SAN JUAN S.A.,publico,informacion_estructura,Dotación de personal,Dic-2023,567.0,2026-04-19
+00045,BANCO DE SAN JUAN S.A.,publico,informacion_estructura,Cantidad de titulares por tarjetas de crédito,Dic-2023,94870.0,2026-04-19
+00045,BANCO DE SAN JUAN S.A.,publico,informacion_estructura,Cantidad de tarjetas de crédito (plásticos),Dic-2023,123442.0,2026-04-19
+00045,BANCO DE SAN JUAN S.A.,publico,informacion_estructura,Cantidad de tarjetas de débito,Dic-2023,339848.0,2026-04-19
+00045,BANCO DE SAN JUAN S.A.,publico,informacion_estructura,Cantidad de cuentas corrientes,Dic-2024,32853.0,2026-04-19
+00045,BANCO DE SAN JUAN S.A.,publico,informacion_estructura,Cantidad de cuentas de ahorro,Dic-2024,490484.0,2026-04-19
+00045,BANCO DE SAN JUAN S.A.,publico,informacion_estructura,Cantidad de cajas de ahorro de ayuda social,Dic-2024,109507.0,2026-04-19
+00045,BANCO DE SAN JUAN S.A.,publico,informacion_estructura,Cantidad de cuentas previsionales,Dic-2024,158262.0,2026-04-19
+00045,BANCO DE SAN JUAN S.A.,publico,informacion_estructura,Cantidad de operaciones a plazo fijo Individuos,Dic-2024,13217.0,2026-04-19
+00045,BANCO DE SAN JUAN S.A.,publico,informacion_estructura,Cantidad de operaciones a plazo fijo Empresas,Dic-2024,165.0,2026-04-19
+00045,BANCO DE SAN JUAN S.A.,publico,informacion_estructura,Cantidad de operaciones por préstamos hipotecarios,Dic-2024,30.0,2026-04-19
+00045,BANCO DE SAN JUAN S.A.,publico,informacion_estructura,Cantidad de operaciones por préstamos prendarios,Dic-2024,64.0,2026-04-19
+00045,BANCO DE SAN JUAN S.A.,publico,informacion_estructura,Cantidad de operaciones por otros préstamos,Dic-2024,175806.0,2026-04-19
+00045,BANCO DE SAN JUAN S.A.,publico,informacion_estructura,Dotación de personal,Dic-2024,596.0,2026-04-19
+00045,BANCO DE SAN JUAN S.A.,publico,informacion_estructura,Cantidad de titulares por tarjetas de crédito,Dic-2024,106084.0,2026-04-19
+00045,BANCO DE SAN JUAN S.A.,publico,informacion_estructura,Cantidad de tarjetas de crédito (plásticos),Dic-2024,118188.0,2026-04-19
+00045,BANCO DE SAN JUAN S.A.,publico,informacion_estructura,Cantidad de tarjetas de débito,Dic-2024,354701.0,2026-04-19
+00045,BANCO DE SAN JUAN S.A.,publico,informacion_estructura,Cantidad de cuentas corrientes,Jun-2025,36092.0,2026-04-19
+00045,BANCO DE SAN JUAN S.A.,publico,informacion_estructura,Cantidad de cuentas de ahorro,Jun-2025,527615.0,2026-04-19
+00045,BANCO DE SAN JUAN S.A.,publico,informacion_estructura,Cantidad de cajas de ahorro de ayuda social,Jun-2025,113436.0,2026-04-19
+00045,BANCO DE SAN JUAN S.A.,publico,informacion_estructura,Cantidad de cuentas previsionales,Jun-2025,159861.0,2026-04-19
+00045,BANCO DE SAN JUAN S.A.,publico,informacion_estructura,Cantidad de operaciones a plazo fijo Individuos,Jun-2025,13535.0,2026-04-19
+00045,BANCO DE SAN JUAN S.A.,publico,informacion_estructura,Cantidad de operaciones a plazo fijo Empresas,Jun-2025,358.0,2026-04-19
+00045,BANCO DE SAN JUAN S.A.,publico,informacion_estructura,Cantidad de operaciones por préstamos hipotecarios,Jun-2025,32.0,2026-04-19
+00045,BANCO DE SAN JUAN S.A.,publico,informacion_estructura,Cantidad de operaciones por préstamos prendarios,Jun-2025,69.0,2026-04-19
+00045,BANCO DE SAN JUAN S.A.,publico,informacion_estructura,Cantidad de operaciones por otros préstamos,Jun-2025,179693.0,2026-04-19
+00045,BANCO DE SAN JUAN S.A.,publico,informacion_estructura,Dotación de personal,Jun-2025,381.0,2026-04-19
+00045,BANCO DE SAN JUAN S.A.,publico,informacion_estructura,Cantidad de titulares por tarjetas de crédito,Jun-2025,109168.0,2026-04-19
+00045,BANCO DE SAN JUAN S.A.,publico,informacion_estructura,Cantidad de tarjetas de crédito (plásticos),Jun-2025,119290.0,2026-04-19
+00045,BANCO DE SAN JUAN S.A.,publico,informacion_estructura,Cantidad de tarjetas de débito,Jun-2025,369792.0,2026-04-19
+00045,BANCO DE SAN JUAN S.A.,publico,informacion_estructura,Cantidad de cuentas corrientes,Set-2025,37400.0,2026-04-19
+00045,BANCO DE SAN JUAN S.A.,publico,informacion_estructura,Cantidad de cuentas de ahorro,Set-2025,535305.0,2026-04-19
+00045,BANCO DE SAN JUAN S.A.,publico,informacion_estructura,Cantidad de cajas de ahorro de ayuda social,Set-2025,111933.0,2026-04-19
+00045,BANCO DE SAN JUAN S.A.,publico,informacion_estructura,Cantidad de cuentas previsionales,Set-2025,160555.0,2026-04-19
+00045,BANCO DE SAN JUAN S.A.,publico,informacion_estructura,Cantidad de operaciones a plazo fijo Individuos,Set-2025,14561.0,2026-04-19
+00045,BANCO DE SAN JUAN S.A.,publico,informacion_estructura,Cantidad de operaciones a plazo fijo Empresas,Set-2025,434.0,2026-04-19
+00045,BANCO DE SAN JUAN S.A.,publico,informacion_estructura,Cantidad de operaciones por préstamos hipotecarios,Set-2025,36.0,2026-04-19
+00045,BANCO DE SAN JUAN S.A.,publico,informacion_estructura,Cantidad de operaciones por préstamos prendarios,Set-2025,69.0,2026-04-19
+00045,BANCO DE SAN JUAN S.A.,publico,informacion_estructura,Cantidad de operaciones por otros préstamos,Set-2025,180576.0,2026-04-19
+00045,BANCO DE SAN JUAN S.A.,publico,informacion_estructura,Dotación de personal,Set-2025,361.0,2026-04-19
+00045,BANCO DE SAN JUAN S.A.,publico,informacion_estructura,Cantidad de titulares por tarjetas de crédito,Set-2025,112106.0,2026-04-19
+00045,BANCO DE SAN JUAN S.A.,publico,informacion_estructura,Cantidad de tarjetas de crédito (plásticos),Set-2025,120752.0,2026-04-19
+00045,BANCO DE SAN JUAN S.A.,publico,informacion_estructura,Cantidad de tarjetas de débito,Set-2025,373393.0,2026-04-19
+00045,BANCO DE SAN JUAN S.A.,publico,informacion_estructura,Cantidad de cuentas corrientes,Dic-2025,38472.0,2026-04-19
+00045,BANCO DE SAN JUAN S.A.,publico,informacion_estructura,Cantidad de cuentas de ahorro,Dic-2025,535315.0,2026-04-19
+00045,BANCO DE SAN JUAN S.A.,publico,informacion_estructura,Cantidad de cajas de ahorro de ayuda social,Dic-2025,106519.0,2026-04-19
+00045,BANCO DE SAN JUAN S.A.,publico,informacion_estructura,Cantidad de cuentas previsionales,Dic-2025,161096.0,2026-04-19
+00045,BANCO DE SAN JUAN S.A.,publico,informacion_estructura,Cantidad de operaciones a plazo fijo Individuos,Dic-2025,13012.0,2026-04-19
+00045,BANCO DE SAN JUAN S.A.,publico,informacion_estructura,Cantidad de operaciones a plazo fijo Empresas,Dic-2025,391.0,2026-04-19
+00045,BANCO DE SAN JUAN S.A.,publico,informacion_estructura,Cantidad de operaciones por préstamos hipotecarios,Dic-2025,35.0,2026-04-19
+00045,BANCO DE SAN JUAN S.A.,publico,informacion_estructura,Cantidad de operaciones por préstamos prendarios,Dic-2025,74.0,2026-04-19
+00045,BANCO DE SAN JUAN S.A.,publico,informacion_estructura,Cantidad de operaciones por otros préstamos,Dic-2025,180252.0,2026-04-19
+00045,BANCO DE SAN JUAN S.A.,publico,informacion_estructura,Dotación de personal,Dic-2025,375.0,2026-04-19
+00045,BANCO DE SAN JUAN S.A.,publico,informacion_estructura,Cantidad de titulares por tarjetas de crédito,Dic-2025,111079.0,2026-04-19
+00045,BANCO DE SAN JUAN S.A.,publico,informacion_estructura,Cantidad de tarjetas de crédito (plásticos),Dic-2025,118262.0,2026-04-19
+00045,BANCO DE SAN JUAN S.A.,publico,informacion_estructura,Cantidad de tarjetas de débito,Dic-2025,372970.0,2026-04-19
+00045,BANCO DE SAN JUAN S.A.,publico,informacion_estructura,Cantidad de Cuentas,Dic-2023,64765.0,2026-04-19
+00045,BANCO DE SAN JUAN S.A.,publico,informacion_estructura,Cantidad de Empresas,Dic-2023,692.0,2026-04-19
+00045,BANCO DE SAN JUAN S.A.,publico,informacion_estructura,Cantidad de Cuentas,Dic-2024,63090.0,2026-04-19
+00045,BANCO DE SAN JUAN S.A.,publico,informacion_estructura,Cantidad de Empresas,Dic-2024,678.0,2026-04-19
+00045,BANCO DE SAN JUAN S.A.,publico,informacion_estructura,Cantidad de Cuentas,Nov-2025,25726.0,2026-04-19
+00045,BANCO DE SAN JUAN S.A.,publico,informacion_estructura,Cantidad de Empresas,Nov-2025,645.0,2026-04-19
+00045,BANCO DE SAN JUAN S.A.,publico,informacion_estructura,Cantidad de Cuentas,Dic-2025,61504.0,2026-04-19
+00045,BANCO DE SAN JUAN S.A.,publico,informacion_estructura,Cantidad de Empresas,Dic-2025,720.0,2026-04-19
+00045,BANCO DE SAN JUAN S.A.,publico,informacion_estructura,Cantidad de Cuentas,Ene-2026,59065.0,2026-04-19
+00045,BANCO DE SAN JUAN S.A.,publico,informacion_estructura,Cantidad de Empresas,Ene-2026,675.0,2026-04-19
+00045,BANCO DE SAN JUAN S.A.,publico,informacion_estructura,CABA,Habilitadas,1.0,2026-04-19
+00045,BANCO DE SAN JUAN S.A.,publico,informacion_estructura,MENDOZA,Habilitadas,3.0,2026-04-19
+00045,BANCO DE SAN JUAN S.A.,publico,informacion_estructura,SAN JUAN,Habilitadas,12.0,2026-04-19
+00045,BANCO DE SAN JUAN S.A.,publico,informacion_estructura,CABA,Habilitadas,,2026-04-19
+00045,BANCO DE SAN JUAN S.A.,publico,informacion_estructura,MENDOZA,Habilitadas,,2026-04-19
+00045,BANCO DE SAN JUAN S.A.,publico,informacion_estructura,SAN JUAN,Habilitadas,1.0,2026-04-19
+00045,BANCO DE SAN JUAN S.A.,publico,informacion_estructura,CABA,Habilitadas,,2026-04-19
+00045,BANCO DE SAN JUAN S.A.,publico,informacion_estructura,MENDOZA,Habilitadas,,2026-04-19
+00045,BANCO DE SAN JUAN S.A.,publico,informacion_estructura,SAN JUAN,Habilitadas,,2026-04-19
+00045,BANCO DE SAN JUAN S.A.,publico,informacion_estructura,CABA,Habilitadas,3.0,2026-04-19
+00045,BANCO DE SAN JUAN S.A.,publico,informacion_estructura,MENDOZA,Habilitadas,9.0,2026-04-19
+00045,BANCO DE SAN JUAN S.A.,publico,informacion_estructura,SAN JUAN,Habilitadas,134.0,2026-04-19
+00045,BANCO DE SAN JUAN S.A.,publico,informacion_estructura,CABA,Habilitadas,1.0,2026-04-19
+00045,BANCO DE SAN JUAN S.A.,publico,informacion_estructura,MENDOZA,Habilitadas,3.0,2026-04-19
+00045,BANCO DE SAN JUAN S.A.,publico,informacion_estructura,SAN JUAN,Habilitadas,25.0,2026-04-19
+00045,BANCO DE SAN JUAN S.A.,publico,informacion_estructura,CABA,Habilitadas,,2026-04-19
+00045,BANCO DE SAN JUAN S.A.,publico,informacion_estructura,MENDOZA,Habilitadas,1.0,2026-04-19
+00045,BANCO DE SAN JUAN S.A.,publico,informacion_estructura,SAN JUAN,Habilitadas,,2026-04-19
+00045,BANCO DE SAN JUAN S.A.,publico,informacion_estructura,CABA,Habilitadas,,2026-04-19
+00045,BANCO DE SAN JUAN S.A.,publico,informacion_estructura,MENDOZA,Habilitadas,,2026-04-19
+00045,BANCO DE SAN JUAN S.A.,publico,informacion_estructura,SAN JUAN,Habilitadas,2.0,2026-04-19
+00045,BANCO DE SAN JUAN S.A.,publico,informacion_estructura,CABA,Pendientes de habilitación,,2026-04-19
+00045,BANCO DE SAN JUAN S.A.,publico,informacion_estructura,MENDOZA,Pendientes de habilitación,,2026-04-19
+00045,BANCO DE SAN JUAN S.A.,publico,informacion_estructura,SAN JUAN,Pendientes de habilitación,,2026-04-19
+00045,BANCO DE SAN JUAN S.A.,publico,informacion_estructura,CABA,Total,1.0,2026-04-19
+00045,BANCO DE SAN JUAN S.A.,publico,informacion_estructura,MENDOZA,Total,3.0,2026-04-19
+00045,BANCO DE SAN JUAN S.A.,publico,informacion_estructura,SAN JUAN,Total,12.0,2026-04-19

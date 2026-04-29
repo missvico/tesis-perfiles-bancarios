@@ -1,0 +1,156 @@
+codigo_bcra,nombre_banco,tipo_entidad,fuente,variable,periodo,valor,scraping_fecha
+00247,BANCO ROELA S.A.,privado_nacional,indicadores_economicos,capital: C1 - Apalancamiento (en veces),Dic-2023,0.87,2026-04-19
+00247,BANCO ROELA S.A.,privado_nacional,indicadores_economicos,capital: C1 - Apalancamiento (en veces),Dic-2024,0.86,2026-04-19
+00247,BANCO ROELA S.A.,privado_nacional,indicadores_economicos,capital: C1 - Apalancamiento (en veces),Nov-2025,1.13,2026-04-19
+00247,BANCO ROELA S.A.,privado_nacional,indicadores_economicos,capital: C1 - Apalancamiento (en veces),Dic-2025,1.11,2026-04-19
+00247,BANCO ROELA S.A.,privado_nacional,indicadores_economicos,capital: C1 - Apalancamiento (en veces),Ene-2026,1.12,2026-04-19
+00247,BANCO ROELA S.A.,privado_nacional,indicadores_economicos,capital: C2 - Pérdida Potencial de Cartera en Situación 2 a 5 (%),Dic-2023,0.0,2026-04-19
+00247,BANCO ROELA S.A.,privado_nacional,indicadores_economicos,capital: C2 - Pérdida Potencial de Cartera en Situación 2 a 5 (%),Dic-2024,-0.01,2026-04-19
+00247,BANCO ROELA S.A.,privado_nacional,indicadores_economicos,capital: C2 - Pérdida Potencial de Cartera en Situación 2 a 5 (%),Nov-2025,1.41,2026-04-19
+00247,BANCO ROELA S.A.,privado_nacional,indicadores_economicos,capital: C2 - Pérdida Potencial de Cartera en Situación 2 a 5 (%),Dic-2025,0.92,2026-04-19
+00247,BANCO ROELA S.A.,privado_nacional,indicadores_economicos,capital: C2 - Pérdida Potencial de Cartera en Situación 2 a 5 (%),Ene-2026,0.32,2026-04-19
+00247,BANCO ROELA S.A.,privado_nacional,indicadores_economicos,capital: C3 - Pérdida Potencial de Cartera en Situación 3 a 5 (%),Dic-2023,-0.01,2026-04-19
+00247,BANCO ROELA S.A.,privado_nacional,indicadores_economicos,capital: C3 - Pérdida Potencial de Cartera en Situación 3 a 5 (%),Dic-2024,-0.02,2026-04-19
+00247,BANCO ROELA S.A.,privado_nacional,indicadores_economicos,capital: C3 - Pérdida Potencial de Cartera en Situación 3 a 5 (%),Nov-2025,-0.04,2026-04-19
+00247,BANCO ROELA S.A.,privado_nacional,indicadores_economicos,capital: C3 - Pérdida Potencial de Cartera en Situación 3 a 5 (%),Dic-2025,0.1,2026-04-19
+00247,BANCO ROELA S.A.,privado_nacional,indicadores_economicos,capital: C3 - Pérdida Potencial de Cartera en Situación 3 a 5 (%),Ene-2026,0.07,2026-04-19
+00247,BANCO ROELA S.A.,privado_nacional,indicadores_economicos,activos: A9 - Total Cartera Irregular / Total Financiaciones (%),Dic-2023,0.27,2026-04-19
+00247,BANCO ROELA S.A.,privado_nacional,indicadores_economicos,activos: A9 - Total Cartera Irregular / Total Financiaciones (%),Dic-2024,0.1,2026-04-19
+00247,BANCO ROELA S.A.,privado_nacional,indicadores_economicos,activos: A9 - Total Cartera Irregular / Total Financiaciones (%),Nov-2025,0.46,2026-04-19
+00247,BANCO ROELA S.A.,privado_nacional,indicadores_economicos,activos: A9 - Total Cartera Irregular / Total Financiaciones (%),Dic-2025,0.83,2026-04-19
+00247,BANCO ROELA S.A.,privado_nacional,indicadores_economicos,activos: A9 - Total Cartera Irregular / Total Financiaciones (%),Ene-2026,1.67,2026-04-19
+00247,BANCO ROELA S.A.,privado_nacional,indicadores_economicos,activos: A11 - Cartera Irregular Sector Privado (%),Dic-2023,0.28,2026-04-19
+00247,BANCO ROELA S.A.,privado_nacional,indicadores_economicos,activos: A11 - Cartera Irregular Sector Privado (%),Dic-2024,0.23,2026-04-19
+00247,BANCO ROELA S.A.,privado_nacional,indicadores_economicos,activos: A11 - Cartera Irregular Sector Privado (%),Nov-2025,0.83,2026-04-19
+00247,BANCO ROELA S.A.,privado_nacional,indicadores_economicos,activos: A11 - Cartera Irregular Sector Privado (%),Dic-2025,1.37,2026-04-19
+00247,BANCO ROELA S.A.,privado_nacional,indicadores_economicos,activos: A11 - Cartera Irregular Sector Privado (%),Ene-2026,2.76,2026-04-19
+00247,BANCO ROELA S.A.,privado_nacional,indicadores_economicos,activos: A12 - Participación Cartera Comercial Sector Privado (%),Dic-2023,98.78,2026-04-19
+00247,BANCO ROELA S.A.,privado_nacional,indicadores_economicos,activos: A12 - Participación Cartera Comercial Sector Privado (%),Dic-2024,98.56,2026-04-19
+00247,BANCO ROELA S.A.,privado_nacional,indicadores_economicos,activos: A12 - Participación Cartera Comercial Sector Privado (%),Nov-2025,99.34,2026-04-19
+00247,BANCO ROELA S.A.,privado_nacional,indicadores_economicos,activos: A12 - Participación Cartera Comercial Sector Privado (%),Dic-2025,99.33,2026-04-19
+00247,BANCO ROELA S.A.,privado_nacional,indicadores_economicos,activos: A12 - Participación Cartera Comercial Sector Privado (%),Ene-2026,99.37,2026-04-19
+00247,BANCO ROELA S.A.,privado_nacional,indicadores_economicos,activos: A13 - Participación Cartera Consumo Sector Privado (%),Dic-2023,1.22,2026-04-19
+00247,BANCO ROELA S.A.,privado_nacional,indicadores_economicos,activos: A13 - Participación Cartera Consumo Sector Privado (%),Dic-2024,1.44,2026-04-19
+00247,BANCO ROELA S.A.,privado_nacional,indicadores_economicos,activos: A13 - Participación Cartera Consumo Sector Privado (%),Nov-2025,0.66,2026-04-19
+00247,BANCO ROELA S.A.,privado_nacional,indicadores_economicos,activos: A13 - Participación Cartera Consumo Sector Privado (%),Dic-2025,0.67,2026-04-19
+00247,BANCO ROELA S.A.,privado_nacional,indicadores_economicos,activos: A13 - Participación Cartera Consumo Sector Privado (%),Ene-2026,0.63,2026-04-19
+00247,BANCO ROELA S.A.,privado_nacional,indicadores_economicos,activos: A14 - Previsiones sobre Cartera Irregular Total (%),Dic-2023,107.59,2026-04-19
+00247,BANCO ROELA S.A.,privado_nacional,indicadores_economicos,activos: A14 - Previsiones sobre Cartera Irregular Total (%),Dic-2024,141.97,2026-04-19
+00247,BANCO ROELA S.A.,privado_nacional,indicadores_economicos,activos: A14 - Previsiones sobre Cartera Irregular Total (%),Nov-2025,113.4,2026-04-19
+00247,BANCO ROELA S.A.,privado_nacional,indicadores_economicos,activos: A14 - Previsiones sobre Cartera Irregular Total (%),Dic-2025,80.32,2026-04-19
+00247,BANCO ROELA S.A.,privado_nacional,indicadores_economicos,activos: A14 - Previsiones sobre Cartera Irregular Total (%),Ene-2026,92.68,2026-04-19
+00247,BANCO ROELA S.A.,privado_nacional,indicadores_economicos,activos: A16 - Cartera Irregular Consumo Sector Privado (%),Dic-2023,0.55,2026-04-19
+00247,BANCO ROELA S.A.,privado_nacional,indicadores_economicos,activos: A16 - Cartera Irregular Consumo Sector Privado (%),Dic-2024,0.55,2026-04-19
+00247,BANCO ROELA S.A.,privado_nacional,indicadores_economicos,activos: A16 - Cartera Irregular Consumo Sector Privado (%),Nov-2025,0.92,2026-04-19
+00247,BANCO ROELA S.A.,privado_nacional,indicadores_economicos,activos: A16 - Cartera Irregular Consumo Sector Privado (%),Dic-2025,4.21,2026-04-19
+00247,BANCO ROELA S.A.,privado_nacional,indicadores_economicos,activos: A16 - Cartera Irregular Consumo Sector Privado (%),Ene-2026,1.37,2026-04-19
+00247,BANCO ROELA S.A.,privado_nacional,indicadores_economicos,activos: A17 - Cartera Irregular Comercial Sector Privado (%),Dic-2023,0.27,2026-04-19
+00247,BANCO ROELA S.A.,privado_nacional,indicadores_economicos,activos: A17 - Cartera Irregular Comercial Sector Privado (%),Dic-2024,0.22,2026-04-19
+00247,BANCO ROELA S.A.,privado_nacional,indicadores_economicos,activos: A17 - Cartera Irregular Comercial Sector Privado (%),Nov-2025,0.83,2026-04-19
+00247,BANCO ROELA S.A.,privado_nacional,indicadores_economicos,activos: A17 - Cartera Irregular Comercial Sector Privado (%),Dic-2025,1.35,2026-04-19
+00247,BANCO ROELA S.A.,privado_nacional,indicadores_economicos,activos: A17 - Cartera Irregular Comercial Sector Privado (%),Ene-2026,2.77,2026-04-19
+00247,BANCO ROELA S.A.,privado_nacional,indicadores_economicos,activos: A21 - Posición de Previsiones Mín Sector Priv No Fciero (%),Dic-2023,-76.38,2026-04-19
+00247,BANCO ROELA S.A.,privado_nacional,indicadores_economicos,activos: A21 - Posición de Previsiones Mín Sector Priv No Fciero (%),Dic-2024,-72.76,2026-04-19
+00247,BANCO ROELA S.A.,privado_nacional,indicadores_economicos,activos: A21 - Posición de Previsiones Mín Sector Priv No Fciero (%),Nov-2025,-27.88,2026-04-19
+00247,BANCO ROELA S.A.,privado_nacional,indicadores_economicos,activos: A21 - Posición de Previsiones Mín Sector Priv No Fciero (%),Dic-2025,-17.78,2026-04-19
+00247,BANCO ROELA S.A.,privado_nacional,indicadores_economicos,activos: A21 - Posición de Previsiones Mín Sector Priv No Fciero (%),Ene-2026,53.01,2026-04-19
+00247,BANCO ROELA S.A.,privado_nacional,indicadores_economicos,activos: AG3 - Importancia de Cartera Vencida del Sector Privado (%),Dic-2023,0.28,2026-04-19
+00247,BANCO ROELA S.A.,privado_nacional,indicadores_economicos,activos: AG3 - Importancia de Cartera Vencida del Sector Privado (%),Dic-2024,0.23,2026-04-19
+00247,BANCO ROELA S.A.,privado_nacional,indicadores_economicos,activos: AG3 - Importancia de Cartera Vencida del Sector Privado (%),Nov-2025,0.83,2026-04-19
+00247,BANCO ROELA S.A.,privado_nacional,indicadores_economicos,activos: AG3 - Importancia de Cartera Vencida del Sector Privado (%),Dic-2025,1.37,2026-04-19
+00247,BANCO ROELA S.A.,privado_nacional,indicadores_economicos,activos: AG3 - Importancia de Cartera Vencida del Sector Privado (%),Ene-2026,2.76,2026-04-19
+00247,BANCO ROELA S.A.,privado_nacional,indicadores_economicos,activos: AG29 - Efectivo y Depósito en Bancos / Activo (%),Dic-2023,2.44,2026-04-19
+00247,BANCO ROELA S.A.,privado_nacional,indicadores_economicos,activos: AG29 - Efectivo y Depósito en Bancos / Activo (%),Dic-2024,1.26,2026-04-19
+00247,BANCO ROELA S.A.,privado_nacional,indicadores_economicos,activos: AG29 - Efectivo y Depósito en Bancos / Activo (%),Nov-2025,3.25,2026-04-19
+00247,BANCO ROELA S.A.,privado_nacional,indicadores_economicos,activos: AG29 - Efectivo y Depósito en Bancos / Activo (%),Dic-2025,2.31,2026-04-19
+00247,BANCO ROELA S.A.,privado_nacional,indicadores_economicos,activos: AG29 - Efectivo y Depósito en Bancos / Activo (%),Ene-2026,3.1,2026-04-19
+00247,BANCO ROELA S.A.,privado_nacional,indicadores_economicos,eficiencia: E1 - Absorción de Gastos de Ad. con Volúmen de Negocio (%),Dic-2023,47.96,2026-04-19
+00247,BANCO ROELA S.A.,privado_nacional,indicadores_economicos,eficiencia: E1 - Absorción de Gastos de Ad. con Volúmen de Negocio (%),Dic-2024,35.05,2026-04-19
+00247,BANCO ROELA S.A.,privado_nacional,indicadores_economicos,eficiencia: E1 - Absorción de Gastos de Ad. con Volúmen de Negocio (%),Nov-2025,25.07,2026-04-19
+00247,BANCO ROELA S.A.,privado_nacional,indicadores_economicos,eficiencia: E1 - Absorción de Gastos de Ad. con Volúmen de Negocio (%),Dic-2025,26.37,2026-04-19
+00247,BANCO ROELA S.A.,privado_nacional,indicadores_economicos,eficiencia: E1 - Absorción de Gastos de Ad. con Volúmen de Negocio (%),Ene-2026,26.5,2026-04-19
+00247,BANCO ROELA S.A.,privado_nacional,indicadores_economicos,eficiencia: E2 - Margen de Rentabilidad Operat./Gastos de Estructura (%),Dic-2023,494.75,2026-04-19
+00247,BANCO ROELA S.A.,privado_nacional,indicadores_economicos,eficiencia: E2 - Margen de Rentabilidad Operat./Gastos de Estructura (%),Dic-2024,337.5,2026-04-19
+00247,BANCO ROELA S.A.,privado_nacional,indicadores_economicos,eficiencia: E2 - Margen de Rentabilidad Operat./Gastos de Estructura (%),Nov-2025,209.05,2026-04-19
+00247,BANCO ROELA S.A.,privado_nacional,indicadores_economicos,eficiencia: E2 - Margen de Rentabilidad Operat./Gastos de Estructura (%),Dic-2025,194.25,2026-04-19
+00247,BANCO ROELA S.A.,privado_nacional,indicadores_economicos,eficiencia: E2 - Margen de Rentabilidad Operat./Gastos de Estructura (%),Ene-2026,202.84,2026-04-19
+00247,BANCO ROELA S.A.,privado_nacional,indicadores_economicos,eficiencia: E4 - Depósitos por Empleado (en millones de pesos),Dic-2023,88.66,2026-04-19
+00247,BANCO ROELA S.A.,privado_nacional,indicadores_economicos,eficiencia: E4 - Depósitos por Empleado (en millones de pesos),Dic-2024,187.55,2026-04-19
+00247,BANCO ROELA S.A.,privado_nacional,indicadores_economicos,eficiencia: E4 - Depósitos por Empleado (en millones de pesos),Nov-2025,360.53,2026-04-19
+00247,BANCO ROELA S.A.,privado_nacional,indicadores_economicos,eficiencia: E4 - Depósitos por Empleado (en millones de pesos),Dic-2025,381.53,2026-04-19
+00247,BANCO ROELA S.A.,privado_nacional,indicadores_economicos,eficiencia: E4 - Depósitos por Empleado (en millones de pesos),Ene-2026,384.58,2026-04-19
+00247,BANCO ROELA S.A.,privado_nacional,indicadores_economicos,eficiencia: E5 - Financiaciones por Empleado (en millones de pesos),Dic-2023,1.7,2026-04-19
+00247,BANCO ROELA S.A.,privado_nacional,indicadores_economicos,eficiencia: E5 - Financiaciones por Empleado (en millones de pesos),Dic-2024,8.59,2026-04-19
+00247,BANCO ROELA S.A.,privado_nacional,indicadores_economicos,eficiencia: E5 - Financiaciones por Empleado (en millones de pesos),Nov-2025,57.19,2026-04-19
+00247,BANCO ROELA S.A.,privado_nacional,indicadores_economicos,eficiencia: E5 - Financiaciones por Empleado (en millones de pesos),Dic-2025,62.11,2026-04-19
+00247,BANCO ROELA S.A.,privado_nacional,indicadores_economicos,eficiencia: E5 - Financiaciones por Empleado (en millones de pesos),Ene-2026,65.12,2026-04-19
+00247,BANCO ROELA S.A.,privado_nacional,indicadores_economicos,rentabilidad: R1 - Rendimiento Anual del Patrimonio ( ROE) (%),Dic-2023,28.91,2026-04-19
+00247,BANCO ROELA S.A.,privado_nacional,indicadores_economicos,rentabilidad: R1 - Rendimiento Anual del Patrimonio ( ROE) (%),Dic-2024,15.23,2026-04-19
+00247,BANCO ROELA S.A.,privado_nacional,indicadores_economicos,rentabilidad: R1 - Rendimiento Anual del Patrimonio ( ROE) (%),Nov-2025,18.68,2026-04-19
+00247,BANCO ROELA S.A.,privado_nacional,indicadores_economicos,rentabilidad: R1 - Rendimiento Anual del Patrimonio ( ROE) (%),Dic-2025,17.96,2026-04-19
+00247,BANCO ROELA S.A.,privado_nacional,indicadores_economicos,rentabilidad: R1 - Rendimiento Anual del Patrimonio ( ROE) (%),Ene-2026,16.95,2026-04-19
+00247,BANCO ROELA S.A.,privado_nacional,indicadores_economicos,rentabilidad: R2 - Rendimiento Ordinario del Patrimonio (%),Dic-2023,139.12,2026-04-19
+00247,BANCO ROELA S.A.,privado_nacional,indicadores_economicos,rentabilidad: R2 - Rendimiento Ordinario del Patrimonio (%),Dic-2024,79.11,2026-04-19
+00247,BANCO ROELA S.A.,privado_nacional,indicadores_economicos,rentabilidad: R2 - Rendimiento Ordinario del Patrimonio (%),Nov-2025,52.65,2026-04-19
+00247,BANCO ROELA S.A.,privado_nacional,indicadores_economicos,rentabilidad: R2 - Rendimiento Ordinario del Patrimonio (%),Dic-2025,51.82,2026-04-19
+00247,BANCO ROELA S.A.,privado_nacional,indicadores_economicos,rentabilidad: R2 - Rendimiento Ordinario del Patrimonio (%),Ene-2026,53.09,2026-04-19
+00247,BANCO ROELA S.A.,privado_nacional,indicadores_economicos,rentabilidad: R8 - Tasa Implicita Préstamos Totales (%),Dic-2023,70.22,2026-04-19
+00247,BANCO ROELA S.A.,privado_nacional,indicadores_economicos,rentabilidad: R8 - Tasa Implicita Préstamos Totales (%),Dic-2024,58.57,2026-04-19
+00247,BANCO ROELA S.A.,privado_nacional,indicadores_economicos,rentabilidad: R8 - Tasa Implicita Préstamos Totales (%),Nov-2025,54.12,2026-04-19
+00247,BANCO ROELA S.A.,privado_nacional,indicadores_economicos,rentabilidad: R8 - Tasa Implicita Préstamos Totales (%),Dic-2025,53.55,2026-04-19
+00247,BANCO ROELA S.A.,privado_nacional,indicadores_economicos,rentabilidad: R8 - Tasa Implicita Préstamos Totales (%),Ene-2026,54.2,2026-04-19
+00247,BANCO ROELA S.A.,privado_nacional,indicadores_economicos,rentabilidad: R9 - Tasa Implicita Depósitos Totales (%),Dic-2023,84.0,2026-04-19
+00247,BANCO ROELA S.A.,privado_nacional,indicadores_economicos,rentabilidad: R9 - Tasa Implicita Depósitos Totales (%),Dic-2024,9.71,2026-04-19
+00247,BANCO ROELA S.A.,privado_nacional,indicadores_economicos,rentabilidad: R9 - Tasa Implicita Depósitos Totales (%),Nov-2025,2.76,2026-04-19
+00247,BANCO ROELA S.A.,privado_nacional,indicadores_economicos,rentabilidad: R9 - Tasa Implicita Depósitos Totales (%),Dic-2025,2.69,2026-04-19
+00247,BANCO ROELA S.A.,privado_nacional,indicadores_economicos,rentabilidad: R9 - Tasa Implicita Depósitos Totales (%),Ene-2026,2.63,2026-04-19
+00247,BANCO ROELA S.A.,privado_nacional,indicadores_economicos,rentabilidad: R17 - Gastos en Personal / Gastos de Administración (%),Dic-2023,46.94,2026-04-19
+00247,BANCO ROELA S.A.,privado_nacional,indicadores_economicos,rentabilidad: R17 - Gastos en Personal / Gastos de Administración (%),Dic-2024,52.84,2026-04-19
+00247,BANCO ROELA S.A.,privado_nacional,indicadores_economicos,rentabilidad: R17 - Gastos en Personal / Gastos de Administración (%),Nov-2025,48.1,2026-04-19
+00247,BANCO ROELA S.A.,privado_nacional,indicadores_economicos,rentabilidad: R17 - Gastos en Personal / Gastos de Administración (%),Dic-2025,48.3,2026-04-19
+00247,BANCO ROELA S.A.,privado_nacional,indicadores_economicos,rentabilidad: R17 - Gastos en Personal / Gastos de Administración (%),Ene-2026,49.07,2026-04-19
+00247,BANCO ROELA S.A.,privado_nacional,indicadores_economicos,rentabilidad: RG1 - Retorno sobre Activos ( ROA) (%),Dic-2023,13.87,2026-04-19
+00247,BANCO ROELA S.A.,privado_nacional,indicadores_economicos,rentabilidad: RG1 - Retorno sobre Activos ( ROA) (%),Dic-2024,8.59,2026-04-19
+00247,BANCO ROELA S.A.,privado_nacional,indicadores_economicos,rentabilidad: RG1 - Retorno sobre Activos ( ROA) (%),Nov-2025,9.13,2026-04-19
+00247,BANCO ROELA S.A.,privado_nacional,indicadores_economicos,rentabilidad: RG1 - Retorno sobre Activos ( ROA) (%),Dic-2025,8.65,2026-04-19
+00247,BANCO ROELA S.A.,privado_nacional,indicadores_economicos,rentabilidad: RG1 - Retorno sobre Activos ( ROA) (%),Ene-2026,8.07,2026-04-19
+00247,BANCO ROELA S.A.,privado_nacional,indicadores_economicos,rentabilidad: RG2_II - Margen Financiero en Términos de Activo (%),Dic-2023,74.38,2026-04-19
+00247,BANCO ROELA S.A.,privado_nacional,indicadores_economicos,rentabilidad: RG2_II - Margen Financiero en Términos de Activo (%),Dic-2024,48.67,2026-04-19
+00247,BANCO ROELA S.A.,privado_nacional,indicadores_economicos,rentabilidad: RG2_II - Margen Financiero en Términos de Activo (%),Nov-2025,28.04,2026-04-19
+00247,BANCO ROELA S.A.,privado_nacional,indicadores_economicos,rentabilidad: RG2_II - Margen Financiero en Términos de Activo (%),Dic-2025,28.06,2026-04-19
+00247,BANCO ROELA S.A.,privado_nacional,indicadores_economicos,rentabilidad: RG2_II - Margen Financiero en Términos de Activo (%),Ene-2026,28.41,2026-04-19
+00247,BANCO ROELA S.A.,privado_nacional,indicadores_economicos,rentabilidad: RG3 - Cargos por Incobrabilidad / Activo  (%),Dic-2023,-0.26,2026-04-19
+00247,BANCO ROELA S.A.,privado_nacional,indicadores_economicos,rentabilidad: RG3 - Cargos por Incobrabilidad / Activo  (%),Dic-2024,-0.29,2026-04-19
+00247,BANCO ROELA S.A.,privado_nacional,indicadores_economicos,rentabilidad: RG3 - Cargos por Incobrabilidad / Activo  (%),Nov-2025,-0.36,2026-04-19
+00247,BANCO ROELA S.A.,privado_nacional,indicadores_economicos,rentabilidad: RG3 - Cargos por Incobrabilidad / Activo  (%),Dic-2025,-0.36,2026-04-19
+00247,BANCO ROELA S.A.,privado_nacional,indicadores_economicos,rentabilidad: RG3 - Cargos por Incobrabilidad / Activo  (%),Ene-2026,-0.68,2026-04-19
+00247,BANCO ROELA S.A.,privado_nacional,indicadores_economicos,rentabilidad: RG4_II - Resultados por Servicios / Activo (%),Dic-2023,9.06,2026-04-19
+00247,BANCO ROELA S.A.,privado_nacional,indicadores_economicos,rentabilidad: RG4_II - Resultados por Servicios / Activo (%),Dic-2024,11.97,2026-04-19
+00247,BANCO ROELA S.A.,privado_nacional,indicadores_economicos,rentabilidad: RG4_II - Resultados por Servicios / Activo (%),Nov-2025,13.25,2026-04-19
+00247,BANCO ROELA S.A.,privado_nacional,indicadores_economicos,rentabilidad: RG4_II - Resultados por Servicios / Activo (%),Dic-2025,13.11,2026-04-19
+00247,BANCO ROELA S.A.,privado_nacional,indicadores_economicos,rentabilidad: RG4_II - Resultados por Servicios / Activo (%),Ene-2026,13.01,2026-04-19
+00247,BANCO ROELA S.A.,privado_nacional,indicadores_economicos,rentabilidad: RG5 - Gastos de Administración / Activo  (%),Dic-2023,-13.49,2026-04-19
+00247,BANCO ROELA S.A.,privado_nacional,indicadores_economicos,rentabilidad: RG5 - Gastos de Administración / Activo  (%),Dic-2024,-13.22,2026-04-19
+00247,BANCO ROELA S.A.,privado_nacional,indicadores_economicos,rentabilidad: RG5 - Gastos de Administración / Activo  (%),Nov-2025,-12.3,2026-04-19
+00247,BANCO ROELA S.A.,privado_nacional,indicadores_economicos,rentabilidad: RG5 - Gastos de Administración / Activo  (%),Dic-2025,-12.85,2026-04-19
+00247,BANCO ROELA S.A.,privado_nacional,indicadores_economicos,rentabilidad: RG5 - Gastos de Administración / Activo  (%),Ene-2026,-12.47,2026-04-19
+00247,BANCO ROELA S.A.,privado_nacional,indicadores_economicos,rentabilidad: RG15 - Retorno sobre Activos (ROA) antes Imp. de Gcias (%),Dic-2023,24.54,2026-04-19
+00247,BANCO ROELA S.A.,privado_nacional,indicadores_economicos,rentabilidad: RG15 - Retorno sobre Activos (ROA) antes Imp. de Gcias (%),Dic-2024,9.82,2026-04-19
+00247,BANCO ROELA S.A.,privado_nacional,indicadores_economicos,rentabilidad: RG15 - Retorno sobre Activos (ROA) antes Imp. de Gcias (%),Nov-2025,14.33,2026-04-19
+00247,BANCO ROELA S.A.,privado_nacional,indicadores_economicos,rentabilidad: RG15 - Retorno sobre Activos (ROA) antes Imp. de Gcias (%),Dic-2025,13.65,2026-04-19
+00247,BANCO ROELA S.A.,privado_nacional,indicadores_economicos,rentabilidad: RG15 - Retorno sobre Activos (ROA) antes Imp. de Gcias (%),Ene-2026,13.66,2026-04-19
+00247,BANCO ROELA S.A.,privado_nacional,indicadores_economicos,"liquidez: L1-Liquidez Tit c/cot, POS. CALL, LELIQ, LEFIs (netas) (%)",Dic-2023,99999.0,2026-04-19
+00247,BANCO ROELA S.A.,privado_nacional,indicadores_economicos,"liquidez: L1-Liquidez Tit c/cot, POS. CALL, LELIQ, LEFIs (netas) (%)",Dic-2024,8.97,2026-04-19
+00247,BANCO ROELA S.A.,privado_nacional,indicadores_economicos,"liquidez: L1-Liquidez Tit c/cot, POS. CALL, LELIQ, LEFIs (netas) (%)",Nov-2025,11.52,2026-04-19
+00247,BANCO ROELA S.A.,privado_nacional,indicadores_economicos,"liquidez: L1-Liquidez Tit c/cot, POS. CALL, LELIQ, LEFIs (netas) (%)",Dic-2025,8.11,2026-04-19
+00247,BANCO ROELA S.A.,privado_nacional,indicadores_economicos,"liquidez: L1-Liquidez Tit c/cot, POS. CALL, LELIQ, LEFIs (netas) (%)",Ene-2026,9.7,2026-04-19
+00247,BANCO ROELA S.A.,privado_nacional,indicadores_economicos,liquidez: L8_II - Liquidez con títulos con cotiz (%),Dic-2023,8.73,2026-04-19
+00247,BANCO ROELA S.A.,privado_nacional,indicadores_economicos,liquidez: L8_II - Liquidez con títulos con cotiz (%),Dic-2024,3.87,2026-04-19
+00247,BANCO ROELA S.A.,privado_nacional,indicadores_economicos,liquidez: L8_II - Liquidez con títulos con cotiz (%),Nov-2025,8.56,2026-04-19
+00247,BANCO ROELA S.A.,privado_nacional,indicadores_economicos,liquidez: L8_II - Liquidez con títulos con cotiz (%),Dic-2025,5.98,2026-04-19
+00247,BANCO ROELA S.A.,privado_nacional,indicadores_economicos,liquidez: L8_II - Liquidez con títulos con cotiz (%),Ene-2026,8.28,2026-04-19
+00247,BANCO ROELA S.A.,privado_nacional,indicadores_economicos,"liquidez: L9 -Liq LELIQ, PASES y LEFIs (netos pases activos BCRA) (%)",Dic-2023,99.68,2026-04-19
+00247,BANCO ROELA S.A.,privado_nacional,indicadores_economicos,"liquidez: L9 -Liq LELIQ, PASES y LEFIs (netos pases activos BCRA) (%)",Dic-2024,8.97,2026-04-19
+00247,BANCO ROELA S.A.,privado_nacional,indicadores_economicos,"liquidez: L9 -Liq LELIQ, PASES y LEFIs (netos pases activos BCRA) (%)",Nov-2025,15.21,2026-04-19
+00247,BANCO ROELA S.A.,privado_nacional,indicadores_economicos,"liquidez: L9 -Liq LELIQ, PASES y LEFIs (netos pases activos BCRA) (%)",Dic-2025,18.07,2026-04-19
+00247,BANCO ROELA S.A.,privado_nacional,indicadores_economicos,"liquidez: L9 -Liq LELIQ, PASES y LEFIs (netos pases activos BCRA) (%)",Ene-2026,10.47,2026-04-19

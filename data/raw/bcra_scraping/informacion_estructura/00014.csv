@@ -1,0 +1,98 @@
+codigo_bcra,nombre_banco,tipo_entidad,fuente,variable,periodo,valor,scraping_fecha
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,informacion_estructura,Cantidad de cuentas corrientes,Dic-2023,986277.0,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,informacion_estructura,Cantidad de cuentas de ahorro,Dic-2023,11209171.0,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,informacion_estructura,Cantidad de cajas de ahorro de ayuda social,Dic-2023,1554135.0,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,informacion_estructura,Cantidad de cuentas previsionales,Dic-2023,1239559.0,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,informacion_estructura,Cantidad de operaciones a plazo fijo Individuos,Dic-2023,565574.0,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,informacion_estructura,Cantidad de operaciones a plazo fijo Empresas,Dic-2023,44223.0,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,informacion_estructura,Cantidad de operaciones por préstamos hipotecarios,Dic-2023,27773.0,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,informacion_estructura,Cantidad de operaciones por préstamos prendarios,Dic-2023,6469.0,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,informacion_estructura,Cantidad de operaciones por otros préstamos,Dic-2023,4103903.0,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,informacion_estructura,Dotación de personal,Dic-2023,10407.0,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,informacion_estructura,Cantidad de titulares por tarjetas de crédito,Dic-2023,2183888.0,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,informacion_estructura,Cantidad de tarjetas de crédito (plásticos),Dic-2023,4939833.0,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,informacion_estructura,Cantidad de tarjetas de débito,Dic-2023,8017605.0,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,informacion_estructura,Cantidad de cuentas corrientes,Dic-2024,1207704.0,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,informacion_estructura,Cantidad de cuentas de ahorro,Dic-2024,12327538.0,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,informacion_estructura,Cantidad de cajas de ahorro de ayuda social,Dic-2024,1439705.0,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,informacion_estructura,Cantidad de cuentas previsionales,Dic-2024,1295656.0,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,informacion_estructura,Cantidad de operaciones a plazo fijo Individuos,Dic-2024,329365.0,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,informacion_estructura,Cantidad de operaciones a plazo fijo Empresas,Dic-2024,44367.0,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,informacion_estructura,Cantidad de operaciones por préstamos hipotecarios,Dic-2024,25373.0,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,informacion_estructura,Cantidad de operaciones por préstamos prendarios,Dic-2024,6474.0,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,informacion_estructura,Cantidad de operaciones por otros préstamos,Dic-2024,4686910.0,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,informacion_estructura,Dotación de personal,Dic-2024,10401.0,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,informacion_estructura,Cantidad de titulares por tarjetas de crédito,Dic-2024,2265627.0,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,informacion_estructura,Cantidad de tarjetas de crédito (plásticos),Dic-2024,5231215.0,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,informacion_estructura,Cantidad de tarjetas de débito,Dic-2024,11553671.0,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,informacion_estructura,Cantidad de cuentas corrientes,Jun-2025,1267590.0,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,informacion_estructura,Cantidad de cuentas de ahorro,Jun-2025,12597929.0,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,informacion_estructura,Cantidad de cajas de ahorro de ayuda social,Jun-2025,1270690.0,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,informacion_estructura,Cantidad de cuentas previsionales,Jun-2025,1307441.0,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,informacion_estructura,Cantidad de operaciones a plazo fijo Individuos,Jun-2025,357993.0,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,informacion_estructura,Cantidad de operaciones a plazo fijo Empresas,Jun-2025,48776.0,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,informacion_estructura,Cantidad de operaciones por préstamos hipotecarios,Jun-2025,24460.0,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,informacion_estructura,Cantidad de operaciones por préstamos prendarios,Jun-2025,6388.0,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,informacion_estructura,Cantidad de operaciones por otros préstamos,Jun-2025,5289016.0,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,informacion_estructura,Dotación de personal,Jun-2025,10187.0,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,informacion_estructura,Cantidad de titulares por tarjetas de crédito,Jun-2025,2246921.0,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,informacion_estructura,Cantidad de tarjetas de crédito (plásticos),Jun-2025,5236815.0,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,informacion_estructura,Cantidad de tarjetas de débito,Jun-2025,11445188.0,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,informacion_estructura,Cantidad de cuentas corrientes,Set-2025,1262931.0,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,informacion_estructura,Cantidad de cuentas de ahorro,Set-2025,12655194.0,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,informacion_estructura,Cantidad de cajas de ahorro de ayuda social,Set-2025,1247445.0,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,informacion_estructura,Cantidad de cuentas previsionales,Set-2025,1233550.0,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,informacion_estructura,Cantidad de operaciones a plazo fijo Individuos,Set-2025,545116.0,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,informacion_estructura,Cantidad de operaciones a plazo fijo Empresas,Set-2025,52329.0,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,informacion_estructura,Cantidad de operaciones por préstamos hipotecarios,Set-2025,23964.0,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,informacion_estructura,Cantidad de operaciones por préstamos prendarios,Set-2025,5192.0,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,informacion_estructura,Cantidad de operaciones por otros préstamos,Set-2025,5301545.0,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,informacion_estructura,Dotación de personal,Set-2025,10140.0,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,informacion_estructura,Cantidad de titulares por tarjetas de crédito,Set-2025,2209387.0,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,informacion_estructura,Cantidad de tarjetas de crédito (plásticos),Set-2025,5189875.0,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,informacion_estructura,Cantidad de tarjetas de débito,Set-2025,11549270.0,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,informacion_estructura,Cantidad de cuentas corrientes,Dic-2025,1227438.0,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,informacion_estructura,Cantidad de cuentas de ahorro,Dic-2025,12456724.0,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,informacion_estructura,Cantidad de cajas de ahorro de ayuda social,Dic-2025,1183769.0,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,informacion_estructura,Cantidad de cuentas previsionales,Dic-2025,1251531.0,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,informacion_estructura,Cantidad de operaciones a plazo fijo Individuos,Dic-2025,449728.0,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,informacion_estructura,Cantidad de operaciones a plazo fijo Empresas,Dic-2025,50519.0,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,informacion_estructura,Cantidad de operaciones por préstamos hipotecarios,Dic-2025,23499.0,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,informacion_estructura,Cantidad de operaciones por préstamos prendarios,Dic-2025,4765.0,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,informacion_estructura,Cantidad de operaciones por otros préstamos,Dic-2025,5655930.0,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,informacion_estructura,Dotación de personal,Dic-2025,10093.0,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,informacion_estructura,Cantidad de titulares por tarjetas de crédito,Dic-2025,2276381.0,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,informacion_estructura,Cantidad de tarjetas de crédito (plásticos),Dic-2025,5112856.0,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,informacion_estructura,Cantidad de tarjetas de débito,Dic-2025,11543252.0,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,informacion_estructura,Cantidad de Cuentas,Dic-2023,1323850.0,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,informacion_estructura,Cantidad de Empresas,Dic-2023,23181.0,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,informacion_estructura,Cantidad de Cuentas,Dic-2024,1297945.0,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,informacion_estructura,Cantidad de Empresas,Dic-2024,23501.0,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,informacion_estructura,Cantidad de Cuentas,Nov-2025,1255114.0,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,informacion_estructura,Cantidad de Empresas,Nov-2025,20641.0,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,informacion_estructura,Cantidad de Cuentas,Dic-2025,1284987.0,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,informacion_estructura,Cantidad de Empresas,Dic-2025,22992.0,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,informacion_estructura,Cantidad de Cuentas,Ene-2026,1250576.0,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,informacion_estructura,Cantidad de Empresas,Ene-2026,21103.0,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,informacion_estructura,CABA,Habilitadas,36.0,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,informacion_estructura,BUENOS AIRES,Habilitadas,312.0,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,informacion_estructura,CABA,Habilitadas,,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,informacion_estructura,BUENOS AIRES,Habilitadas,3.0,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,informacion_estructura,CABA,Habilitadas,,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,informacion_estructura,BUENOS AIRES,Habilitadas,,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,informacion_estructura,CABA,Habilitadas,109.0,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,informacion_estructura,BUENOS AIRES,Habilitadas,1436.0,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,informacion_estructura,CABA,Habilitadas,74.0,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,informacion_estructura,BUENOS AIRES,Habilitadas,726.0,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,informacion_estructura,CABA,Habilitadas,,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,informacion_estructura,BUENOS AIRES,Habilitadas,14.0,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,informacion_estructura,CABA,Habilitadas,1.0,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,informacion_estructura,BUENOS AIRES,Habilitadas,51.0,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,informacion_estructura,CABA,Pendientes de habilitación,,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,informacion_estructura,BUENOS AIRES,Pendientes de habilitación,,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,informacion_estructura,CABA,Total,36.0,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,informacion_estructura,BUENOS AIRES,Total,312.0,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,informacion_estructura,BRASIL,Sucursales,1.0,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,informacion_estructura,URUGUAY,Sucursales,1.0,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,informacion_estructura,BRASIL,Of. de representación,,2026-04-19
+00014,BANCO DE LA PROVINCIA DE BUENOS AIR,publico,informacion_estructura,URUGUAY,Of. de representación,,2026-04-19

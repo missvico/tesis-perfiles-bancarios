@@ -1,0 +1,61 @@
+codigo_bcra,nombre_banco,tipo_entidad,fuente,variable,periodo,valor,scraping_fecha
+00016,CITIBANK N.A.,extranjero,situacion_deudores,TOTAL DE FINANCIACIONES Y GARANTIAS OTORGADAS ($),Dic-2023,439961.63,2026-04-19
+00016,CITIBANK N.A.,extranjero,situacion_deudores,TF.Sit.1: En situación normal (%),Dic-2023,99.9,2026-04-19
+00016,CITIBANK N.A.,extranjero,situacion_deudores,TF.Sit.2: Con seguimiento especial/Riesgo bajo (%),Dic-2023,0.1,2026-04-19
+00016,CITIBANK N.A.,extranjero,situacion_deudores,TF.Sit.4: Con alto riesgo de insolvencia/Riesgo alto (%),Dic-2023,0.0,2026-04-19
+00016,CITIBANK N.A.,extranjero,situacion_deudores,TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Dic-2023,9.52,2026-04-19
+00016,CITIBANK N.A.,extranjero,situacion_deudores,Previsiones por riesgo de incobrabilidad constituídas,Dic-2023,19181.91,2026-04-19
+00016,CITIBANK N.A.,extranjero,situacion_deudores,CARTERA COMERCIAL ($),Dic-2023,439961.63,2026-04-19
+00016,CITIBANK N.A.,extranjero,situacion_deudores,Total cartera sobre financiaciones (%),Dic-2023,100.0,2026-04-19
+00016,CITIBANK N.A.,extranjero,situacion_deudores,C.COM.Sit.1: En situación normal (%),Dic-2023,99.9,2026-04-19
+00016,CITIBANK N.A.,extranjero,situacion_deudores,C.COM.Sit.2: Con seguimiento especial (%),Dic-2023,0.1,2026-04-19
+00016,CITIBANK N.A.,extranjero,situacion_deudores,C.COM.Sit.4: Con alto riesgo de insolvencia (%),Dic-2023,0.0,2026-04-19
+00016,CITIBANK N.A.,extranjero,situacion_deudores,C.COM.TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Dic-2023,9.52,2026-04-19
+00016,CITIBANK N.A.,extranjero,situacion_deudores,TOTAL DE FINANCIACIONES Y GARANTIAS OTORGADAS ($),Dic-2024,847509.09,2026-04-19
+00016,CITIBANK N.A.,extranjero,situacion_deudores,TF.Sit.1: En situación normal (%),Dic-2024,100.0,2026-04-19
+00016,CITIBANK N.A.,extranjero,situacion_deudores,TF.Sit.2: Con seguimiento especial/Riesgo bajo (%),Dic-2024,0.0,2026-04-19
+00016,CITIBANK N.A.,extranjero,situacion_deudores,TF.Sit.4: Con alto riesgo de insolvencia/Riesgo alto (%),Dic-2024,0.0,2026-04-19
+00016,CITIBANK N.A.,extranjero,situacion_deudores,TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Dic-2024,9.49,2026-04-19
+00016,CITIBANK N.A.,extranjero,situacion_deudores,Previsiones por riesgo de incobrabilidad constituídas,Dic-2024,54943.65,2026-04-19
+00016,CITIBANK N.A.,extranjero,situacion_deudores,CARTERA COMERCIAL ($),Dic-2024,847509.09,2026-04-19
+00016,CITIBANK N.A.,extranjero,situacion_deudores,Total cartera sobre financiaciones (%),Dic-2024,100.0,2026-04-19
+00016,CITIBANK N.A.,extranjero,situacion_deudores,C.COM.Sit.1: En situación normal (%),Dic-2024,100.0,2026-04-19
+00016,CITIBANK N.A.,extranjero,situacion_deudores,C.COM.Sit.2: Con seguimiento especial (%),Dic-2024,0.0,2026-04-19
+00016,CITIBANK N.A.,extranjero,situacion_deudores,C.COM.Sit.4: Con alto riesgo de insolvencia (%),Dic-2024,0.0,2026-04-19
+00016,CITIBANK N.A.,extranjero,situacion_deudores,C.COM.TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Dic-2024,9.49,2026-04-19
+00016,CITIBANK N.A.,extranjero,situacion_deudores,TOTAL DE FINANCIACIONES Y GARANTIAS OTORGADAS ($),Nov-2025,1336414.13,2026-04-19
+00016,CITIBANK N.A.,extranjero,situacion_deudores,TF.Sit.1: En situación normal (%),Nov-2025,100.0,2026-04-19
+00016,CITIBANK N.A.,extranjero,situacion_deudores,TF.Sit.2: Con seguimiento especial/Riesgo bajo (%),Nov-2025,0.0,2026-04-19
+00016,CITIBANK N.A.,extranjero,situacion_deudores,TF.Sit.4: Con alto riesgo de insolvencia/Riesgo alto (%),Nov-2025,0.0,2026-04-19
+00016,CITIBANK N.A.,extranjero,situacion_deudores,TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Nov-2025,4.71,2026-04-19
+00016,CITIBANK N.A.,extranjero,situacion_deudores,Previsiones por riesgo de incobrabilidad constituídas,Nov-2025,84633.75,2026-04-19
+00016,CITIBANK N.A.,extranjero,situacion_deudores,CARTERA COMERCIAL ($),Nov-2025,1336414.13,2026-04-19
+00016,CITIBANK N.A.,extranjero,situacion_deudores,Total cartera sobre financiaciones (%),Nov-2025,100.0,2026-04-19
+00016,CITIBANK N.A.,extranjero,situacion_deudores,C.COM.Sit.1: En situación normal (%),Nov-2025,100.0,2026-04-19
+00016,CITIBANK N.A.,extranjero,situacion_deudores,C.COM.Sit.2: Con seguimiento especial (%),Nov-2025,0.0,2026-04-19
+00016,CITIBANK N.A.,extranjero,situacion_deudores,C.COM.Sit.4: Con alto riesgo de insolvencia (%),Nov-2025,0.0,2026-04-19
+00016,CITIBANK N.A.,extranjero,situacion_deudores,C.COM.TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Nov-2025,4.71,2026-04-19
+00016,CITIBANK N.A.,extranjero,situacion_deudores,TOTAL DE FINANCIACIONES Y GARANTIAS OTORGADAS ($),Dic-2025,1415654.74,2026-04-19
+00016,CITIBANK N.A.,extranjero,situacion_deudores,TF.Sit.1: En situación normal (%),Dic-2025,100.0,2026-04-19
+00016,CITIBANK N.A.,extranjero,situacion_deudores,TF.Sit.2: Con seguimiento especial/Riesgo bajo (%),Dic-2025,0.0,2026-04-19
+00016,CITIBANK N.A.,extranjero,situacion_deudores,TF.Sit.4: Con alto riesgo de insolvencia/Riesgo alto (%),Dic-2025,0.0,2026-04-19
+00016,CITIBANK N.A.,extranjero,situacion_deudores,TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Dic-2025,4.93,2026-04-19
+00016,CITIBANK N.A.,extranjero,situacion_deudores,Previsiones por riesgo de incobrabilidad constituídas,Dic-2025,87453.88,2026-04-19
+00016,CITIBANK N.A.,extranjero,situacion_deudores,CARTERA COMERCIAL ($),Dic-2025,1415654.74,2026-04-19
+00016,CITIBANK N.A.,extranjero,situacion_deudores,Total cartera sobre financiaciones (%),Dic-2025,100.0,2026-04-19
+00016,CITIBANK N.A.,extranjero,situacion_deudores,C.COM.Sit.1: En situación normal (%),Dic-2025,100.0,2026-04-19
+00016,CITIBANK N.A.,extranjero,situacion_deudores,C.COM.Sit.2: Con seguimiento especial (%),Dic-2025,0.0,2026-04-19
+00016,CITIBANK N.A.,extranjero,situacion_deudores,C.COM.Sit.4: Con alto riesgo de insolvencia (%),Dic-2025,0.0,2026-04-19
+00016,CITIBANK N.A.,extranjero,situacion_deudores,C.COM.TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Dic-2025,4.93,2026-04-19
+00016,CITIBANK N.A.,extranjero,situacion_deudores,TOTAL DE FINANCIACIONES Y GARANTIAS OTORGADAS ($),Ene-2026,1372136.07,2026-04-19
+00016,CITIBANK N.A.,extranjero,situacion_deudores,TF.Sit.1: En situación normal (%),Ene-2026,100.0,2026-04-19
+00016,CITIBANK N.A.,extranjero,situacion_deudores,TF.Sit.2: Con seguimiento especial/Riesgo bajo (%),Ene-2026,0.0,2026-04-19
+00016,CITIBANK N.A.,extranjero,situacion_deudores,TF.Sit.4: Con alto riesgo de insolvencia/Riesgo alto (%),Ene-2026,0.0,2026-04-19
+00016,CITIBANK N.A.,extranjero,situacion_deudores,TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Ene-2026,6.97,2026-04-19
+00016,CITIBANK N.A.,extranjero,situacion_deudores,Previsiones por riesgo de incobrabilidad constituídas,Ene-2026,84194.78,2026-04-19
+00016,CITIBANK N.A.,extranjero,situacion_deudores,CARTERA COMERCIAL ($),Ene-2026,1372136.07,2026-04-19
+00016,CITIBANK N.A.,extranjero,situacion_deudores,Total cartera sobre financiaciones (%),Ene-2026,100.0,2026-04-19
+00016,CITIBANK N.A.,extranjero,situacion_deudores,C.COM.Sit.1: En situación normal (%),Ene-2026,100.0,2026-04-19
+00016,CITIBANK N.A.,extranjero,situacion_deudores,C.COM.Sit.2: Con seguimiento especial (%),Ene-2026,0.0,2026-04-19
+00016,CITIBANK N.A.,extranjero,situacion_deudores,C.COM.Sit.4: Con alto riesgo de insolvencia (%),Ene-2026,0.0,2026-04-19
+00016,CITIBANK N.A.,extranjero,situacion_deudores,C.COM.TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Ene-2026,6.97,2026-04-19

@@ -1,0 +1,129 @@
+codigo_bcra,nombre_banco,tipo_entidad,fuente,variable,periodo,valor,scraping_fecha
+00321,BANCO DE SANTIAGO DEL ESTERO S.A.,publico,informacion_estructura,Cantidad de cuentas corrientes,Dic-2023,9837.0,2026-04-19
+00321,BANCO DE SANTIAGO DEL ESTERO S.A.,publico,informacion_estructura,Cantidad de cuentas de ahorro,Dic-2023,1231762.0,2026-04-19
+00321,BANCO DE SANTIAGO DEL ESTERO S.A.,publico,informacion_estructura,Cantidad de cajas de ahorro de ayuda social,Dic-2023,479474.0,2026-04-19
+00321,BANCO DE SANTIAGO DEL ESTERO S.A.,publico,informacion_estructura,Cantidad de cuentas previsionales,Dic-2023,446288.0,2026-04-19
+00321,BANCO DE SANTIAGO DEL ESTERO S.A.,publico,informacion_estructura,Cantidad de operaciones a plazo fijo Individuos,Dic-2023,30163.0,2026-04-19
+00321,BANCO DE SANTIAGO DEL ESTERO S.A.,publico,informacion_estructura,Cantidad de operaciones a plazo fijo Empresas,Dic-2023,477.0,2026-04-19
+00321,BANCO DE SANTIAGO DEL ESTERO S.A.,publico,informacion_estructura,Cantidad de operaciones por otros préstamos,Dic-2023,576298.0,2026-04-19
+00321,BANCO DE SANTIAGO DEL ESTERO S.A.,publico,informacion_estructura,Dotación de personal,Dic-2023,645.0,2026-04-19
+00321,BANCO DE SANTIAGO DEL ESTERO S.A.,publico,informacion_estructura,Cantidad de titulares por tarjetas de crédito,Dic-2023,177810.0,2026-04-19
+00321,BANCO DE SANTIAGO DEL ESTERO S.A.,publico,informacion_estructura,Cantidad de tarjetas de crédito (plásticos),Dic-2023,252497.0,2026-04-19
+00321,BANCO DE SANTIAGO DEL ESTERO S.A.,publico,informacion_estructura,Cantidad de tarjetas de débito,Dic-2023,1002946.0,2026-04-19
+00321,BANCO DE SANTIAGO DEL ESTERO S.A.,publico,informacion_estructura,Cantidad de cuentas corrientes,Dic-2024,10251.0,2026-04-19
+00321,BANCO DE SANTIAGO DEL ESTERO S.A.,publico,informacion_estructura,Cantidad de cuentas de ahorro,Dic-2024,1259872.0,2026-04-19
+00321,BANCO DE SANTIAGO DEL ESTERO S.A.,publico,informacion_estructura,Cantidad de cajas de ahorro de ayuda social,Dic-2024,501603.0,2026-04-19
+00321,BANCO DE SANTIAGO DEL ESTERO S.A.,publico,informacion_estructura,Cantidad de cuentas previsionales,Dic-2024,407200.0,2026-04-19
+00321,BANCO DE SANTIAGO DEL ESTERO S.A.,publico,informacion_estructura,Cantidad de operaciones a plazo fijo Individuos,Dic-2024,29132.0,2026-04-19
+00321,BANCO DE SANTIAGO DEL ESTERO S.A.,publico,informacion_estructura,Cantidad de operaciones a plazo fijo Empresas,Dic-2024,737.0,2026-04-19
+00321,BANCO DE SANTIAGO DEL ESTERO S.A.,publico,informacion_estructura,Cantidad de operaciones por otros préstamos,Dic-2024,621615.0,2026-04-19
+00321,BANCO DE SANTIAGO DEL ESTERO S.A.,publico,informacion_estructura,Dotación de personal,Dic-2024,635.0,2026-04-19
+00321,BANCO DE SANTIAGO DEL ESTERO S.A.,publico,informacion_estructura,Cantidad de titulares por tarjetas de crédito,Dic-2024,169179.0,2026-04-19
+00321,BANCO DE SANTIAGO DEL ESTERO S.A.,publico,informacion_estructura,Cantidad de tarjetas de crédito (plásticos),Dic-2024,234944.0,2026-04-19
+00321,BANCO DE SANTIAGO DEL ESTERO S.A.,publico,informacion_estructura,Cantidad de tarjetas de débito,Dic-2024,961597.0,2026-04-19
+00321,BANCO DE SANTIAGO DEL ESTERO S.A.,publico,informacion_estructura,Cantidad de cuentas corrientes,Jun-2025,10418.0,2026-04-19
+00321,BANCO DE SANTIAGO DEL ESTERO S.A.,publico,informacion_estructura,Cantidad de cuentas de ahorro,Jun-2025,1245060.0,2026-04-19
+00321,BANCO DE SANTIAGO DEL ESTERO S.A.,publico,informacion_estructura,Cantidad de cajas de ahorro de ayuda social,Jun-2025,510123.0,2026-04-19
+00321,BANCO DE SANTIAGO DEL ESTERO S.A.,publico,informacion_estructura,Cantidad de cuentas previsionales,Jun-2025,419507.0,2026-04-19
+00321,BANCO DE SANTIAGO DEL ESTERO S.A.,publico,informacion_estructura,Cantidad de operaciones a plazo fijo Individuos,Jun-2025,26947.0,2026-04-19
+00321,BANCO DE SANTIAGO DEL ESTERO S.A.,publico,informacion_estructura,Cantidad de operaciones a plazo fijo Empresas,Jun-2025,815.0,2026-04-19
+00321,BANCO DE SANTIAGO DEL ESTERO S.A.,publico,informacion_estructura,Cantidad de operaciones por otros préstamos,Jun-2025,621297.0,2026-04-19
+00321,BANCO DE SANTIAGO DEL ESTERO S.A.,publico,informacion_estructura,Dotación de personal,Jun-2025,627.0,2026-04-19
+00321,BANCO DE SANTIAGO DEL ESTERO S.A.,publico,informacion_estructura,Cantidad de titulares por tarjetas de crédito,Jun-2025,163656.0,2026-04-19
+00321,BANCO DE SANTIAGO DEL ESTERO S.A.,publico,informacion_estructura,Cantidad de tarjetas de crédito (plásticos),Jun-2025,224638.0,2026-04-19
+00321,BANCO DE SANTIAGO DEL ESTERO S.A.,publico,informacion_estructura,Cantidad de tarjetas de débito,Jun-2025,866923.0,2026-04-19
+00321,BANCO DE SANTIAGO DEL ESTERO S.A.,publico,informacion_estructura,Cantidad de cuentas corrientes,Set-2025,10543.0,2026-04-19
+00321,BANCO DE SANTIAGO DEL ESTERO S.A.,publico,informacion_estructura,Cantidad de cuentas de ahorro,Set-2025,1229417.0,2026-04-19
+00321,BANCO DE SANTIAGO DEL ESTERO S.A.,publico,informacion_estructura,Cantidad de cajas de ahorro de ayuda social,Set-2025,510851.0,2026-04-19
+00321,BANCO DE SANTIAGO DEL ESTERO S.A.,publico,informacion_estructura,Cantidad de cuentas previsionales,Set-2025,404382.0,2026-04-19
+00321,BANCO DE SANTIAGO DEL ESTERO S.A.,publico,informacion_estructura,Cantidad de operaciones a plazo fijo Individuos,Set-2025,18364.0,2026-04-19
+00321,BANCO DE SANTIAGO DEL ESTERO S.A.,publico,informacion_estructura,Cantidad de operaciones a plazo fijo Empresas,Set-2025,587.0,2026-04-19
+00321,BANCO DE SANTIAGO DEL ESTERO S.A.,publico,informacion_estructura,Cantidad de operaciones por otros préstamos,Set-2025,619433.0,2026-04-19
+00321,BANCO DE SANTIAGO DEL ESTERO S.A.,publico,informacion_estructura,Dotación de personal,Set-2025,639.0,2026-04-19
+00321,BANCO DE SANTIAGO DEL ESTERO S.A.,publico,informacion_estructura,Cantidad de titulares por tarjetas de crédito,Set-2025,161899.0,2026-04-19
+00321,BANCO DE SANTIAGO DEL ESTERO S.A.,publico,informacion_estructura,Cantidad de tarjetas de crédito (plásticos),Set-2025,219293.0,2026-04-19
+00321,BANCO DE SANTIAGO DEL ESTERO S.A.,publico,informacion_estructura,Cantidad de tarjetas de débito,Set-2025,811158.0,2026-04-19
+00321,BANCO DE SANTIAGO DEL ESTERO S.A.,publico,informacion_estructura,Cantidad de cuentas corrientes,Dic-2025,10664.0,2026-04-19
+00321,BANCO DE SANTIAGO DEL ESTERO S.A.,publico,informacion_estructura,Cantidad de cuentas de ahorro,Dic-2025,1256916.0,2026-04-19
+00321,BANCO DE SANTIAGO DEL ESTERO S.A.,publico,informacion_estructura,Cantidad de cajas de ahorro de ayuda social,Dic-2025,,2026-04-19
+00321,BANCO DE SANTIAGO DEL ESTERO S.A.,publico,informacion_estructura,Cantidad de cuentas previsionales,Dic-2025,,2026-04-19
+00321,BANCO DE SANTIAGO DEL ESTERO S.A.,publico,informacion_estructura,Cantidad de operaciones a plazo fijo Individuos,Dic-2025,,2026-04-19
+00321,BANCO DE SANTIAGO DEL ESTERO S.A.,publico,informacion_estructura,Cantidad de operaciones a plazo fijo Empresas,Dic-2025,,2026-04-19
+00321,BANCO DE SANTIAGO DEL ESTERO S.A.,publico,informacion_estructura,Cantidad de operaciones por otros préstamos,Dic-2025,,2026-04-19
+00321,BANCO DE SANTIAGO DEL ESTERO S.A.,publico,informacion_estructura,Dotación de personal,Dic-2025,,2026-04-19
+00321,BANCO DE SANTIAGO DEL ESTERO S.A.,publico,informacion_estructura,Cantidad de titulares por tarjetas de crédito,Dic-2025,,2026-04-19
+00321,BANCO DE SANTIAGO DEL ESTERO S.A.,publico,informacion_estructura,Cantidad de tarjetas de crédito (plásticos),Dic-2025,,2026-04-19
+00321,BANCO DE SANTIAGO DEL ESTERO S.A.,publico,informacion_estructura,Cantidad de tarjetas de débito,Dic-2025,,2026-04-19
+00321,BANCO DE SANTIAGO DEL ESTERO S.A.,publico,informacion_estructura,Cantidad de Cuentas,Dic-2023,98500.0,2026-04-19
+00321,BANCO DE SANTIAGO DEL ESTERO S.A.,publico,informacion_estructura,Cantidad de Empresas,Dic-2023,250.0,2026-04-19
+00321,BANCO DE SANTIAGO DEL ESTERO S.A.,publico,informacion_estructura,Cantidad de Cuentas,Dic-2024,118942.0,2026-04-19
+00321,BANCO DE SANTIAGO DEL ESTERO S.A.,publico,informacion_estructura,Cantidad de Empresas,Dic-2024,322.0,2026-04-19
+00321,BANCO DE SANTIAGO DEL ESTERO S.A.,publico,informacion_estructura,Cantidad de Cuentas,Nov-2025,92664.0,2026-04-19
+00321,BANCO DE SANTIAGO DEL ESTERO S.A.,publico,informacion_estructura,Cantidad de Empresas,Nov-2025,304.0,2026-04-19
+00321,BANCO DE SANTIAGO DEL ESTERO S.A.,publico,informacion_estructura,Cantidad de Cuentas,Dic-2025,94555.0,2026-04-19
+00321,BANCO DE SANTIAGO DEL ESTERO S.A.,publico,informacion_estructura,Cantidad de Empresas,Dic-2025,312.0,2026-04-19
+00321,BANCO DE SANTIAGO DEL ESTERO S.A.,publico,informacion_estructura,Cantidad de Cuentas,Ene-2026,85826.0,2026-04-19
+00321,BANCO DE SANTIAGO DEL ESTERO S.A.,publico,informacion_estructura,Cantidad de Empresas,Ene-2026,289.0,2026-04-19
+00321,BANCO DE SANTIAGO DEL ESTERO S.A.,publico,informacion_estructura,CABA,Habilitadas,1.0,2026-04-19
+00321,BANCO DE SANTIAGO DEL ESTERO S.A.,publico,informacion_estructura,CATAMARCA,Habilitadas,1.0,2026-04-19
+00321,BANCO DE SANTIAGO DEL ESTERO S.A.,publico,informacion_estructura,CÓRDOBA,Habilitadas,1.0,2026-04-19
+00321,BANCO DE SANTIAGO DEL ESTERO S.A.,publico,informacion_estructura,JUJUY,Habilitadas,1.0,2026-04-19
+00321,BANCO DE SANTIAGO DEL ESTERO S.A.,publico,informacion_estructura,SALTA,Habilitadas,1.0,2026-04-19
+00321,BANCO DE SANTIAGO DEL ESTERO S.A.,publico,informacion_estructura,SANTIAGO DEL ESTERO,Habilitadas,36.0,2026-04-19
+00321,BANCO DE SANTIAGO DEL ESTERO S.A.,publico,informacion_estructura,TUCUMÁN,Habilitadas,2.0,2026-04-19
+00321,BANCO DE SANTIAGO DEL ESTERO S.A.,publico,informacion_estructura,CABA,Habilitadas,,2026-04-19
+00321,BANCO DE SANTIAGO DEL ESTERO S.A.,publico,informacion_estructura,CATAMARCA,Habilitadas,,2026-04-19
+00321,BANCO DE SANTIAGO DEL ESTERO S.A.,publico,informacion_estructura,CÓRDOBA,Habilitadas,,2026-04-19
+00321,BANCO DE SANTIAGO DEL ESTERO S.A.,publico,informacion_estructura,JUJUY,Habilitadas,,2026-04-19
+00321,BANCO DE SANTIAGO DEL ESTERO S.A.,publico,informacion_estructura,SALTA,Habilitadas,,2026-04-19
+00321,BANCO DE SANTIAGO DEL ESTERO S.A.,publico,informacion_estructura,SANTIAGO DEL ESTERO,Habilitadas,,2026-04-19
+00321,BANCO DE SANTIAGO DEL ESTERO S.A.,publico,informacion_estructura,TUCUMÁN,Habilitadas,,2026-04-19
+00321,BANCO DE SANTIAGO DEL ESTERO S.A.,publico,informacion_estructura,CABA,Habilitadas,,2026-04-19
+00321,BANCO DE SANTIAGO DEL ESTERO S.A.,publico,informacion_estructura,CATAMARCA,Habilitadas,,2026-04-19
+00321,BANCO DE SANTIAGO DEL ESTERO S.A.,publico,informacion_estructura,CÓRDOBA,Habilitadas,,2026-04-19
+00321,BANCO DE SANTIAGO DEL ESTERO S.A.,publico,informacion_estructura,JUJUY,Habilitadas,,2026-04-19
+00321,BANCO DE SANTIAGO DEL ESTERO S.A.,publico,informacion_estructura,SALTA,Habilitadas,,2026-04-19
+00321,BANCO DE SANTIAGO DEL ESTERO S.A.,publico,informacion_estructura,SANTIAGO DEL ESTERO,Habilitadas,,2026-04-19
+00321,BANCO DE SANTIAGO DEL ESTERO S.A.,publico,informacion_estructura,TUCUMÁN,Habilitadas,,2026-04-19
+00321,BANCO DE SANTIAGO DEL ESTERO S.A.,publico,informacion_estructura,CABA,Habilitadas,1.0,2026-04-19
+00321,BANCO DE SANTIAGO DEL ESTERO S.A.,publico,informacion_estructura,CATAMARCA,Habilitadas,7.0,2026-04-19
+00321,BANCO DE SANTIAGO DEL ESTERO S.A.,publico,informacion_estructura,CÓRDOBA,Habilitadas,10.0,2026-04-19
+00321,BANCO DE SANTIAGO DEL ESTERO S.A.,publico,informacion_estructura,JUJUY,Habilitadas,5.0,2026-04-19
+00321,BANCO DE SANTIAGO DEL ESTERO S.A.,publico,informacion_estructura,SALTA,Habilitadas,7.0,2026-04-19
+00321,BANCO DE SANTIAGO DEL ESTERO S.A.,publico,informacion_estructura,SANTIAGO DEL ESTERO,Habilitadas,233.0,2026-04-19
+00321,BANCO DE SANTIAGO DEL ESTERO S.A.,publico,informacion_estructura,TUCUMÁN,Habilitadas,27.0,2026-04-19
+00321,BANCO DE SANTIAGO DEL ESTERO S.A.,publico,informacion_estructura,CABA,Habilitadas,,2026-04-19
+00321,BANCO DE SANTIAGO DEL ESTERO S.A.,publico,informacion_estructura,CATAMARCA,Habilitadas,,2026-04-19
+00321,BANCO DE SANTIAGO DEL ESTERO S.A.,publico,informacion_estructura,CÓRDOBA,Habilitadas,,2026-04-19
+00321,BANCO DE SANTIAGO DEL ESTERO S.A.,publico,informacion_estructura,JUJUY,Habilitadas,,2026-04-19
+00321,BANCO DE SANTIAGO DEL ESTERO S.A.,publico,informacion_estructura,SALTA,Habilitadas,,2026-04-19
+00321,BANCO DE SANTIAGO DEL ESTERO S.A.,publico,informacion_estructura,SANTIAGO DEL ESTERO,Habilitadas,,2026-04-19
+00321,BANCO DE SANTIAGO DEL ESTERO S.A.,publico,informacion_estructura,TUCUMÁN,Habilitadas,,2026-04-19
+00321,BANCO DE SANTIAGO DEL ESTERO S.A.,publico,informacion_estructura,CABA,Habilitadas,,2026-04-19
+00321,BANCO DE SANTIAGO DEL ESTERO S.A.,publico,informacion_estructura,CATAMARCA,Habilitadas,,2026-04-19
+00321,BANCO DE SANTIAGO DEL ESTERO S.A.,publico,informacion_estructura,CÓRDOBA,Habilitadas,,2026-04-19
+00321,BANCO DE SANTIAGO DEL ESTERO S.A.,publico,informacion_estructura,JUJUY,Habilitadas,,2026-04-19
+00321,BANCO DE SANTIAGO DEL ESTERO S.A.,publico,informacion_estructura,SALTA,Habilitadas,,2026-04-19
+00321,BANCO DE SANTIAGO DEL ESTERO S.A.,publico,informacion_estructura,SANTIAGO DEL ESTERO,Habilitadas,,2026-04-19
+00321,BANCO DE SANTIAGO DEL ESTERO S.A.,publico,informacion_estructura,TUCUMÁN,Habilitadas,,2026-04-19
+00321,BANCO DE SANTIAGO DEL ESTERO S.A.,publico,informacion_estructura,CABA,Habilitadas,,2026-04-19
+00321,BANCO DE SANTIAGO DEL ESTERO S.A.,publico,informacion_estructura,CATAMARCA,Habilitadas,,2026-04-19
+00321,BANCO DE SANTIAGO DEL ESTERO S.A.,publico,informacion_estructura,CÓRDOBA,Habilitadas,1.0,2026-04-19
+00321,BANCO DE SANTIAGO DEL ESTERO S.A.,publico,informacion_estructura,JUJUY,Habilitadas,,2026-04-19
+00321,BANCO DE SANTIAGO DEL ESTERO S.A.,publico,informacion_estructura,SALTA,Habilitadas,1.0,2026-04-19
+00321,BANCO DE SANTIAGO DEL ESTERO S.A.,publico,informacion_estructura,SANTIAGO DEL ESTERO,Habilitadas,9.0,2026-04-19
+00321,BANCO DE SANTIAGO DEL ESTERO S.A.,publico,informacion_estructura,TUCUMÁN,Habilitadas,3.0,2026-04-19
+00321,BANCO DE SANTIAGO DEL ESTERO S.A.,publico,informacion_estructura,CABA,Pendientes de habilitación,,2026-04-19
+00321,BANCO DE SANTIAGO DEL ESTERO S.A.,publico,informacion_estructura,CATAMARCA,Pendientes de habilitación,,2026-04-19
+00321,BANCO DE SANTIAGO DEL ESTERO S.A.,publico,informacion_estructura,CÓRDOBA,Pendientes de habilitación,,2026-04-19
+00321,BANCO DE SANTIAGO DEL ESTERO S.A.,publico,informacion_estructura,JUJUY,Pendientes de habilitación,,2026-04-19
+00321,BANCO DE SANTIAGO DEL ESTERO S.A.,publico,informacion_estructura,SALTA,Pendientes de habilitación,,2026-04-19
+00321,BANCO DE SANTIAGO DEL ESTERO S.A.,publico,informacion_estructura,SANTIAGO DEL ESTERO,Pendientes de habilitación,,2026-04-19
+00321,BANCO DE SANTIAGO DEL ESTERO S.A.,publico,informacion_estructura,TUCUMÁN,Pendientes de habilitación,,2026-04-19
+00321,BANCO DE SANTIAGO DEL ESTERO S.A.,publico,informacion_estructura,CABA,Total,1.0,2026-04-19
+00321,BANCO DE SANTIAGO DEL ESTERO S.A.,publico,informacion_estructura,CATAMARCA,Total,1.0,2026-04-19
+00321,BANCO DE SANTIAGO DEL ESTERO S.A.,publico,informacion_estructura,CÓRDOBA,Total,1.0,2026-04-19
+00321,BANCO DE SANTIAGO DEL ESTERO S.A.,publico,informacion_estructura,JUJUY,Total,1.0,2026-04-19
+00321,BANCO DE SANTIAGO DEL ESTERO S.A.,publico,informacion_estructura,SALTA,Total,1.0,2026-04-19
+00321,BANCO DE SANTIAGO DEL ESTERO S.A.,publico,informacion_estructura,SANTIAGO DEL ESTERO,Total,36.0,2026-04-19
+00321,BANCO DE SANTIAGO DEL ESTERO S.A.,publico,informacion_estructura,TUCUMÁN,Total,2.0,2026-04-19

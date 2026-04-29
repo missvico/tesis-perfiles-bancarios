@@ -1,0 +1,130 @@
+codigo_bcra,nombre_banco,tipo_entidad,fuente,variable,periodo,valor,scraping_fecha
+00093,BANCO DE LA PAMPA SA,publico,informacion_estructura,Cantidad de cuentas corrientes,Dic-2023,73692.0,2026-04-19
+00093,BANCO DE LA PAMPA SA,publico,informacion_estructura,Cantidad de cuentas de ahorro,Dic-2023,517394.0,2026-04-19
+00093,BANCO DE LA PAMPA SA,publico,informacion_estructura,Cantidad de cajas de ahorro de ayuda social,Dic-2023,63450.0,2026-04-19
+00093,BANCO DE LA PAMPA SA,publico,informacion_estructura,Cantidad de cuentas previsionales,Dic-2023,75381.0,2026-04-19
+00093,BANCO DE LA PAMPA SA,publico,informacion_estructura,Cantidad de operaciones a plazo fijo Individuos,Dic-2023,60305.0,2026-04-19
+00093,BANCO DE LA PAMPA SA,publico,informacion_estructura,Cantidad de operaciones a plazo fijo Empresas,Dic-2023,2000.0,2026-04-19
+00093,BANCO DE LA PAMPA SA,publico,informacion_estructura,Cantidad de operaciones por préstamos hipotecarios,Dic-2023,429.0,2026-04-19
+00093,BANCO DE LA PAMPA SA,publico,informacion_estructura,Cantidad de operaciones por préstamos prendarios,Dic-2023,33.0,2026-04-19
+00093,BANCO DE LA PAMPA SA,publico,informacion_estructura,Cantidad de operaciones por otros préstamos,Dic-2023,336192.0,2026-04-19
+00093,BANCO DE LA PAMPA SA,publico,informacion_estructura,Dotación de personal,Dic-2023,800.0,2026-04-19
+00093,BANCO DE LA PAMPA SA,publico,informacion_estructura,Cantidad de titulares por tarjetas de crédito,Dic-2023,202785.0,2026-04-19
+00093,BANCO DE LA PAMPA SA,publico,informacion_estructura,Cantidad de tarjetas de crédito (plásticos),Dic-2023,240660.0,2026-04-19
+00093,BANCO DE LA PAMPA SA,publico,informacion_estructura,Cantidad de tarjetas de débito,Dic-2023,261825.0,2026-04-19
+00093,BANCO DE LA PAMPA SA,publico,informacion_estructura,Cantidad de cuentas corrientes,Dic-2024,69612.0,2026-04-19
+00093,BANCO DE LA PAMPA SA,publico,informacion_estructura,Cantidad de cuentas de ahorro,Dic-2024,515922.0,2026-04-19
+00093,BANCO DE LA PAMPA SA,publico,informacion_estructura,Cantidad de cajas de ahorro de ayuda social,Dic-2024,61285.0,2026-04-19
+00093,BANCO DE LA PAMPA SA,publico,informacion_estructura,Cantidad de cuentas previsionales,Dic-2024,75302.0,2026-04-19
+00093,BANCO DE LA PAMPA SA,publico,informacion_estructura,Cantidad de operaciones a plazo fijo Individuos,Dic-2024,47112.0,2026-04-19
+00093,BANCO DE LA PAMPA SA,publico,informacion_estructura,Cantidad de operaciones a plazo fijo Empresas,Dic-2024,2131.0,2026-04-19
+00093,BANCO DE LA PAMPA SA,publico,informacion_estructura,Cantidad de operaciones por préstamos hipotecarios,Dic-2024,363.0,2026-04-19
+00093,BANCO DE LA PAMPA SA,publico,informacion_estructura,Cantidad de operaciones por préstamos prendarios,Dic-2024,17.0,2026-04-19
+00093,BANCO DE LA PAMPA SA,publico,informacion_estructura,Cantidad de operaciones por otros préstamos,Dic-2024,328395.0,2026-04-19
+00093,BANCO DE LA PAMPA SA,publico,informacion_estructura,Dotación de personal,Dic-2024,763.0,2026-04-19
+00093,BANCO DE LA PAMPA SA,publico,informacion_estructura,Cantidad de titulares por tarjetas de crédito,Dic-2024,209514.0,2026-04-19
+00093,BANCO DE LA PAMPA SA,publico,informacion_estructura,Cantidad de tarjetas de crédito (plásticos),Dic-2024,247675.0,2026-04-19
+00093,BANCO DE LA PAMPA SA,publico,informacion_estructura,Cantidad de tarjetas de débito,Dic-2024,248177.0,2026-04-19
+00093,BANCO DE LA PAMPA SA,publico,informacion_estructura,Cantidad de cuentas corrientes,Jun-2025,63961.0,2026-04-19
+00093,BANCO DE LA PAMPA SA,publico,informacion_estructura,Cantidad de cuentas de ahorro,Jun-2025,517855.0,2026-04-19
+00093,BANCO DE LA PAMPA SA,publico,informacion_estructura,Cantidad de cajas de ahorro de ayuda social,Jun-2025,60412.0,2026-04-19
+00093,BANCO DE LA PAMPA SA,publico,informacion_estructura,Cantidad de cuentas previsionales,Jun-2025,74453.0,2026-04-19
+00093,BANCO DE LA PAMPA SA,publico,informacion_estructura,Cantidad de operaciones a plazo fijo Individuos,Jun-2025,42012.0,2026-04-19
+00093,BANCO DE LA PAMPA SA,publico,informacion_estructura,Cantidad de operaciones a plazo fijo Empresas,Jun-2025,2155.0,2026-04-19
+00093,BANCO DE LA PAMPA SA,publico,informacion_estructura,Cantidad de operaciones por préstamos hipotecarios,Jun-2025,346.0,2026-04-19
+00093,BANCO DE LA PAMPA SA,publico,informacion_estructura,Cantidad de operaciones por préstamos prendarios,Jun-2025,12.0,2026-04-19
+00093,BANCO DE LA PAMPA SA,publico,informacion_estructura,Cantidad de operaciones por otros préstamos,Jun-2025,339186.0,2026-04-19
+00093,BANCO DE LA PAMPA SA,publico,informacion_estructura,Dotación de personal,Jun-2025,750.0,2026-04-19
+00093,BANCO DE LA PAMPA SA,publico,informacion_estructura,Cantidad de titulares por tarjetas de crédito,Jun-2025,210177.0,2026-04-19
+00093,BANCO DE LA PAMPA SA,publico,informacion_estructura,Cantidad de tarjetas de crédito (plásticos),Jun-2025,248196.0,2026-04-19
+00093,BANCO DE LA PAMPA SA,publico,informacion_estructura,Cantidad de tarjetas de débito,Jun-2025,249253.0,2026-04-19
+00093,BANCO DE LA PAMPA SA,publico,informacion_estructura,Cantidad de cuentas corrientes,Set-2025,69767.0,2026-04-19
+00093,BANCO DE LA PAMPA SA,publico,informacion_estructura,Cantidad de cuentas de ahorro,Set-2025,524184.0,2026-04-19
+00093,BANCO DE LA PAMPA SA,publico,informacion_estructura,Cantidad de cajas de ahorro de ayuda social,Set-2025,61769.0,2026-04-19
+00093,BANCO DE LA PAMPA SA,publico,informacion_estructura,Cantidad de cuentas previsionales,Set-2025,75333.0,2026-04-19
+00093,BANCO DE LA PAMPA SA,publico,informacion_estructura,Cantidad de operaciones a plazo fijo Individuos,Set-2025,42829.0,2026-04-19
+00093,BANCO DE LA PAMPA SA,publico,informacion_estructura,Cantidad de operaciones a plazo fijo Empresas,Set-2025,2146.0,2026-04-19
+00093,BANCO DE LA PAMPA SA,publico,informacion_estructura,Cantidad de operaciones por préstamos hipotecarios,Set-2025,340.0,2026-04-19
+00093,BANCO DE LA PAMPA SA,publico,informacion_estructura,Cantidad de operaciones por préstamos prendarios,Set-2025,10.0,2026-04-19
+00093,BANCO DE LA PAMPA SA,publico,informacion_estructura,Cantidad de operaciones por otros préstamos,Set-2025,334748.0,2026-04-19
+00093,BANCO DE LA PAMPA SA,publico,informacion_estructura,Dotación de personal,Set-2025,742.0,2026-04-19
+00093,BANCO DE LA PAMPA SA,publico,informacion_estructura,Cantidad de titulares por tarjetas de crédito,Set-2025,212680.0,2026-04-19
+00093,BANCO DE LA PAMPA SA,publico,informacion_estructura,Cantidad de tarjetas de crédito (plásticos),Set-2025,250380.0,2026-04-19
+00093,BANCO DE LA PAMPA SA,publico,informacion_estructura,Cantidad de tarjetas de débito,Set-2025,249230.0,2026-04-19
+00093,BANCO DE LA PAMPA SA,publico,informacion_estructura,Cantidad de cuentas corrientes,Dic-2025,70221.0,2026-04-19
+00093,BANCO DE LA PAMPA SA,publico,informacion_estructura,Cantidad de cuentas de ahorro,Dic-2025,517093.0,2026-04-19
+00093,BANCO DE LA PAMPA SA,publico,informacion_estructura,Cantidad de cajas de ahorro de ayuda social,Dic-2025,58893.0,2026-04-19
+00093,BANCO DE LA PAMPA SA,publico,informacion_estructura,Cantidad de cuentas previsionales,Dic-2025,74761.0,2026-04-19
+00093,BANCO DE LA PAMPA SA,publico,informacion_estructura,Cantidad de operaciones a plazo fijo Individuos,Dic-2025,36256.0,2026-04-19
+00093,BANCO DE LA PAMPA SA,publico,informacion_estructura,Cantidad de operaciones a plazo fijo Empresas,Dic-2025,1893.0,2026-04-19
+00093,BANCO DE LA PAMPA SA,publico,informacion_estructura,Cantidad de operaciones por préstamos hipotecarios,Dic-2025,333.0,2026-04-19
+00093,BANCO DE LA PAMPA SA,publico,informacion_estructura,Cantidad de operaciones por préstamos prendarios,Dic-2025,7.0,2026-04-19
+00093,BANCO DE LA PAMPA SA,publico,informacion_estructura,Cantidad de operaciones por otros préstamos,Dic-2025,336764.0,2026-04-19
+00093,BANCO DE LA PAMPA SA,publico,informacion_estructura,Dotación de personal,Dic-2025,735.0,2026-04-19
+00093,BANCO DE LA PAMPA SA,publico,informacion_estructura,Cantidad de titulares por tarjetas de crédito,Dic-2025,211300.0,2026-04-19
+00093,BANCO DE LA PAMPA SA,publico,informacion_estructura,Cantidad de tarjetas de crédito (plásticos),Dic-2025,248966.0,2026-04-19
+00093,BANCO DE LA PAMPA SA,publico,informacion_estructura,Cantidad de tarjetas de débito,Dic-2025,,2026-04-19
+00093,BANCO DE LA PAMPA SA,publico,informacion_estructura,Cantidad de Cuentas,Dic-2023,84774.0,2026-04-19
+00093,BANCO DE LA PAMPA SA,publico,informacion_estructura,Cantidad de Empresas,Dic-2023,4032.0,2026-04-19
+00093,BANCO DE LA PAMPA SA,publico,informacion_estructura,Cantidad de Cuentas,Dic-2024,83532.0,2026-04-19
+00093,BANCO DE LA PAMPA SA,publico,informacion_estructura,Cantidad de Empresas,Dic-2024,4061.0,2026-04-19
+00093,BANCO DE LA PAMPA SA,publico,informacion_estructura,Cantidad de Cuentas,Nov-2025,78987.0,2026-04-19
+00093,BANCO DE LA PAMPA SA,publico,informacion_estructura,Cantidad de Empresas,Nov-2025,3622.0,2026-04-19
+00093,BANCO DE LA PAMPA SA,publico,informacion_estructura,Cantidad de Cuentas,Dic-2025,82470.0,2026-04-19
+00093,BANCO DE LA PAMPA SA,publico,informacion_estructura,Cantidad de Empresas,Dic-2025,3926.0,2026-04-19
+00093,BANCO DE LA PAMPA SA,publico,informacion_estructura,Cantidad de Cuentas,Ene-2026,79326.0,2026-04-19
+00093,BANCO DE LA PAMPA SA,publico,informacion_estructura,Cantidad de Empresas,Ene-2026,3519.0,2026-04-19
+00093,BANCO DE LA PAMPA SA,publico,informacion_estructura,CABA,Habilitadas,1.0,2026-04-19
+00093,BANCO DE LA PAMPA SA,publico,informacion_estructura,BUENOS AIRES,Habilitadas,13.0,2026-04-19
+00093,BANCO DE LA PAMPA SA,publico,informacion_estructura,CÓRDOBA,Habilitadas,2.0,2026-04-19
+00093,BANCO DE LA PAMPA SA,publico,informacion_estructura,LA PAMPA,Habilitadas,44.0,2026-04-19
+00093,BANCO DE LA PAMPA SA,publico,informacion_estructura,NEUQUÉN,Habilitadas,1.0,2026-04-19
+00093,BANCO DE LA PAMPA SA,publico,informacion_estructura,RÍO NEGRO,Habilitadas,4.0,2026-04-19
+00093,BANCO DE LA PAMPA SA,publico,informacion_estructura,CABA,Habilitadas,,2026-04-19
+00093,BANCO DE LA PAMPA SA,publico,informacion_estructura,BUENOS AIRES,Habilitadas,,2026-04-19
+00093,BANCO DE LA PAMPA SA,publico,informacion_estructura,CÓRDOBA,Habilitadas,,2026-04-19
+00093,BANCO DE LA PAMPA SA,publico,informacion_estructura,LA PAMPA,Habilitadas,35.0,2026-04-19
+00093,BANCO DE LA PAMPA SA,publico,informacion_estructura,NEUQUÉN,Habilitadas,,2026-04-19
+00093,BANCO DE LA PAMPA SA,publico,informacion_estructura,RÍO NEGRO,Habilitadas,,2026-04-19
+00093,BANCO DE LA PAMPA SA,publico,informacion_estructura,CABA,Habilitadas,,2026-04-19
+00093,BANCO DE LA PAMPA SA,publico,informacion_estructura,BUENOS AIRES,Habilitadas,,2026-04-19
+00093,BANCO DE LA PAMPA SA,publico,informacion_estructura,CÓRDOBA,Habilitadas,,2026-04-19
+00093,BANCO DE LA PAMPA SA,publico,informacion_estructura,LA PAMPA,Habilitadas,,2026-04-19
+00093,BANCO DE LA PAMPA SA,publico,informacion_estructura,NEUQUÉN,Habilitadas,,2026-04-19
+00093,BANCO DE LA PAMPA SA,publico,informacion_estructura,RÍO NEGRO,Habilitadas,,2026-04-19
+00093,BANCO DE LA PAMPA SA,publico,informacion_estructura,CABA,Habilitadas,2.0,2026-04-19
+00093,BANCO DE LA PAMPA SA,publico,informacion_estructura,BUENOS AIRES,Habilitadas,18.0,2026-04-19
+00093,BANCO DE LA PAMPA SA,publico,informacion_estructura,CÓRDOBA,Habilitadas,3.0,2026-04-19
+00093,BANCO DE LA PAMPA SA,publico,informacion_estructura,LA PAMPA,Habilitadas,174.0,2026-04-19
+00093,BANCO DE LA PAMPA SA,publico,informacion_estructura,NEUQUÉN,Habilitadas,2.0,2026-04-19
+00093,BANCO DE LA PAMPA SA,publico,informacion_estructura,RÍO NEGRO,Habilitadas,6.0,2026-04-19
+00093,BANCO DE LA PAMPA SA,publico,informacion_estructura,CABA,Habilitadas,,2026-04-19
+00093,BANCO DE LA PAMPA SA,publico,informacion_estructura,BUENOS AIRES,Habilitadas,,2026-04-19
+00093,BANCO DE LA PAMPA SA,publico,informacion_estructura,CÓRDOBA,Habilitadas,,2026-04-19
+00093,BANCO DE LA PAMPA SA,publico,informacion_estructura,LA PAMPA,Habilitadas,,2026-04-19
+00093,BANCO DE LA PAMPA SA,publico,informacion_estructura,NEUQUÉN,Habilitadas,,2026-04-19
+00093,BANCO DE LA PAMPA SA,publico,informacion_estructura,RÍO NEGRO,Habilitadas,,2026-04-19
+00093,BANCO DE LA PAMPA SA,publico,informacion_estructura,CABA,Habilitadas,,2026-04-19
+00093,BANCO DE LA PAMPA SA,publico,informacion_estructura,BUENOS AIRES,Habilitadas,,2026-04-19
+00093,BANCO DE LA PAMPA SA,publico,informacion_estructura,CÓRDOBA,Habilitadas,,2026-04-19
+00093,BANCO DE LA PAMPA SA,publico,informacion_estructura,LA PAMPA,Habilitadas,,2026-04-19
+00093,BANCO DE LA PAMPA SA,publico,informacion_estructura,NEUQUÉN,Habilitadas,,2026-04-19
+00093,BANCO DE LA PAMPA SA,publico,informacion_estructura,RÍO NEGRO,Habilitadas,,2026-04-19
+00093,BANCO DE LA PAMPA SA,publico,informacion_estructura,CABA,Habilitadas,,2026-04-19
+00093,BANCO DE LA PAMPA SA,publico,informacion_estructura,BUENOS AIRES,Habilitadas,,2026-04-19
+00093,BANCO DE LA PAMPA SA,publico,informacion_estructura,CÓRDOBA,Habilitadas,,2026-04-19
+00093,BANCO DE LA PAMPA SA,publico,informacion_estructura,LA PAMPA,Habilitadas,1.0,2026-04-19
+00093,BANCO DE LA PAMPA SA,publico,informacion_estructura,NEUQUÉN,Habilitadas,,2026-04-19
+00093,BANCO DE LA PAMPA SA,publico,informacion_estructura,RÍO NEGRO,Habilitadas,,2026-04-19
+00093,BANCO DE LA PAMPA SA,publico,informacion_estructura,CABA,Pendientes de habilitación,,2026-04-19
+00093,BANCO DE LA PAMPA SA,publico,informacion_estructura,BUENOS AIRES,Pendientes de habilitación,,2026-04-19
+00093,BANCO DE LA PAMPA SA,publico,informacion_estructura,CÓRDOBA,Pendientes de habilitación,,2026-04-19
+00093,BANCO DE LA PAMPA SA,publico,informacion_estructura,LA PAMPA,Pendientes de habilitación,,2026-04-19
+00093,BANCO DE LA PAMPA SA,publico,informacion_estructura,NEUQUÉN,Pendientes de habilitación,,2026-04-19
+00093,BANCO DE LA PAMPA SA,publico,informacion_estructura,RÍO NEGRO,Pendientes de habilitación,,2026-04-19
+00093,BANCO DE LA PAMPA SA,publico,informacion_estructura,CABA,Total,1.0,2026-04-19
+00093,BANCO DE LA PAMPA SA,publico,informacion_estructura,BUENOS AIRES,Total,13.0,2026-04-19
+00093,BANCO DE LA PAMPA SA,publico,informacion_estructura,CÓRDOBA,Total,2.0,2026-04-19
+00093,BANCO DE LA PAMPA SA,publico,informacion_estructura,LA PAMPA,Total,44.0,2026-04-19
+00093,BANCO DE LA PAMPA SA,publico,informacion_estructura,NEUQUÉN,Total,1.0,2026-04-19
+00093,BANCO DE LA PAMPA SA,publico,informacion_estructura,RÍO NEGRO,Total,4.0,2026-04-19

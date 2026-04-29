@@ -1,0 +1,161 @@
+codigo_bcra,nombre_banco,tipo_entidad,fuente,variable,periodo,valor,scraping_fecha
+00094,BANCO DE CORRIENTES S.A.,publico,situacion_deudores,TOTAL DE FINANCIACIONES Y GARANTIAS OTORGADAS ($),Dic-2023,78057.35,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,situacion_deudores,TF.Sit.1: En situación normal (%),Dic-2023,95.39,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,situacion_deudores,TF.Sit.2: Con seguimiento especial/Riesgo bajo (%),Dic-2023,2.3,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,situacion_deudores,TF.Sit.3: Con problemas/Riesgo medio (%),Dic-2023,0.98,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,situacion_deudores,TF.Sit.4: Con alto riesgo de insolvencia/Riesgo alto (%),Dic-2023,1.0,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,situacion_deudores,TF.Sit.5: Irrecuperable (%),Dic-2023,0.34,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,situacion_deudores,TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Dic-2023,10.08,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,situacion_deudores,Previsiones por riesgo de incobrabilidad constituídas,Dic-2023,1657.94,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,situacion_deudores,CARTERA COMERCIAL ($),Dic-2023,24114.53,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,situacion_deudores,Total cartera sobre financiaciones (%),Dic-2023,30.89,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,situacion_deudores,C.COM.Sit.1: En situación normal (%),Dic-2023,98.94,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,situacion_deudores,C.COM.Sit.2: Con seguimiento especial (%),Dic-2023,0.47,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,situacion_deudores,C.COM.Sit.3: Con problemas (%),Dic-2023,0.0,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,situacion_deudores,C.COM.Sit.4: Con alto riesgo de insolvencia (%),Dic-2023,0.59,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,situacion_deudores,C.COM.Sit.5: Irrecuperable (%),Dic-2023,0.0,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,situacion_deudores,C.COM.TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Dic-2023,23.29,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,situacion_deudores,CARTERA DE CONSUMO O VIVIENDA ($),Dic-2023,29937.83,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,situacion_deudores,Total cartera sobre financiaciones (%),Dic-2023,38.35,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,situacion_deudores,C.CON.Sit.1: En situación normal (%),Dic-2023,95.64,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,situacion_deudores,C.CON.Sit.2: Riesgo bajo (%),Dic-2023,1.46,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,situacion_deudores,C.CON.Sit.3: Riesgo medio (%),Dic-2023,1.32,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,situacion_deudores,C.CON.Sit.4: Riesgo alto (%),Dic-2023,1.16,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,situacion_deudores,C.CON.Sit.5: Irrecuperable (%),Dic-2023,0.42,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,situacion_deudores,C.CON.TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Dic-2023,0.86,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,situacion_deudores,CARTERA COMERCIAL ASIMILABLE A CONSUMO ($),Dic-2023,24004.99,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,situacion_deudores,Total cartera sobre financiaciones (%),Dic-2023,30.75,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,situacion_deudores,C.CAC.Sit.1: En situación normal (%),Dic-2023,91.52,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,situacion_deudores,C.CAC.Sit.2: Riesgo bajo (%),Dic-2023,5.17,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,situacion_deudores,C.CAC.Sit.3: Riesgo medio (%),Dic-2023,1.53,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,situacion_deudores,C.CAC.Sit.4: Riesgo alto (%),Dic-2023,1.21,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,situacion_deudores,C.CAC.Sit.5: Irrecuperable (%),Dic-2023,0.58,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,situacion_deudores,C.CAC.TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Dic-2023,8.31,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,situacion_deudores,TOTAL DE FINANCIACIONES Y GARANTIAS OTORGADAS ($),Dic-2024,256803.61,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,situacion_deudores,TF.Sit.1: En situación normal (%),Dic-2024,96.18,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,situacion_deudores,TF.Sit.2: Con seguimiento especial/Riesgo bajo (%),Dic-2024,1.65,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,situacion_deudores,TF.Sit.3: Con problemas/Riesgo medio (%),Dic-2024,0.92,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,situacion_deudores,TF.Sit.4: Con alto riesgo de insolvencia/Riesgo alto (%),Dic-2024,0.76,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,situacion_deudores,TF.Sit.5: Irrecuperable (%),Dic-2024,0.49,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,situacion_deudores,TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Dic-2024,4.32,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,situacion_deudores,Previsiones por riesgo de incobrabilidad constituídas,Dic-2024,5465.34,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,situacion_deudores,CARTERA COMERCIAL ($),Dic-2024,56581.15,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,situacion_deudores,Total cartera sobre financiaciones (%),Dic-2024,22.03,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,situacion_deudores,C.COM.Sit.1: En situación normal (%),Dic-2024,99.76,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,situacion_deudores,C.COM.Sit.2: Con seguimiento especial (%),Dic-2024,0.0,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,situacion_deudores,C.COM.Sit.3: Con problemas (%),Dic-2024,0.0,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,situacion_deudores,C.COM.Sit.4: Con alto riesgo de insolvencia (%),Dic-2024,0.24,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,situacion_deudores,C.COM.Sit.5: Irrecuperable (%),Dic-2024,0.0,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,situacion_deudores,C.COM.TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Dic-2024,8.09,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,situacion_deudores,CARTERA DE CONSUMO O VIVIENDA ($),Dic-2024,130460.2,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,situacion_deudores,Total cartera sobre financiaciones (%),Dic-2024,50.8,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,situacion_deudores,C.CON.Sit.1: En situación normal (%),Dic-2024,96.41,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,situacion_deudores,C.CON.Sit.2: Riesgo bajo (%),Dic-2024,1.36,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,situacion_deudores,C.CON.Sit.3: Riesgo medio (%),Dic-2024,1.07,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,situacion_deudores,C.CON.Sit.4: Riesgo alto (%),Dic-2024,0.81,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,situacion_deudores,C.CON.Sit.5: Irrecuperable (%),Dic-2024,0.35,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,situacion_deudores,C.CON.TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Dic-2024,2.03,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,situacion_deudores,CARTERA COMERCIAL ASIMILABLE A CONSUMO ($),Dic-2024,69762.26,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,situacion_deudores,Total cartera sobre financiaciones (%),Dic-2024,27.17,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,situacion_deudores,C.CAC.Sit.1: En situación normal (%),Dic-2024,92.85,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,situacion_deudores,C.CAC.Sit.2: Riesgo bajo (%),Dic-2024,3.52,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,situacion_deudores,C.CAC.Sit.3: Riesgo medio (%),Dic-2024,1.38,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,situacion_deudores,C.CAC.Sit.4: Riesgo alto (%),Dic-2024,1.1,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,situacion_deudores,C.CAC.Sit.5: Irrecuperable (%),Dic-2024,1.16,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,situacion_deudores,C.CAC.TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Dic-2024,5.54,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,situacion_deudores,TOTAL DE FINANCIACIONES Y GARANTIAS OTORGADAS ($),Nov-2025,497345.97,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,situacion_deudores,TF.Sit.1: En situación normal (%),Nov-2025,90.25,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,situacion_deudores,TF.Sit.2: Con seguimiento especial/Riesgo bajo (%),Nov-2025,3.84,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,situacion_deudores,TF.Sit.3: Con problemas/Riesgo medio (%),Nov-2025,2.63,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,situacion_deudores,TF.Sit.4: Con alto riesgo de insolvencia/Riesgo alto (%),Nov-2025,2.36,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,situacion_deudores,TF.Sit.5: Irrecuperable (%),Nov-2025,0.91,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,situacion_deudores,TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Nov-2025,5.47,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,situacion_deudores,Previsiones por riesgo de incobrabilidad constituídas,Nov-2025,25739.15,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,situacion_deudores,CARTERA COMERCIAL ($),Nov-2025,133130.44,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,situacion_deudores,Total cartera sobre financiaciones (%),Nov-2025,26.77,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,situacion_deudores,C.COM.Sit.1: En situación normal (%),Nov-2025,96.17,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,situacion_deudores,C.COM.Sit.2: Con seguimiento especial (%),Nov-2025,1.14,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,situacion_deudores,C.COM.Sit.3: Con problemas (%),Nov-2025,0.0,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,situacion_deudores,C.COM.Sit.4: Con alto riesgo de insolvencia (%),Nov-2025,2.68,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,situacion_deudores,C.COM.Sit.5: Irrecuperable (%),Nov-2025,0.0,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,situacion_deudores,C.COM.TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Nov-2025,4.44,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,situacion_deudores,CARTERA DE CONSUMO O VIVIENDA ($),Nov-2025,233775.63,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,situacion_deudores,Total cartera sobre financiaciones (%),Nov-2025,47.0,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,situacion_deudores,C.CON.Sit.1: En situación normal (%),Nov-2025,91.31,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,situacion_deudores,C.CON.Sit.2: Riesgo bajo (%),Nov-2025,2.98,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,situacion_deudores,C.CON.Sit.3: Riesgo medio (%),Nov-2025,2.34,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,situacion_deudores,C.CON.Sit.4: Riesgo alto (%),Nov-2025,2.27,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,situacion_deudores,C.CON.Sit.5: Irrecuperable (%),Nov-2025,1.1,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,situacion_deudores,C.CON.TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Nov-2025,6.15,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,situacion_deudores,CARTERA COMERCIAL ASIMILABLE A CONSUMO ($),Nov-2025,130439.91,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,situacion_deudores,Total cartera sobre financiaciones (%),Nov-2025,26.23,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,situacion_deudores,C.CAC.Sit.1: En situación normal (%),Nov-2025,82.32,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,situacion_deudores,C.CAC.Sit.2: Riesgo bajo (%),Nov-2025,8.12,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,situacion_deudores,C.CAC.Sit.3: Riesgo medio (%),Nov-2025,5.85,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,situacion_deudores,C.CAC.Sit.4: Riesgo alto (%),Nov-2025,2.2,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,situacion_deudores,C.CAC.Sit.5: Irrecuperable (%),Nov-2025,1.51,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,situacion_deudores,C.CAC.TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Nov-2025,5.3,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,situacion_deudores,TOTAL DE FINANCIACIONES Y GARANTIAS OTORGADAS ($),Dic-2025,524428.27,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,situacion_deudores,TF.Sit.1: En situación normal (%),Dic-2025,90.24,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,situacion_deudores,TF.Sit.2: Con seguimiento especial/Riesgo bajo (%),Dic-2025,3.5,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,situacion_deudores,TF.Sit.3: Con problemas/Riesgo medio (%),Dic-2025,2.64,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,situacion_deudores,TF.Sit.4: Con alto riesgo de insolvencia/Riesgo alto (%),Dic-2025,2.63,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,situacion_deudores,TF.Sit.5: Irrecuperable (%),Dic-2025,1.0,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,situacion_deudores,TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Dic-2025,6.28,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,situacion_deudores,Previsiones por riesgo de incobrabilidad constituídas,Dic-2025,26937.71,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,situacion_deudores,CARTERA COMERCIAL ($),Dic-2025,154802.96,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,situacion_deudores,Total cartera sobre financiaciones (%),Dic-2025,29.52,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,situacion_deudores,C.COM.Sit.1: En situación normal (%),Dic-2025,96.77,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,situacion_deudores,C.COM.Sit.2: Con seguimiento especial (%),Dic-2025,0.85,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,situacion_deudores,C.COM.Sit.3: Con problemas (%),Dic-2025,0.07,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,situacion_deudores,C.COM.Sit.4: Con alto riesgo de insolvencia (%),Dic-2025,2.31,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,situacion_deudores,C.COM.Sit.5: Irrecuperable (%),Dic-2025,0.0,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,situacion_deudores,C.COM.TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Dic-2025,5.79,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,situacion_deudores,CARTERA DE CONSUMO O VIVIENDA ($),Dic-2025,235790.23,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,situacion_deudores,Total cartera sobre financiaciones (%),Dic-2025,44.96,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,situacion_deudores,C.CON.Sit.1: En situación normal (%),Dic-2025,90.44,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,situacion_deudores,C.CON.Sit.2: Riesgo bajo (%),Dic-2025,3.38,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,situacion_deudores,C.CON.Sit.3: Riesgo medio (%),Dic-2025,2.13,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,situacion_deudores,C.CON.Sit.4: Riesgo alto (%),Dic-2025,2.77,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,situacion_deudores,C.CON.Sit.5: Irrecuperable (%),Dic-2025,1.28,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,situacion_deudores,C.CON.TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Dic-2025,6.27,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,situacion_deudores,CARTERA COMERCIAL ASIMILABLE A CONSUMO ($),Dic-2025,133835.07,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,situacion_deudores,Total cartera sobre financiaciones (%),Dic-2025,25.52,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,situacion_deudores,C.CAC.Sit.1: En situación normal (%),Dic-2025,82.33,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,situacion_deudores,C.CAC.Sit.2: Riesgo bajo (%),Dic-2025,6.77,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,situacion_deudores,C.CAC.Sit.3: Riesgo medio (%),Dic-2025,6.5,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,situacion_deudores,C.CAC.Sit.4: Riesgo alto (%),Dic-2025,2.75,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,situacion_deudores,C.CAC.Sit.5: Irrecuperable (%),Dic-2025,1.65,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,situacion_deudores,C.CAC.TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Dic-2025,6.87,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,situacion_deudores,TOTAL DE FINANCIACIONES Y GARANTIAS OTORGADAS ($),Ene-2026,526553.74,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,situacion_deudores,TF.Sit.1: En situación normal (%),Ene-2026,87.34,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,situacion_deudores,TF.Sit.2: Con seguimiento especial/Riesgo bajo (%),Ene-2026,5.36,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,situacion_deudores,TF.Sit.3: Con problemas/Riesgo medio (%),Ene-2026,2.84,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,situacion_deudores,TF.Sit.4: Con alto riesgo de insolvencia/Riesgo alto (%),Ene-2026,3.33,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,situacion_deudores,TF.Sit.5: Irrecuperable (%),Ene-2026,1.13,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,situacion_deudores,TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Ene-2026,5.56,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,situacion_deudores,Previsiones por riesgo de incobrabilidad constituídas,Ene-2026,33100.24,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,situacion_deudores,CARTERA COMERCIAL ($),Ene-2026,148857.32,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,situacion_deudores,Total cartera sobre financiaciones (%),Ene-2026,28.27,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,situacion_deudores,C.COM.Sit.1: En situación normal (%),Ene-2026,89.33,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,situacion_deudores,C.COM.Sit.2: Con seguimiento especial (%),Ene-2026,8.27,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,situacion_deudores,C.COM.Sit.3: Con problemas (%),Ene-2026,0.0,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,situacion_deudores,C.COM.Sit.4: Con alto riesgo de insolvencia (%),Ene-2026,2.4,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,situacion_deudores,C.COM.Sit.5: Irrecuperable (%),Ene-2026,0.0,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,situacion_deudores,C.COM.TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Ene-2026,4.73,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,situacion_deudores,CARTERA DE CONSUMO O VIVIENDA ($),Ene-2026,239770.78,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,situacion_deudores,Total cartera sobre financiaciones (%),Ene-2026,45.54,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,situacion_deudores,C.CON.Sit.1: En situación normal (%),Ene-2026,89.89,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,situacion_deudores,C.CON.Sit.2: Riesgo bajo (%),Ene-2026,2.82,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,situacion_deudores,C.CON.Sit.3: Riesgo medio (%),Ene-2026,3.09,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,situacion_deudores,C.CON.Sit.4: Riesgo alto (%),Ene-2026,2.72,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,situacion_deudores,C.CON.Sit.5: Irrecuperable (%),Ene-2026,1.48,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,situacion_deudores,C.CON.TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Ene-2026,6.33,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,situacion_deudores,CARTERA COMERCIAL ASIMILABLE A CONSUMO ($),Ene-2026,137925.65,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,situacion_deudores,Total cartera sobre financiaciones (%),Ene-2026,26.19,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,situacion_deudores,C.CAC.Sit.1: En situación normal (%),Ene-2026,80.75,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,situacion_deudores,C.CAC.Sit.2: Riesgo bajo (%),Ene-2026,6.65,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,situacion_deudores,C.CAC.Sit.3: Riesgo medio (%),Ene-2026,5.48,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,situacion_deudores,C.CAC.Sit.4: Riesgo alto (%),Ene-2026,5.4,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,situacion_deudores,C.CAC.Sit.5: Irrecuperable (%),Ene-2026,1.72,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,situacion_deudores,C.CAC.TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Ene-2026,5.13,2026-04-19

@@ -1,0 +1,161 @@
+codigo_bcra,nombre_banco,tipo_entidad,fuente,variable,periodo,valor,scraping_fecha
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,situacion_deudores,TOTAL DE FINANCIACIONES Y GARANTIAS OTORGADAS ($),Dic-2023,743059.15,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,situacion_deudores,TF.Sit.1: En situación normal (%),Dic-2023,94.64,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,situacion_deudores,TF.Sit.2: Con seguimiento especial/Riesgo bajo (%),Dic-2023,1.36,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,situacion_deudores,TF.Sit.3: Con problemas/Riesgo medio (%),Dic-2023,0.81,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,situacion_deudores,TF.Sit.4: Con alto riesgo de insolvencia/Riesgo alto (%),Dic-2023,1.35,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,situacion_deudores,TF.Sit.5: Irrecuperable (%),Dic-2023,1.83,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,situacion_deudores,TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Dic-2023,14.32,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,situacion_deudores,Previsiones por riesgo de incobrabilidad constituídas,Dic-2023,26696.09,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,situacion_deudores,CARTERA COMERCIAL ($),Dic-2023,283501.89,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,situacion_deudores,Total cartera sobre financiaciones (%),Dic-2023,38.15,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,situacion_deudores,C.COM.Sit.1: En situación normal (%),Dic-2023,92.99,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,situacion_deudores,C.COM.Sit.2: Con seguimiento especial (%),Dic-2023,1.53,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,situacion_deudores,C.COM.Sit.3: Con problemas (%),Dic-2023,0.42,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,situacion_deudores,C.COM.Sit.4: Con alto riesgo de insolvencia (%),Dic-2023,1.54,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,situacion_deudores,C.COM.Sit.5: Irrecuperable (%),Dic-2023,3.52,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,situacion_deudores,C.COM.TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Dic-2023,9.56,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,situacion_deudores,CARTERA DE CONSUMO O VIVIENDA ($),Dic-2023,370451.29,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,situacion_deudores,Total cartera sobre financiaciones (%),Dic-2023,49.85,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,situacion_deudores,C.CON.Sit.1: En situación normal (%),Dic-2023,95.15,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,situacion_deudores,C.CON.Sit.2: Riesgo bajo (%),Dic-2023,1.52,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,situacion_deudores,C.CON.Sit.3: Riesgo medio (%),Dic-2023,1.13,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,situacion_deudores,C.CON.Sit.4: Riesgo alto (%),Dic-2023,1.3,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,situacion_deudores,C.CON.Sit.5: Irrecuperable (%),Dic-2023,0.91,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,situacion_deudores,C.CON.TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Dic-2023,10.03,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,situacion_deudores,CARTERA COMERCIAL ASIMILABLE A CONSUMO ($),Dic-2023,89105.98,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,situacion_deudores,Total cartera sobre financiaciones (%),Dic-2023,11.99,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,situacion_deudores,C.CAC.Sit.1: En situación normal (%),Dic-2023,97.78,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,situacion_deudores,C.CAC.Sit.2: Riesgo bajo (%),Dic-2023,0.21,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,situacion_deudores,C.CAC.Sit.3: Riesgo medio (%),Dic-2023,0.76,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,situacion_deudores,C.CAC.Sit.4: Riesgo alto (%),Dic-2023,0.99,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,situacion_deudores,C.CAC.Sit.5: Irrecuperable (%),Dic-2023,0.25,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,situacion_deudores,C.CAC.TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Dic-2023,47.33,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,situacion_deudores,TOTAL DE FINANCIACIONES Y GARANTIAS OTORGADAS ($),Dic-2024,1994307.79,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,situacion_deudores,TF.Sit.1: En situación normal (%),Dic-2024,96.61,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,situacion_deudores,TF.Sit.2: Con seguimiento especial/Riesgo bajo (%),Dic-2024,1.22,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,situacion_deudores,TF.Sit.3: Con problemas/Riesgo medio (%),Dic-2024,0.49,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,situacion_deudores,TF.Sit.4: Con alto riesgo de insolvencia/Riesgo alto (%),Dic-2024,0.74,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,situacion_deudores,TF.Sit.5: Irrecuperable (%),Dic-2024,0.94,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,situacion_deudores,TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Dic-2024,12.98,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,situacion_deudores,Previsiones por riesgo de incobrabilidad constituídas,Dic-2024,44047.23,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,situacion_deudores,CARTERA COMERCIAL ($),Dic-2024,748157.13,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,situacion_deudores,Total cartera sobre financiaciones (%),Dic-2024,37.51,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,situacion_deudores,C.COM.Sit.1: En situación normal (%),Dic-2024,97.27,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,situacion_deudores,C.COM.Sit.2: Con seguimiento especial (%),Dic-2024,0.57,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,situacion_deudores,C.COM.Sit.3: Con problemas (%),Dic-2024,0.0,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,situacion_deudores,C.COM.Sit.4: Con alto riesgo de insolvencia (%),Dic-2024,0.61,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,situacion_deudores,C.COM.Sit.5: Irrecuperable (%),Dic-2024,1.55,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,situacion_deudores,C.COM.TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Dic-2024,7.64,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,situacion_deudores,CARTERA DE CONSUMO O VIVIENDA ($),Dic-2024,1062492.31,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,situacion_deudores,Total cartera sobre financiaciones (%),Dic-2024,53.28,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,situacion_deudores,C.CON.Sit.1: En situación normal (%),Dic-2024,95.74,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,situacion_deudores,C.CON.Sit.2: Riesgo bajo (%),Dic-2024,1.86,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,situacion_deudores,C.CON.Sit.3: Riesgo medio (%),Dic-2024,0.9,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,situacion_deudores,C.CON.Sit.4: Riesgo alto (%),Dic-2024,0.93,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,situacion_deudores,C.CON.Sit.5: Irrecuperable (%),Dic-2024,0.56,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,situacion_deudores,C.CON.TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Dic-2024,10.46,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,situacion_deudores,CARTERA COMERCIAL ASIMILABLE A CONSUMO ($),Dic-2024,183658.36,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,situacion_deudores,Total cartera sobre financiaciones (%),Dic-2024,9.21,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,situacion_deudores,C.CAC.Sit.1: En situación normal (%),Dic-2024,98.94,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,situacion_deudores,C.CAC.Sit.2: Riesgo bajo (%),Dic-2024,0.13,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,situacion_deudores,C.CAC.Sit.3: Riesgo medio (%),Dic-2024,0.11,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,situacion_deudores,C.CAC.Sit.4: Riesgo alto (%),Dic-2024,0.14,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,situacion_deudores,C.CAC.Sit.5: Irrecuperable (%),Dic-2024,0.67,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,situacion_deudores,C.CAC.TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Dic-2024,49.33,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,situacion_deudores,TOTAL DE FINANCIACIONES Y GARANTIAS OTORGADAS ($),Nov-2025,3458428.38,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,situacion_deudores,TF.Sit.1: En situación normal (%),Nov-2025,93.67,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,situacion_deudores,TF.Sit.2: Con seguimiento especial/Riesgo bajo (%),Nov-2025,2.66,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,situacion_deudores,TF.Sit.3: Con problemas/Riesgo medio (%),Nov-2025,1.33,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,situacion_deudores,TF.Sit.4: Con alto riesgo de insolvencia/Riesgo alto (%),Nov-2025,1.32,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,situacion_deudores,TF.Sit.5: Irrecuperable (%),Nov-2025,1.02,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,situacion_deudores,TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Nov-2025,16.43,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,situacion_deudores,Previsiones por riesgo de incobrabilidad constituídas,Nov-2025,105029.79,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,situacion_deudores,CARTERA COMERCIAL ($),Nov-2025,1337935.78,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,situacion_deudores,Total cartera sobre financiaciones (%),Nov-2025,38.69,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,situacion_deudores,C.COM.Sit.1: En situación normal (%),Nov-2025,96.14,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,situacion_deudores,C.COM.Sit.2: Con seguimiento especial (%),Nov-2025,1.5,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,situacion_deudores,C.COM.Sit.3: Con problemas (%),Nov-2025,0.0,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,situacion_deudores,C.COM.Sit.4: Con alto riesgo de insolvencia (%),Nov-2025,0.81,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,situacion_deudores,C.COM.Sit.5: Irrecuperable (%),Nov-2025,1.55,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,situacion_deudores,C.COM.TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Nov-2025,5.58,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,situacion_deudores,CARTERA DE CONSUMO O VIVIENDA ($),Nov-2025,1797336.37,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,situacion_deudores,Total cartera sobre financiaciones (%),Nov-2025,51.97,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,situacion_deudores,C.CON.Sit.1: En situación normal (%),Nov-2025,91.97,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,situacion_deudores,C.CON.Sit.2: Riesgo bajo (%),Nov-2025,3.54,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,situacion_deudores,C.CON.Sit.3: Riesgo medio (%),Nov-2025,2.08,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,situacion_deudores,C.CON.Sit.4: Riesgo alto (%),Nov-2025,1.81,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,situacion_deudores,C.CON.Sit.5: Irrecuperable (%),Nov-2025,0.59,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,situacion_deudores,C.CON.TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Nov-2025,21.0,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,situacion_deudores,CARTERA COMERCIAL ASIMILABLE A CONSUMO ($),Nov-2025,323156.22,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,situacion_deudores,Total cartera sobre financiaciones (%),Nov-2025,9.34,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,situacion_deudores,C.CAC.Sit.1: En situación normal (%),Nov-2025,92.93,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,situacion_deudores,C.CAC.Sit.2: Riesgo bajo (%),Nov-2025,2.5,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,situacion_deudores,C.CAC.Sit.3: Riesgo medio (%),Nov-2025,2.66,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,situacion_deudores,C.CAC.Sit.4: Riesgo alto (%),Nov-2025,0.75,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,situacion_deudores,C.CAC.Sit.5: Irrecuperable (%),Nov-2025,1.16,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,situacion_deudores,C.CAC.TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Nov-2025,35.94,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,situacion_deudores,TOTAL DE FINANCIACIONES Y GARANTIAS OTORGADAS ($),Dic-2025,3417724.44,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,situacion_deudores,TF.Sit.1: En situación normal (%),Dic-2025,93.8,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,situacion_deudores,TF.Sit.2: Con seguimiento especial/Riesgo bajo (%),Dic-2025,2.49,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,situacion_deudores,TF.Sit.3: Con problemas/Riesgo medio (%),Dic-2025,1.53,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,situacion_deudores,TF.Sit.4: Con alto riesgo de insolvencia/Riesgo alto (%),Dic-2025,1.56,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,situacion_deudores,TF.Sit.5: Irrecuperable (%),Dic-2025,0.63,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,situacion_deudores,TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Dic-2025,16.36,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,situacion_deudores,Previsiones por riesgo de incobrabilidad constituídas,Dic-2025,96251.98,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,situacion_deudores,CARTERA COMERCIAL ($),Dic-2025,1272432.96,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,situacion_deudores,Total cartera sobre financiaciones (%),Dic-2025,37.23,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,situacion_deudores,C.COM.Sit.1: En situación normal (%),Dic-2025,97.06,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,situacion_deudores,C.COM.Sit.2: Con seguimiento especial (%),Dic-2025,1.12,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,situacion_deudores,C.COM.Sit.3: Con problemas (%),Dic-2025,0.43,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,situacion_deudores,C.COM.Sit.4: Con alto riesgo de insolvencia (%),Dic-2025,0.82,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,situacion_deudores,C.COM.Sit.5: Irrecuperable (%),Dic-2025,0.55,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,situacion_deudores,C.COM.TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Dic-2025,4.88,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,situacion_deudores,CARTERA DE CONSUMO O VIVIENDA ($),Dic-2025,1809889.88,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,situacion_deudores,Total cartera sobre financiaciones (%),Dic-2025,52.96,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,situacion_deudores,C.CON.Sit.1: En situación normal (%),Dic-2025,91.6,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,situacion_deudores,C.CON.Sit.2: Riesgo bajo (%),Dic-2025,3.54,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,situacion_deudores,C.CON.Sit.3: Riesgo medio (%),Dic-2025,1.99,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,situacion_deudores,C.CON.Sit.4: Riesgo alto (%),Dic-2025,2.16,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,situacion_deudores,C.CON.Sit.5: Irrecuperable (%),Dic-2025,0.71,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,situacion_deudores,C.CON.TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Dic-2025,21.04,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,situacion_deudores,CARTERA COMERCIAL ASIMILABLE A CONSUMO ($),Dic-2025,335401.6,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,situacion_deudores,Total cartera sobre financiaciones (%),Dic-2025,9.81,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,situacion_deudores,C.CAC.Sit.1: En situación normal (%),Dic-2025,93.21,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,situacion_deudores,C.CAC.Sit.2: Riesgo bajo (%),Dic-2025,1.96,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,situacion_deudores,C.CAC.Sit.3: Riesgo medio (%),Dic-2025,3.2,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,situacion_deudores,C.CAC.Sit.4: Riesgo alto (%),Dic-2025,1.15,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,situacion_deudores,C.CAC.Sit.5: Irrecuperable (%),Dic-2025,0.47,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,situacion_deudores,C.CAC.TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Dic-2025,34.67,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,situacion_deudores,TOTAL DE FINANCIACIONES Y GARANTIAS OTORGADAS ($),Ene-2026,3503082.73,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,situacion_deudores,TF.Sit.1: En situación normal (%),Ene-2026,93.9,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,situacion_deudores,TF.Sit.2: Con seguimiento especial/Riesgo bajo (%),Ene-2026,2.19,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,situacion_deudores,TF.Sit.3: Con problemas/Riesgo medio (%),Ene-2026,1.8,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,situacion_deudores,TF.Sit.4: Con alto riesgo de insolvencia/Riesgo alto (%),Ene-2026,1.53,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,situacion_deudores,TF.Sit.5: Irrecuperable (%),Ene-2026,0.59,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,situacion_deudores,TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Ene-2026,16.09,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,situacion_deudores,Previsiones por riesgo de incobrabilidad constituídas,Ene-2026,99971.46,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,situacion_deudores,CARTERA COMERCIAL ($),Ene-2026,1288170.66,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,situacion_deudores,Total cartera sobre financiaciones (%),Ene-2026,36.77,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,situacion_deudores,C.COM.Sit.1: En situación normal (%),Ene-2026,97.12,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,situacion_deudores,C.COM.Sit.2: Con seguimiento especial (%),Ene-2026,1.1,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,situacion_deudores,C.COM.Sit.3: Con problemas (%),Ene-2026,0.43,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,situacion_deudores,C.COM.Sit.4: Con alto riesgo de insolvencia (%),Ene-2026,0.81,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,situacion_deudores,C.COM.Sit.5: Irrecuperable (%),Ene-2026,0.54,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,situacion_deudores,C.COM.TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Ene-2026,5.32,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,situacion_deudores,CARTERA DE CONSUMO O VIVIENDA ($),Ene-2026,1866332.21,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,situacion_deudores,Total cartera sobre financiaciones (%),Ene-2026,53.28,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,situacion_deudores,C.CON.Sit.1: En situación normal (%),Ene-2026,91.83,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,situacion_deudores,C.CON.Sit.2: Riesgo bajo (%),Ene-2026,2.94,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,situacion_deudores,C.CON.Sit.3: Riesgo medio (%),Ene-2026,2.5,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,situacion_deudores,C.CON.Sit.4: Riesgo alto (%),Ene-2026,2.08,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,situacion_deudores,C.CON.Sit.5: Irrecuperable (%),Ene-2026,0.65,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,situacion_deudores,C.CON.TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Ene-2026,20.62,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,situacion_deudores,CARTERA COMERCIAL ASIMILABLE A CONSUMO ($),Ene-2026,348579.86,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,situacion_deudores,Total cartera sobre financiaciones (%),Ene-2026,9.95,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,situacion_deudores,C.CAC.Sit.1: En situación normal (%),Ene-2026,93.07,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,situacion_deudores,C.CAC.Sit.2: Riesgo bajo (%),Ene-2026,2.12,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,situacion_deudores,C.CAC.Sit.3: Riesgo medio (%),Ene-2026,3.12,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,situacion_deudores,C.CAC.Sit.4: Riesgo alto (%),Ene-2026,1.24,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,situacion_deudores,C.CAC.Sit.5: Irrecuperable (%),Ene-2026,0.44,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,situacion_deudores,C.CAC.TOTAL GARANTIZADO - Garantías Preferidas A y B (%),Ene-2026,31.65,2026-04-19

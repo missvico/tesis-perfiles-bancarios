@@ -1,0 +1,287 @@
+codigo_bcra,nombre_banco,tipo_entidad,fuente,variable,periodo,valor,scraping_fecha
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones por préstamos hipotecarios,Dic-2023,601.0,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,Cantidad de cuentas corrientes,Dic-2023,169944.0,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,Cantidad de cuentas de ahorro,Dic-2023,2256765.0,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,Cantidad de cajas de ahorro de ayuda social,Dic-2023,50823.0,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,Cantidad de cuentas previsionales,Dic-2023,238301.0,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones a plazo fijo Individuos,Dic-2023,148355.0,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones a plazo fijo Empresas,Dic-2023,3422.0,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones por otros préstamos,Dic-2023,903600.0,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,Dotación de personal,Dic-2023,2909.0,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,Cantidad de titulares por tarjetas de crédito,Dic-2023,619894.0,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,Cantidad de tarjetas de crédito (plásticos),Dic-2023,908258.0,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,Cantidad de tarjetas de débito,Dic-2023,2398623.0,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones por préstamos hipotecarios,Dic-2024,758.0,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,Cantidad de cuentas corrientes,Dic-2024,171296.0,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,Cantidad de cuentas de ahorro,Dic-2024,2332198.0,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,Cantidad de cajas de ahorro de ayuda social,Dic-2024,83756.0,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,Cantidad de cuentas previsionales,Dic-2024,233785.0,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones a plazo fijo Individuos,Dic-2024,82440.0,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones a plazo fijo Empresas,Dic-2024,2910.0,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones por otros préstamos,Dic-2024,990614.0,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,Dotación de personal,Dic-2024,2875.0,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,Cantidad de titulares por tarjetas de crédito,Dic-2024,617638.0,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,Cantidad de tarjetas de crédito (plásticos),Dic-2024,922702.0,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,Cantidad de tarjetas de débito,Dic-2024,2457134.0,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones por préstamos hipotecarios,Jun-2025,1212.0,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,Cantidad de cuentas corrientes,Jun-2025,167676.0,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,Cantidad de cuentas de ahorro,Jun-2025,3438100.0,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,Cantidad de cajas de ahorro de ayuda social,Jun-2025,73710.0,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,Cantidad de cuentas previsionales,Jun-2025,229555.0,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones a plazo fijo Individuos,Jun-2025,79922.0,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones a plazo fijo Empresas,Jun-2025,3055.0,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones por otros préstamos,Jun-2025,1031126.0,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,Dotación de personal,Jun-2025,2852.0,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,Cantidad de titulares por tarjetas de crédito,Jun-2025,618015.0,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,Cantidad de tarjetas de crédito (plásticos),Jun-2025,933471.0,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,Cantidad de tarjetas de débito,Jun-2025,2424464.0,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones por préstamos hipotecarios,Set-2025,1431.0,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,Cantidad de cuentas corrientes,Set-2025,165770.0,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,Cantidad de cuentas de ahorro,Set-2025,3470758.0,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,Cantidad de cajas de ahorro de ayuda social,Set-2025,51886.0,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,Cantidad de cuentas previsionales,Set-2025,227312.0,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones a plazo fijo Individuos,Set-2025,79831.0,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones a plazo fijo Empresas,Set-2025,3583.0,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones por otros préstamos,Set-2025,1009902.0,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,Dotación de personal,Set-2025,2848.0,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,Cantidad de titulares por tarjetas de crédito,Set-2025,616733.0,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,Cantidad de tarjetas de crédito (plásticos),Set-2025,642034.0,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,Cantidad de tarjetas de débito,Set-2025,2403682.0,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones por préstamos hipotecarios,Dic-2025,1519.0,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,Cantidad de cuentas corrientes,Dic-2025,163210.0,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,Cantidad de cuentas de ahorro,Dic-2025,3538797.0,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,Cantidad de cajas de ahorro de ayuda social,Dic-2025,42883.0,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,Cantidad de cuentas previsionales,Dic-2025,226508.0,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones a plazo fijo Individuos,Dic-2025,68456.0,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones a plazo fijo Empresas,Dic-2025,2905.0,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones por otros préstamos,Dic-2025,997362.0,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,Dotación de personal,Dic-2025,2828.0,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,Cantidad de titulares por tarjetas de crédito,Dic-2025,629205.0,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,Cantidad de tarjetas de crédito (plásticos),Dic-2025,929892.0,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,Cantidad de tarjetas de débito,Dic-2025,2412297.0,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,Cantidad de Cuentas,Dic-2023,288803.0,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,Cantidad de Empresas,Dic-2023,13245.0,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,Cantidad de Cuentas,Dic-2024,277049.0,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,Cantidad de Empresas,Dic-2024,13516.0,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,Cantidad de Cuentas,Nov-2025,261182.0,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,Cantidad de Empresas,Nov-2025,12531.0,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,Cantidad de Cuentas,Dic-2025,279581.0,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,Cantidad de Empresas,Dic-2025,12430.0,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,Cantidad de Cuentas,Ene-2026,261842.0,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,Cantidad de Empresas,Ene-2026,10379.0,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,CABA,Habilitadas,42.0,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,BUENOS AIRES,Habilitadas,51.0,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,CATAMARCA,Habilitadas,1.0,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,CÓRDOBA,Habilitadas,8.0,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,CORRIENTES,Habilitadas,3.0,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,CHACO,Habilitadas,2.0,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,CHUBUT,Habilitadas,6.0,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,ENTRE RÍOS,Habilitadas,2.0,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,FORMOSA,Habilitadas,1.0,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,JUJUY,Habilitadas,1.0,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,LA PAMPA,Habilitadas,2.0,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,LA RIOJA,Habilitadas,2.0,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,MENDOZA,Habilitadas,5.0,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,MISIONES,Habilitadas,1.0,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,NEUQUÉN,Habilitadas,6.0,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,RÍO NEGRO,Habilitadas,28.0,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,SALTA,Habilitadas,3.0,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,SAN JUAN,Habilitadas,1.0,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,SAN LUIS,Habilitadas,2.0,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,SANTA CRUZ,Habilitadas,4.0,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,SANTA FE,Habilitadas,8.0,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,SANTIAGO DEL ESTERO,Habilitadas,1.0,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,TUCUMÁN,Habilitadas,2.0,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,TIERRA DE FUEGO,Habilitadas,2.0,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,CABA,Habilitadas,,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,BUENOS AIRES,Habilitadas,,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,CATAMARCA,Habilitadas,,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,CÓRDOBA,Habilitadas,,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,CORRIENTES,Habilitadas,,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,CHACO,Habilitadas,,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,CHUBUT,Habilitadas,,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,ENTRE RÍOS,Habilitadas,,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,FORMOSA,Habilitadas,,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,JUJUY,Habilitadas,,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,LA PAMPA,Habilitadas,,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,LA RIOJA,Habilitadas,,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,MENDOZA,Habilitadas,,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,MISIONES,Habilitadas,,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,NEUQUÉN,Habilitadas,,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,RÍO NEGRO,Habilitadas,,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,SALTA,Habilitadas,,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,SAN JUAN,Habilitadas,,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,SAN LUIS,Habilitadas,,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,SANTA CRUZ,Habilitadas,,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,SANTA FE,Habilitadas,,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,SANTIAGO DEL ESTERO,Habilitadas,,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,TUCUMÁN,Habilitadas,,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,TIERRA DE FUEGO,Habilitadas,,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,CABA,Habilitadas,,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,BUENOS AIRES,Habilitadas,,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,CATAMARCA,Habilitadas,,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,CÓRDOBA,Habilitadas,,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,CORRIENTES,Habilitadas,,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,CHACO,Habilitadas,,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,CHUBUT,Habilitadas,,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,ENTRE RÍOS,Habilitadas,,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,FORMOSA,Habilitadas,,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,JUJUY,Habilitadas,,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,LA PAMPA,Habilitadas,,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,LA RIOJA,Habilitadas,,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,MENDOZA,Habilitadas,,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,MISIONES,Habilitadas,,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,NEUQUÉN,Habilitadas,,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,RÍO NEGRO,Habilitadas,,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,SALTA,Habilitadas,,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,SAN JUAN,Habilitadas,,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,SAN LUIS,Habilitadas,,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,SANTA CRUZ,Habilitadas,,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,SANTA FE,Habilitadas,,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,SANTIAGO DEL ESTERO,Habilitadas,,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,TUCUMÁN,Habilitadas,,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,TIERRA DE FUEGO,Habilitadas,,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,CABA,Habilitadas,104.0,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,BUENOS AIRES,Habilitadas,130.0,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,CATAMARCA,Habilitadas,2.0,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,CÓRDOBA,Habilitadas,20.0,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,CORRIENTES,Habilitadas,15.0,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,CHACO,Habilitadas,7.0,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,CHUBUT,Habilitadas,15.0,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,ENTRE RÍOS,Habilitadas,4.0,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,FORMOSA,Habilitadas,2.0,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,JUJUY,Habilitadas,4.0,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,LA PAMPA,Habilitadas,3.0,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,LA RIOJA,Habilitadas,6.0,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,MENDOZA,Habilitadas,15.0,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,MISIONES,Habilitadas,6.0,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,NEUQUÉN,Habilitadas,14.0,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,RÍO NEGRO,Habilitadas,138.0,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,SALTA,Habilitadas,10.0,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,SAN JUAN,Habilitadas,3.0,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,SAN LUIS,Habilitadas,6.0,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,SANTA CRUZ,Habilitadas,11.0,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,SANTA FE,Habilitadas,22.0,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,SANTIAGO DEL ESTERO,Habilitadas,2.0,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,TUCUMÁN,Habilitadas,5.0,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,TIERRA DE FUEGO,Habilitadas,6.0,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,CABA,Habilitadas,78.0,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,BUENOS AIRES,Habilitadas,95.0,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,CATAMARCA,Habilitadas,1.0,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,CÓRDOBA,Habilitadas,15.0,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,CORRIENTES,Habilitadas,10.0,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,CHACO,Habilitadas,6.0,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,CHUBUT,Habilitadas,11.0,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,ENTRE RÍOS,Habilitadas,6.0,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,FORMOSA,Habilitadas,4.0,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,JUJUY,Habilitadas,2.0,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,LA PAMPA,Habilitadas,3.0,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,LA RIOJA,Habilitadas,3.0,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,MENDOZA,Habilitadas,11.0,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,MISIONES,Habilitadas,3.0,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,NEUQUÉN,Habilitadas,10.0,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,RÍO NEGRO,Habilitadas,66.0,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,SALTA,Habilitadas,6.0,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,SAN JUAN,Habilitadas,3.0,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,SAN LUIS,Habilitadas,3.0,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,SANTA CRUZ,Habilitadas,9.0,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,SANTA FE,Habilitadas,13.0,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,SANTIAGO DEL ESTERO,Habilitadas,3.0,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,TUCUMÁN,Habilitadas,3.0,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,TIERRA DE FUEGO,Habilitadas,5.0,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,CABA,Habilitadas,5.0,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,BUENOS AIRES,Habilitadas,6.0,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,CATAMARCA,Habilitadas,,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,CÓRDOBA,Habilitadas,,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,CORRIENTES,Habilitadas,1.0,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,CHACO,Habilitadas,1.0,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,CHUBUT,Habilitadas,,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,ENTRE RÍOS,Habilitadas,,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,FORMOSA,Habilitadas,,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,JUJUY,Habilitadas,,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,LA PAMPA,Habilitadas,,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,LA RIOJA,Habilitadas,1.0,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,MENDOZA,Habilitadas,,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,MISIONES,Habilitadas,3.0,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,NEUQUÉN,Habilitadas,,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,RÍO NEGRO,Habilitadas,6.0,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,SALTA,Habilitadas,1.0,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,SAN JUAN,Habilitadas,,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,SAN LUIS,Habilitadas,,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,SANTA CRUZ,Habilitadas,,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,SANTA FE,Habilitadas,1.0,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,SANTIAGO DEL ESTERO,Habilitadas,,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,TUCUMÁN,Habilitadas,,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,TIERRA DE FUEGO,Habilitadas,,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,CABA,Habilitadas,1.0,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,BUENOS AIRES,Habilitadas,,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,CATAMARCA,Habilitadas,,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,CÓRDOBA,Habilitadas,2.0,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,CORRIENTES,Habilitadas,,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,CHACO,Habilitadas,,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,CHUBUT,Habilitadas,,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,ENTRE RÍOS,Habilitadas,,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,FORMOSA,Habilitadas,,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,JUJUY,Habilitadas,,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,LA PAMPA,Habilitadas,,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,LA RIOJA,Habilitadas,,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,MENDOZA,Habilitadas,,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,MISIONES,Habilitadas,,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,NEUQUÉN,Habilitadas,,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,RÍO NEGRO,Habilitadas,,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,SALTA,Habilitadas,,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,SAN JUAN,Habilitadas,,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,SAN LUIS,Habilitadas,,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,SANTA CRUZ,Habilitadas,,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,SANTA FE,Habilitadas,,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,SANTIAGO DEL ESTERO,Habilitadas,,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,TUCUMÁN,Habilitadas,,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,TIERRA DE FUEGO,Habilitadas,,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,CABA,Pendientes de habilitación,,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,BUENOS AIRES,Pendientes de habilitación,,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,CATAMARCA,Pendientes de habilitación,,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,CÓRDOBA,Pendientes de habilitación,,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,CORRIENTES,Pendientes de habilitación,,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,CHACO,Pendientes de habilitación,,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,CHUBUT,Pendientes de habilitación,,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,ENTRE RÍOS,Pendientes de habilitación,,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,FORMOSA,Pendientes de habilitación,,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,JUJUY,Pendientes de habilitación,,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,LA PAMPA,Pendientes de habilitación,,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,LA RIOJA,Pendientes de habilitación,,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,MENDOZA,Pendientes de habilitación,,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,MISIONES,Pendientes de habilitación,,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,NEUQUÉN,Pendientes de habilitación,,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,RÍO NEGRO,Pendientes de habilitación,,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,SALTA,Pendientes de habilitación,,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,SAN JUAN,Pendientes de habilitación,,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,SAN LUIS,Pendientes de habilitación,,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,SANTA CRUZ,Pendientes de habilitación,,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,SANTA FE,Pendientes de habilitación,,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,SANTIAGO DEL ESTERO,Pendientes de habilitación,,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,TUCUMÁN,Pendientes de habilitación,,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,TIERRA DE FUEGO,Pendientes de habilitación,,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,CABA,Total,42.0,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,BUENOS AIRES,Total,51.0,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,CATAMARCA,Total,1.0,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,CÓRDOBA,Total,8.0,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,CORRIENTES,Total,3.0,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,CHACO,Total,2.0,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,CHUBUT,Total,6.0,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,ENTRE RÍOS,Total,2.0,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,FORMOSA,Total,1.0,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,JUJUY,Total,1.0,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,LA PAMPA,Total,2.0,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,LA RIOJA,Total,2.0,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,MENDOZA,Total,5.0,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,MISIONES,Total,1.0,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,NEUQUÉN,Total,6.0,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,RÍO NEGRO,Total,28.0,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,SALTA,Total,3.0,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,SAN JUAN,Total,1.0,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,SAN LUIS,Total,2.0,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,SANTA CRUZ,Total,4.0,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,SANTA FE,Total,8.0,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,SANTIAGO DEL ESTERO,Total,1.0,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,TUCUMÁN,Total,2.0,2026-04-19
+00034,BANCO PATAGONIA S.A.,privado_nacional,informacion_estructura,TIERRA DE FUEGO,Total,2.0,2026-04-19

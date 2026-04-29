@@ -1,0 +1,292 @@
+codigo_bcra,nombre_banco,tipo_entidad,fuente,variable,periodo,valor,scraping_fecha
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,Cantidad de cuentas corrientes,Dic-2023,746832.0,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,Cantidad de cuentas de ahorro,Dic-2023,5910030.0,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,Cantidad de cajas de ahorro de ayuda social,Dic-2023,1004303.0,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,Cantidad de cuentas previsionales,Dic-2023,1153933.0,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones a plazo fijo Individuos,Dic-2023,503560.0,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones a plazo fijo Empresas,Dic-2023,16751.0,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones por préstamos hipotecarios,Dic-2023,81220.0,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones por préstamos prendarios,Dic-2023,6165.0,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones por otros préstamos,Dic-2023,3421797.0,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,Dotación de personal,Dic-2023,7605.0,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,Cantidad de titulares por tarjetas de crédito,Dic-2023,1770458.0,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,Cantidad de tarjetas de crédito (plásticos),Dic-2023,2923806.0,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,Cantidad de tarjetas de débito,Dic-2023,5645190.0,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,Cantidad de cuentas corrientes,Dic-2024,877661.0,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,Cantidad de cuentas de ahorro,Dic-2024,7488943.0,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,Cantidad de cajas de ahorro de ayuda social,Dic-2024,1066102.0,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,Cantidad de cuentas previsionales,Dic-2024,1248656.0,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones a plazo fijo Individuos,Dic-2024,342981.0,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones a plazo fijo Empresas,Dic-2024,15636.0,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones por préstamos hipotecarios,Dic-2024,79305.0,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones por préstamos prendarios,Dic-2024,6370.0,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones por otros préstamos,Dic-2024,4130965.0,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,Dotación de personal,Dic-2024,8788.0,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,Cantidad de titulares por tarjetas de crédito,Dic-2024,1880825.0,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,Cantidad de tarjetas de crédito (plásticos),Dic-2024,3325651.0,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,Cantidad de tarjetas de débito,Dic-2024,7208047.0,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,Cantidad de cuentas corrientes,Jun-2025,884228.0,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,Cantidad de cuentas de ahorro,Jun-2025,8700632.0,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,Cantidad de cajas de ahorro de ayuda social,Jun-2025,1079917.0,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,Cantidad de cuentas previsionales,Jun-2025,1262370.0,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones a plazo fijo Individuos,Jun-2025,377087.0,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones a plazo fijo Empresas,Jun-2025,19729.0,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones por préstamos hipotecarios,Jun-2025,78890.0,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones por préstamos prendarios,Jun-2025,6801.0,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones por otros préstamos,Jun-2025,4390418.0,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,Dotación de personal,Jun-2025,8649.0,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,Cantidad de titulares por tarjetas de crédito,Jun-2025,2110984.0,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,Cantidad de tarjetas de crédito (plásticos),Jun-2025,3435797.0,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,Cantidad de tarjetas de débito,Jun-2025,6503233.0,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,Cantidad de cuentas corrientes,Set-2025,890058.0,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,Cantidad de cuentas de ahorro,Set-2025,8804222.0,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,Cantidad de cajas de ahorro de ayuda social,Set-2025,1081585.0,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,Cantidad de cuentas previsionales,Set-2025,1276953.0,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones a plazo fijo Individuos,Set-2025,432403.0,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones a plazo fijo Empresas,Set-2025,26348.0,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones por préstamos hipotecarios,Set-2025,78974.0,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones por préstamos prendarios,Set-2025,6695.0,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones por otros préstamos,Set-2025,4402823.0,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,Dotación de personal,Set-2025,8575.0,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,Cantidad de titulares por tarjetas de crédito,Set-2025,2112573.0,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,Cantidad de tarjetas de crédito (plásticos),Set-2025,3407826.0,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,Cantidad de tarjetas de débito,Set-2025,6537504.0,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,Cantidad de cuentas corrientes,Dic-2025,890053.0,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,Cantidad de cuentas de ahorro,Dic-2025,8812189.0,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,Cantidad de cajas de ahorro de ayuda social,Dic-2025,1086197.0,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,Cantidad de cuentas previsionales,Dic-2025,1297255.0,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones a plazo fijo Individuos,Dic-2025,368826.0,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones a plazo fijo Empresas,Dic-2025,22368.0,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones por préstamos hipotecarios,Dic-2025,78634.0,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones por préstamos prendarios,Dic-2025,6568.0,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones por otros préstamos,Dic-2025,4396405.0,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,Dotación de personal,Dic-2025,8245.0,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,Cantidad de titulares por tarjetas de crédito,Dic-2025,2081728.0,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,Cantidad de tarjetas de crédito (plásticos),Dic-2025,3373794.0,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,Cantidad de tarjetas de débito,Dic-2025,6638673.0,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,Cantidad de Cuentas,Dic-2023,1048171.0,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,Cantidad de Empresas,Dic-2023,36659.0,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,Cantidad de Cuentas,Dic-2024,1132891.0,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,Cantidad de Empresas,Dic-2024,46252.0,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,Cantidad de Cuentas,Nov-2025,991403.0,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,Cantidad de Empresas,Nov-2025,45391.0,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,Cantidad de Cuentas,Dic-2025,1133456.0,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,Cantidad de Empresas,Dic-2025,49266.0,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,Cantidad de Cuentas,Ene-2026,1088707.0,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,Cantidad de Empresas,Ene-2026,46079.0,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,CABA,Habilitadas,30.0,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,BUENOS AIRES,Habilitadas,67.0,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,CATAMARCA,Habilitadas,1.0,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,CÓRDOBA,Habilitadas,70.0,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,CORRIENTES,Habilitadas,4.0,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,CHACO,Habilitadas,2.0,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,CHUBUT,Habilitadas,6.0,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,ENTRE RÍOS,Habilitadas,8.0,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,JUJUY,Habilitadas,16.0,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,LA PAMPA,Habilitadas,2.0,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,LA RIOJA,Habilitadas,2.0,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,MENDOZA,Habilitadas,14.0,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,MISIONES,Habilitadas,34.0,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,NEUQUÉN,Habilitadas,5.0,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,RÍO NEGRO,Habilitadas,6.0,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,SALTA,Habilitadas,37.0,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,SAN JUAN,Habilitadas,1.0,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,SAN LUIS,Habilitadas,2.0,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,SANTA CRUZ,Habilitadas,2.0,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,SANTA FE,Habilitadas,105.0,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,SANTIAGO DEL ESTERO,Habilitadas,2.0,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,TUCUMAN,Habilitadas,,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,TUCUMÁN,Habilitadas,43.0,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,TIERRA DE FUEGO,Habilitadas,2.0,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,CABA,Habilitadas,,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,BUENOS AIRES,Habilitadas,,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,CATAMARCA,Habilitadas,,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,CÓRDOBA,Habilitadas,,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,CORRIENTES,Habilitadas,,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,CHACO,Habilitadas,,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,CHUBUT,Habilitadas,,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,ENTRE RÍOS,Habilitadas,,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,JUJUY,Habilitadas,,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,LA PAMPA,Habilitadas,,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,LA RIOJA,Habilitadas,,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,MENDOZA,Habilitadas,,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,MISIONES,Habilitadas,,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,NEUQUÉN,Habilitadas,,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,RÍO NEGRO,Habilitadas,,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,SALTA,Habilitadas,,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,SAN JUAN,Habilitadas,,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,SAN LUIS,Habilitadas,,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,SANTA CRUZ,Habilitadas,,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,SANTA FE,Habilitadas,,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,SANTIAGO DEL ESTERO,Habilitadas,,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,TUCUMAN,Habilitadas,,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,TUCUMÁN,Habilitadas,,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,TIERRA DE FUEGO,Habilitadas,,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,CABA,Habilitadas,,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,BUENOS AIRES,Habilitadas,,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,CATAMARCA,Habilitadas,,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,CÓRDOBA,Habilitadas,,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,CORRIENTES,Habilitadas,,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,CHACO,Habilitadas,,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,CHUBUT,Habilitadas,,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,ENTRE RÍOS,Habilitadas,,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,JUJUY,Habilitadas,,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,LA PAMPA,Habilitadas,,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,LA RIOJA,Habilitadas,,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,MENDOZA,Habilitadas,,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,MISIONES,Habilitadas,,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,NEUQUÉN,Habilitadas,,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,RÍO NEGRO,Habilitadas,,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,SALTA,Habilitadas,,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,SAN JUAN,Habilitadas,,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,SAN LUIS,Habilitadas,,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,SANTA CRUZ,Habilitadas,,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,SANTA FE,Habilitadas,,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,SANTIAGO DEL ESTERO,Habilitadas,,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,TUCUMAN,Habilitadas,,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,TUCUMÁN,Habilitadas,,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,TIERRA DE FUEGO,Habilitadas,,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,CABA,Habilitadas,77.0,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,BUENOS AIRES,Habilitadas,124.0,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,CATAMARCA,Habilitadas,2.0,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,CÓRDOBA,Habilitadas,207.0,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,CORRIENTES,Habilitadas,9.0,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,CHACO,Habilitadas,3.0,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,CHUBUT,Habilitadas,9.0,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,ENTRE RÍOS,Habilitadas,15.0,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,JUJUY,Habilitadas,176.0,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,LA PAMPA,Habilitadas,2.0,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,LA RIOJA,Habilitadas,7.0,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,MENDOZA,Habilitadas,48.0,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,MISIONES,Habilitadas,243.0,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,NEUQUÉN,Habilitadas,14.0,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,RÍO NEGRO,Habilitadas,14.0,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,SALTA,Habilitadas,283.0,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,SAN JUAN,Habilitadas,4.0,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,SAN LUIS,Habilitadas,3.0,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,SANTA CRUZ,Habilitadas,3.0,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,SANTA FE,Habilitadas,215.0,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,SANTIAGO DEL ESTERO,Habilitadas,5.0,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,TUCUMAN,Habilitadas,,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,TUCUMÁN,Habilitadas,208.0,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,TIERRA DE FUEGO,Habilitadas,8.0,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,CABA,Habilitadas,59.0,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,BUENOS AIRES,Habilitadas,115.0,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,CATAMARCA,Habilitadas,2.0,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,CÓRDOBA,Habilitadas,176.0,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,CORRIENTES,Habilitadas,6.0,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,CHACO,Habilitadas,5.0,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,CHUBUT,Habilitadas,11.0,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,ENTRE RÍOS,Habilitadas,25.0,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,JUJUY,Habilitadas,54.0,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,LA PAMPA,Habilitadas,2.0,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,LA RIOJA,Habilitadas,6.0,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,MENDOZA,Habilitadas,38.0,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,MISIONES,Habilitadas,71.0,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,NEUQUÉN,Habilitadas,10.0,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,RÍO NEGRO,Habilitadas,13.0,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,SALTA,Habilitadas,76.0,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,SAN JUAN,Habilitadas,4.0,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,SAN LUIS,Habilitadas,4.0,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,SANTA CRUZ,Habilitadas,5.0,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,SANTA FE,Habilitadas,220.0,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,SANTIAGO DEL ESTERO,Habilitadas,3.0,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,TUCUMAN,Habilitadas,,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,TUCUMÁN,Habilitadas,58.0,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,TIERRA DE FUEGO,Habilitadas,7.0,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,CABA,Habilitadas,2.0,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,BUENOS AIRES,Habilitadas,1.0,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,CATAMARCA,Habilitadas,,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,CÓRDOBA,Habilitadas,1.0,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,CORRIENTES,Habilitadas,,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,CHACO,Habilitadas,,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,CHUBUT,Habilitadas,,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,ENTRE RÍOS,Habilitadas,,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,JUJUY,Habilitadas,1.0,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,LA PAMPA,Habilitadas,,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,LA RIOJA,Habilitadas,,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,MENDOZA,Habilitadas,,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,MISIONES,Habilitadas,,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,NEUQUÉN,Habilitadas,,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,RÍO NEGRO,Habilitadas,,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,SALTA,Habilitadas,3.0,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,SAN JUAN,Habilitadas,,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,SAN LUIS,Habilitadas,,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,SANTA CRUZ,Habilitadas,,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,SANTA FE,Habilitadas,1.0,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,SANTIAGO DEL ESTERO,Habilitadas,,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,TUCUMAN,Habilitadas,,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,TUCUMÁN,Habilitadas,5.0,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,TIERRA DE FUEGO,Habilitadas,1.0,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,CABA,Habilitadas,1.0,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,BUENOS AIRES,Habilitadas,1.0,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,CATAMARCA,Habilitadas,,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,CÓRDOBA,Habilitadas,,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,CORRIENTES,Habilitadas,,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,CHACO,Habilitadas,,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,CHUBUT,Habilitadas,,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,ENTRE RÍOS,Habilitadas,,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,JUJUY,Habilitadas,3.0,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,LA PAMPA,Habilitadas,,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,LA RIOJA,Habilitadas,,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,MENDOZA,Habilitadas,,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,MISIONES,Habilitadas,3.0,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,NEUQUÉN,Habilitadas,,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,RÍO NEGRO,Habilitadas,,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,SALTA,Habilitadas,4.0,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,SAN JUAN,Habilitadas,,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,SAN LUIS,Habilitadas,,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,SANTA CRUZ,Habilitadas,,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,SANTA FE,Habilitadas,2.0,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,SANTIAGO DEL ESTERO,Habilitadas,,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,TUCUMAN,Habilitadas,1.0,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,TUCUMÁN,Habilitadas,5.0,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,TIERRA DE FUEGO,Habilitadas,,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,CABA,Pendientes de habilitación,,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,BUENOS AIRES,Pendientes de habilitación,,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,CATAMARCA,Pendientes de habilitación,,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,CÓRDOBA,Pendientes de habilitación,,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,CORRIENTES,Pendientes de habilitación,,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,CHACO,Pendientes de habilitación,,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,CHUBUT,Pendientes de habilitación,,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,ENTRE RÍOS,Pendientes de habilitación,,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,JUJUY,Pendientes de habilitación,,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,LA PAMPA,Pendientes de habilitación,,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,LA RIOJA,Pendientes de habilitación,,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,MENDOZA,Pendientes de habilitación,,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,MISIONES,Pendientes de habilitación,,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,NEUQUÉN,Pendientes de habilitación,,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,RÍO NEGRO,Pendientes de habilitación,,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,SALTA,Pendientes de habilitación,,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,SAN JUAN,Pendientes de habilitación,,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,SAN LUIS,Pendientes de habilitación,,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,SANTA CRUZ,Pendientes de habilitación,,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,SANTA FE,Pendientes de habilitación,,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,SANTIAGO DEL ESTERO,Pendientes de habilitación,,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,TUCUMAN,Pendientes de habilitación,,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,TUCUMÁN,Pendientes de habilitación,,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,TIERRA DE FUEGO,Pendientes de habilitación,,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,CABA,Total,30.0,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,BUENOS AIRES,Total,67.0,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,CATAMARCA,Total,1.0,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,CÓRDOBA,Total,70.0,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,CORRIENTES,Total,4.0,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,CHACO,Total,2.0,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,CHUBUT,Total,6.0,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,ENTRE RÍOS,Total,8.0,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,JUJUY,Total,16.0,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,LA PAMPA,Total,2.0,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,LA RIOJA,Total,2.0,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,MENDOZA,Total,14.0,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,MISIONES,Total,34.0,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,NEUQUÉN,Total,5.0,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,RÍO NEGRO,Total,6.0,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,SALTA,Total,37.0,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,SAN JUAN,Total,1.0,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,SAN LUIS,Total,2.0,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,SANTA CRUZ,Total,2.0,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,SANTA FE,Total,105.0,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,SANTIAGO DEL ESTERO,Total,2.0,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,TUCUMAN,Total,,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,TUCUMÁN,Total,43.0,2026-04-19
+00285,BANCO MACRO S.A.,privado_nacional,informacion_estructura,TIERRA DE FUEGO,Total,2.0,2026-04-19

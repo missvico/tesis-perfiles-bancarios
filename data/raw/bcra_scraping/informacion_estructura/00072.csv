@@ -1,0 +1,292 @@
+codigo_bcra,nombre_banco,tipo_entidad,fuente,variable,periodo,valor,scraping_fecha
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,Cantidad de cuentas corrientes,Dic-2023,1472308.0,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,Cantidad de cuentas de ahorro,Dic-2023,8989318.0,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,Cantidad de cajas de ahorro de ayuda social,Dic-2023,341802.0,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,Cantidad de cuentas previsionales,Dic-2023,228965.0,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,Cantidad de operaciones a plazo fijo Individuos,Dic-2023,591194.0,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,Cantidad de operaciones a plazo fijo Empresas,Dic-2023,16241.0,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,Cantidad de operaciones por préstamos hipotecarios,Dic-2023,99800.0,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,Cantidad de operaciones por préstamos prendarios,Dic-2023,135916.0,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,Cantidad de operaciones por otros préstamos,Dic-2023,953092.0,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,Dotación de personal,Dic-2023,6302.0,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,Cantidad de titulares por tarjetas de crédito,Dic-2023,1777142.0,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,Cantidad de tarjetas de crédito (plásticos),Dic-2023,4994083.0,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,Cantidad de tarjetas de débito,Dic-2023,5417335.0,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,Cantidad de cuentas corrientes,Dic-2024,1126869.0,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,Cantidad de cuentas de ahorro,Dic-2024,10131998.0,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,Cantidad de cajas de ahorro de ayuda social,Dic-2024,387484.0,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,Cantidad de cuentas previsionales,Dic-2024,265525.0,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,Cantidad de operaciones a plazo fijo Individuos,Dic-2024,311911.0,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,Cantidad de operaciones a plazo fijo Empresas,Dic-2024,8562.0,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,Cantidad de operaciones por préstamos hipotecarios,Dic-2024,89997.0,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,Cantidad de operaciones por préstamos prendarios,Dic-2024,135488.0,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,Cantidad de operaciones por otros préstamos,Dic-2024,1019303.0,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,Dotación de personal,Dic-2024,6058.0,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,Cantidad de titulares por tarjetas de crédito,Dic-2024,1873035.0,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,Cantidad de tarjetas de crédito (plásticos),Dic-2024,5003298.0,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,Cantidad de tarjetas de débito,Dic-2024,5929850.0,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,Cantidad de cuentas corrientes,Jun-2025,1109216.0,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,Cantidad de cuentas de ahorro,Jun-2025,10901460.0,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,Cantidad de cajas de ahorro de ayuda social,Jun-2025,406432.0,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,Cantidad de cuentas previsionales,Jun-2025,278290.0,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,Cantidad de operaciones a plazo fijo Individuos,Jun-2025,337457.0,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,Cantidad de operaciones a plazo fijo Empresas,Jun-2025,10580.0,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,Cantidad de operaciones por préstamos hipotecarios,Jun-2025,89297.0,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,Cantidad de operaciones por préstamos prendarios,Jun-2025,143885.0,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,Cantidad de operaciones por otros préstamos,Jun-2025,1257150.0,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,Dotación de personal,Jun-2025,5899.0,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,Cantidad de titulares por tarjetas de crédito,Jun-2025,1921791.0,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,Cantidad de tarjetas de crédito (plásticos),Jun-2025,4974471.0,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,Cantidad de tarjetas de débito,Jun-2025,5883391.0,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,Cantidad de cuentas corrientes,Set-2025,1011939.0,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,Cantidad de cuentas de ahorro,Set-2025,11093298.0,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,Cantidad de cajas de ahorro de ayuda social,Set-2025,408320.0,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,Cantidad de cuentas previsionales,Set-2025,283485.0,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,Cantidad de operaciones a plazo fijo Individuos,Set-2025,335570.0,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,Cantidad de operaciones a plazo fijo Empresas,Set-2025,12362.0,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,Cantidad de operaciones por préstamos hipotecarios,Set-2025,88862.0,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,Cantidad de operaciones por préstamos prendarios,Set-2025,139650.0,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,Cantidad de operaciones por otros préstamos,Set-2025,1207577.0,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,Dotación de personal,Set-2025,5766.0,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,Cantidad de titulares por tarjetas de crédito,Set-2025,1904293.0,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,Cantidad de tarjetas de crédito (plásticos),Set-2025,4926919.0,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,Cantidad de tarjetas de débito,Set-2025,6026912.0,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,Cantidad de cuentas corrientes,Dic-2025,975864.0,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,Cantidad de cuentas de ahorro,Dic-2025,11014003.0,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,Cantidad de cajas de ahorro de ayuda social,Dic-2025,383327.0,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,Cantidad de cuentas previsionales,Dic-2025,289438.0,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,Cantidad de operaciones a plazo fijo Individuos,Dic-2025,251824.0,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,Cantidad de operaciones a plazo fijo Empresas,Dic-2025,7976.0,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,Cantidad de operaciones por préstamos hipotecarios,Dic-2025,88156.0,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,Cantidad de operaciones por préstamos prendarios,Dic-2025,135010.0,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,Cantidad de operaciones por otros préstamos,Dic-2025,1178270.0,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,Dotación de personal,Dic-2025,5685.0,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,Cantidad de titulares por tarjetas de crédito,Dic-2025,1861086.0,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,Cantidad de tarjetas de crédito (plásticos),Dic-2025,4823824.0,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,Cantidad de tarjetas de débito,Dic-2025,6070615.0,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,Cantidad de Cuentas,Dic-2023,1058411.0,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,Cantidad de Empresas,Dic-2023,85794.0,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,Cantidad de Cuentas,Dic-2024,1076881.0,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,Cantidad de Empresas,Dic-2024,94607.0,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,Cantidad de Cuentas,Nov-2025,1017229.0,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,Cantidad de Empresas,Nov-2025,91677.0,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,Cantidad de Cuentas,Dic-2025,1061796.0,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,Cantidad de Empresas,Dic-2025,96324.0,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,Cantidad de Cuentas,Ene-2026,1010172.0,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,Cantidad de Empresas,Ene-2026,90560.0,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,CABA,Habilitadas,103.0,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,BUENOS AIRES,Habilitadas,163.0,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,CATAMARCA,Habilitadas,1.0,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,CÓRDOBA,Habilitadas,35.0,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,CORRIENTES,Habilitadas,4.0,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,CHACO,Habilitadas,3.0,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,CHUBUT,Habilitadas,5.0,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,ENTRE RÍOS,Habilitadas,10.0,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,FORMOSA,Habilitadas,,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,JUJUY,Habilitadas,2.0,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,LA PAMPA,Habilitadas,2.0,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,LA RIOJA,Habilitadas,1.0,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,MENDOZA,Habilitadas,14.0,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,MISIONES,Habilitadas,4.0,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,NEUQUÉN,Habilitadas,5.0,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,RÍO NEGRO,Habilitadas,4.0,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,SALTA,Habilitadas,5.0,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,SAN JUAN,Habilitadas,4.0,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,SAN LUIS,Habilitadas,2.0,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,SANTA CRUZ,Habilitadas,4.0,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,SANTA FE,Habilitadas,32.0,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,SANTIAGO DEL ESTERO,Habilitadas,2.0,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,TUCUMÁN,Habilitadas,6.0,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,TIERRA DE FUEGO,Habilitadas,2.0,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,CABA,Habilitadas,,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,BUENOS AIRES,Habilitadas,,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,CATAMARCA,Habilitadas,,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,CÓRDOBA,Habilitadas,,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,CORRIENTES,Habilitadas,,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,CHACO,Habilitadas,,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,CHUBUT,Habilitadas,,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,ENTRE RÍOS,Habilitadas,,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,FORMOSA,Habilitadas,,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,JUJUY,Habilitadas,,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,LA PAMPA,Habilitadas,,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,LA RIOJA,Habilitadas,,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,MENDOZA,Habilitadas,,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,MISIONES,Habilitadas,,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,NEUQUÉN,Habilitadas,,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,RÍO NEGRO,Habilitadas,,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,SALTA,Habilitadas,,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,SAN JUAN,Habilitadas,,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,SAN LUIS,Habilitadas,,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,SANTA CRUZ,Habilitadas,,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,SANTA FE,Habilitadas,,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,SANTIAGO DEL ESTERO,Habilitadas,,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,TUCUMÁN,Habilitadas,,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,TIERRA DE FUEGO,Habilitadas,,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,CABA,Habilitadas,1.0,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,BUENOS AIRES,Habilitadas,2.0,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,CATAMARCA,Habilitadas,,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,CÓRDOBA,Habilitadas,1.0,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,CORRIENTES,Habilitadas,,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,CHACO,Habilitadas,,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,CHUBUT,Habilitadas,,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,ENTRE RÍOS,Habilitadas,,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,FORMOSA,Habilitadas,,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,JUJUY,Habilitadas,,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,LA PAMPA,Habilitadas,,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,LA RIOJA,Habilitadas,,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,MENDOZA,Habilitadas,,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,MISIONES,Habilitadas,,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,NEUQUÉN,Habilitadas,,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,RÍO NEGRO,Habilitadas,,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,SALTA,Habilitadas,,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,SAN JUAN,Habilitadas,,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,SAN LUIS,Habilitadas,,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,SANTA CRUZ,Habilitadas,,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,SANTA FE,Habilitadas,1.0,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,SANTIAGO DEL ESTERO,Habilitadas,,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,TUCUMÁN,Habilitadas,,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,TIERRA DE FUEGO,Habilitadas,,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,CABA,Habilitadas,330.0,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,BUENOS AIRES,Habilitadas,578.0,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,CATAMARCA,Habilitadas,4.0,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,CÓRDOBA,Habilitadas,107.0,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,CORRIENTES,Habilitadas,12.0,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,CHACO,Habilitadas,13.0,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,CHUBUT,Habilitadas,20.0,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,ENTRE RÍOS,Habilitadas,26.0,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,FORMOSA,Habilitadas,1.0,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,JUJUY,Habilitadas,8.0,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,LA PAMPA,Habilitadas,3.0,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,LA RIOJA,Habilitadas,3.0,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,MENDOZA,Habilitadas,35.0,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,MISIONES,Habilitadas,12.0,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,NEUQUÉN,Habilitadas,11.0,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,RÍO NEGRO,Habilitadas,11.0,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,SALTA,Habilitadas,14.0,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,SAN JUAN,Habilitadas,13.0,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,SAN LUIS,Habilitadas,7.0,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,SANTA CRUZ,Habilitadas,10.0,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,SANTA FE,Habilitadas,77.0,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,SANTIAGO DEL ESTERO,Habilitadas,6.0,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,TUCUMÁN,Habilitadas,21.0,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,TIERRA DE FUEGO,Habilitadas,6.0,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,CABA,Habilitadas,363.0,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,BUENOS AIRES,Habilitadas,489.0,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,CATAMARCA,Habilitadas,4.0,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,CÓRDOBA,Habilitadas,103.0,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,CORRIENTES,Habilitadas,14.0,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,CHACO,Habilitadas,9.0,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,CHUBUT,Habilitadas,14.0,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,ENTRE RÍOS,Habilitadas,43.0,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,FORMOSA,Habilitadas,,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,JUJUY,Habilitadas,7.0,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,LA PAMPA,Habilitadas,5.0,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,LA RIOJA,Habilitadas,6.0,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,MENDOZA,Habilitadas,44.0,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,MISIONES,Habilitadas,15.0,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,NEUQUÉN,Habilitadas,17.0,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,RÍO NEGRO,Habilitadas,18.0,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,SALTA,Habilitadas,20.0,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,SAN JUAN,Habilitadas,16.0,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,SAN LUIS,Habilitadas,10.0,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,SANTA CRUZ,Habilitadas,10.0,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,SANTA FE,Habilitadas,99.0,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,SANTIAGO DEL ESTERO,Habilitadas,9.0,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,TUCUMÁN,Habilitadas,29.0,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,TIERRA DE FUEGO,Habilitadas,4.0,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,CABA,Habilitadas,2.0,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,BUENOS AIRES,Habilitadas,1.0,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,CATAMARCA,Habilitadas,,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,CÓRDOBA,Habilitadas,,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,CORRIENTES,Habilitadas,,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,CHACO,Habilitadas,,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,CHUBUT,Habilitadas,,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,ENTRE RÍOS,Habilitadas,,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,FORMOSA,Habilitadas,,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,JUJUY,Habilitadas,,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,LA PAMPA,Habilitadas,,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,LA RIOJA,Habilitadas,,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,MENDOZA,Habilitadas,,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,MISIONES,Habilitadas,,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,NEUQUÉN,Habilitadas,,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,RÍO NEGRO,Habilitadas,,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,SALTA,Habilitadas,,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,SAN JUAN,Habilitadas,,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,SAN LUIS,Habilitadas,,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,SANTA CRUZ,Habilitadas,,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,SANTA FE,Habilitadas,1.0,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,SANTIAGO DEL ESTERO,Habilitadas,,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,TUCUMÁN,Habilitadas,1.0,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,TIERRA DE FUEGO,Habilitadas,,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,CABA,Habilitadas,20.0,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,BUENOS AIRES,Habilitadas,24.0,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,CATAMARCA,Habilitadas,,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,CÓRDOBA,Habilitadas,11.0,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,CORRIENTES,Habilitadas,,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,CHACO,Habilitadas,,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,CHUBUT,Habilitadas,,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,ENTRE RÍOS,Habilitadas,2.0,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,FORMOSA,Habilitadas,,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,JUJUY,Habilitadas,,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,LA PAMPA,Habilitadas,1.0,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,LA RIOJA,Habilitadas,,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,MENDOZA,Habilitadas,9.0,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,MISIONES,Habilitadas,,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,NEUQUÉN,Habilitadas,,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,RÍO NEGRO,Habilitadas,,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,SALTA,Habilitadas,2.0,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,SAN JUAN,Habilitadas,1.0,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,SAN LUIS,Habilitadas,2.0,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,SANTA CRUZ,Habilitadas,,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,SANTA FE,Habilitadas,7.0,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,SANTIAGO DEL ESTERO,Habilitadas,2.0,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,TUCUMÁN,Habilitadas,2.0,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,TIERRA DE FUEGO,Habilitadas,,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,CABA,Pendientes de habilitación,1.0,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,BUENOS AIRES,Pendientes de habilitación,1.0,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,CATAMARCA,Pendientes de habilitación,,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,CÓRDOBA,Pendientes de habilitación,1.0,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,CORRIENTES,Pendientes de habilitación,,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,CHACO,Pendientes de habilitación,,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,CHUBUT,Pendientes de habilitación,,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,ENTRE RÍOS,Pendientes de habilitación,,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,FORMOSA,Pendientes de habilitación,,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,JUJUY,Pendientes de habilitación,,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,LA PAMPA,Pendientes de habilitación,,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,LA RIOJA,Pendientes de habilitación,,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,MENDOZA,Pendientes de habilitación,,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,MISIONES,Pendientes de habilitación,,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,NEUQUÉN,Pendientes de habilitación,,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,RÍO NEGRO,Pendientes de habilitación,,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,SALTA,Pendientes de habilitación,,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,SAN JUAN,Pendientes de habilitación,,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,SAN LUIS,Pendientes de habilitación,,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,SANTA CRUZ,Pendientes de habilitación,,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,SANTA FE,Pendientes de habilitación,,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,SANTIAGO DEL ESTERO,Pendientes de habilitación,,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,TUCUMÁN,Pendientes de habilitación,,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,TIERRA DE FUEGO,Pendientes de habilitación,,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,CABA,Total,104.0,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,BUENOS AIRES,Total,164.0,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,CATAMARCA,Total,1.0,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,CÓRDOBA,Total,36.0,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,CORRIENTES,Total,4.0,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,CHACO,Total,3.0,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,CHUBUT,Total,5.0,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,ENTRE RÍOS,Total,10.0,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,FORMOSA,Total,,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,JUJUY,Total,2.0,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,LA PAMPA,Total,2.0,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,LA RIOJA,Total,1.0,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,MENDOZA,Total,14.0,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,MISIONES,Total,4.0,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,NEUQUÉN,Total,5.0,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,RÍO NEGRO,Total,4.0,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,SALTA,Total,5.0,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,SAN JUAN,Total,4.0,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,SAN LUIS,Total,2.0,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,SANTA CRUZ,Total,4.0,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,SANTA FE,Total,32.0,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,SANTIAGO DEL ESTERO,Total,2.0,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,TUCUMÁN,Total,6.0,2026-04-19
+00072,BANCO SANTANDER ARGENTINA S.A.,extranjero,informacion_estructura,TIERRA DE FUEGO,Total,2.0,2026-04-19

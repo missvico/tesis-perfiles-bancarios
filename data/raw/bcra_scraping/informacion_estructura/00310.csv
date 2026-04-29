@@ -1,0 +1,111 @@
+codigo_bcra,nombre_banco,tipo_entidad,fuente,variable,periodo,valor,scraping_fecha
+00310,BANCO DEL SOL S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones por préstamos hipotecarios,Dic-2023,,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones por préstamos prendarios,Dic-2023,929.0,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,informacion_estructura,Dotación de personal,Dic-2023,259.0,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,informacion_estructura,Cantidad de tarjetas de crédito (plásticos),Dic-2023,4741.0,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,informacion_estructura,Cantidad de tarjetas de débito,Dic-2023,279390.0,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,informacion_estructura,Cantidad de cuentas corrientes,Dic-2023,589.0,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,informacion_estructura,Cantidad de cuentas de ahorro,Dic-2023,186343.0,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones a plazo fijo Individuos,Dic-2023,13647.0,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones a plazo fijo Empresas,Dic-2023,14.0,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones por otros préstamos,Dic-2023,70181.0,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,informacion_estructura,Cantidad de titulares por tarjetas de crédito,Dic-2023,3650.0,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones por préstamos hipotecarios,Dic-2024,1.0,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones por préstamos prendarios,Dic-2024,5210.0,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,informacion_estructura,Dotación de personal,Dic-2024,260.0,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,informacion_estructura,Cantidad de tarjetas de crédito (plásticos),Dic-2024,13393.0,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,informacion_estructura,Cantidad de tarjetas de débito,Dic-2024,431151.0,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,informacion_estructura,Cantidad de cuentas corrientes,Dic-2024,945.0,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,informacion_estructura,Cantidad de cuentas de ahorro,Dic-2024,181244.0,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones a plazo fijo Individuos,Dic-2024,3821.0,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones a plazo fijo Empresas,Dic-2024,18.0,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones por otros préstamos,Dic-2024,121267.0,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,informacion_estructura,Cantidad de titulares por tarjetas de crédito,Dic-2024,13142.0,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones por préstamos hipotecarios,Jun-2025,1.0,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones por préstamos prendarios,Jun-2025,10679.0,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,informacion_estructura,Dotación de personal,Jun-2025,271.0,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,informacion_estructura,Cantidad de tarjetas de crédito (plásticos),Jun-2025,17968.0,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,informacion_estructura,Cantidad de tarjetas de débito,Jun-2025,498023.0,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,informacion_estructura,Cantidad de cuentas corrientes,Jun-2025,1098.0,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,informacion_estructura,Cantidad de cuentas de ahorro,Jun-2025,187089.0,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones a plazo fijo Individuos,Jun-2025,9449.0,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones a plazo fijo Empresas,Jun-2025,73.0,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones por otros préstamos,Jun-2025,158231.0,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,informacion_estructura,Cantidad de titulares por tarjetas de crédito,Jun-2025,17700.0,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones por préstamos hipotecarios,Set-2025,1.0,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones por préstamos prendarios,Set-2025,13944.0,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,informacion_estructura,Dotación de personal,Set-2025,278.0,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,informacion_estructura,Cantidad de tarjetas de crédito (plásticos),Set-2025,17474.0,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,informacion_estructura,Cantidad de tarjetas de débito,Set-2025,522009.0,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,informacion_estructura,Cantidad de cuentas corrientes,Set-2025,1168.0,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,informacion_estructura,Cantidad de cuentas de ahorro,Set-2025,196412.0,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones a plazo fijo Individuos,Set-2025,18134.0,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones a plazo fijo Empresas,Set-2025,86.0,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones por otros préstamos,Set-2025,166175.0,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,informacion_estructura,Cantidad de titulares por tarjetas de crédito,Set-2025,15821.0,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones por préstamos hipotecarios,Dic-2025,1.0,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones por préstamos prendarios,Dic-2025,17151.0,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,informacion_estructura,Dotación de personal,Dic-2025,282.0,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,informacion_estructura,Cantidad de tarjetas de crédito (plásticos),Dic-2025,18439.0,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,informacion_estructura,Cantidad de tarjetas de débito,Dic-2025,498983.0,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,informacion_estructura,Cantidad de cuentas corrientes,Dic-2025,1280.0,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,informacion_estructura,Cantidad de cuentas de ahorro,Dic-2025,200188.0,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones a plazo fijo Individuos,Dic-2025,8876.0,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones a plazo fijo Empresas,Dic-2025,84.0,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones por otros préstamos,Dic-2025,160852.0,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,informacion_estructura,Cantidad de titulares por tarjetas de crédito,Dic-2025,19278.0,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,informacion_estructura,Cantidad de Cuentas,Dic-2023,3404.0,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,informacion_estructura,Cantidad de Empresas,Dic-2023,269.0,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,informacion_estructura,Cantidad de Cuentas,Dic-2024,3537.0,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,informacion_estructura,Cantidad de Empresas,Dic-2024,399.0,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,informacion_estructura,Cantidad de Cuentas,Nov-2025,3819.0,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,informacion_estructura,Cantidad de Empresas,Nov-2025,408.0,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,informacion_estructura,Cantidad de Cuentas,Dic-2025,4231.0,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,informacion_estructura,Cantidad de Empresas,Dic-2025,450.0,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,informacion_estructura,Cantidad de Cuentas,Ene-2026,4309.0,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,informacion_estructura,Cantidad de Empresas,Ene-2026,439.0,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,informacion_estructura,CABA,Habilitadas,1.0,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,informacion_estructura,BUENOS AIRES,Habilitadas,1.0,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,informacion_estructura,SANTA CRUZ,Habilitadas,1.0,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,informacion_estructura,SANTA FE,Habilitadas,,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,informacion_estructura,TIERRA DE FUEGO,Habilitadas,1.0,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,informacion_estructura,CABA,Habilitadas,,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,informacion_estructura,BUENOS AIRES,Habilitadas,,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,informacion_estructura,SANTA CRUZ,Habilitadas,,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,informacion_estructura,SANTA FE,Habilitadas,,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,informacion_estructura,TIERRA DE FUEGO,Habilitadas,,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,informacion_estructura,CABA,Habilitadas,,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,informacion_estructura,BUENOS AIRES,Habilitadas,,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,informacion_estructura,SANTA CRUZ,Habilitadas,,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,informacion_estructura,SANTA FE,Habilitadas,,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,informacion_estructura,TIERRA DE FUEGO,Habilitadas,,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,informacion_estructura,CABA,Habilitadas,,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,informacion_estructura,BUENOS AIRES,Habilitadas,,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,informacion_estructura,SANTA CRUZ,Habilitadas,,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,informacion_estructura,SANTA FE,Habilitadas,4.0,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,informacion_estructura,TIERRA DE FUEGO,Habilitadas,,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,informacion_estructura,CABA,Habilitadas,,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,informacion_estructura,BUENOS AIRES,Habilitadas,,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,informacion_estructura,SANTA CRUZ,Habilitadas,,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,informacion_estructura,SANTA FE,Habilitadas,,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,informacion_estructura,TIERRA DE FUEGO,Habilitadas,,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,informacion_estructura,CABA,Habilitadas,,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,informacion_estructura,BUENOS AIRES,Habilitadas,,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,informacion_estructura,SANTA CRUZ,Habilitadas,,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,informacion_estructura,SANTA FE,Habilitadas,,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,informacion_estructura,TIERRA DE FUEGO,Habilitadas,,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,informacion_estructura,CABA,Habilitadas,,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,informacion_estructura,BUENOS AIRES,Habilitadas,,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,informacion_estructura,SANTA CRUZ,Habilitadas,,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,informacion_estructura,SANTA FE,Habilitadas,,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,informacion_estructura,TIERRA DE FUEGO,Habilitadas,,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,informacion_estructura,CABA,Pendientes de habilitación,,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,informacion_estructura,BUENOS AIRES,Pendientes de habilitación,,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,informacion_estructura,SANTA CRUZ,Pendientes de habilitación,,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,informacion_estructura,SANTA FE,Pendientes de habilitación,,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,informacion_estructura,TIERRA DE FUEGO,Pendientes de habilitación,,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,informacion_estructura,CABA,Total,1.0,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,informacion_estructura,BUENOS AIRES,Total,1.0,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,informacion_estructura,SANTA CRUZ,Total,1.0,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,informacion_estructura,SANTA FE,Total,,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,informacion_estructura,TIERRA DE FUEGO,Total,1.0,2026-04-19

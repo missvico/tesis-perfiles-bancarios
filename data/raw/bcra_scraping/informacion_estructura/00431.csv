@@ -1,0 +1,84 @@
+codigo_bcra,nombre_banco,tipo_entidad,fuente,variable,periodo,valor,scraping_fecha
+00431,BANCO COINAG S.A.,privado_nacional,informacion_estructura,Cantidad de cuentas corrientes,Dic-2023,3770.0,2026-04-19
+00431,BANCO COINAG S.A.,privado_nacional,informacion_estructura,Cantidad de cuentas de ahorro,Dic-2023,16356.0,2026-04-19
+00431,BANCO COINAG S.A.,privado_nacional,informacion_estructura,Cantidad de cajas de ahorro de ayuda social,Dic-2023,470.0,2026-04-19
+00431,BANCO COINAG S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones a plazo fijo Individuos,Dic-2023,1318.0,2026-04-19
+00431,BANCO COINAG S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones a plazo fijo Empresas,Dic-2023,445.0,2026-04-19
+00431,BANCO COINAG S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones por préstamos prendarios,Dic-2023,1.0,2026-04-19
+00431,BANCO COINAG S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones por otros préstamos,Dic-2023,49154.0,2026-04-19
+00431,BANCO COINAG S.A.,privado_nacional,informacion_estructura,Dotación de personal,Dic-2023,195.0,2026-04-19
+00431,BANCO COINAG S.A.,privado_nacional,informacion_estructura,Cantidad de titulares por tarjetas de crédito,Dic-2023,10295.0,2026-04-19
+00431,BANCO COINAG S.A.,privado_nacional,informacion_estructura,Cantidad de tarjetas de crédito (plásticos),Dic-2023,10752.0,2026-04-19
+00431,BANCO COINAG S.A.,privado_nacional,informacion_estructura,Cantidad de tarjetas de débito,Dic-2023,23826.0,2026-04-19
+00431,BANCO COINAG S.A.,privado_nacional,informacion_estructura,Cantidad de cuentas corrientes,Dic-2024,4043.0,2026-04-19
+00431,BANCO COINAG S.A.,privado_nacional,informacion_estructura,Cantidad de cuentas de ahorro,Dic-2024,18128.0,2026-04-19
+00431,BANCO COINAG S.A.,privado_nacional,informacion_estructura,Cantidad de cajas de ahorro de ayuda social,Dic-2024,376.0,2026-04-19
+00431,BANCO COINAG S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones a plazo fijo Individuos,Dic-2024,1048.0,2026-04-19
+00431,BANCO COINAG S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones a plazo fijo Empresas,Dic-2024,414.0,2026-04-19
+00431,BANCO COINAG S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones por préstamos prendarios,Dic-2024,,2026-04-19
+00431,BANCO COINAG S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones por otros préstamos,Dic-2024,37779.0,2026-04-19
+00431,BANCO COINAG S.A.,privado_nacional,informacion_estructura,Dotación de personal,Dic-2024,198.0,2026-04-19
+00431,BANCO COINAG S.A.,privado_nacional,informacion_estructura,Cantidad de titulares por tarjetas de crédito,Dic-2024,6349.0,2026-04-19
+00431,BANCO COINAG S.A.,privado_nacional,informacion_estructura,Cantidad de tarjetas de crédito (plásticos),Dic-2024,11000.0,2026-04-19
+00431,BANCO COINAG S.A.,privado_nacional,informacion_estructura,Cantidad de tarjetas de débito,Dic-2024,19525.0,2026-04-19
+00431,BANCO COINAG S.A.,privado_nacional,informacion_estructura,Cantidad de cuentas corrientes,Jun-2025,4311.0,2026-04-19
+00431,BANCO COINAG S.A.,privado_nacional,informacion_estructura,Cantidad de cuentas de ahorro,Jun-2025,19093.0,2026-04-19
+00431,BANCO COINAG S.A.,privado_nacional,informacion_estructura,Cantidad de cajas de ahorro de ayuda social,Jun-2025,360.0,2026-04-19
+00431,BANCO COINAG S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones a plazo fijo Individuos,Jun-2025,1337.0,2026-04-19
+00431,BANCO COINAG S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones a plazo fijo Empresas,Jun-2025,460.0,2026-04-19
+00431,BANCO COINAG S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones por préstamos prendarios,Jun-2025,,2026-04-19
+00431,BANCO COINAG S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones por otros préstamos,Jun-2025,36400.0,2026-04-19
+00431,BANCO COINAG S.A.,privado_nacional,informacion_estructura,Dotación de personal,Jun-2025,194.0,2026-04-19
+00431,BANCO COINAG S.A.,privado_nacional,informacion_estructura,Cantidad de titulares por tarjetas de crédito,Jun-2025,4914.0,2026-04-19
+00431,BANCO COINAG S.A.,privado_nacional,informacion_estructura,Cantidad de tarjetas de crédito (plásticos),Jun-2025,10671.0,2026-04-19
+00431,BANCO COINAG S.A.,privado_nacional,informacion_estructura,Cantidad de tarjetas de débito,Jun-2025,18195.0,2026-04-19
+00431,BANCO COINAG S.A.,privado_nacional,informacion_estructura,Cantidad de cuentas corrientes,Set-2025,4315.0,2026-04-19
+00431,BANCO COINAG S.A.,privado_nacional,informacion_estructura,Cantidad de cuentas de ahorro,Set-2025,18989.0,2026-04-19
+00431,BANCO COINAG S.A.,privado_nacional,informacion_estructura,Cantidad de cajas de ahorro de ayuda social,Set-2025,358.0,2026-04-19
+00431,BANCO COINAG S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones a plazo fijo Individuos,Set-2025,1358.0,2026-04-19
+00431,BANCO COINAG S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones a plazo fijo Empresas,Set-2025,521.0,2026-04-19
+00431,BANCO COINAG S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones por préstamos prendarios,Set-2025,,2026-04-19
+00431,BANCO COINAG S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones por otros préstamos,Set-2025,36021.0,2026-04-19
+00431,BANCO COINAG S.A.,privado_nacional,informacion_estructura,Dotación de personal,Set-2025,189.0,2026-04-19
+00431,BANCO COINAG S.A.,privado_nacional,informacion_estructura,Cantidad de titulares por tarjetas de crédito,Set-2025,4630.0,2026-04-19
+00431,BANCO COINAG S.A.,privado_nacional,informacion_estructura,Cantidad de tarjetas de crédito (plásticos),Set-2025,9280.0,2026-04-19
+00431,BANCO COINAG S.A.,privado_nacional,informacion_estructura,Cantidad de tarjetas de débito,Set-2025,18416.0,2026-04-19
+00431,BANCO COINAG S.A.,privado_nacional,informacion_estructura,Cantidad de cuentas corrientes,Dic-2025,4347.0,2026-04-19
+00431,BANCO COINAG S.A.,privado_nacional,informacion_estructura,Cantidad de cuentas de ahorro,Dic-2025,19174.0,2026-04-19
+00431,BANCO COINAG S.A.,privado_nacional,informacion_estructura,Cantidad de cajas de ahorro de ayuda social,Dic-2025,151.0,2026-04-19
+00431,BANCO COINAG S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones a plazo fijo Individuos,Dic-2025,1270.0,2026-04-19
+00431,BANCO COINAG S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones a plazo fijo Empresas,Dic-2025,351.0,2026-04-19
+00431,BANCO COINAG S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones por préstamos prendarios,Dic-2025,,2026-04-19
+00431,BANCO COINAG S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones por otros préstamos,Dic-2025,32104.0,2026-04-19
+00431,BANCO COINAG S.A.,privado_nacional,informacion_estructura,Dotación de personal,Dic-2025,187.0,2026-04-19
+00431,BANCO COINAG S.A.,privado_nacional,informacion_estructura,Cantidad de titulares por tarjetas de crédito,Dic-2025,6708.0,2026-04-19
+00431,BANCO COINAG S.A.,privado_nacional,informacion_estructura,Cantidad de tarjetas de crédito (plásticos),Dic-2025,9167.0,2026-04-19
+00431,BANCO COINAG S.A.,privado_nacional,informacion_estructura,Cantidad de tarjetas de débito,Dic-2025,18756.0,2026-04-19
+00431,BANCO COINAG S.A.,privado_nacional,informacion_estructura,Cantidad de Cuentas,Dic-2023,3729.0,2026-04-19
+00431,BANCO COINAG S.A.,privado_nacional,informacion_estructura,Cantidad de Empresas,Dic-2023,191.0,2026-04-19
+00431,BANCO COINAG S.A.,privado_nacional,informacion_estructura,Cantidad de Cuentas,Dic-2024,3856.0,2026-04-19
+00431,BANCO COINAG S.A.,privado_nacional,informacion_estructura,Cantidad de Empresas,Dic-2024,172.0,2026-04-19
+00431,BANCO COINAG S.A.,privado_nacional,informacion_estructura,Cantidad de Cuentas,Nov-2025,3060.0,2026-04-19
+00431,BANCO COINAG S.A.,privado_nacional,informacion_estructura,Cantidad de Empresas,Nov-2025,145.0,2026-04-19
+00431,BANCO COINAG S.A.,privado_nacional,informacion_estructura,Cantidad de Cuentas,Dic-2025,3258.0,2026-04-19
+00431,BANCO COINAG S.A.,privado_nacional,informacion_estructura,Cantidad de Empresas,Dic-2025,155.0,2026-04-19
+00431,BANCO COINAG S.A.,privado_nacional,informacion_estructura,Cantidad de Cuentas,Ene-2026,2857.0,2026-04-19
+00431,BANCO COINAG S.A.,privado_nacional,informacion_estructura,Cantidad de Empresas,Ene-2026,140.0,2026-04-19
+00431,BANCO COINAG S.A.,privado_nacional,informacion_estructura,CABA,Habilitadas,1.0,2026-04-19
+00431,BANCO COINAG S.A.,privado_nacional,informacion_estructura,SANTA FE,Habilitadas,8.0,2026-04-19
+00431,BANCO COINAG S.A.,privado_nacional,informacion_estructura,CABA,Habilitadas,,2026-04-19
+00431,BANCO COINAG S.A.,privado_nacional,informacion_estructura,SANTA FE,Habilitadas,,2026-04-19
+00431,BANCO COINAG S.A.,privado_nacional,informacion_estructura,CABA,Habilitadas,,2026-04-19
+00431,BANCO COINAG S.A.,privado_nacional,informacion_estructura,SANTA FE,Habilitadas,,2026-04-19
+00431,BANCO COINAG S.A.,privado_nacional,informacion_estructura,CABA,Habilitadas,,2026-04-19
+00431,BANCO COINAG S.A.,privado_nacional,informacion_estructura,SANTA FE,Habilitadas,9.0,2026-04-19
+00431,BANCO COINAG S.A.,privado_nacional,informacion_estructura,CABA,Habilitadas,,2026-04-19
+00431,BANCO COINAG S.A.,privado_nacional,informacion_estructura,SANTA FE,Habilitadas,,2026-04-19
+00431,BANCO COINAG S.A.,privado_nacional,informacion_estructura,CABA,Habilitadas,,2026-04-19
+00431,BANCO COINAG S.A.,privado_nacional,informacion_estructura,SANTA FE,Habilitadas,,2026-04-19
+00431,BANCO COINAG S.A.,privado_nacional,informacion_estructura,CABA,Habilitadas,,2026-04-19
+00431,BANCO COINAG S.A.,privado_nacional,informacion_estructura,SANTA FE,Habilitadas,,2026-04-19
+00431,BANCO COINAG S.A.,privado_nacional,informacion_estructura,CABA,Pendientes de habilitación,,2026-04-19
+00431,BANCO COINAG S.A.,privado_nacional,informacion_estructura,SANTA FE,Pendientes de habilitación,,2026-04-19
+00431,BANCO COINAG S.A.,privado_nacional,informacion_estructura,CABA,Total,1.0,2026-04-19
+00431,BANCO COINAG S.A.,privado_nacional,informacion_estructura,SANTA FE,Total,8.0,2026-04-19

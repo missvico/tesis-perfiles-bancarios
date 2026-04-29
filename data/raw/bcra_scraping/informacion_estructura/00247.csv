@@ -1,0 +1,84 @@
+codigo_bcra,nombre_banco,tipo_entidad,fuente,variable,periodo,valor,scraping_fecha
+00247,BANCO ROELA S.A.,privado_nacional,informacion_estructura,Cantidad de cuentas corrientes,Dic-2023,21127.0,2026-04-19
+00247,BANCO ROELA S.A.,privado_nacional,informacion_estructura,Cantidad de cuentas de ahorro,Dic-2023,8327.0,2026-04-19
+00247,BANCO ROELA S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones a plazo fijo Individuos,Dic-2023,944.0,2026-04-19
+00247,BANCO ROELA S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones a plazo fijo Empresas,Dic-2023,433.0,2026-04-19
+00247,BANCO ROELA S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones por préstamos hipotecarios,Dic-2023,3.0,2026-04-19
+00247,BANCO ROELA S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones por préstamos prendarios,Dic-2023,,2026-04-19
+00247,BANCO ROELA S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones por otros préstamos,Dic-2023,1692.0,2026-04-19
+00247,BANCO ROELA S.A.,privado_nacional,informacion_estructura,Dotación de personal,Dic-2023,149.0,2026-04-19
+00247,BANCO ROELA S.A.,privado_nacional,informacion_estructura,Cantidad de titulares por tarjetas de crédito,Dic-2023,660.0,2026-04-19
+00247,BANCO ROELA S.A.,privado_nacional,informacion_estructura,Cantidad de tarjetas de crédito (plásticos),Dic-2023,900.0,2026-04-19
+00247,BANCO ROELA S.A.,privado_nacional,informacion_estructura,Cantidad de tarjetas de débito,Dic-2023,7832.0,2026-04-19
+00247,BANCO ROELA S.A.,privado_nacional,informacion_estructura,Cantidad de cuentas corrientes,Dic-2024,22578.0,2026-04-19
+00247,BANCO ROELA S.A.,privado_nacional,informacion_estructura,Cantidad de cuentas de ahorro,Dic-2024,7861.0,2026-04-19
+00247,BANCO ROELA S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones a plazo fijo Individuos,Dic-2024,699.0,2026-04-19
+00247,BANCO ROELA S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones a plazo fijo Empresas,Dic-2024,289.0,2026-04-19
+00247,BANCO ROELA S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones por préstamos hipotecarios,Dic-2024,12.0,2026-04-19
+00247,BANCO ROELA S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones por préstamos prendarios,Dic-2024,6.0,2026-04-19
+00247,BANCO ROELA S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones por otros préstamos,Dic-2024,1609.0,2026-04-19
+00247,BANCO ROELA S.A.,privado_nacional,informacion_estructura,Dotación de personal,Dic-2024,189.0,2026-04-19
+00247,BANCO ROELA S.A.,privado_nacional,informacion_estructura,Cantidad de titulares por tarjetas de crédito,Dic-2024,556.0,2026-04-19
+00247,BANCO ROELA S.A.,privado_nacional,informacion_estructura,Cantidad de tarjetas de crédito (plásticos),Dic-2024,766.0,2026-04-19
+00247,BANCO ROELA S.A.,privado_nacional,informacion_estructura,Cantidad de tarjetas de débito,Dic-2024,8977.0,2026-04-19
+00247,BANCO ROELA S.A.,privado_nacional,informacion_estructura,Cantidad de cuentas corrientes,Jun-2025,23053.0,2026-04-19
+00247,BANCO ROELA S.A.,privado_nacional,informacion_estructura,Cantidad de cuentas de ahorro,Jun-2025,7731.0,2026-04-19
+00247,BANCO ROELA S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones a plazo fijo Individuos,Jun-2025,626.0,2026-04-19
+00247,BANCO ROELA S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones a plazo fijo Empresas,Jun-2025,358.0,2026-04-19
+00247,BANCO ROELA S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones por préstamos hipotecarios,Jun-2025,56.0,2026-04-19
+00247,BANCO ROELA S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones por préstamos prendarios,Jun-2025,13.0,2026-04-19
+00247,BANCO ROELA S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones por otros préstamos,Jun-2025,1584.0,2026-04-19
+00247,BANCO ROELA S.A.,privado_nacional,informacion_estructura,Dotación de personal,Jun-2025,181.0,2026-04-19
+00247,BANCO ROELA S.A.,privado_nacional,informacion_estructura,Cantidad de titulares por tarjetas de crédito,Jun-2025,541.0,2026-04-19
+00247,BANCO ROELA S.A.,privado_nacional,informacion_estructura,Cantidad de tarjetas de crédito (plásticos),Jun-2025,728.0,2026-04-19
+00247,BANCO ROELA S.A.,privado_nacional,informacion_estructura,Cantidad de tarjetas de débito,Jun-2025,7498.0,2026-04-19
+00247,BANCO ROELA S.A.,privado_nacional,informacion_estructura,Cantidad de cuentas corrientes,Set-2025,23273.0,2026-04-19
+00247,BANCO ROELA S.A.,privado_nacional,informacion_estructura,Cantidad de cuentas de ahorro,Set-2025,7708.0,2026-04-19
+00247,BANCO ROELA S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones a plazo fijo Individuos,Set-2025,616.0,2026-04-19
+00247,BANCO ROELA S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones a plazo fijo Empresas,Set-2025,369.0,2026-04-19
+00247,BANCO ROELA S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones por préstamos hipotecarios,Set-2025,80.0,2026-04-19
+00247,BANCO ROELA S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones por préstamos prendarios,Set-2025,13.0,2026-04-19
+00247,BANCO ROELA S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones por otros préstamos,Set-2025,1631.0,2026-04-19
+00247,BANCO ROELA S.A.,privado_nacional,informacion_estructura,Dotación de personal,Set-2025,187.0,2026-04-19
+00247,BANCO ROELA S.A.,privado_nacional,informacion_estructura,Cantidad de titulares por tarjetas de crédito,Set-2025,521.0,2026-04-19
+00247,BANCO ROELA S.A.,privado_nacional,informacion_estructura,Cantidad de tarjetas de crédito (plásticos),Set-2025,698.0,2026-04-19
+00247,BANCO ROELA S.A.,privado_nacional,informacion_estructura,Cantidad de tarjetas de débito,Set-2025,7606.0,2026-04-19
+00247,BANCO ROELA S.A.,privado_nacional,informacion_estructura,Cantidad de cuentas corrientes,Dic-2025,23571.0,2026-04-19
+00247,BANCO ROELA S.A.,privado_nacional,informacion_estructura,Cantidad de cuentas de ahorro,Dic-2025,7591.0,2026-04-19
+00247,BANCO ROELA S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones a plazo fijo Individuos,Dic-2025,573.0,2026-04-19
+00247,BANCO ROELA S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones a plazo fijo Empresas,Dic-2025,377.0,2026-04-19
+00247,BANCO ROELA S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones por préstamos hipotecarios,Dic-2025,93.0,2026-04-19
+00247,BANCO ROELA S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones por préstamos prendarios,Dic-2025,12.0,2026-04-19
+00247,BANCO ROELA S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones por otros préstamos,Dic-2025,1728.0,2026-04-19
+00247,BANCO ROELA S.A.,privado_nacional,informacion_estructura,Dotación de personal,Dic-2025,184.0,2026-04-19
+00247,BANCO ROELA S.A.,privado_nacional,informacion_estructura,Cantidad de titulares por tarjetas de crédito,Dic-2025,517.0,2026-04-19
+00247,BANCO ROELA S.A.,privado_nacional,informacion_estructura,Cantidad de tarjetas de crédito (plásticos),Dic-2025,668.0,2026-04-19
+00247,BANCO ROELA S.A.,privado_nacional,informacion_estructura,Cantidad de tarjetas de débito,Dic-2025,7636.0,2026-04-19
+00247,BANCO ROELA S.A.,privado_nacional,informacion_estructura,Cantidad de Cuentas,Dic-2023,3465.0,2026-04-19
+00247,BANCO ROELA S.A.,privado_nacional,informacion_estructura,Cantidad de Empresas,Dic-2023,2137.0,2026-04-19
+00247,BANCO ROELA S.A.,privado_nacional,informacion_estructura,Cantidad de Cuentas,Dic-2024,3475.0,2026-04-19
+00247,BANCO ROELA S.A.,privado_nacional,informacion_estructura,Cantidad de Empresas,Dic-2024,2145.0,2026-04-19
+00247,BANCO ROELA S.A.,privado_nacional,informacion_estructura,Cantidad de Cuentas,Nov-2025,3390.0,2026-04-19
+00247,BANCO ROELA S.A.,privado_nacional,informacion_estructura,Cantidad de Empresas,Nov-2025,2101.0,2026-04-19
+00247,BANCO ROELA S.A.,privado_nacional,informacion_estructura,Cantidad de Cuentas,Dic-2025,3379.0,2026-04-19
+00247,BANCO ROELA S.A.,privado_nacional,informacion_estructura,Cantidad de Empresas,Dic-2025,2096.0,2026-04-19
+00247,BANCO ROELA S.A.,privado_nacional,informacion_estructura,Cantidad de Cuentas,Ene-2026,3366.0,2026-04-19
+00247,BANCO ROELA S.A.,privado_nacional,informacion_estructura,Cantidad de Empresas,Ene-2026,2095.0,2026-04-19
+00247,BANCO ROELA S.A.,privado_nacional,informacion_estructura,CABA,Habilitadas,1.0,2026-04-19
+00247,BANCO ROELA S.A.,privado_nacional,informacion_estructura,CÓRDOBA,Habilitadas,4.0,2026-04-19
+00247,BANCO ROELA S.A.,privado_nacional,informacion_estructura,CABA,Habilitadas,,2026-04-19
+00247,BANCO ROELA S.A.,privado_nacional,informacion_estructura,CÓRDOBA,Habilitadas,,2026-04-19
+00247,BANCO ROELA S.A.,privado_nacional,informacion_estructura,CABA,Habilitadas,,2026-04-19
+00247,BANCO ROELA S.A.,privado_nacional,informacion_estructura,CÓRDOBA,Habilitadas,,2026-04-19
+00247,BANCO ROELA S.A.,privado_nacional,informacion_estructura,CABA,Habilitadas,,2026-04-19
+00247,BANCO ROELA S.A.,privado_nacional,informacion_estructura,CÓRDOBA,Habilitadas,,2026-04-19
+00247,BANCO ROELA S.A.,privado_nacional,informacion_estructura,CABA,Habilitadas,,2026-04-19
+00247,BANCO ROELA S.A.,privado_nacional,informacion_estructura,CÓRDOBA,Habilitadas,,2026-04-19
+00247,BANCO ROELA S.A.,privado_nacional,informacion_estructura,CABA,Habilitadas,,2026-04-19
+00247,BANCO ROELA S.A.,privado_nacional,informacion_estructura,CÓRDOBA,Habilitadas,,2026-04-19
+00247,BANCO ROELA S.A.,privado_nacional,informacion_estructura,CABA,Habilitadas,,2026-04-19
+00247,BANCO ROELA S.A.,privado_nacional,informacion_estructura,CÓRDOBA,Habilitadas,,2026-04-19
+00247,BANCO ROELA S.A.,privado_nacional,informacion_estructura,CABA,Pendientes de habilitación,,2026-04-19
+00247,BANCO ROELA S.A.,privado_nacional,informacion_estructura,CÓRDOBA,Pendientes de habilitación,,2026-04-19
+00247,BANCO ROELA S.A.,privado_nacional,informacion_estructura,CABA,Total,1.0,2026-04-19
+00247,BANCO ROELA S.A.,privado_nacional,informacion_estructura,CÓRDOBA,Total,4.0,2026-04-19

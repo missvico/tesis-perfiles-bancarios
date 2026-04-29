@@ -1,0 +1,156 @@
+codigo_bcra,nombre_banco,tipo_entidad,fuente,variable,periodo,valor,scraping_fecha
+00310,BANCO DEL SOL S.A.,privado_nacional,indicadores_economicos,capital: C1 - Apalancamiento (en veces),Dic-2023,2.02,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,indicadores_economicos,capital: C1 - Apalancamiento (en veces),Dic-2024,2.99,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,indicadores_economicos,capital: C1 - Apalancamiento (en veces),Nov-2025,4.83,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,indicadores_economicos,capital: C1 - Apalancamiento (en veces),Dic-2025,4.05,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,indicadores_economicos,capital: C1 - Apalancamiento (en veces),Ene-2026,4.51,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,indicadores_economicos,capital: C2 - Pérdida Potencial de Cartera en Situación 2 a 5 (%),Dic-2023,73.96,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,indicadores_economicos,capital: C2 - Pérdida Potencial de Cartera en Situación 2 a 5 (%),Dic-2024,30.74,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,indicadores_economicos,capital: C2 - Pérdida Potencial de Cartera en Situación 2 a 5 (%),Nov-2025,108.9,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,indicadores_economicos,capital: C2 - Pérdida Potencial de Cartera en Situación 2 a 5 (%),Dic-2025,69.52,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,indicadores_economicos,capital: C2 - Pérdida Potencial de Cartera en Situación 2 a 5 (%),Ene-2026,73.11,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,indicadores_economicos,capital: C3 - Pérdida Potencial de Cartera en Situación 3 a 5 (%),Dic-2023,0.94,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,indicadores_economicos,capital: C3 - Pérdida Potencial de Cartera en Situación 3 a 5 (%),Dic-2024,-1.12,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,indicadores_economicos,capital: C3 - Pérdida Potencial de Cartera en Situación 3 a 5 (%),Nov-2025,53.87,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,indicadores_economicos,capital: C3 - Pérdida Potencial de Cartera en Situación 3 a 5 (%),Dic-2025,34.42,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,indicadores_economicos,capital: C3 - Pérdida Potencial de Cartera en Situación 3 a 5 (%),Ene-2026,37.85,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,indicadores_economicos,activos: A9 - Total Cartera Irregular / Total Financiaciones (%),Dic-2023,2.93,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,indicadores_economicos,activos: A9 - Total Cartera Irregular / Total Financiaciones (%),Dic-2024,1.55,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,indicadores_economicos,activos: A9 - Total Cartera Irregular / Total Financiaciones (%),Nov-2025,6.73,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,indicadores_economicos,activos: A9 - Total Cartera Irregular / Total Financiaciones (%),Dic-2025,7.75,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,indicadores_economicos,activos: A9 - Total Cartera Irregular / Total Financiaciones (%),Ene-2026,8.7,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,indicadores_economicos,activos: A11 - Cartera Irregular Sector Privado (%),Dic-2023,2.93,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,indicadores_economicos,activos: A11 - Cartera Irregular Sector Privado (%),Dic-2024,1.57,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,indicadores_economicos,activos: A11 - Cartera Irregular Sector Privado (%),Nov-2025,6.74,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,indicadores_economicos,activos: A11 - Cartera Irregular Sector Privado (%),Dic-2025,7.76,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,indicadores_economicos,activos: A11 - Cartera Irregular Sector Privado (%),Ene-2026,8.71,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,indicadores_economicos,activos: A12 - Participación Cartera Comercial Sector Privado (%),Dic-2023,31.81,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,indicadores_economicos,activos: A12 - Participación Cartera Comercial Sector Privado (%),Dic-2024,29.1,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,indicadores_economicos,activos: A12 - Participación Cartera Comercial Sector Privado (%),Nov-2025,26.86,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,indicadores_economicos,activos: A12 - Participación Cartera Comercial Sector Privado (%),Dic-2025,27.69,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,indicadores_economicos,activos: A12 - Participación Cartera Comercial Sector Privado (%),Ene-2026,27.35,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,indicadores_economicos,activos: A13 - Participación Cartera Consumo Sector Privado (%),Dic-2023,68.19,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,indicadores_economicos,activos: A13 - Participación Cartera Consumo Sector Privado (%),Dic-2024,70.9,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,indicadores_economicos,activos: A13 - Participación Cartera Consumo Sector Privado (%),Nov-2025,73.14,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,indicadores_economicos,activos: A13 - Participación Cartera Consumo Sector Privado (%),Dic-2025,72.31,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,indicadores_economicos,activos: A13 - Participación Cartera Consumo Sector Privado (%),Ene-2026,72.65,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,indicadores_economicos,activos: A14 - Previsiones sobre Cartera Irregular Total (%),Dic-2023,93.5,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,indicadores_economicos,activos: A14 - Previsiones sobre Cartera Irregular Total (%),Dic-2024,107.46,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,indicadores_economicos,activos: A14 - Previsiones sobre Cartera Irregular Total (%),Nov-2025,12.34,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,indicadores_economicos,activos: A14 - Previsiones sobre Cartera Irregular Total (%),Dic-2025,30.11,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,indicadores_economicos,activos: A14 - Previsiones sobre Cartera Irregular Total (%),Ene-2026,29.62,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,indicadores_economicos,activos: A16 - Cartera Irregular Consumo Sector Privado (%),Dic-2023,3.1,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,indicadores_economicos,activos: A16 - Cartera Irregular Consumo Sector Privado (%),Dic-2024,1.58,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,indicadores_economicos,activos: A16 - Cartera Irregular Consumo Sector Privado (%),Nov-2025,6.73,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,indicadores_economicos,activos: A16 - Cartera Irregular Consumo Sector Privado (%),Dic-2025,7.64,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,indicadores_economicos,activos: A16 - Cartera Irregular Consumo Sector Privado (%),Ene-2026,8.45,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,indicadores_economicos,activos: A17 - Cartera Irregular Comercial Sector Privado (%),Dic-2023,2.57,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,indicadores_economicos,activos: A17 - Cartera Irregular Comercial Sector Privado (%),Dic-2024,1.52,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,indicadores_economicos,activos: A17 - Cartera Irregular Comercial Sector Privado (%),Nov-2025,6.76,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,indicadores_economicos,activos: A17 - Cartera Irregular Comercial Sector Privado (%),Dic-2025,8.06,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,indicadores_economicos,activos: A17 - Cartera Irregular Comercial Sector Privado (%),Ene-2026,9.38,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,indicadores_economicos,activos: A21 - Posición de Previsiones Mín Sector Priv No Fciero (%),Dic-2023,0.87,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,indicadores_economicos,activos: A21 - Posición de Previsiones Mín Sector Priv No Fciero (%),Dic-2024,0.83,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,indicadores_economicos,activos: A21 - Posición de Previsiones Mín Sector Priv No Fciero (%),Nov-2025,-76.72,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,indicadores_economicos,activos: A21 - Posición de Previsiones Mín Sector Priv No Fciero (%),Dic-2025,-43.3,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,indicadores_economicos,activos: A21 - Posición de Previsiones Mín Sector Priv No Fciero (%),Ene-2026,-42.12,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,indicadores_economicos,activos: AG3 - Importancia de Cartera Vencida del Sector Privado (%),Dic-2023,1.32,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,indicadores_economicos,activos: AG3 - Importancia de Cartera Vencida del Sector Privado (%),Dic-2024,0.56,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,indicadores_economicos,activos: AG3 - Importancia de Cartera Vencida del Sector Privado (%),Nov-2025,2.89,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,indicadores_economicos,activos: AG3 - Importancia de Cartera Vencida del Sector Privado (%),Dic-2025,3.26,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,indicadores_economicos,activos: AG3 - Importancia de Cartera Vencida del Sector Privado (%),Ene-2026,3.76,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,indicadores_economicos,activos: AG29 - Efectivo y Depósito en Bancos / Activo (%),Dic-2023,1.58,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,indicadores_economicos,activos: AG29 - Efectivo y Depósito en Bancos / Activo (%),Dic-2024,12.08,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,indicadores_economicos,activos: AG29 - Efectivo y Depósito en Bancos / Activo (%),Nov-2025,7.39,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,indicadores_economicos,activos: AG29 - Efectivo y Depósito en Bancos / Activo (%),Dic-2025,7.52,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,indicadores_economicos,activos: AG29 - Efectivo y Depósito en Bancos / Activo (%),Ene-2026,14.64,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,indicadores_economicos,eficiencia: E1 - Absorción de Gastos de Ad. con Volúmen de Negocio (%),Dic-2023,34.58,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,indicadores_economicos,eficiencia: E1 - Absorción de Gastos de Ad. con Volúmen de Negocio (%),Dic-2024,17.17,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,indicadores_economicos,eficiencia: E1 - Absorción de Gastos de Ad. con Volúmen de Negocio (%),Nov-2025,7.52,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,indicadores_economicos,eficiencia: E1 - Absorción de Gastos de Ad. con Volúmen de Negocio (%),Dic-2025,7.66,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,indicadores_economicos,eficiencia: E1 - Absorción de Gastos de Ad. con Volúmen de Negocio (%),Ene-2026,7.41,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,indicadores_economicos,eficiencia: E2 - Margen de Rentabilidad Operat./Gastos de Estructura (%),Dic-2023,12.12,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,indicadores_economicos,eficiencia: E2 - Margen de Rentabilidad Operat./Gastos de Estructura (%),Dic-2024,-11.79,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,indicadores_economicos,eficiencia: E2 - Margen de Rentabilidad Operat./Gastos de Estructura (%),Nov-2025,15.3,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,indicadores_economicos,eficiencia: E2 - Margen de Rentabilidad Operat./Gastos de Estructura (%),Dic-2025,15.11,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,indicadores_economicos,eficiencia: E2 - Margen de Rentabilidad Operat./Gastos de Estructura (%),Ene-2026,11.51,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,indicadores_economicos,eficiencia: E4 - Depósitos por Empleado (en millones de pesos),Dic-2023,148.8,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,indicadores_economicos,eficiencia: E4 - Depósitos por Empleado (en millones de pesos),Dic-2024,608.6,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,indicadores_economicos,eficiencia: E4 - Depósitos por Empleado (en millones de pesos),Nov-2025,1806.71,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,indicadores_economicos,eficiencia: E4 - Depósitos por Empleado (en millones de pesos),Dic-2025,1740.55,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,indicadores_economicos,eficiencia: E4 - Depósitos por Empleado (en millones de pesos),Ene-2026,1994.52,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,indicadores_economicos,eficiencia: E5 - Financiaciones por Empleado (en millones de pesos),Dic-2023,59.2,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,indicadores_economicos,eficiencia: E5 - Financiaciones por Empleado (en millones de pesos),Dic-2024,471.27,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,indicadores_economicos,eficiencia: E5 - Financiaciones por Empleado (en millones de pesos),Nov-2025,1176.76,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,indicadores_economicos,eficiencia: E5 - Financiaciones por Empleado (en millones de pesos),Dic-2025,1233.48,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,indicadores_economicos,eficiencia: E5 - Financiaciones por Empleado (en millones de pesos),Ene-2026,1277.14,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,indicadores_economicos,rentabilidad: R1 - Rendimiento Anual del Patrimonio ( ROE) (%),Dic-2023,-20.92,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,indicadores_economicos,rentabilidad: R1 - Rendimiento Anual del Patrimonio ( ROE) (%),Dic-2024,-19.03,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,indicadores_economicos,rentabilidad: R1 - Rendimiento Anual del Patrimonio ( ROE) (%),Nov-2025,-1.04,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,indicadores_economicos,rentabilidad: R1 - Rendimiento Anual del Patrimonio ( ROE) (%),Dic-2025,19.21,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,indicadores_economicos,rentabilidad: R1 - Rendimiento Anual del Patrimonio ( ROE) (%),Ene-2026,16.95,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,indicadores_economicos,rentabilidad: R2 - Rendimiento Ordinario del Patrimonio (%),Dic-2023,10.14,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,indicadores_economicos,rentabilidad: R2 - Rendimiento Ordinario del Patrimonio (%),Dic-2024,-11.63,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,indicadores_economicos,rentabilidad: R2 - Rendimiento Ordinario del Patrimonio (%),Nov-2025,10.04,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,indicadores_economicos,rentabilidad: R2 - Rendimiento Ordinario del Patrimonio (%),Dic-2025,9.57,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,indicadores_economicos,rentabilidad: R2 - Rendimiento Ordinario del Patrimonio (%),Ene-2026,7.36,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,indicadores_economicos,rentabilidad: R8 - Tasa Implicita Préstamos Totales (%),Dic-2023,79.16,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,indicadores_economicos,rentabilidad: R8 - Tasa Implicita Préstamos Totales (%),Dic-2024,64.48,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,indicadores_economicos,rentabilidad: R8 - Tasa Implicita Préstamos Totales (%),Nov-2025,55.55,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,indicadores_economicos,rentabilidad: R8 - Tasa Implicita Préstamos Totales (%),Dic-2025,55.66,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,indicadores_economicos,rentabilidad: R8 - Tasa Implicita Préstamos Totales (%),Ene-2026,55.78,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,indicadores_economicos,rentabilidad: R9 - Tasa Implicita Depósitos Totales (%),Dic-2023,63.38,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,indicadores_economicos,rentabilidad: R9 - Tasa Implicita Depósitos Totales (%),Dic-2024,17.55,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,indicadores_economicos,rentabilidad: R9 - Tasa Implicita Depósitos Totales (%),Nov-2025,16.91,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,indicadores_economicos,rentabilidad: R9 - Tasa Implicita Depósitos Totales (%),Dic-2025,17.3,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,indicadores_economicos,rentabilidad: R9 - Tasa Implicita Depósitos Totales (%),Ene-2026,17.24,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,indicadores_economicos,rentabilidad: R17 - Gastos en Personal / Gastos de Administración (%),Dic-2023,48.1,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,indicadores_economicos,rentabilidad: R17 - Gastos en Personal / Gastos de Administración (%),Dic-2024,44.17,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,indicadores_economicos,rentabilidad: R17 - Gastos en Personal / Gastos de Administración (%),Nov-2025,41.87,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,indicadores_economicos,rentabilidad: R17 - Gastos en Personal / Gastos de Administración (%),Dic-2025,41.49,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,indicadores_economicos,rentabilidad: R17 - Gastos en Personal / Gastos de Administración (%),Ene-2026,42.84,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,indicadores_economicos,rentabilidad: RG1 - Retorno sobre Activos ( ROA) (%),Dic-2023,-5.24,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,indicadores_economicos,rentabilidad: RG1 - Retorno sobre Activos ( ROA) (%),Dic-2024,-5.03,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,indicadores_economicos,rentabilidad: RG1 - Retorno sobre Activos ( ROA) (%),Nov-2025,-0.21,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,indicadores_economicos,rentabilidad: RG1 - Retorno sobre Activos ( ROA) (%),Dic-2025,3.87,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,indicadores_economicos,rentabilidad: RG1 - Retorno sobre Activos ( ROA) (%),Ene-2026,3.29,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,indicadores_economicos,rentabilidad: RG2_II - Margen Financiero en Términos de Activo (%),Dic-2023,27.99,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,indicadores_economicos,rentabilidad: RG2_II - Margen Financiero en Términos de Activo (%),Dic-2024,29.32,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,indicadores_economicos,rentabilidad: RG2_II - Margen Financiero en Términos de Activo (%),Nov-2025,21.51,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,indicadores_economicos,rentabilidad: RG2_II - Margen Financiero en Términos de Activo (%),Dic-2025,21.04,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,indicadores_economicos,rentabilidad: RG2_II - Margen Financiero en Términos de Activo (%),Ene-2026,20.47,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,indicadores_economicos,rentabilidad: RG3 - Cargos por Incobrabilidad / Activo  (%),Dic-2023,-0.82,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,indicadores_economicos,rentabilidad: RG3 - Cargos por Incobrabilidad / Activo  (%),Dic-2024,-2.84,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,indicadores_economicos,rentabilidad: RG3 - Cargos por Incobrabilidad / Activo  (%),Nov-2025,-1.21,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,indicadores_economicos,rentabilidad: RG3 - Cargos por Incobrabilidad / Activo  (%),Dic-2025,-1.51,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,indicadores_economicos,rentabilidad: RG3 - Cargos por Incobrabilidad / Activo  (%),Ene-2026,-1.71,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,indicadores_economicos,rentabilidad: RG4_II - Resultados por Servicios / Activo (%),Dic-2023,-0.41,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,indicadores_economicos,rentabilidad: RG4_II - Resultados por Servicios / Activo (%),Dic-2024,-1.04,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,indicadores_economicos,rentabilidad: RG4_II - Resultados por Servicios / Activo (%),Nov-2025,-2.16,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,indicadores_economicos,rentabilidad: RG4_II - Resultados por Servicios / Activo (%),Dic-2025,-2.24,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,indicadores_economicos,rentabilidad: RG4_II - Resultados por Servicios / Activo (%),Ene-2026,-2.32,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,indicadores_economicos,rentabilidad: RG5 - Gastos de Administración / Activo  (%),Dic-2023,-20.94,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,indicadores_economicos,rentabilidad: RG5 - Gastos de Administración / Activo  (%),Dic-2024,-26.08,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,indicadores_economicos,rentabilidad: RG5 - Gastos de Administración / Activo  (%),Nov-2025,-13.48,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,indicadores_economicos,rentabilidad: RG5 - Gastos de Administración / Activo  (%),Dic-2025,-12.76,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,indicadores_economicos,rentabilidad: RG5 - Gastos de Administración / Activo  (%),Ene-2026,-12.42,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,indicadores_economicos,rentabilidad: RG15 - Retorno sobre Activos (ROA) antes Imp. de Gcias (%),Dic-2023,0.11,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,indicadores_economicos,rentabilidad: RG15 - Retorno sobre Activos (ROA) antes Imp. de Gcias (%),Dic-2024,-4.62,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,indicadores_economicos,rentabilidad: RG15 - Retorno sobre Activos (ROA) antes Imp. de Gcias (%),Nov-2025,0.41,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,indicadores_economicos,rentabilidad: RG15 - Retorno sobre Activos (ROA) antes Imp. de Gcias (%),Dic-2025,-0.09,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,indicadores_economicos,rentabilidad: RG15 - Retorno sobre Activos (ROA) antes Imp. de Gcias (%),Ene-2026,-0.62,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,indicadores_economicos,"liquidez: L1-Liquidez Tit c/cot, POS. CALL, LELIQ, LEFIs (netas) (%)",Dic-2023,99999.0,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,indicadores_economicos,"liquidez: L1-Liquidez Tit c/cot, POS. CALL, LELIQ, LEFIs (netas) (%)",Dic-2024,20.0,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,indicadores_economicos,"liquidez: L1-Liquidez Tit c/cot, POS. CALL, LELIQ, LEFIs (netas) (%)",Nov-2025,21.57,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,indicadores_economicos,"liquidez: L1-Liquidez Tit c/cot, POS. CALL, LELIQ, LEFIs (netas) (%)",Dic-2025,21.65,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,indicadores_economicos,"liquidez: L1-Liquidez Tit c/cot, POS. CALL, LELIQ, LEFIs (netas) (%)",Ene-2026,30.31,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,indicadores_economicos,liquidez: L8_II - Liquidez con títulos con cotiz (%),Dic-2023,22.15,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,indicadores_economicos,liquidez: L8_II - Liquidez con títulos con cotiz (%),Dic-2024,20.0,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,indicadores_economicos,liquidez: L8_II - Liquidez con títulos con cotiz (%),Nov-2025,21.57,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,indicadores_economicos,liquidez: L8_II - Liquidez con títulos con cotiz (%),Dic-2025,21.65,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,indicadores_economicos,liquidez: L8_II - Liquidez con títulos con cotiz (%),Ene-2026,29.39,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,indicadores_economicos,"liquidez: L9 -Liq LELIQ, PASES y LEFIs (netos pases activos BCRA) (%)",Dic-2023,51.91,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,indicadores_economicos,"liquidez: L9 -Liq LELIQ, PASES y LEFIs (netos pases activos BCRA) (%)",Dic-2024,17.28,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,indicadores_economicos,"liquidez: L9 -Liq LELIQ, PASES y LEFIs (netos pases activos BCRA) (%)",Nov-2025,22.5,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,indicadores_economicos,"liquidez: L9 -Liq LELIQ, PASES y LEFIs (netos pases activos BCRA) (%)",Dic-2025,16.86,2026-04-19
+00310,BANCO DEL SOL S.A.,privado_nacional,indicadores_economicos,"liquidez: L9 -Liq LELIQ, PASES y LEFIs (netos pases activos BCRA) (%)",Ene-2026,25.39,2026-04-19

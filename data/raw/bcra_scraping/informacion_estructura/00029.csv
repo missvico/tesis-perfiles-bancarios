@@ -1,0 +1,130 @@
+codigo_bcra,nombre_banco,tipo_entidad,fuente,variable,periodo,valor,scraping_fecha
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,informacion_estructura,Cantidad de cuentas corrientes,Dic-2023,48970.0,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,informacion_estructura,Cantidad de cuentas de ahorro,Dic-2023,1221718.0,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,informacion_estructura,Cantidad de cajas de ahorro de ayuda social,Dic-2023,104930.0,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,informacion_estructura,Cantidad de cuentas previsionales,Dic-2023,176871.0,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,informacion_estructura,Cantidad de operaciones a plazo fijo Individuos,Dic-2023,178504.0,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,informacion_estructura,Cantidad de operaciones a plazo fijo Empresas,Dic-2023,2854.0,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,informacion_estructura,Cantidad de operaciones por préstamos hipotecarios,Dic-2023,22500.0,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,informacion_estructura,Cantidad de operaciones por préstamos prendarios,Dic-2023,431.0,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,informacion_estructura,Cantidad de operaciones por otros préstamos,Dic-2023,158435.0,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,informacion_estructura,Dotación de personal,Dic-2023,2613.0,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,informacion_estructura,Cantidad de titulares por tarjetas de crédito,Dic-2023,743175.0,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,informacion_estructura,Cantidad de tarjetas de crédito (plásticos),Dic-2023,907998.0,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,informacion_estructura,Cantidad de tarjetas de débito,Dic-2023,1513478.0,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,informacion_estructura,Cantidad de cuentas corrientes,Dic-2024,41350.0,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,informacion_estructura,Cantidad de cuentas de ahorro,Dic-2024,1110007.0,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,informacion_estructura,Cantidad de cajas de ahorro de ayuda social,Dic-2024,90756.0,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,informacion_estructura,Cantidad de cuentas previsionales,Dic-2024,177760.0,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,informacion_estructura,Cantidad de operaciones a plazo fijo Individuos,Dic-2024,163175.0,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,informacion_estructura,Cantidad de operaciones a plazo fijo Empresas,Dic-2024,2122.0,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,informacion_estructura,Cantidad de operaciones por préstamos hipotecarios,Dic-2024,19475.0,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,informacion_estructura,Cantidad de operaciones por préstamos prendarios,Dic-2024,372.0,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,informacion_estructura,Cantidad de operaciones por otros préstamos,Dic-2024,156963.0,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,informacion_estructura,Dotación de personal,Dic-2024,2446.0,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,informacion_estructura,Cantidad de titulares por tarjetas de crédito,Dic-2024,785310.0,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,informacion_estructura,Cantidad de tarjetas de crédito (plásticos),Dic-2024,947908.0,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,informacion_estructura,Cantidad de tarjetas de débito,Dic-2024,1623054.0,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,informacion_estructura,Cantidad de cuentas corrientes,Jun-2025,54090.0,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,informacion_estructura,Cantidad de cuentas de ahorro,Jun-2025,1227224.0,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,informacion_estructura,Cantidad de cajas de ahorro de ayuda social,Jun-2025,81837.0,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,informacion_estructura,Cantidad de cuentas previsionales,Jun-2025,176124.0,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,informacion_estructura,Cantidad de operaciones a plazo fijo Individuos,Jun-2025,151759.0,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,informacion_estructura,Cantidad de operaciones a plazo fijo Empresas,Jun-2025,2417.0,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,informacion_estructura,Cantidad de operaciones por préstamos hipotecarios,Jun-2025,19395.0,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,informacion_estructura,Cantidad de operaciones por préstamos prendarios,Jun-2025,309.0,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,informacion_estructura,Cantidad de operaciones por otros préstamos,Jun-2025,169222.0,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,informacion_estructura,Dotación de personal,Jun-2025,2429.0,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,informacion_estructura,Cantidad de titulares por tarjetas de crédito,Jun-2025,787749.0,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,informacion_estructura,Cantidad de tarjetas de crédito (plásticos),Jun-2025,950291.0,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,informacion_estructura,Cantidad de tarjetas de débito,Jun-2025,1409766.0,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,informacion_estructura,Cantidad de cuentas corrientes,Set-2025,54789.0,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,informacion_estructura,Cantidad de cuentas de ahorro,Set-2025,1250683.0,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,informacion_estructura,Cantidad de cajas de ahorro de ayuda social,Set-2025,78077.0,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,informacion_estructura,Cantidad de cuentas previsionales,Set-2025,175696.0,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,informacion_estructura,Cantidad de operaciones a plazo fijo Individuos,Set-2025,144284.0,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,informacion_estructura,Cantidad de operaciones a plazo fijo Empresas,Set-2025,2538.0,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,informacion_estructura,Cantidad de operaciones por préstamos hipotecarios,Set-2025,19694.0,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,informacion_estructura,Cantidad de operaciones por préstamos prendarios,Set-2025,251.0,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,informacion_estructura,Cantidad de operaciones por otros préstamos,Set-2025,173195.0,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,informacion_estructura,Dotación de personal,Set-2025,2420.0,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,informacion_estructura,Cantidad de titulares por tarjetas de crédito,Set-2025,787457.0,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,informacion_estructura,Cantidad de tarjetas de crédito (plásticos),Set-2025,947492.0,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,informacion_estructura,Cantidad de tarjetas de débito,Set-2025,1514790.0,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,informacion_estructura,Cantidad de cuentas corrientes,Dic-2025,55716.0,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,informacion_estructura,Cantidad de cuentas de ahorro,Dic-2025,1263785.0,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,informacion_estructura,Cantidad de cajas de ahorro de ayuda social,Dic-2025,76679.0,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,informacion_estructura,Cantidad de cuentas previsionales,Dic-2025,176378.0,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,informacion_estructura,Cantidad de operaciones a plazo fijo Individuos,Dic-2025,132573.0,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,informacion_estructura,Cantidad de operaciones a plazo fijo Empresas,Dic-2025,2284.0,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,informacion_estructura,Cantidad de operaciones por préstamos hipotecarios,Dic-2025,19438.0,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,informacion_estructura,Cantidad de operaciones por préstamos prendarios,Dic-2025,186.0,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,informacion_estructura,Cantidad de operaciones por otros préstamos,Dic-2025,170529.0,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,informacion_estructura,Dotación de personal,Dic-2025,2408.0,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,informacion_estructura,Cantidad de titulares por tarjetas de crédito,Dic-2025,789054.0,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,informacion_estructura,Cantidad de tarjetas de crédito (plásticos),Dic-2025,946504.0,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,informacion_estructura,Cantidad de tarjetas de débito,Dic-2025,1612195.0,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,informacion_estructura,Cantidad de Cuentas,Dic-2023,278016.0,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,informacion_estructura,Cantidad de Empresas,Dic-2023,3872.0,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,informacion_estructura,Cantidad de Cuentas,Dic-2024,270999.0,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,informacion_estructura,Cantidad de Empresas,Dic-2024,3827.0,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,informacion_estructura,Cantidad de Cuentas,Nov-2025,256182.0,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,informacion_estructura,Cantidad de Empresas,Nov-2025,3529.0,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,informacion_estructura,Cantidad de Cuentas,Dic-2025,264483.0,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,informacion_estructura,Cantidad de Empresas,Dic-2025,3722.0,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,informacion_estructura,Cantidad de Cuentas,Ene-2026,255061.0,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,informacion_estructura,Cantidad de Empresas,Ene-2026,3549.0,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,informacion_estructura,CABA,Habilitadas,61.0,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,informacion_estructura,BUENOS AIRES,Habilitadas,18.0,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,informacion_estructura,CÓRDOBA,Habilitadas,2.0,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,informacion_estructura,MENDOZA,Habilitadas,1.0,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,informacion_estructura,SALTA,Habilitadas,1.0,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,informacion_estructura,TUCUMÁN,Habilitadas,1.0,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,informacion_estructura,CABA,Habilitadas,,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,informacion_estructura,BUENOS AIRES,Habilitadas,,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,informacion_estructura,CÓRDOBA,Habilitadas,,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,informacion_estructura,MENDOZA,Habilitadas,,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,informacion_estructura,SALTA,Habilitadas,,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,informacion_estructura,TUCUMÁN,Habilitadas,,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,informacion_estructura,CABA,Habilitadas,,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,informacion_estructura,BUENOS AIRES,Habilitadas,,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,informacion_estructura,CÓRDOBA,Habilitadas,,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,informacion_estructura,MENDOZA,Habilitadas,,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,informacion_estructura,SALTA,Habilitadas,,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,informacion_estructura,TUCUMÁN,Habilitadas,,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,informacion_estructura,CABA,Habilitadas,370.0,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,informacion_estructura,BUENOS AIRES,Habilitadas,54.0,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,informacion_estructura,CÓRDOBA,Habilitadas,11.0,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,informacion_estructura,MENDOZA,Habilitadas,4.0,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,informacion_estructura,SALTA,Habilitadas,2.0,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,informacion_estructura,TUCUMÁN,Habilitadas,3.0,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,informacion_estructura,CABA,Habilitadas,170.0,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,informacion_estructura,BUENOS AIRES,Habilitadas,41.0,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,informacion_estructura,CÓRDOBA,Habilitadas,6.0,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,informacion_estructura,MENDOZA,Habilitadas,2.0,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,informacion_estructura,SALTA,Habilitadas,2.0,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,informacion_estructura,TUCUMÁN,Habilitadas,1.0,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,informacion_estructura,CABA,Habilitadas,6.0,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,informacion_estructura,BUENOS AIRES,Habilitadas,,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,informacion_estructura,CÓRDOBA,Habilitadas,,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,informacion_estructura,MENDOZA,Habilitadas,,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,informacion_estructura,SALTA,Habilitadas,,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,informacion_estructura,TUCUMÁN,Habilitadas,,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,informacion_estructura,CABA,Habilitadas,12.0,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,informacion_estructura,BUENOS AIRES,Habilitadas,,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,informacion_estructura,CÓRDOBA,Habilitadas,,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,informacion_estructura,MENDOZA,Habilitadas,,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,informacion_estructura,SALTA,Habilitadas,,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,informacion_estructura,TUCUMÁN,Habilitadas,,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,informacion_estructura,CABA,Pendientes de habilitación,1.0,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,informacion_estructura,BUENOS AIRES,Pendientes de habilitación,,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,informacion_estructura,CÓRDOBA,Pendientes de habilitación,,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,informacion_estructura,MENDOZA,Pendientes de habilitación,,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,informacion_estructura,SALTA,Pendientes de habilitación,,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,informacion_estructura,TUCUMÁN,Pendientes de habilitación,,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,informacion_estructura,CABA,Total,62.0,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,informacion_estructura,BUENOS AIRES,Total,18.0,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,informacion_estructura,CÓRDOBA,Total,2.0,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,informacion_estructura,MENDOZA,Total,1.0,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,informacion_estructura,SALTA,Total,1.0,2026-04-19
+00029,BANCO DE LA CIUDAD DE BUENOS AIRES,publico,informacion_estructura,TUCUMÁN,Total,1.0,2026-04-19

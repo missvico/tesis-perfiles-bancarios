@@ -1,0 +1,21 @@
+codigo_bcra,nombre_banco,tipo_entidad,fuente,variable,periodo,valor,scraping_fecha
+00131,BANK OF CHINA LIMITED SUCURSAL BUEN,extranjero,informacion_estructura,Cantidad de cuentas de ahorro,Dic-2023,31.0,2026-04-19
+00131,BANK OF CHINA LIMITED SUCURSAL BUEN,extranjero,informacion_estructura,Cantidad de operaciones a plazo fijo Empresas,Dic-2023,,2026-04-19
+00131,BANK OF CHINA LIMITED SUCURSAL BUEN,extranjero,informacion_estructura,Cantidad de operaciones por otros préstamos,Dic-2023,5.0,2026-04-19
+00131,BANK OF CHINA LIMITED SUCURSAL BUEN,extranjero,informacion_estructura,Dotación de personal,Dic-2023,35.0,2026-04-19
+00131,BANK OF CHINA LIMITED SUCURSAL BUEN,extranjero,informacion_estructura,Cantidad de cuentas de ahorro,Dic-2024,53.0,2026-04-19
+00131,BANK OF CHINA LIMITED SUCURSAL BUEN,extranjero,informacion_estructura,Cantidad de operaciones a plazo fijo Empresas,Dic-2024,,2026-04-19
+00131,BANK OF CHINA LIMITED SUCURSAL BUEN,extranjero,informacion_estructura,Cantidad de operaciones por otros préstamos,Dic-2024,,2026-04-19
+00131,BANK OF CHINA LIMITED SUCURSAL BUEN,extranjero,informacion_estructura,Dotación de personal,Dic-2024,34.0,2026-04-19
+00131,BANK OF CHINA LIMITED SUCURSAL BUEN,extranjero,informacion_estructura,Cantidad de cuentas de ahorro,Jun-2025,54.0,2026-04-19
+00131,BANK OF CHINA LIMITED SUCURSAL BUEN,extranjero,informacion_estructura,Cantidad de operaciones a plazo fijo Empresas,Jun-2025,9.0,2026-04-19
+00131,BANK OF CHINA LIMITED SUCURSAL BUEN,extranjero,informacion_estructura,Cantidad de operaciones por otros préstamos,Jun-2025,,2026-04-19
+00131,BANK OF CHINA LIMITED SUCURSAL BUEN,extranjero,informacion_estructura,Dotación de personal,Jun-2025,35.0,2026-04-19
+00131,BANK OF CHINA LIMITED SUCURSAL BUEN,extranjero,informacion_estructura,Cantidad de cuentas de ahorro,Set-2025,52.0,2026-04-19
+00131,BANK OF CHINA LIMITED SUCURSAL BUEN,extranjero,informacion_estructura,Cantidad de operaciones a plazo fijo Empresas,Set-2025,,2026-04-19
+00131,BANK OF CHINA LIMITED SUCURSAL BUEN,extranjero,informacion_estructura,Cantidad de operaciones por otros préstamos,Set-2025,,2026-04-19
+00131,BANK OF CHINA LIMITED SUCURSAL BUEN,extranjero,informacion_estructura,Dotación de personal,Set-2025,35.0,2026-04-19
+00131,BANK OF CHINA LIMITED SUCURSAL BUEN,extranjero,informacion_estructura,Cantidad de cuentas de ahorro,Dic-2025,51.0,2026-04-19
+00131,BANK OF CHINA LIMITED SUCURSAL BUEN,extranjero,informacion_estructura,Cantidad de operaciones a plazo fijo Empresas,Dic-2025,,2026-04-19
+00131,BANK OF CHINA LIMITED SUCURSAL BUEN,extranjero,informacion_estructura,Cantidad de operaciones por otros préstamos,Dic-2025,,2026-04-19
+00131,BANK OF CHINA LIMITED SUCURSAL BUEN,extranjero,informacion_estructura,Dotación de personal,Dic-2025,34.0,2026-04-19

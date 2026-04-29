@@ -1,0 +1,93 @@
+codigo_bcra,nombre_banco,tipo_entidad,fuente,variable,periodo,valor,scraping_fecha
+00426,BANCO BICA S.A.,privado_nacional,informacion_estructura,Cantidad de cuentas corrientes,Dic-2023,4243.0,2026-04-19
+00426,BANCO BICA S.A.,privado_nacional,informacion_estructura,Cantidad de cuentas de ahorro,Dic-2023,56616.0,2026-04-19
+00426,BANCO BICA S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones a plazo fijo Individuos,Dic-2023,1840.0,2026-04-19
+00426,BANCO BICA S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones a plazo fijo Empresas,Dic-2023,3442.0,2026-04-19
+00426,BANCO BICA S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones por préstamos hipotecarios,Dic-2023,8.0,2026-04-19
+00426,BANCO BICA S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones por préstamos prendarios,Dic-2023,15.0,2026-04-19
+00426,BANCO BICA S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones por otros préstamos,Dic-2023,173030.0,2026-04-19
+00426,BANCO BICA S.A.,privado_nacional,informacion_estructura,Dotación de personal,Dic-2023,1312.0,2026-04-19
+00426,BANCO BICA S.A.,privado_nacional,informacion_estructura,Cantidad de titulares por tarjetas de crédito,Dic-2023,5845.0,2026-04-19
+00426,BANCO BICA S.A.,privado_nacional,informacion_estructura,Cantidad de tarjetas de crédito (plásticos),Dic-2023,13520.0,2026-04-19
+00426,BANCO BICA S.A.,privado_nacional,informacion_estructura,Cantidad de tarjetas de débito,Dic-2023,45126.0,2026-04-19
+00426,BANCO BICA S.A.,privado_nacional,informacion_estructura,Cantidad de cuentas corrientes,Dic-2024,4254.0,2026-04-19
+00426,BANCO BICA S.A.,privado_nacional,informacion_estructura,Cantidad de cuentas de ahorro,Dic-2024,57527.0,2026-04-19
+00426,BANCO BICA S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones a plazo fijo Individuos,Dic-2024,1513.0,2026-04-19
+00426,BANCO BICA S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones a plazo fijo Empresas,Dic-2024,3548.0,2026-04-19
+00426,BANCO BICA S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones por préstamos hipotecarios,Dic-2024,2.0,2026-04-19
+00426,BANCO BICA S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones por préstamos prendarios,Dic-2024,12.0,2026-04-19
+00426,BANCO BICA S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones por otros préstamos,Dic-2024,152498.0,2026-04-19
+00426,BANCO BICA S.A.,privado_nacional,informacion_estructura,Dotación de personal,Dic-2024,187.0,2026-04-19
+00426,BANCO BICA S.A.,privado_nacional,informacion_estructura,Cantidad de titulares por tarjetas de crédito,Dic-2024,5586.0,2026-04-19
+00426,BANCO BICA S.A.,privado_nacional,informacion_estructura,Cantidad de tarjetas de crédito (plásticos),Dic-2024,11661.0,2026-04-19
+00426,BANCO BICA S.A.,privado_nacional,informacion_estructura,Cantidad de tarjetas de débito,Dic-2024,51106.0,2026-04-19
+00426,BANCO BICA S.A.,privado_nacional,informacion_estructura,Cantidad de cuentas corrientes,Jun-2025,4374.0,2026-04-19
+00426,BANCO BICA S.A.,privado_nacional,informacion_estructura,Cantidad de cuentas de ahorro,Jun-2025,59688.0,2026-04-19
+00426,BANCO BICA S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones a plazo fijo Individuos,Jun-2025,1557.0,2026-04-19
+00426,BANCO BICA S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones a plazo fijo Empresas,Jun-2025,3823.0,2026-04-19
+00426,BANCO BICA S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones por préstamos hipotecarios,Jun-2025,4.0,2026-04-19
+00426,BANCO BICA S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones por préstamos prendarios,Jun-2025,14.0,2026-04-19
+00426,BANCO BICA S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones por otros préstamos,Jun-2025,198313.0,2026-04-19
+00426,BANCO BICA S.A.,privado_nacional,informacion_estructura,Dotación de personal,Jun-2025,188.0,2026-04-19
+00426,BANCO BICA S.A.,privado_nacional,informacion_estructura,Cantidad de titulares por tarjetas de crédito,Jun-2025,5516.0,2026-04-19
+00426,BANCO BICA S.A.,privado_nacional,informacion_estructura,Cantidad de tarjetas de crédito (plásticos),Jun-2025,11952.0,2026-04-19
+00426,BANCO BICA S.A.,privado_nacional,informacion_estructura,Cantidad de tarjetas de débito,Jun-2025,53624.0,2026-04-19
+00426,BANCO BICA S.A.,privado_nacional,informacion_estructura,Cantidad de cuentas corrientes,Set-2025,4446.0,2026-04-19
+00426,BANCO BICA S.A.,privado_nacional,informacion_estructura,Cantidad de cuentas de ahorro,Set-2025,61127.0,2026-04-19
+00426,BANCO BICA S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones a plazo fijo Individuos,Set-2025,1557.0,2026-04-19
+00426,BANCO BICA S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones a plazo fijo Empresas,Set-2025,3823.0,2026-04-19
+00426,BANCO BICA S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones por préstamos hipotecarios,Set-2025,4.0,2026-04-19
+00426,BANCO BICA S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones por préstamos prendarios,Set-2025,14.0,2026-04-19
+00426,BANCO BICA S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones por otros préstamos,Set-2025,198313.0,2026-04-19
+00426,BANCO BICA S.A.,privado_nacional,informacion_estructura,Dotación de personal,Set-2025,188.0,2026-04-19
+00426,BANCO BICA S.A.,privado_nacional,informacion_estructura,Cantidad de titulares por tarjetas de crédito,Set-2025,5516.0,2026-04-19
+00426,BANCO BICA S.A.,privado_nacional,informacion_estructura,Cantidad de tarjetas de crédito (plásticos),Set-2025,11952.0,2026-04-19
+00426,BANCO BICA S.A.,privado_nacional,informacion_estructura,Cantidad de tarjetas de débito,Set-2025,53624.0,2026-04-19
+00426,BANCO BICA S.A.,privado_nacional,informacion_estructura,Cantidad de cuentas corrientes,Dic-2025,4510.0,2026-04-19
+00426,BANCO BICA S.A.,privado_nacional,informacion_estructura,Cantidad de cuentas de ahorro,Dic-2025,62472.0,2026-04-19
+00426,BANCO BICA S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones a plazo fijo Individuos,Dic-2025,1577.0,2026-04-19
+00426,BANCO BICA S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones a plazo fijo Empresas,Dic-2025,5903.0,2026-04-19
+00426,BANCO BICA S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones por préstamos hipotecarios,Dic-2025,5.0,2026-04-19
+00426,BANCO BICA S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones por préstamos prendarios,Dic-2025,11.0,2026-04-19
+00426,BANCO BICA S.A.,privado_nacional,informacion_estructura,Cantidad de operaciones por otros préstamos,Dic-2025,220626.0,2026-04-19
+00426,BANCO BICA S.A.,privado_nacional,informacion_estructura,Dotación de personal,Dic-2025,190.0,2026-04-19
+00426,BANCO BICA S.A.,privado_nacional,informacion_estructura,Cantidad de titulares por tarjetas de crédito,Dic-2025,5248.0,2026-04-19
+00426,BANCO BICA S.A.,privado_nacional,informacion_estructura,Cantidad de tarjetas de crédito (plásticos),Dic-2025,10978.0,2026-04-19
+00426,BANCO BICA S.A.,privado_nacional,informacion_estructura,Cantidad de tarjetas de débito,Dic-2025,56157.0,2026-04-19
+00426,BANCO BICA S.A.,privado_nacional,informacion_estructura,Cantidad de Cuentas,Dic-2023,2446.0,2026-04-19
+00426,BANCO BICA S.A.,privado_nacional,informacion_estructura,Cantidad de Empresas,Dic-2023,282.0,2026-04-19
+00426,BANCO BICA S.A.,privado_nacional,informacion_estructura,Cantidad de Cuentas,Dic-2024,2068.0,2026-04-19
+00426,BANCO BICA S.A.,privado_nacional,informacion_estructura,Cantidad de Empresas,Dic-2024,254.0,2026-04-19
+00426,BANCO BICA S.A.,privado_nacional,informacion_estructura,Cantidad de Cuentas,Nov-2025,1735.0,2026-04-19
+00426,BANCO BICA S.A.,privado_nacional,informacion_estructura,Cantidad de Empresas,Nov-2025,230.0,2026-04-19
+00426,BANCO BICA S.A.,privado_nacional,informacion_estructura,Cantidad de Cuentas,Dic-2025,1836.0,2026-04-19
+00426,BANCO BICA S.A.,privado_nacional,informacion_estructura,Cantidad de Empresas,Dic-2025,248.0,2026-04-19
+00426,BANCO BICA S.A.,privado_nacional,informacion_estructura,Cantidad de Cuentas,Ene-2026,1723.0,2026-04-19
+00426,BANCO BICA S.A.,privado_nacional,informacion_estructura,Cantidad de Empresas,Ene-2026,232.0,2026-04-19
+00426,BANCO BICA S.A.,privado_nacional,informacion_estructura,CABA,Habilitadas,1.0,2026-04-19
+00426,BANCO BICA S.A.,privado_nacional,informacion_estructura,ENTRE RÍOS,Habilitadas,1.0,2026-04-19
+00426,BANCO BICA S.A.,privado_nacional,informacion_estructura,SANTA FE,Habilitadas,7.0,2026-04-19
+00426,BANCO BICA S.A.,privado_nacional,informacion_estructura,CABA,Habilitadas,,2026-04-19
+00426,BANCO BICA S.A.,privado_nacional,informacion_estructura,ENTRE RÍOS,Habilitadas,,2026-04-19
+00426,BANCO BICA S.A.,privado_nacional,informacion_estructura,SANTA FE,Habilitadas,,2026-04-19
+00426,BANCO BICA S.A.,privado_nacional,informacion_estructura,CABA,Habilitadas,,2026-04-19
+00426,BANCO BICA S.A.,privado_nacional,informacion_estructura,ENTRE RÍOS,Habilitadas,,2026-04-19
+00426,BANCO BICA S.A.,privado_nacional,informacion_estructura,SANTA FE,Habilitadas,,2026-04-19
+00426,BANCO BICA S.A.,privado_nacional,informacion_estructura,CABA,Habilitadas,2.0,2026-04-19
+00426,BANCO BICA S.A.,privado_nacional,informacion_estructura,ENTRE RÍOS,Habilitadas,4.0,2026-04-19
+00426,BANCO BICA S.A.,privado_nacional,informacion_estructura,SANTA FE,Habilitadas,22.0,2026-04-19
+00426,BANCO BICA S.A.,privado_nacional,informacion_estructura,CABA,Habilitadas,2.0,2026-04-19
+00426,BANCO BICA S.A.,privado_nacional,informacion_estructura,ENTRE RÍOS,Habilitadas,2.0,2026-04-19
+00426,BANCO BICA S.A.,privado_nacional,informacion_estructura,SANTA FE,Habilitadas,13.0,2026-04-19
+00426,BANCO BICA S.A.,privado_nacional,informacion_estructura,CABA,Habilitadas,,2026-04-19
+00426,BANCO BICA S.A.,privado_nacional,informacion_estructura,ENTRE RÍOS,Habilitadas,,2026-04-19
+00426,BANCO BICA S.A.,privado_nacional,informacion_estructura,SANTA FE,Habilitadas,,2026-04-19
+00426,BANCO BICA S.A.,privado_nacional,informacion_estructura,CABA,Habilitadas,,2026-04-19
+00426,BANCO BICA S.A.,privado_nacional,informacion_estructura,ENTRE RÍOS,Habilitadas,,2026-04-19
+00426,BANCO BICA S.A.,privado_nacional,informacion_estructura,SANTA FE,Habilitadas,,2026-04-19
+00426,BANCO BICA S.A.,privado_nacional,informacion_estructura,CABA,Pendientes de habilitación,,2026-04-19
+00426,BANCO BICA S.A.,privado_nacional,informacion_estructura,ENTRE RÍOS,Pendientes de habilitación,,2026-04-19
+00426,BANCO BICA S.A.,privado_nacional,informacion_estructura,SANTA FE,Pendientes de habilitación,,2026-04-19
+00426,BANCO BICA S.A.,privado_nacional,informacion_estructura,CABA,Total,1.0,2026-04-19
+00426,BANCO BICA S.A.,privado_nacional,informacion_estructura,ENTRE RÍOS,Total,1.0,2026-04-19
+00426,BANCO BICA S.A.,privado_nacional,informacion_estructura,SANTA FE,Total,7.0,2026-04-19

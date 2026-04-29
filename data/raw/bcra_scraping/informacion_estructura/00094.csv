@@ -1,0 +1,103 @@
+codigo_bcra,nombre_banco,tipo_entidad,fuente,variable,periodo,valor,scraping_fecha
+00094,BANCO DE CORRIENTES S.A.,publico,informacion_estructura,Cantidad de cuentas corrientes,Dic-2023,27655.0,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,informacion_estructura,Cantidad de cuentas de ahorro,Dic-2023,820352.0,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,informacion_estructura,Cantidad de cajas de ahorro de ayuda social,Dic-2023,234649.0,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,informacion_estructura,Cantidad de cuentas previsionales,Dic-2023,166406.0,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,informacion_estructura,Cantidad de operaciones a plazo fijo Individuos,Dic-2023,47559.0,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,informacion_estructura,Cantidad de operaciones a plazo fijo Empresas,Dic-2023,769.0,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,informacion_estructura,Cantidad de operaciones por préstamos hipotecarios,Dic-2023,181.0,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,informacion_estructura,Cantidad de operaciones por préstamos prendarios,Dic-2023,110.0,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,informacion_estructura,Cantidad de operaciones por otros préstamos,Dic-2023,78619.0,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,informacion_estructura,Dotación de personal,Dic-2023,826.0,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,informacion_estructura,Cantidad de titulares por tarjetas de crédito,Dic-2023,124905.0,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,informacion_estructura,Cantidad de tarjetas de crédito (plásticos),Dic-2023,135880.0,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,informacion_estructura,Cantidad de tarjetas de débito,Dic-2023,474473.0,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,informacion_estructura,Cantidad de cuentas corrientes,Dic-2024,26737.0,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,informacion_estructura,Cantidad de cuentas de ahorro,Dic-2024,819800.0,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,informacion_estructura,Cantidad de cajas de ahorro de ayuda social,Dic-2024,213830.0,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,informacion_estructura,Cantidad de cuentas previsionales,Dic-2024,170518.0,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,informacion_estructura,Cantidad de operaciones a plazo fijo Individuos,Dic-2024,32652.0,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,informacion_estructura,Cantidad de operaciones a plazo fijo Empresas,Dic-2024,564.0,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,informacion_estructura,Cantidad de operaciones por préstamos hipotecarios,Dic-2024,205.0,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,informacion_estructura,Cantidad de operaciones por préstamos prendarios,Dic-2024,70.0,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,informacion_estructura,Cantidad de operaciones por otros préstamos,Dic-2024,102969.0,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,informacion_estructura,Dotación de personal,Dic-2024,823.0,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,informacion_estructura,Cantidad de titulares por tarjetas de crédito,Dic-2024,130940.0,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,informacion_estructura,Cantidad de tarjetas de crédito (plásticos),Dic-2024,142645.0,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,informacion_estructura,Cantidad de tarjetas de débito,Dic-2024,554157.0,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,informacion_estructura,Cantidad de cuentas corrientes,Jun-2025,25565.0,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,informacion_estructura,Cantidad de cuentas de ahorro,Jun-2025,847388.0,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,informacion_estructura,Cantidad de cajas de ahorro de ayuda social,Jun-2025,216641.0,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,informacion_estructura,Cantidad de cuentas previsionales,Jun-2025,172531.0,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,informacion_estructura,Cantidad de operaciones a plazo fijo Individuos,Jun-2025,32912.0,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,informacion_estructura,Cantidad de operaciones a plazo fijo Empresas,Jun-2025,657.0,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,informacion_estructura,Cantidad de operaciones por préstamos hipotecarios,Jun-2025,315.0,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,informacion_estructura,Cantidad de operaciones por préstamos prendarios,Jun-2025,66.0,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,informacion_estructura,Cantidad de operaciones por otros préstamos,Jun-2025,130542.0,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,informacion_estructura,Dotación de personal,Jun-2025,820.0,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,informacion_estructura,Cantidad de titulares por tarjetas de crédito,Jun-2025,174509.0,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,informacion_estructura,Cantidad de tarjetas de crédito (plásticos),Jun-2025,186527.0,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,informacion_estructura,Cantidad de tarjetas de débito,Jun-2025,452239.0,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,informacion_estructura,Cantidad de cuentas corrientes,Set-2025,26487.0,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,informacion_estructura,Cantidad de cuentas de ahorro,Set-2025,830339.0,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,informacion_estructura,Cantidad de cajas de ahorro de ayuda social,Set-2025,215091.0,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,informacion_estructura,Cantidad de cuentas previsionales,Set-2025,173758.0,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,informacion_estructura,Cantidad de operaciones a plazo fijo Individuos,Set-2025,39201.0,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,informacion_estructura,Cantidad de operaciones a plazo fijo Empresas,Set-2025,904.0,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,informacion_estructura,Cantidad de operaciones por préstamos hipotecarios,Set-2025,378.0,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,informacion_estructura,Cantidad de operaciones por préstamos prendarios,Set-2025,76.0,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,informacion_estructura,Cantidad de operaciones por otros préstamos,Set-2025,151762.0,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,informacion_estructura,Dotación de personal,Set-2025,820.0,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,informacion_estructura,Cantidad de titulares por tarjetas de crédito,Set-2025,170925.0,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,informacion_estructura,Cantidad de tarjetas de crédito (plásticos),Set-2025,182938.0,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,informacion_estructura,Cantidad de tarjetas de débito,Set-2025,459491.0,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,informacion_estructura,Cantidad de cuentas corrientes,Dic-2025,26794.0,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,informacion_estructura,Cantidad de cuentas de ahorro,Dic-2025,814820.0,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,informacion_estructura,Cantidad de cajas de ahorro de ayuda social,Dic-2025,199916.0,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,informacion_estructura,Cantidad de cuentas previsionales,Dic-2025,174092.0,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,informacion_estructura,Cantidad de operaciones a plazo fijo Individuos,Dic-2025,33357.0,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,informacion_estructura,Cantidad de operaciones a plazo fijo Empresas,Dic-2025,601.0,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,informacion_estructura,Cantidad de operaciones por préstamos hipotecarios,Dic-2025,387.0,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,informacion_estructura,Cantidad de operaciones por préstamos prendarios,Dic-2025,74.0,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,informacion_estructura,Cantidad de operaciones por otros préstamos,Dic-2025,138017.0,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,informacion_estructura,Dotación de personal,Dic-2025,817.0,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,informacion_estructura,Cantidad de titulares por tarjetas de crédito,Dic-2025,130940.0,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,informacion_estructura,Cantidad de tarjetas de crédito (plásticos),Dic-2025,142645.0,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,informacion_estructura,Cantidad de tarjetas de débito,Dic-2025,464720.0,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,informacion_estructura,Cantidad de Cuentas,Dic-2023,328443.0,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,informacion_estructura,Cantidad de Empresas,Dic-2023,622.0,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,informacion_estructura,Cantidad de Cuentas,Dic-2024,326491.0,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,informacion_estructura,Cantidad de Empresas,Dic-2024,674.0,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,informacion_estructura,Cantidad de Cuentas,Nov-2025,311716.0,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,informacion_estructura,Cantidad de Empresas,Nov-2025,870.0,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,informacion_estructura,Cantidad de Cuentas,Dic-2025,311681.0,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,informacion_estructura,Cantidad de Empresas,Dic-2025,974.0,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,informacion_estructura,Cantidad de Cuentas,Ene-2026,307879.0,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,informacion_estructura,Cantidad de Empresas,Ene-2026,892.0,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,informacion_estructura,CABA,Habilitadas,1.0,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,informacion_estructura,CORRIENTES,Habilitadas,38.0,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,informacion_estructura,MISIONES,Habilitadas,2.0,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,informacion_estructura,CABA,Habilitadas,,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,informacion_estructura,CORRIENTES,Habilitadas,26.0,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,informacion_estructura,MISIONES,Habilitadas,,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,informacion_estructura,CABA,Habilitadas,,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,informacion_estructura,CORRIENTES,Habilitadas,1.0,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,informacion_estructura,MISIONES,Habilitadas,,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,informacion_estructura,CABA,Habilitadas,2.0,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,informacion_estructura,CORRIENTES,Habilitadas,267.0,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,informacion_estructura,MISIONES,Habilitadas,8.0,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,informacion_estructura,CABA,Habilitadas,,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,informacion_estructura,CORRIENTES,Habilitadas,,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,informacion_estructura,MISIONES,Habilitadas,,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,informacion_estructura,CABA,Habilitadas,,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,informacion_estructura,CORRIENTES,Habilitadas,4.0,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,informacion_estructura,MISIONES,Habilitadas,,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,informacion_estructura,CABA,Habilitadas,,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,informacion_estructura,CORRIENTES,Habilitadas,10.0,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,informacion_estructura,MISIONES,Habilitadas,,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,informacion_estructura,CABA,Pendientes de habilitación,,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,informacion_estructura,CORRIENTES,Pendientes de habilitación,1.0,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,informacion_estructura,MISIONES,Pendientes de habilitación,,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,informacion_estructura,CABA,Total,1.0,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,informacion_estructura,CORRIENTES,Total,39.0,2026-04-19
+00094,BANCO DE CORRIENTES S.A.,publico,informacion_estructura,MISIONES,Total,2.0,2026-04-19
