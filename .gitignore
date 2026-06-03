@@ -20,3 +20,10 @@ __pycache__/
 .claude/
 .vscode/
 .idea/
+
+# Backups de Claude Code (cualquier variante) — NUNCA subir al repo público.
+# Contienen credenciales, settings y transcripciones.
+claude-memory-backup/
+claude-*-backup/
+*.credentials.json
+.credentials.json
