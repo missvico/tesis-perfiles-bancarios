@@ -12,3 +12,5 @@ jupyter
 ipykernel
 missingno
 sqlalchemy>=2.0
+lightgbm>=4.0
+shap>=0.45
