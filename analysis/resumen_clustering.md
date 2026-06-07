@@ -1,107 +1,87 @@
 # Resumen de clustering — Entrega III
 
-Este documento sintetiza los resultados del notebook `03_clustering.ipynb`. Acompaña a `resumen_eda.md` y constituye la base analítica de la Entrega III de la tesis.
+Este documento sintetiza el **modelo de clustering principal de la tesis**: el GMM sobre espacio mixto del notebook `05_clustering_intermedio.ipynb` (variante A, peso de binarias = 1.0), de aquí en más **modelo 05A**. Acompaña a `resumen_eda.md` y constituye la base analítica de la Entrega III.
+
+El proceso de selección entre modelos alternativos (K-Means del nb 03, GMM sobre continuas del nb 04, Ward, DBSCAN, y las variantes de ponderación) se documenta por separado en `resumen_clustering_alternativo.md`. Acá se da por establecido el 05A y se lo caracteriza.
 
 ## 1. Insumos y diseño del experimento
 
 - **Panel**: promedio de los tres cortes (Dic-2023, Dic-2024, Dic-2025) del `panel_ratios.csv`, complementado con la oferta de productos por banco (`oferta_banco.csv`).
 - **Universo de bancos**: se parte de 56 entidades y se excluyen 4 bancos mayoristas/extranjeros sin cartera minorista relevante (Bank of China, JPMorgan, BNP Paribas, Cetelem). Queda un panel de **52 bancos**.
-- **Features (21)**: 10 variables continuas estandarizadas (`log_activo`, `prestamos_sobre_activo`, `titulos_sobre_activo`, `depositos_sobre_activo`, `patrimonio_sobre_activo`, `roa`, `liquidez`, `eficiencia`, `cartera_irregular`, `log_activo_por_empleado`, `n_productos_ofrecidos`) + 11 binarias de oferta (caja de ahorro pesos/USD, cuenta corriente, plazo fijo, tarjeta crédito/débito, préstamo personal/hipotecario/prendario, etc.).
-- **Imputación**: missings en `cartera_irregular` y `n_productos_ofrecidos` se reemplazan por la mediana del panel (4 y 7 imputaciones respectivamente).
-- **Estandarización**: StandardScaler antes de PCA y de todos los algoritmos.
+- **Features (21)** en un **espacio mixto**:
+  - **10 continuas** (`log_activo`, `prestamos_sobre_activo`, `titulos_sobre_activo`, `depositos_sobre_activo`, `patrimonio_sobre_activo`, `roa`, `liquidez`, `eficiencia`, `cartera_irregular`, `log_activo_por_empleado`), transformadas con **`log1p`** sobre las sesgadas (liquidez, cartera_irregular, eficiencia) y escaladas con **RobustScaler**.
+  - **11 binarias de oferta** (caja de ahorro pesos/USD, cuenta corriente, plazo fijo, tarjeta crédito/débito, préstamo personal/hipotecario/prendario, paquete, premium, etc.), concatenadas **sin escalar con peso = 1.0**.
+- **Imputación**: missings en `cartera_irregular` y `n_productos_ofrecidos` se reemplazan por la mediana del panel.
+- **Algoritmo**: **Gaussian Mixture Model (GMM)** con `k=3`, `covariance_type="full"`, sobre el espacio mixto.
+
+**Por qué GMM sobre espacio mixto** (resumen; el argumento completo está en `resumen_clustering_alternativo.md`):
+- El GMM da **probabilidades de pertenencia** (no solo etiqueta dura), lo que habilita análisis de transiciones temporales y de bancos "borde".
+- El **espacio mixto** recupera la dimensión de oferta comercial que el balance solo no captura, distinguiendo modelos de negocio que el tipo administrativo de entidad pasa por alto.
+- Maneja el outlier estructural (Banco de Servicios Financieros) integrándolo con probabilidad ~1.0 a su cluster, sin exclusión manual.
 
 ## 2. PCA — interpretación de los ejes
 
-Los primeros dos componentes explican **41.6 % de la varianza** (PC1 25.9 %, PC2 15.7 %). Se necesitan 7 componentes para llegar al 80 %, lo que indica que la heterogeneidad del sistema bancario argentino es genuinamente multidimensional y no se reduce a un único eje "tamaño".
+La proyección sobre los dos primeros componentes principales del espacio mixto explica **~54 % de la varianza** (PC1 40.3 %, PC2 13.7 %). Se necesitan ~7 componentes para llegar al 90 %, lo que confirma que la heterogeneidad del sistema bancario argentino es genuinamente multidimensional y no se reduce a un único eje "tamaño".
 
-- **PC1 — Sofisticación retail / escala de fondeo minorista**. Cargan positivo `depositos_sobre_activo`, `n_productos_ofrecidos`, las binarias de productos minoristas (caja de ahorro, plazo fijo, tarjeta de débito) y `log_activo`. Cargan negativo `patrimonio_sobre_activo` y `liquidez`. PC1 alto = bancos con fondeo masivo de depósitos minoristas y oferta de productos diversificada; PC1 bajo = bancos chicos, capitalizados y líquidos.
-- **PC2 — Productividad operativa vs. exposición minorista**. Cargan positivo `log_activo_por_empleado` y `eficiencia`. Cargan negativo `prestamos_sobre_activo` y `cartera_irregular`. PC2 alto = banca corporativa/mayorista con alta productividad por empleado; PC2 bajo = banca minorista con mucha cartera y mayor mora.
+![Proyección PCA de los 52 bancos coloreada por cluster del GMM (modelo 05A, izquierda). Cada punto es un banco; los ejes son los dos primeros componentes del espacio mixto.](figs_05/cell19_02.png)
 
-Esta lectura empírica corrige el supuesto inicial de que PC1 captura "tamaño puro": el `log_activo` por sí solo no separa al sistema, lo hace en combinación con la oferta minorista.
+*Figura 1. Proyección PCA de los 52 bancos coloreada por cluster del GMM. Izquierda: modelo 05A (peso binarias = 1.0, silhouette 0.145). El panel derecho (variante B, peso 0.5) se discute en el comparativo.*
 
-## 3. K-Means k=3 (modelo base)
+- **PC1 — Sofisticación retail / escala de fondeo minorista**. Separa la banca minorista masiva (derecha) de los bancos chicos/especializados (izquierda).
+- **PC2 — Productividad operativa vs. exposición minorista**. Separa la banca corporativa/mayorista (productividad alta, poca cartera) de la minorista con mucho crédito y mora.
 
-**Silhouette score: 0.243**. Estructura débil pero interpretable. La distribución es **11 / 29 / 12**.
+La nube es **continua**, sin huecos limpios entre grupos: visualmente se aprecia el solapamiento que explica el silhouette bajo y que la validación supervisada (nb 06) confirma como "fronteras borrosas pero perfiles reales".
 
-| Cluster | Tamaño | Perfil mediano | Lectura |
+## 3. Los tres perfiles del modelo 05A
+
+Distribución **27 / 15 / 10**. Las etiquetas se confirmaron a posteriori con el clasificador del nb 06 (ver `resumen_clasificador.md`).
+
+| Cluster | Tamaño | Perfil mediano (variables de resultado) | Lectura |
 |---|---|---|---|
-| **1 — Mayoristas/inversión** | 11 | log_activo 19.7, depósitos 55%, eficiencia 52%, ROA 2.0%, cartera irregular 0.6%, n_productos 1 | Bancos chicos especializados (mercado de capitales, comercio exterior, securitización). Ejemplos: Banco de Valores, Mariva, BICE, BACS, Citibank. |
-| **2 — Banca minorista de gran escala** | 29 | log_activo 21.3, depósitos 67%, préstamos 33%, ROA 2.9%, eficiencia 43%, n_productos 5 | El núcleo del sistema: bancos privados grandes (Galicia, Macro, BBVA, Santander), todos los públicos provinciales + Nación, y privados nacionales con red. |
-| **3 — Chicos con cartera deteriorada** | 12 | log_activo 18.3, depósitos 47%, ROA −1.4%, eficiencia 64%, cartera irregular 9.4%, liquidez 25% | Bancos pequeños privados y públicos provinciales chicos con rentabilidad débil y mora alta. Incluye un outlier extremo (Banco de Servicios Financieros). |
+| **0 — Minoristas masivos** | 27 | ROA 3.1 %, depósitos 66 % del activo, eficiencia 43 %, oferta retail completa | Núcleo del sistema tradicional. Galicia, Nación, BBVA, Santander, todos los públicos provinciales, Macro, Patagonia, Supervielle, Credicoop. |
+| **1 — Chicos en transformación** | 15 | ROA −2.3 %, eficiencia 80 % (cost-to-income malo), cartera irregular 4.3 % | Bancos chicos minoristas con rentabilidad débil. Incluye **los 4 digitales** (Brubank, Uala, Voii, Dino) + consumer finance (Servicios Financieros, Columbia, Sucrédito, Masventas) + privados chicos con dificultades. |
+| **2 — Mayoristas/inversión** | 10 | ROA 3.2 %, eficiencia 30 %, depósitos solo 45 % del activo, cartera irregular 0.6 % | Banca corporativa y de mercado de capitales. Citibank, Banco de Valores, Mariva, BICE, CMF, BACS. Casi no ofrecen productos minoristas. |
 
-**Observación clave**: el tipo de entidad (público/privado/extranjero) no segmenta a los bancos. El cluster 2 mezcla todos los bancos públicos provinciales con bancos privados grandes y filiales de extranjeros; lo que los une no es la propiedad sino el modelo de negocio (fondeo minorista de gran escala con oferta diversificada).
+### Caracterización por dimensión económica (esquema choice/outcome)
 
-## 4. K=4 — ¿qué se gana subdividiendo?
+Siguiendo a Roengpitya et al. (2014), las **variables de elección** (estructura de balance + oferta) definen los grupos y las **de resultado** (rentabilidad, costos) los caracterizan a posteriori:
 
-**Silhouette baja a 0.204**, por debajo del óptimo k=3. La tabla de contingencia revela que el cuarto cluster **no subdivide al cluster minorista (C2)**, sino que aísla al outlier **Banco de Servicios Financieros**:
+- **Rentabilidad (resultado)**: minoristas y mayoristas comparten ROA sano (~3 %); los chicos en transformación tienen ROA negativo. La rentabilidad **no separa** minoristas de mayoristas — lo hace la estructura.
+- **Riesgo crediticio (resultado)**: la cartera irregular es **mínima** en mayoristas (0.6 %, casi no prestan a retail) y moderada en los otros dos clusters. La ausencia de mora es, justamente, la variable que más define al cluster mayorista (ver SHAP, nb 06).
+- **Estructura de fondeo (elección)**: depósitos/activo 66 % (minoristas) vs. 45 % (mayoristas) — el eje primario de diferenciación de modelo de negocio.
+- **Escala (elección/control)**: los minoristas masivos concentran los bancos más grandes; los otros dos son sistemáticamente más chicos.
+- **Oferta comercial (elección)**: minoristas ofrecen paquetes premium e hipotecas; mayoristas casi no ofrecen productos retail; los chicos ofrecen personales pero no hipotecas.
 
-```
-                k4-C1  k4-C2  k4-C3  k4-C4
-cluster_km
-k3-C1               8      0      3      0
-k3-C2               0     23      6      0
-k3-C3               0      0     11      1   ← el outlier aislado
-```
+## 4. Observaciones estructurales
 
-El perfil del cluster 4 confirma el outlier: liquidez 1622 %, depósitos 0.3 %, préstamos 83 % del activo, ROA −4.5 %, cartera irregular 20.5 %. Es Banco de Servicios Financieros, una entidad de consumo (Frávega) con un balance atípico: prácticamente no toma depósitos y financia todo con capital propio.
+1. **El tipo de entidad (público/privado/extranjero) no estructura los clusters.** Los públicos provinciales y los privados grandes comparten el cluster minorista cuando comparten modelo de negocio. La propiedad no es el eje de segmentación; el modelo de negocio sí.
 
-**Conclusión metodológica**: k=4 no aporta una segmentación más rica; solo "descubre" un outlier que ya conocíamos. Para la tesis se mantiene k=3 como modelo principal.
+2. **El sub-grupo digital queda identificado.** Los 4 bancos 100 % digitales (Brubank, Uala, Voii, Dino) caen juntos dentro del cluster "Chicos en transformación", anidados en un perfil más amplio de bancos chicos con productos de consumo y rentabilidad débil. El 05A es el único modelo que los mantiene agrupados **sin perder** la distinción mayorista/minorista (ver comparativo).
 
-## 5. K=3 sin el outlier — test de robustez
+3. **Banco de Servicios Financieros es un outlier estructural, no un error de datos.** Su balance (liquidez 1622 %, depósitos 0.3 %, financiación 100 % con capital propio) refleja un modelo de consumer finance puro (Frávega). El GMM lo integra al cluster de chicos con probabilidad ~1.0.
 
-Repetimos K-Means k=3 excluyendo a Banco de Servicios Financieros (panel de 51 bancos).
+4. **Las fronteras son borrosas pero los perfiles son reales.** El silhouette bajo (0.145) refleja solapamiento genuino: hay un continuo de bancos "entre" perfiles (BICA, BancoSol). La validación supervisada del nb 06 (accuracy 0.867 en CV anidado) confirma que la partición es predecible y reproducible desde las features — no es artefacto del GMM.
 
-- **Silhouette: 0.208** (vs. 0.243 con outlier) — la separación geométrica empeora levemente.
-- **Adjusted Rand Index con la partición original: 0.539** — la partición **cambió de forma no trivial**.
+## 5. El silhouette como métrica complementaria, no decisoria
 
-Tabla de contingencia con vs. sin outlier:
+El silhouette de 0.145 está muy por debajo del umbral 0.50 que indicaría estructura geométrica fuerte. Esto **no** descalifica al modelo:
 
-```
-                SIN-C1  SIN-C2  SIN-C3
-CON-C1               0       3       8       (mayoristas)
-CON-C2              23       6       0       (minoristas grandes)
-CON-C3               0      11       0       (chicos con mora)
-```
+- El silhouette mide compactness geométrica. En un espacio de 21 dimensiones con perfiles que se diferencian por **combinaciones** de features (paquete + hipoteca + premium) y no por una variable que separe nítidamente, agregar dimensiones siempre reduce el silhouette ("maldición de la dimensionalidad").
+- El sistema bancario argentino tiene **continuos genuinos** entre perfiles; cualquier partición discreta tendrá silhouette bajo.
+- La elección del modelo se sostiene en **interpretabilidad sustantiva + validación supervisada independiente** (nb 06), no en la métrica geométrica.
 
-Lectura:
+En la tesis, el silhouette se reporta junto a Davies-Bouldin como métricas internas complementarias (siguiendo a Mercadier et al., 2025), pero la decisión de modelo se argumenta con el clasificador supervisado.
 
-- Los **23 bancos minoristas grandes** (CON-C2) permanecen juntos en SIN-C1 → núcleo estable.
-- Los **8 mayoristas más puros** (CON-C1) permanecen como SIN-C3.
-- Los **11 chicos con mora** (CON-C3) se mezclan con 3 bancos que antes estaban en CON-C1 y 6 que estaban en CON-C2, dando lugar a un cluster intermedio SIN-C2 (medianos chicos con mora moderada de 4 %).
+## 6. Síntesis para la tesis
 
-Esta inestabilidad refleja un fenómeno real: en el espacio de features, los bancos chicos forman un continuo y no un cluster bien definido. La presencia del outlier "tira" del centroide del cluster 3 hacia el extremo y disciplina la frontera; al sacarlo, esa frontera se recalibra. La estructura **macro** (minoristas vs. todo lo demás) es robusta; las **fronteras finas** dentro de "todo lo demás" no lo son.
+1. **El modelo 05A (GMM k=3 sobre espacio mixto) es el modelo principal.** Identifica tres modelos de negocio: minoristas masivos, chicos en transformación (con el sub-grupo digital) y mayoristas/inversión.
+2. **El tipo de entidad no segmenta**; el modelo de negocio sí.
+3. **La partición es real aunque las fronteras sean borrosas** — validado por el clasificador del nb 06.
+4. **El GMM aporta probabilidades de pertenencia**, base para el análisis de transiciones temporales y para clasificar cortes futuros.
 
-## 6. Clustering jerárquico (Ward) — validación cruzada
+## 7. Limitaciones y próximos pasos
 
-Para chequear si la partición de K-Means es un artefacto del algoritmo, se aplica clustering aglomerativo con linkage Ward sobre los mismos features.
-
-- **Coeficiente cofenético: 0.457** — correlación moderada entre las distancias del espacio original y las del dendrograma. Indica que el sistema bancario argentino **no es jerárquico** en el sentido fuerte: no hay subgrupos limpios anidados.
-- **Silhouette jerárquico k=3: 0.175** (peor que K-Means 0.243). K-Means es preferible.
-- **ARI K-Means vs. Ward (k=3): 0.446** — coincidencia moderada. Coinciden en los extremos (mayoristas y minoristas grandes) pero discrepan en el cluster intermedio. NMI 0.560.
-- **A k=4**: ARI 0.539, NMI 0.640 — la coincidencia mejora porque ambos algoritmos aíslan al outlier.
-
-**Lectura**: Ward y K-Means coinciden en el esqueleto (mayoristas vs. minoristas grandes vs. resto) pero difieren en los detalles, lo que confirma la conclusión de la sección 5: las fronteras finas no son robustas.
-
-## 7. DBSCAN — el sistema no tiene "densidad" en el sentido clásico
-
-Calibrado con `eps=1.5`, `min_samples=3`:
-
-- **84.6 % de ruido** (44 de 52 bancos sin cluster). Solo se forman 2 clusters chicos de 4 bancos cada uno.
-- Los bancos minoristas grandes (Galicia, BBVA, Santander, Macro, Patagonia, San Juan, Santa Cruz, Ciudad) son los únicos que forman regiones densas.
-
-**Conclusión**: DBSCAN confirma que el sistema bancario argentino es disperso y no tiene grupos densamente compactos más allá del núcleo de minoristas grandes. K-Means impone una partición útil aunque artificial; DBSCAN se rehúsa a inventar grupos donde no los hay. No se usa como modelo principal pero sirve como diagnóstico: validar que muchos bancos chicos son **realmente atípicos** y no comparten densidad.
-
-## 8. Síntesis para la tesis
-
-1. **K-Means k=3 es el modelo principal**, con silhouette 0.243. Identifica tres perfiles de negocio: (i) banca de inversión/mayorista chica, (ii) banca minorista de gran escala y (iii) bancos chicos con cartera deteriorada.
-2. **El tipo de entidad (propiedad) no estructura los clusters**. Bancos públicos provinciales y privados grandes comparten cluster cuando tienen el mismo modelo de negocio.
-3. **La partición es estable en el núcleo y frágil en las fronteras**. Los 23 bancos minoristas grandes y los 8 mayoristas puros forman bloques sólidos; el cluster 3 (chicos con mora) es más una etiqueta residual que un grupo cohesionado.
-4. **Banco de Servicios Financieros es un outlier estructural**, no un error de datos. Su balance refleja un modelo de negocio (consumer finance puro) que no tiene par en el sistema.
-5. **El sistema no es jerárquico ni denso**: ni Ward ni DBSCAN encuentran sub-estructura limpia. Esto es información sustantiva: el sistema bancario argentino es disperso y multidimensional, y los tres clusters de K-Means son la mejor síntesis posible.
-
-## 9. Limitaciones y próximos pasos
-
-- El silhouette de 0.243 es bajo en términos absolutos. Implica solapamiento real, no falla del algoritmo: muchos bancos están "entre" perfiles.
-- El promedio de los tres cortes oculta dinámica temporal. Una extensión natural es analizar transiciones de cluster entre Dic-23 → Dic-25.
-- La oferta de productos contribuye con 11 features binarias pero su peso conjunto en PC1 podría merecer un análisis aparte (¿el modelo de negocio se está digitalizando entre cortes?).
-- Las binarias de oferta capturan **disponibilidad**, no **volumen ni precio**. Un próximo paso sería incorporar las tasas y comisiones de `oferta_banco.csv` como variables continuas.
+- El silhouette de 0.145 es bajo en términos absolutos: hay solapamiento real, muchos bancos están "entre" perfiles. Es información sustantiva, no falla del algoritmo.
+- El promedio de los tres cortes oculta dinámica temporal. Extensión natural: analizar transiciones de cluster entre Dic-23 → Dic-25 usando las probabilidades del GMM.
+- Las binarias de oferta capturan **disponibilidad**, no **volumen ni precio**. Próximo paso: incorporar tasas y comisiones de `oferta_banco.csv` como variables continuas.
+- La validación supervisada confirma la partición pero **no** prueba que k=3 sea óptimo ni que GMM-A supere a las alternativas en sentido absoluto (ver `resumen_clustering_alternativo.md` para esa discusión).
