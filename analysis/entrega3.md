@@ -8,26 +8,86 @@
 
 ## Índice
 
-1. Introducción y motivación
-2. Marco teórico y antecedentes
-3. Datos y construcción del dataset
-4. Análisis exploratorio (EDA)
-5. Metodología de modelado
-6. Resultados I — Segmentación no supervisada
-7. Resultados II — Validación supervisada e interpretabilidad
-8. Discusión
-9. Conclusiones y trabajo futuro
-10. Referencias
+**1. Introducción**
+  - 1.1. Contexto y motivación: heterogeneidad del sistema bancario argentino
+    - El promedio del sistema oculta modelos de negocio dispares
+    - Relevancia macroprudencial de identificar perfiles
+  - 1.2. Pregunta de investigación y objetivos
+    - Objetivo general y objetivos específicos
+  - 1.3. Estructura del documento
+
+**2. Marco teórico**
+  - 2.1. Relevamiento de trabajos previos
+    - Roengpitya et al. (2014) — modelos de negocio bancarios (esquema choice/outcome)
+    - Mercadier et al. (2025) — PCA + k-means + validación interna
+    - Chherawala et al. (2025) — clustering en economía emergente (precedente cercano)
+  - 2.2. Conceptos y técnicas de ciencia de datos utilizados
+    - Reducción dimensional (PCA), clustering (K-Means, GMM, Ward, DBSCAN)
+    - Validación supervisada (LightGBM, nested CV) e interpretabilidad (SHAP)
+  - 2.3. Posicionamiento y aporte de la tesis
+
+**3. Metodología**
+  - 3.1. Presentación y descripción de los datos
+    - Fuentes BCRA: portal de entidades + Régimen de Transparencia
+    - Panel transversal: 168 obs. (56 bancos × 3 cortes), 13 ratios
+  - 3.2. Preprocesamiento y limpieza
+    - Diagnóstico de missings e imputación
+    - Correcciones de signo (eficiencia) y tratamiento de cartera sin retail
+  - 3.3. Análisis exploratorio (AED)
+    - Estructura y concentración del sistema
+    - Correlación entre ratios (Spearman) → justificación del PCA
+    - Validación inferencial (Kruskal-Wallis) por tipo de entidad
+    - Dinámica temporal 2023–2025 y oferta comercial
+  - 3.4. Técnicas de análisis y modelado
+    - Universo y espacio de features (mixto: balance + oferta)
+    - Reducción dimensional y comparación sistemática de modelos de clustering
+  - 3.5. Selección de características
+    - Esquema choice/outcome; ponderación de binarias de oferta
+  - 3.6. Métricas de evaluación
+    - Internas (silhouette, Davies-Bouldin, ARI) y supervisadas (accuracy, macro-F1)
+  - 3.7. Métodos estadísticos
+    - Kruskal-Wallis; nested cross-validation; valores SHAP
+
+**4. Resultados y discusión**
+  - 4.1. Resultados I — Segmentación no supervisada
+    - Los tres perfiles del modelo principal (05A)
+    - Hallazgos estructurales (el tipo de entidad no segmenta; sub-grupo digital; outlier)
+    - Modelos de contraste (03, 04, Ward, DBSCAN)
+  - 4.2. Resultados II — Validación supervisada e interpretabilidad
+    - Performance honesta y matriz de confusión
+    - Bancos mal clasificados (los bordes esperados)
+    - Importancia SHAP global y por clase ("firma" de cada perfil)
+  - 4.3. Discusión de los resultados y su relevancia
+    - El silhouette bajo como información, no como falla
+    - Estrategia de validación triple; implicancia macroprudencial
+  - 4.4. Limitaciones y posibles mejoras
+
+**5. Conclusión**
+  - 5.1. Resumen de los hallazgos principales
+  - 5.2. Conclusiones generales y su relación con los objetivos
+  - 5.3. Recomendaciones para futuros trabajos
+
+**6. Bibliografía**
+  - 6.1. Referencias citadas
+  - 6.2. Otras fuentes consultadas
+
+**7. Anexos**
+  - 7.1. Código fuente (repositorio de notebooks 00–06)
+  - 7.2. Tablas y gráficos adicionales (resúmenes por notebook)
 
 > **Incorporación del feedback de la Entrega II.** La devolución fue positiva ("la entrega es excelente") y planteó una única observación: en la sección de concentración se dudaba si los públicos quintuplican el activo mediano de los privados nacionales o de los extranjeros. Se resuelve y precisa en §4: el activo mediano de los públicos (1.085 M) es ≈ 5× el de los privados nacionales (216 M) y ≈ 2,3× el de los extranjeros (476 M). La afirmación original refería correctamente a los privados nacionales; se reformula para que el dato no quede ambiguo respecto a la figura.
 
 ---
 
-## 1. Introducción y motivación
+## 1. Introducción
+
+### 1.1. Contexto y motivación
 
 El sistema bancario argentino reúne alrededor de 70 entidades de naturaleza muy heterogénea —bancos públicos nacionales y provinciales, privados nacionales, filiales de bancos extranjeros y entidades de nicho— cuyos modelos de negocio un promedio agregado del sistema no alcanza a reflejar. Un banco público provincial con red de sucursales y fondeo de depósitos minoristas, un banco de inversión que opera en el mercado de capitales y una fintech 100 % digital conviven bajo la misma categoría regulatoria de "entidad financiera", pero responden a lógicas de negocio, estructuras de balance y exposiciones al riesgo radicalmente distintas. Identificar perfiles diferenciados en términos de balance, rentabilidad y riesgo crediticio tiene, por eso, implicancias directas para la política macroprudencial: permite diseñar marcos regulatorios más precisos, anticipar cómo distintos tipos de entidades responden a shocks macroeconómicos y monitorear la aparición de modelos de negocio emergentes.
 
 Si bien la literatura internacional sobre segmentación bancaria mediante técnicas no supervisadas es robusta, su aplicación al caso argentino permanece escasa. La fuerte heterogeneidad del sistema local —marcada por alta inflación, peso del sector público, ciclos abruptos de política monetaria y un fenómeno de digitalización reciente— sugiere que los perfiles que emergerían de un análisis de este tipo serían sustantivamente distintos a los documentados en economías desarrolladas. Esto convierte a la Argentina en un caso de estudio de interés propio y no en una mera replicación de resultados conocidos. Las técnicas modernas de aprendizaje automático permiten, además, ir más allá de la mera identificación de grupos: habilitan explicar qué variables financieras definen cada perfil y con qué peso relativo, y validar que los grupos hallados no son un artefacto del algoritmo sino estructura real en los datos.
+
+### 1.2. Pregunta de investigación y objetivos
 
 - **Pregunta de investigación.** ¿Existen perfiles diferenciados de bancos en Argentina según balance, rentabilidad y riesgo? ¿Qué variables determinan cada perfil?
 - **Objetivo general.** Identificar y caracterizar perfiles diferenciados de bancos en Argentina mediante técnicas de segmentación no supervisada, integrando información de balance con indicadores de oferta comercial pública para el período 2023–2025.
@@ -38,9 +98,15 @@ Si bien la literatura internacional sobre segmentación bancaria mediante técni
   - Caracterizar cada cluster emergente por sus dimensiones económicas: rentabilidad, riesgo crediticio, estructura de fondeo, escala y oferta comercial.
   - **Validar** la partición resultante con un clasificador supervisado e **interpretar** los perfiles con valores SHAP, identificando las variables que definen cada uno.
 
+### 1.3. Estructura del documento
+
+El documento sigue el flujo del pipeline analítico: el **marco teórico** (§2) relevamiento de antecedentes y técnicas; la **metodología** (§3) describe datos, preprocesamiento, EDA y el diseño de modelado; los **resultados y la discusión** (§4) presentan la segmentación, su validación supervisada y la interpretación; la **conclusión** (§5) sintetiza hallazgos y trabajo futuro. Los **anexos** (§7) remiten al repositorio de notebooks y a los resúmenes detallados por etapa.
+
 ---
 
-## 2. Marco teórico y antecedentes
+## 2. Marco teórico
+
+### 2.1. Relevamiento de trabajos previos
 
 La literatura sobre segmentación bancaria no supervisada ofrece a este trabajo tres aportes concretos, que se traducen en decisiones de diseño: cómo seleccionar las variables que entran al algoritmo, cómo manejar la redundancia entre ratios, y cómo validar que la partición es significativa. Se seleccionaron tres referencias que cubren, respectivamente, el diseño de variables, el pipeline metodológico, y el precedente más cercano en contexto.
 
@@ -54,11 +120,29 @@ La literatura sobre segmentación bancaria no supervisada ofrece a este trabajo 
 - **Chherawala, Vaidya & Basu (2025) — *Multidimensional surveillance of the Indian banking system: A cluster approach*, Journal of Applied Economic Sciences.** Aplican k-means al sistema bancario indio sobre 30 bancos durante 2005–2023, comparando perfiles de riesgo entre bancos públicos y privados a lo largo de distintos episodios de estrés financiero.
   - *Aporte:* es el precedente más cercano en **escala muestral y contexto institucional** —economía emergente, presencia estatal significativa, dimensión muestral comparable a la argentina (n ≈ 30–50)—. Posiciona al clustering como instrumento de supervisión macroprudencial, capaz de informar decisiones regulatorias a partir de la identificación de perfiles de riesgo diferenciados, que es el horizonte aplicado de esta tesis.
 
-- **Posicionamiento y aporte de esta tesis.** Se replica el esquema choice/outcome de Roengpitya et al. y la secuencia *reducción dimensional → clustering → validación interna* de Mercadier et al., **extendiendo** la frontera en tres direcciones: (i) se integra la **oferta comercial pública** (Régimen de Transparencia) como dimensión de segmentación, además del balance —algo ausente en los tres antecedentes—; (ii) se agrega una etapa de **validación supervisada** con LightGBM que confirma que los grupos son estadísticamente diferenciables; y (iii) se incorpora **interpretabilidad por SHAP a nivel de cada perfil**, cuantificando qué variables definen cada cluster. La combinación de validación supervisada + SHAP sobre etiquetas de clustering es el principal aporte metodológico frente a la literatura, que se detiene en la validación interna geométrica.
+### 2.2. Conceptos y técnicas de ciencia de datos utilizados
+
+Síntesis de las técnicas empleadas (definiciones operativas completas en el glosario del documento final):
+
+- **Reducción dimensional — PCA.** Transforma variables correlacionadas en componentes ortogonales que retienen la mayor parte de la varianza; mitiga la multicolinealidad antes del clustering y revela la estructura latente del sistema.
+- **Clustering.**
+  - *K-Means:* partición que minimiza la suma de cuadrados intracluster; eficiente y equilibrada, requiere fijar *k*.
+  - *GMM (Gaussian Mixture Model):* modelo probabilístico que asigna a cada banco una **probabilidad de pertenencia** a cada grupo —clave para analizar bancos "borde" y transiciones temporales—.
+  - *Ward (jerárquico) y DBSCAN (densidad):* usados como contraste para verificar que la partición no es un artefacto del algoritmo.
+- **Validación supervisada.**
+  - *LightGBM:* gradient boosting sobre árboles, entrenado sobre las etiquetas de cluster para comprobar que los grupos son estadísticamente diferenciables.
+  - *Nested cross-validation:* estimación honesta de generalización con muestras chicas, separando la selección de hiperparámetros de la evaluación.
+- **Interpretabilidad — SHAP.** Valores de Shapley que cuantifican la contribución de cada variable a la predicción, identificando qué ratios definen cada cluster.
+
+### 2.3. Posicionamiento y aporte de la tesis
+
+Se replica el esquema choice/outcome de Roengpitya et al. y la secuencia *reducción dimensional → clustering → validación interna* de Mercadier et al., **extendiendo** la frontera en tres direcciones: (i) se integra la **oferta comercial pública** (Régimen de Transparencia) como dimensión de segmentación, además del balance —algo ausente en los tres antecedentes—; (ii) se agrega una etapa de **validación supervisada** con LightGBM que confirma que los grupos son estadísticamente diferenciables; y (iii) se incorpora **interpretabilidad por SHAP a nivel de cada perfil**, cuantificando qué variables definen cada cluster. La combinación de validación supervisada + SHAP sobre etiquetas de clustering es el principal aporte metodológico frente a la literatura, que se detiene en la validación interna geométrica.
 
 ---
 
-## 3. Datos y construcción del dataset
+## 3. Metodología
+
+### 3.1. Presentación y descripción de los datos
 
 El dataset integra dos fuentes públicas del BCRA que capturan dimensiones complementarias del negocio bancario: el balance contable (qué tiene y cómo se fondea cada banco) y la oferta comercial (qué productos ofrece y bajo qué condiciones). Toda la captura y el procesamiento se documentan en los notebooks `00` (scraper) y `01` (ingesta y calidad).
 
@@ -77,6 +161,8 @@ El dataset integra dos fuentes públicas del BCRA que capturan dimensiones compl
 | Riesgo crediticio | Cartera irregular (situaciones 3-4-5) |
 | Productividad | Activo / Empleado |
 
+### 3.2. Preprocesamiento y limpieza
+
 - **Calidad de los datos.** El diagnóstico de missings (nb 01) se concentra en tres fuentes, todas explicables y ninguna atribuible a errores de carga:
   - Cinco bancos no publican el Régimen de Transparencia → la oferta comercial queda parcialmente faltante para ~9 % de la muestra.
   - Algunos bancos pequeños no reportan dotación de personal en todos los cortes → afecta el ratio activo/empleado.
@@ -86,9 +172,7 @@ El dataset integra dos fuentes públicas del BCRA que capturan dimensiones compl
   - *Signo de la eficiencia:* el BCRA publica egresos financieros, por servicios y gastos de administración con signo negativo en las tablas HTML. La primera corrida arrojaba eficiencias negativas (−13 % a −20 %); la versión final aplica valor absoluto sobre esas columnas antes de calcular el ratio, devolviéndolo al rango estándar ~30–80 %.
   - *Cartera irregular sin retail:* a los 4 mayoristas sin cartera minorista relevante (Bank of China, JPMorgan, BNP Paribas, Cetelem) se les asigna `NaN` en lugar de `0`, para que no aparezcan como "0 % de mora" y distorsionen las medianas por tipo.
 
----
-
-## 4. Análisis exploratorio (EDA)
+### 3.3. Análisis exploratorio (AED)
 
 El EDA (notebook `02`, sintetizado en `resumen_eda.md`) cumple dos funciones: documentar la heterogeneidad estructural del sistema —parte de la pregunta de investigación— y producir los insumos de diseño para el modelado (qué transformar, qué excluir, qué variables aportan señal). Los hallazgos que siguen son los que alimentan directamente las decisiones del pipeline.
 
@@ -121,9 +205,7 @@ El EDA (notebook `02`, sintetizado en `resumen_eda.md`) cumple dos funciones: do
 - **Oferta comercial (Régimen de Transparencia).** Dimensión que el balance no captura: los privados nacionales se especializan en plazo fijo (mediana de 11 variantes) y casi no ofrecen hipotecas; los públicos tienen la oferta más balanceada y son los únicos con presencia significativa en paquetes (mediana 3,5); los extranjeros muestran oferta diversificada pero acotada en cada categoría, consistente con un foco en altos ingresos. **Estas asimetrías son el argumento empírico para incorporar la oferta al vector de features.**
 - **Síntesis — qué le dice el EDA al modelado.** (i) Existen al menos tres perfiles distinguibles, soportados descriptiva e inferencialmente; (ii) hay dispersión intra-tipo suficiente (sobre todo en privados nacionales) para que el clustering encuentre subgrupos que crucen la categoría administrativa; (iii) la oferta comercial agrega información independiente del balance; (iv) conviene excluir o tratar aparte los mayoristas sin cartera retail, cuyas métricas de balance minorista no aplican.
 
----
-
-## 5. Metodología de modelado
+### 3.4. Técnicas de análisis y modelado
 
 El abordaje combina ingeniería de datos sobre fuentes públicas del BCRA, análisis exploratorio para depurar variables candidatas, un pipeline de aprendizaje no supervisado y una etapa final de validación supervisada e interpretabilidad. El pipeline completo (Figura 1 de la Entrega II) recorre ocho etapas: scraping BCRA → Régimen de Transparencia → integración → ingeniería de ratios → EDA y validación → reducción dimensional → clustering → validación supervisada + SHAP.
 
@@ -149,9 +231,29 @@ El abordaje combina ingeniería de datos sobre fuentes públicas del BCRA, anál
   - **`class_weight="balanced"`** para compensar el desbalance entre clases.
 - **Interpretabilidad (SHAP).** Sobre el modelo final se calculan valores **SHAP** (TreeExplainer), a nivel global (importancia de cada feature) y por clase (qué variables definen cada perfil y con qué peso), cerrando el ciclo: del balance crudo a la explicación de cada cluster.
 
+### 3.5. Selección de características
+
+- **Esquema choice/outcome (Roengpitya et al.).** Las variables de **elección** (estructura de balance + oferta comercial) definen los grupos; las de **resultado** (ROA, ROE, eficiencia, costos) se reservan para caracterizarlos a posteriori, evitando circularidad.
+- **Ponderación de las binarias de oferta.** Se evaluaron dos pesos para el bloque de 11 binarias (1.0 y 0.5) frente a las 10 continuas. El peso 1.0 (modelo 05A) maximiza la interpretabilidad y la coincidencia con el modelo base (ver §4.1).
+- **Variables descartadas.** Binarias casi constantes en el panel (plazo fijo, prendario), que SHAP confirma sin poder discriminante.
+
+### 3.6. Métricas de evaluación
+
+- **Internas (clustering):** silhouette y Davies-Bouldin (calidad geométrica), Adjusted Rand Index (ARI) y NMI (coincidencia entre particiones).
+- **Supervisadas (validación):** accuracy y **macro-F1** (esta última como métrica primaria, por el desbalance de clases), con precision/recall/F1 por clase.
+- *Criterio de decisión:* las métricas internas guían la elección de *k*; la elección del **modelo** se argumenta con las métricas supervisadas + interpretabilidad (ver §4.3).
+
+### 3.7. Métodos estadísticos
+
+- **Kruskal-Wallis** (no paramétrico) para contrastar igualdad de distribuciones de ratios entre tipos de entidad (§3.3).
+- **Nested cross-validation** (5×3) con RandomizedSearchCV para la estimación honesta de generalización.
+- **Valores SHAP** (teoría de juegos cooperativos) para la atribución de importancia por variable y por clase.
+
 ---
 
-## 6. Resultados I — Segmentación no supervisada
+## 4. Resultados y discusión
+
+### 4.1. Resultados I — Segmentación no supervisada
 
 El modelo principal de la tesis es el **GMM k=3 sobre el espacio mixto con peso de binarias 1.0 (modelo "05A")**. Produce una partición de **27 / 15 / 10** bancos que mapea limpiamente a tres modelos de negocio reconocibles. La elección de este modelo por sobre alternativas con silhouette más alto se argumenta en §8.
 
@@ -185,7 +287,7 @@ El modelo principal de la tesis es el **GMM k=3 sobre el espacio mixto con peso 
 
 ---
 
-## 7. Resultados II — Validación supervisada e interpretabilidad
+### 4.2. Resultados II — Validación supervisada e interpretabilidad
 
 Esta etapa cierra el ciclo del análisis: un clasificador supervisado independiente aprende a reproducir las etiquetas del clustering a partir de las features originales. El objetivo no es predecir por predecir, sino responder una pregunta sustantiva que el silhouette no contesta: **¿la partición del 05A es predecible y lógica, o es un artefacto del GMM?**
 
@@ -214,7 +316,7 @@ Esta etapa cierra el ciclo del análisis: un clasificador supervisado independie
 
 ---
 
-## 8. Discusión
+### 4.3. Discusión de los resultados y su relevancia
 
 El resultado que más exige interpretación es la combinación de un **silhouette bajo (0,145)** con una **accuracy de validación alta (0,867)**. Lejos de ser contradictoria, esa combinación es la que da sentido sustantivo al trabajo.
 
@@ -222,26 +324,66 @@ El resultado que más exige interpretación es la combinación de un **silhouett
 - **La validación triangula la calidad de la partición.** El silhouette bajo se contrapesa con tres evidencias independientes que apuntan a lo mismo: (i) accuracy 0,867 en CV anidado honesto, (ii) atribución SHAP coherente con la narrativa de los perfiles, y (iii) ARI 0,594 con el modelo base de K-Means. La conclusión que emerge es que la partición es **real pero con fronteras borrosas** — un dato sustantivo sobre la estructura del sistema, no un defecto a corregir.
 - **Por qué 05A y no las alternativas con silhouette mayor.** Los nb 03 (0,243) y 04 (0,262) tienen silhouette algo más alto, pero el 03 dispersa los digitales y el 04 pierde la dimensión de oferta comercial. La elección del modelo se basa, por tanto, en **interpretabilidad sustantiva + validación supervisada** y no en la métrica geométrica — un criterio consistente con la propia advertencia de Mercadier et al. de que silhouette y Davies-Bouldin son indicadores complementarios, no un veredicto único. En la tesis, el silhouette se reporta como métrica interna, pero la decisión de modelo se argumenta con el clasificador.
 - **Implicancia macroprudencial.** Que el tipo administrativo no segmente y que los perfiles crucen la categoría de propiedad sugiere que una supervisión basada en modelos de negocio (no en la forma jurídica) capturaría mejor los riesgos. El cluster "chicos en transformación", con ROA negativo y eficiencia deteriorada, es el de seguimiento prioritario; el sub-grupo digital, emergente, amerita monitoreo específico.
-- **Limitaciones.** (i) **n = 52 es chico**: el desvío de 0,075 implica que la accuracy real está aproximadamente entre 0,79 y 0,94. (ii) El **promedio de los tres cortes oculta la dinámica temporal** documentada en el EDA. (iii) Las binarias de oferta capturan **disponibilidad**, no **volumen ni precio** de los productos. (iv) El clasificador hereda los sesgos del GMM: si el 05A ubicó a un banco en el cluster "equivocado" desde el negocio, el clasificador reproduce ese error.
+### 4.4. Limitaciones y posibles mejoras
+
+- **n = 52 es chico:** el desvío de 0,075 en la accuracy implica que el valor real está aproximadamente entre 0,79 y 0,94. La precisión de "qué tan buena" es la partición está acotada por el tamaño muestral.
+- **El promedio de los tres cortes oculta la dinámica temporal** documentada en el EDA. *Mejora:* análisis de transiciones por corte (ver §5.3).
+- **Las binarias de oferta capturan disponibilidad, no volumen ni precio.** *Mejora:* incorporar tasas y comisiones como variables continuas.
+- **El clasificador hereda los sesgos del GMM:** si el 05A ubicó un banco en el cluster "equivocado" desde el negocio, el clasificador reproduce ese error.
 
 ---
 
-## 9. Conclusiones y trabajo futuro
+## 5. Conclusión
 
-El trabajo confirma que el sistema bancario argentino se organiza en **tres perfiles de negocio diferenciados** —minoristas masivos, chicos en transformación (con un sub-grupo digital emergente) y mayoristas/inversión— que **no coinciden con la clasificación administrativa por tipo de entidad**. Bancos públicos provinciales y privados grandes comparten perfil cuando comparten modelo de negocio, y la propiedad deja de ser el criterio relevante de agrupamiento. La segmentación integra, por primera vez para el caso argentino, información de balance y de oferta comercial pública, y las variables que definen cada perfil resultan interpretables y económicamente coherentes: la rentabilidad y la eficiencia separan a los chicos en transformación; la ausencia de mora y el bajo fondeo minorista definen a los mayoristas; la oferta retail premium y la escala caracterizan a los minoristas masivos.
+### 5.1. Resumen de los hallazgos principales
+
+- El sistema bancario argentino se organiza en **tres perfiles de negocio diferenciados**: minoristas masivos (27 bancos), chicos en transformación (15, con un sub-grupo digital emergente) y mayoristas/inversión (10).
+- **El tipo de entidad (propiedad) no segmenta**: públicos provinciales y privados grandes comparten perfil cuando comparten modelo de negocio.
+- Las variables que definen cada perfil son **interpretables y económicamente coherentes**: rentabilidad y eficiencia separan a los chicos; la ausencia de mora y el bajo fondeo minorista, a los mayoristas; la oferta retail premium y la escala, a los minoristas.
+- La partición es **predecible** (accuracy 0,867 en CV anidado) pese a un silhouette bajo: tiene fronteras borrosas pero estructura real.
+
+### 5.2. Conclusiones generales y su relación con los objetivos
+
+El trabajo responde afirmativamente a la pregunta de investigación: existen perfiles diferenciados de bancos en Argentina, y se identifican las variables que los determinan. La segmentación integra, **por primera vez para el caso argentino**, información de balance y de oferta comercial pública —cumpliendo el objetivo de construir un dataset integrado y caracterizar cada cluster por sus dimensiones económicas—.
 
 El principal aporte metodológico, frente a una literatura que se detiene en la validación interna geométrica, es la **estrategia de validación triple**: la elección del modelo no descansa en el silhouette —bajo, por los continuos reales del sistema— sino en la conjunción de interpretabilidad sustantiva, reproducibilidad por un clasificador supervisado independiente (accuracy 0,867 en CV anidado) y coherencia de la atribución SHAP con los perfiles. Esta triangulación transforma un silhouette bajo de una aparente debilidad en un hallazgo: los perfiles del sistema bancario argentino tienen fronteras borrosas pero son lo suficientemente robustos como para ser aprendidos por un modelo que nunca vio el algoritmo que los generó.
 
-- **Trabajo futuro.**
-  - **Transiciones temporales (Dic-23 → Dic-25).** Usar las probabilidades de pertenencia del GMM y/o aplicar el clasificador a cada corte por separado para detectar qué bancos migraron de perfil y si la digitalización se acelera. El EDA ya muestra que el sistema se mueve; este análisis lo cuantificaría a nivel de cada banco.
-  - **Oferta como variable continua.** Incorporar tasas y comisiones del `oferta_banco.csv` (hoy se usa solo la disponibilidad binaria de cada producto), lo que podría revelar sub-perfiles dentro del cluster minorista.
-  - **Dimensión digital explícita.** Tratar el sub-grupo fintech como eje propio del análisis si la digitalización se vuelve central a la pregunta de investigación.
-  - **Redacción final.** Desarrollar el documento final completo a partir de esta estructura, profundizando la interpretación económica de cada perfil y su lectura macroprudencial.
+### 5.3. Recomendaciones para futuros trabajos
+
+- **Transiciones temporales (Dic-23 → Dic-25).** Usar las probabilidades de pertenencia del GMM y/o aplicar el clasificador a cada corte por separado para detectar qué bancos migraron de perfil y si la digitalización se acelera. El EDA ya muestra que el sistema se mueve; este análisis lo cuantificaría a nivel de cada banco.
+- **Oferta como variable continua.** Incorporar tasas y comisiones del `oferta_banco.csv` (hoy se usa solo la disponibilidad binaria de cada producto), lo que podría revelar sub-perfiles dentro del cluster minorista.
+- **Dimensión digital explícita.** Tratar el sub-grupo fintech como eje propio del análisis si la digitalización se vuelve central a la pregunta de investigación.
+- **Redacción final.** Desarrollar el documento completo a partir de esta estructura, profundizando la interpretación económica de cada perfil y su lectura macroprudencial.
 
 ---
 
-## 10. Referencias
+## 6. Bibliografía
+
+### 6.1. Referencias citadas
 
 - Chherawala, T., Vaidya, A., & Basu, S. (2025). *Multidimensional surveillance of the Indian banking system: A cluster approach.* Journal of Applied Economic Sciences, 20(2), 255–272. https://doi.org/10.57017/jaes.v20.2(88).07
 - Mercadier, M., Tarazi, A., Armand, P., & Lardy, J.-P. (2025). *Monitoring bank risk around the world using unsupervised learning.* European Journal of Operational Research, 324(2), 590–615. https://doi.org/10.1016/j.ejor.2025.01.036
 - Roengpitya, R., Tarashev, N., & Tsatsaronis, K. (2014). *Bank business models.* BIS Quarterly Review, December, 55–65. https://www.bis.org/publ/qtrpdf/r_qt1412g.htm
+
+### 6.2. Otras fuentes consultadas
+
+- BCRA — Portal de Entidades Financieras (estados contables, situación de deudores, datos de estructura).
+- BCRA — Régimen de Transparencia, Sección 36 (información comercial de productos).
+- BCRA — Comunicación "A" (clasificación de deudores: situaciones 1 a 5).
+
+---
+
+## 7. Anexos
+
+### 7.1. Código fuente
+
+- Repositorio del proyecto con los notebooks `00`–`06` (scraping, ingesta y calidad, EDA, clustering, validación supervisada) y los scripts de generación. *(Link al repositorio en el documento final.)*
+
+### 7.2. Tablas y gráficos adicionales
+
+Los siguientes documentos detallan cada etapa y contienen tablas/figuras ampliadas:
+
+- `resumen_eda.md` — análisis exploratorio completo (notebook 02).
+- `resumen_clustering.md` — caracterización detallada del modelo principal 05A.
+- `resumen_clustering_alternativo.md` — comparación sistemática de modelos (K-Means, GMM, Ward, DBSCAN) y argumentación de la elección.
+- `resumen_clasificador.md` — resultados completos del clasificador LightGBM y análisis SHAP por clase, banco por banco.
