@@ -72,10 +72,12 @@
   - 6.2. Otras fuentes consultadas
 
 **7. Anexos**
-  - 7.1. Código fuente (repositorio de notebooks 00–06)
+  - 7.1. Código fuente (repositorio: scraper + notebooks 01–06)
   - 7.2. Tablas y gráficos adicionales (resúmenes por notebook)
 
 > **Incorporación del feedback de la Entrega II.** La devolución fue positiva ("la entrega es excelente") y planteó una única observación: en la sección de concentración se dudaba si los públicos quintuplican el activo mediano de los privados nacionales o de los extranjeros. Se resuelve y precisa en §4: el activo mediano de los públicos (1.085 M) es ≈ 5× el de los privados nacionales (216 M) y ≈ 2,3× el de los extranjeros (476 M). La afirmación original refería correctamente a los privados nacionales; se reformula para que el dato no quede ambiguo respecto a la figura.
+
+> **Nota sobre el cambio de modelo principal respecto a la Entrega II.** En la Entrega II el modelo de referencia era K-Means k=3 (clusters de 11/29/12). Tras una exploración metodológica deliberada (notebooks 03 → 04 → 05, documentada en §3.4 y §4.1), el modelo principal pasó a ser el **GMM sobre espacio mixto (05A)**, con clusters de **27/15/10**. El cambio **no corrige un error** del modelo anterior: responde a que el 05A integra la oferta comercial, recupera el sub-grupo digital y resulta más interpretable y validable. La diferencia de números entre entregas refleja, por tanto, una mejora de modelo, no una rectificación de cálculo.
 
 ---
 
@@ -115,7 +117,7 @@ La literatura sobre segmentación bancaria no supervisada ofrece a este trabajo 
 
 - **Mercadier, Tarazi, Armand & Lardy (2025) — *Monitoring bank risk around the world using unsupervised learning*, European Journal of Operational Research.** Rankean 256 bancos de 43 países por nivel de riesgo, combinando 72 indicadores (de balance, de mercado y sistémicos) que reducen a 10 factores interpretables mediante PCA antes de aplicar k-means.
   - *Aporte 1:* respaldo empírico para usar **PCA como paso previo al clustering** cuando se trabaja con muchas variables correlacionadas, abordando explícitamente la multicolinealidad y produciendo factores con sentido económico.
-  - *Aporte 2:* un marco de **validación interna** basado en silhouette y Davies-Bouldin como métricas complementarias para elegir el número de clusters. Este trabajo adopta ese marco, **con una salvedad sustantiva** (desarrollada en §8): en un sistema con continuos genuinos entre perfiles, el silhouette no puede ser el criterio decisorio único, y se complementa con validación supervisada.
+  - *Aporte 2:* un marco de **validación interna** basado en silhouette y Davies-Bouldin como métricas complementarias para elegir el número de clusters. Este trabajo adopta ese marco, **con una salvedad sustantiva** (desarrollada en §4.3): en un sistema con continuos genuinos entre perfiles, el silhouette no puede ser el criterio decisorio único, y se complementa con validación supervisada.
 
 - **Chherawala, Vaidya & Basu (2025) — *Multidimensional surveillance of the Indian banking system: A cluster approach*, Journal of Applied Economic Sciences.** Aplican k-means al sistema bancario indio sobre 30 bancos durante 2005–2023, comparando perfiles de riesgo entre bancos públicos y privados a lo largo de distintos episodios de estrés financiero.
   - *Aporte:* es el precedente más cercano en **escala muestral y contexto institucional** —economía emergente, presencia estatal significativa, dimensión muestral comparable a la argentina (n ≈ 30–50)—. Posiciona al clustering como instrumento de supervisión macroprudencial, capaz de informar decisiones regulatorias a partir de la identificación de perfiles de riesgo diferenciados, que es el horizonte aplicado de esta tesis.
@@ -144,7 +146,7 @@ Se replica el esquema choice/outcome de Roengpitya et al. y la secuencia *reducc
 
 ### 3.1. Presentación y descripción de los datos
 
-El dataset integra dos fuentes públicas del BCRA que capturan dimensiones complementarias del negocio bancario: el balance contable (qué tiene y cómo se fondea cada banco) y la oferta comercial (qué productos ofrece y bajo qué condiciones). Toda la captura y el procesamiento se documentan en los notebooks `00` (scraper) y `01` (ingesta y calidad).
+El dataset integra dos fuentes públicas del BCRA que capturan dimensiones complementarias del negocio bancario: el balance contable (qué tiene y cómo se fondea cada banco) y la oferta comercial (qué productos ofrece y bajo qué condiciones). Toda la captura y el procesamiento se documentan en el script `scripts/00_scraper_bcra.py` (scraper) y el notebook `01` (ingesta y calidad).
 
 - **Fuentes (dos, públicas del BCRA).**
   - *Portal de entidades financieras:* estados contables, situación de deudores y datos de estructura (dotación de personal). Capturado mediante un **scraper propio** para 56 bancos en tres cortes anuales (Dic-23, Dic-24, Dic-25).
@@ -224,7 +226,7 @@ El abordaje combina ingeniería de datos sobre fuentes públicas del BCRA, anál
   - **nb 04 — GMM k=3** sobre las 10 continuas + log + RobustScaler (sin oferta).
   - **nb 05 — GMM k=3 sobre espacio mixto**, en dos variantes de ponderación de las binarias (peso 1.0 = "05A" y peso 0.5 = "05B").
   - **Contrastes algorítmicos:** clustering jerárquico de Ward y DBSCAN (densidad), para chequear si la partición de K-Means/GMM es un artefacto del algoritmo.
-  - *Selección del número de clusters:* silhouette + Davies-Bouldin + método del codo (k=3 robusto en todos los modelos). *Selección del modelo final:* por interpretabilidad sustantiva + validación supervisada, no por silhouette (ver §6 y §8).
+  - *Selección del número de clusters:* silhouette + Davies-Bouldin + método del codo (k=3 robusto en todos los modelos). *Selección del modelo final:* por interpretabilidad sustantiva + validación supervisada, no por silhouette (ver §4.1 y §4.3).
 - **Validación supervisada (nb 06).** Un clasificador **LightGBM multiclase** se entrena sobre las **etiquetas del clustering** usando las features originales. La lógica: si un modelo supervisado que nunca vio el algoritmo de clustering puede predecir las etiquetas con buena performance, entonces la partición es estructura real en los datos.
   - **Nested Cross-Validation** (5 folds externos × 3 internos) para una estimación honesta de generalización con n chico.
   - **RandomizedSearchCV** (30 iteraciones) en el loop interno, optimizando **macro-F1** (no accuracy, por el desbalance 27/15/10).
@@ -255,14 +257,14 @@ El abordaje combina ingeniería de datos sobre fuentes públicas del BCRA, anál
 
 ### 4.1. Resultados I — Segmentación no supervisada
 
-El modelo principal de la tesis es el **GMM k=3 sobre el espacio mixto con peso de binarias 1.0 (modelo "05A")**. Produce una partición de **27 / 15 / 10** bancos que mapea limpiamente a tres modelos de negocio reconocibles. La elección de este modelo por sobre alternativas con silhouette más alto se argumenta en §8.
+El modelo principal de la tesis es el **GMM k=3 sobre el espacio mixto con peso de binarias 1.0 (modelo "05A")**. Produce una partición de **27 / 15 / 10** bancos que mapea limpiamente a tres modelos de negocio reconocibles. La elección de este modelo por sobre alternativas con silhouette más alto se argumenta en §4.3.
 
 ![Proyección PCA de los 52 bancos coloreada por cluster del GMM.](figs_entrega3/fig_clustering_pca.png)
 
 *Figura 2. Proyección PCA (PC1 40,3 % · PC2 13,7 %) de los 52 bancos coloreada por cluster del modelo 05A (izq., peso binarias 1.0, silhouette 0,145). La nube es continua, sin huecos limpios entre grupos: las fronteras entre perfiles son borrosas —algo que el silhouette refleja y que la validación supervisada explica como continuos reales del sistema, no como falla del modelo.*
 
 - **Cluster 0 — Minoristas masivos (27 bancos).** ROA 3,1 %; depósitos 66 % del activo; eficiencia 43 %; oferta retail completa (paquetes premium 67 %, hipotecas 78 %, tarjetas premium 59 %). Es el **núcleo del sistema bancario tradicional**: Galicia, Nación, BBVA, Santander, todos los públicos provinciales, Macro, Patagonia, Supervielle, Credicoop. Bancos grandes, con red, fondeados con depósitos minoristas y oferta de productos diversificada.
-- **Cluster 1 — Chicos en transformación (15 bancos).** ROA −2,3 %; eficiencia 80 % (cost-to-income malo); cartera irregular 4,3 %. Ofrecen personales (87 %) pero casi no hipotecas (20 %). Incluye **los 4 bancos 100 % digitales** (Brubank, Uala, Voii, Dino), entidades de consumer finance (Servicios Financieros, Columbia, Sucrédito, Masventas) y privados chicos con dificultades (Meridiano, Julio, Saenz). El sub-perfil fintech queda **anidado** dentro de un cluster más amplio que comparte el rasgo "chicos minoristas con productos de consumo y rentabilidad débil".
+- **Cluster 1 — Chicos en transformación (15 bancos).** ROA −2,3 %; eficiencia 80 % (cost-to-income malo); cartera irregular 4,3 %. Ofrecen personales (87 %) pero casi no hipotecas (20 %). Incluye **los 4 bancos 100 % digitales** (Brubank, Uala, Voii, Dino), entidades de consumer finance (Servicios Financieros, Columbia, Sucrédito, Masventas) y privados chicos con dificultades (Banco Meridian, Banco Julio, Banco Piano). El sub-perfil fintech queda **anidado** dentro de un cluster más amplio que comparte el rasgo "chicos minoristas con productos de consumo y rentabilidad débil".
 - **Cluster 2 — Mayoristas / inversión (10 bancos).** ROA 3,2 %; eficiencia 30 %; depósitos solo 45 % del activo; cartera irregular 0,6 %. **Casi no ofrecen productos minoristas** (hipotecas 10 %, paquetes 10 %). Banca corporativa y de mercado de capitales: Citibank, Banco de Valores, Mariva, BICE, CMF, BACS. Se fondean en el mercado mayorista o con capital propio e invierten/titulizan en lugar de prestar a retail.
 
 **Hallazgos estructurales.**
@@ -377,7 +379,7 @@ El principal aporte metodológico, frente a una literatura que se detiene en la 
 
 ### 7.1. Código fuente
 
-- Repositorio del proyecto con los notebooks `00`–`06` (scraping, ingesta y calidad, EDA, clustering, validación supervisada) y los scripts de generación. *(Link al repositorio en el documento final.)*
+- Repositorio del proyecto: el script `scripts/00_scraper_bcra.py` (scraping BCRA) y los notebooks `01`–`06` (ingesta y calidad, EDA, clustering base/alternativo/principal, validación supervisada). *(Link al repositorio en el documento final.)*
 
 ### 7.2. Tablas y gráficos adicionales
 
@@ -387,3 +389,67 @@ Los siguientes documentos detallan cada etapa y contienen tablas/figuras ampliad
 - `resumen_clustering.md` — caracterización detallada del modelo principal 05A.
 - `resumen_clustering_alternativo.md` — comparación sistemática de modelos (K-Means, GMM, Ward, DBSCAN) y argumentación de la elección.
 - `resumen_clasificador.md` — resultados completos del clasificador LightGBM y análisis SHAP por clase, banco por banco.
+
+### 7.3. Snippets de código central
+
+> *Nota interna (no se incluye en el PDF de la entrega — la consigna pide "sin código adjunto"). Mapa de los bloques de código que sostienen cada resultado, para referencia propia y para la defensa.*
+
+**Construcción del espacio mixto — modelo principal 05A** · `notebooks/05_clustering_intermedio.ipynb` (celdas 6 y 8). *Sostiene §3.4–3.5 y §4.1.*
+
+```python
+LOG_VARS = ["liquidez", "cartera_irregular", "eficiencia"]
+df_cont = df_imp[FEATURES_CONT].copy()
+for v in LOG_VARS:
+    df_cont[v] = np.log1p(df_cont[v])          # log sobre las sesgadas
+X_cont = RobustScaler().fit_transform(df_cont) #   + RobustScaler
+X_bin  = df_imp[FEATURES_BIN].values.astype(float)  # binarias sin escalar
+
+X_A = np.hstack([X_cont, X_bin * 1.0])   # ← modelo 05A (peso 1.0)
+X_B = np.hstack([X_cont, X_bin * 0.5])   #   variante 05B (peso 0.5)
+```
+
+**Ajuste del GMM k=3 (genera los 3 clusters y las probabilidades)** · mismo notebook (celda 17). *Sostiene la partición 27/15/10, el silhouette 0,145 y las probabilidades de pertenencia.*
+
+```python
+def fit_gmm(X, k=3):
+    gmm = GaussianMixture(n_components=k, covariance_type="full",
+                          random_state=SEED, n_init=20)
+    gmm.fit(X)
+    labels = gmm.predict(X)
+    probs  = gmm.predict_proba(X).max(axis=1)   # probabilidad de pertenencia
+    return labels, probs, gmm.bic(X), silhouette_score(X, labels)
+```
+
+**Validación supervisada — Nested Cross-Validation** · `notebooks/06_clasificador_lgbm.ipynb` (celda 11). *Sostiene accuracy 0,867 ± 0,075, macro-F1 0,850, matriz de confusión y los 7 errores.*
+
+```python
+outer = StratifiedKFold(n_splits=5, shuffle=True, random_state=SEED)
+for tr, te in outer.split(X, y):
+    inner = StratifiedKFold(n_splits=3, shuffle=True, random_state=SEED)
+    search = RandomizedSearchCV(make_lgbm(), PARAM_DIST, n_iter=30,
+                                cv=inner, scoring="f1_macro", refit=True)
+    search.fit(X[tr], y[tr])
+    outer_preds[te] = search.best_estimator_.predict(X[te])  # evaluación honesta
+# make_lgbm() usa class_weight="balanced" por el desbalance 27/15/10
+```
+
+**Interpretabilidad — SHAP por clase** · mismo notebook (celda 21). *Sostiene las Figuras 4 y 5 y la "firma" de cada perfil.*
+
+```python
+explainer = shap.TreeExplainer(final_model)
+shap_values = explainer.shap_values(X)          # 3D: (bancos, features, clases)
+shap_list = [shap_values[:, :, k] for k in range(shap_values.shape[2])]
+imp_global = pd.Series(
+    np.mean([np.abs(s) for s in shap_list], axis=0).mean(axis=0),
+    index=feature_names).sort_values(ascending=False)
+```
+
+**Validación inferencial del EDA — Kruskal-Wallis** · `notebooks/02_eda.ipynb` (celda 46). *Sostiene la tabla de §3.3.*
+
+```python
+from scipy import stats
+for var in VARS_KW:
+    grupos = [df24.loc[df24["tipo_entidad"]==t, var].dropna().values
+              for t in ORDEN_TIPO]
+    H, p = stats.kruskal(*grupos)   # 6 de 8 ratios significativos al 5 %
+```
