@@ -477,15 +477,17 @@ cartera minorista: Bank of China, JPMorgan, BNP Paribas, Cetelem, cuyas métrica
 \end{itemize}
 
 \paragraph{Reducción dimensional (PCA).} Usada para diagnóstico y visualización. En el espacio mixto, los
-dos primeros componentes explican $\sim$54\,\% de la varianza (Figura~\ref{fig:pca}) y se necesitan
-$\sim$7 componentes para alcanzar el 90\,\%, lo que confirma que la heterogeneidad es genuinamente
+dos primeros componentes explican el 54\,\% de la varianza (Figura~\ref{fig:pca}); se alcanza el 80\,\%
+con 5 componentes y el 90\,\% con 8, lo que confirma que la heterogeneidad es genuinamente
 multidimensional y no reducible a un único eje ``tamaño''.
 
 \begin{figure}[htbp]
 \centering
 \includegraphics[width=0.95\textwidth]{figs_entrega3/fig_pca_scree.png}
-\caption{\textit{Scree plot} (izq.) y varianza acumulada (der.) del PCA. La caída es gradual y se
-requieren $\sim$7 componentes para el 90\,\%: el sistema no se resume en pocos ejes dominantes.}
+\caption{\textit{Scree plot} (izq.) y varianza acumulada (der.) del PCA sobre el espacio mixto de 21
+variables del modelo principal. Los dos primeros componentes explican el 54\,\% de la varianza; el 80\,\%
+se alcanza con 5 componentes y el 90\,\% con 8: la caída es gradual y el sistema no se resume en pocos
+ejes dominantes.}
 \label{fig:pca}
 \end{figure}
 
@@ -571,10 +573,12 @@ más alto se argumenta en la Sección~\ref{sec:discusion}.
 \centering
 \includegraphics[width=0.95\textwidth]{figs_entrega3/fig_clustering_pca.png}
 \caption{Proyección PCA (PC1 40,3\,\% $\cdot$ PC2 13,7\,\%) de los 52 bancos coloreada por \textit{cluster}
-del modelo GMM sobre el espacio mixto (peso de las binarias 1,0, \textit{silhouette} 0,145). La nube es
-continua, sin separaciones nítidas entre grupos: las fronteras entre perfiles son difusas, lo que el
-\textit{silhouette} refleja y la validación supervisada explica como solapamiento entre perfiles, no como
-una falla del modelo.}
+del modelo GMM sobre el espacio mixto. El panel izquierdo corresponde al modelo elegido (peso de las
+binarias 1,0, \textit{silhouette} 0,145); el derecho, a la variante con peso 0,5 (\textit{silhouette}
+0,174), descartada por su menor coincidencia con el modelo base y menor interpretabilidad
+(Sección~\ref{sec:seleccion}). En ambos casos la nube es continua, sin separaciones nítidas entre grupos:
+las fronteras entre perfiles son difusas, lo que el \textit{silhouette} refleja y la validación supervisada
+explica como solapamiento entre perfiles, no como una falla del modelo.}
 \label{fig:pca_clusters}
 \end{figure}
 
