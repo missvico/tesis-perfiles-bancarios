@@ -90,7 +90,7 @@ Este documento no incluye código: las salidas relevantes se presentan como tabl
 El sistema bancario argentino reúne alrededor de 70 entidades de naturaleza muy
 heterogénea ---bancos públicos nacionales y provinciales, privados nacionales, filiales
 de bancos extranjeros y entidades de nicho--- cuyas diferencias en modelos de negocio no
-son capturadas por los promedios agregados que publican regularmente el INDEC y el BCRA.
+son capturadas por los promedios agregados del sistema que publica regularmente el BCRA.
 Un banco público provincial con red de sucursales y fondeo de depósitos minoristas, un
 banco de inversión que opera en el mercado de capitales y una \textit{fintech} 100\,\%
 digital conviven bajo la misma categoría regulatoria de ``entidad financiera'', pero
@@ -340,7 +340,8 @@ a errores de carga:
   Cetelem) se les asigna \texttt{NaN} en lugar de 0 en cartera irregular, para que no aparezcan como
   ``0\,\% de mora'' y distorsionen las medianas por tipo.
   \item No se detectaron datos corruptos. Los valores extremos de ROA/ROE responden a fenómenos
-  económicos reales (pérdidas de algunos extranjeros en 2024, fin del ciclo de LELIQ). El rango de
+  económicos reales: pérdidas de algunos extranjeros en 2024 y el fin del ciclo de LELIQ, documentado
+  por el propio regulador \citep{bcra2024ief}. El rango de
   activo va de $\sim$7\,M a $\sim$48.000\,M de pesos (ratio 7.000$\times$), lo que obliga a trabajar en
   escala logarítmica y a usar la mediana en lugar de la media en las comparaciones por grupo.
 \end{itemize}
@@ -432,7 +433,7 @@ nítidamente los perfiles económicos. La escala del activo se grafica en escala
 
 \paragraph{Dinámica temporal.} Entre Dic-23 y Dic-25, el ROA mediano cae fuerte en los tres tipos
 (públicos 4,15 $\rightarrow$ 0,79; privados nacionales 3,06 $\rightarrow$ 0,35), consistente con el fin
-del ciclo de LELIQ; la cartera irregular se duplica en públicos (2,33 $\rightarrow$ 5,05) y casi se
+del ciclo de LELIQ \citep{bcra2024ief}; la cartera irregular se duplica en públicos (2,33 $\rightarrow$ 5,05) y casi se
 duplica en privados (1,85 $\rightarrow$ 3,38); y el ratio préstamos/activo sube de $\sim$14\,\% a
 $\sim$38\,\% en privados nacionales, señal de una reactivación del crédito que aún no se traduce en
 rentabilidad. Esta dinámica motiva modelar sobre el promedio de los tres cortes ---un perfil estructural
@@ -846,6 +847,10 @@ decisión metodológica de relajar el esquema \textit{choice/outcome} sin incurr
 \begingroup
 \renewcommand{\section}[2]{}
 \begin{thebibliography}{9}
+
+\bibitem[BCRA(2024)]{bcra2024ief}
+Banco Central de la República Argentina (2024). \textit{Informe de Estabilidad Financiera --- Primer
+semestre de 2024.} BCRA. \url{https://www.bcra.gob.ar/PublicacionesEstadisticas/Informe-estabilidad-financiera.asp}
 
 \bibitem[Chherawala et al.(2025)]{chherawala2025}
 Chherawala, T., Vaidya, A., \& Basu, S. (2025). \textit{Multidimensional surveillance of the Indian banking
