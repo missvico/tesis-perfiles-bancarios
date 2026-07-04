@@ -18,7 +18,7 @@
 
 **2. Marco teórico**
   - 2.1. Relevamiento de trabajos previos
-    - Roengpitya et al. (2014) — modelos de negocio bancarios (esquema choice/outcome)
+    - Roengpitya et al. (2014) — modelos de negocio bancarios (esquema choice/outcome, adaptado en esta tesis)
     - Mercadier et al. (2025) — PCA + k-means + validación interna
     - Chherawala et al. (2025) — clustering en economía emergente (precedente cercano)
   - 2.2. Conceptos y técnicas de ciencia de datos utilizados
@@ -42,7 +42,7 @@
     - Universo y espacio de features (mixto: balance + oferta)
     - Reducción dimensional y comparación sistemática de modelos de clustering
   - 3.5. Selección de características
-    - Esquema choice/outcome; ponderación de binarias de oferta
+    - Esquema choice/outcome adaptado (variables de resultado incluidas deliberadamente); ponderación de binarias de oferta
   - 3.6. Métricas de evaluación
     - Internas (silhouette, Davies-Bouldin, ARI) y supervisadas (accuracy, macro-F1)
   - 3.7. Métodos estadísticos
@@ -113,7 +113,7 @@ El documento sigue el flujo del pipeline analítico: el **marco teórico** (§2)
 La literatura sobre segmentación bancaria no supervisada ofrece a este trabajo tres aportes concretos, que se traducen en decisiones de diseño: cómo seleccionar las variables que entran al algoritmo, cómo manejar la redundancia entre ratios, y cómo validar que la partición es significativa. Se seleccionaron tres referencias que cubren, respectivamente, el diseño de variables, el pipeline metodológico, y el precedente más cercano en contexto.
 
 - **Roengpitya, Tarashev & Tsatsaronis (2014) — *Bank business models*, BIS Quarterly Review.** Identifican tres modelos de negocio diferenciados —banca minorista, banca mayorista de fondeo, y banca de inversión orientada al trading— sobre una muestra de 222 bancos internacionales, aplicando clustering jerárquico de Ward sobre ratios de balance.
-  - *Aporte central:* la distinción metodológica entre **variables de elección** —que reflejan decisiones estratégicas del banco (estructura de balance, mix de fondeo) y son las únicas que entran al algoritmo— y **variables de resultado** —rentabilidad, costos— que se reservan para caracterizar los perfiles *a posteriori*. Esta separación evita la circularidad de definir grupos a partir de las mismas dimensiones con que luego se los evalúa, y constituye la base del diseño de variables que adopta esta tesis: el ROA, por ejemplo, no entra al clustering como criterio de agrupamiento sino que se usa para describir los clusters resultantes.
+  - *Aporte central:* la distinción metodológica entre **variables de elección** —que reflejan decisiones estratégicas del banco (estructura de balance, mix de fondeo) y son las únicas que entran al algoritmo— y **variables de resultado** —rentabilidad, costos— que se reservan para caracterizar los perfiles *a posteriori*. Esta separación evita, en su forma pura, la circularidad de definir grupos a partir de las mismas dimensiones con que luego se los evalúa. Esta tesis **adapta** el esquema en lugar de replicarlo puro: dado el tamaño chico de la muestra (n=52) y la evidencia de que el sistema argentino tiene continuos genuinos entre perfiles, se decidió incluir un subconjunto de variables de resultado (ROA, eficiencia, cartera irregular) directamente en el espacio de clustering del modelo principal, porque sin ellas el algoritmo no separaba los perfiles de negocio de forma interpretable. La adaptación se justifica y se pondera en §3.5, y su efecto se controla ex post mediante la validación supervisada (§4.2): que SHAP identifique justamente esas variables como las más discriminantes no es circular, porque el clasificador nunca tuvo acceso al proceso de clustering, solo a sus etiquetas resultantes.
 
 - **Mercadier, Tarazi, Armand & Lardy (2025) — *Monitoring bank risk around the world using unsupervised learning*, European Journal of Operational Research.** Rankean 256 bancos de 43 países por nivel de riesgo, combinando 72 indicadores (de balance, de mercado y sistémicos) que reducen a 10 factores interpretables mediante PCA antes de aplicar k-means.
   - *Aporte 1:* respaldo empírico para usar **PCA como paso previo al clustering** cuando se trabaja con muchas variables correlacionadas, abordando explícitamente la multicolinealidad y produciendo factores con sentido económico.
@@ -138,7 +138,7 @@ Síntesis de las técnicas empleadas (definiciones operativas completas en el gl
 
 ### 2.3. Posicionamiento y aporte de la tesis
 
-Se replica el esquema choice/outcome de Roengpitya et al. y la secuencia *reducción dimensional → clustering → validación interna* de Mercadier et al., **extendiendo** la frontera en tres direcciones: (i) se integra la **oferta comercial pública** (Régimen de Transparencia) como dimensión de segmentación, además del balance —algo ausente en los tres antecedentes—; (ii) se agrega una etapa de **validación supervisada** con LightGBM que confirma que los grupos son estadísticamente diferenciables; y (iii) se incorpora **interpretabilidad por SHAP a nivel de cada perfil**, cuantificando qué variables definen cada cluster. La combinación de validación supervisada + SHAP sobre etiquetas de clustering es el principal aporte metodológico frente a la literatura, que se detiene en la validación interna geométrica.
+Se toma como punto de partida el esquema choice/outcome de Roengpitya et al. y la secuencia *reducción dimensional → clustering → validación interna* de Mercadier et al., **adaptándolos** en cuatro direcciones: (i) se integra la **oferta comercial pública** (Régimen de Transparencia) como dimensión de segmentación, además del balance —algo ausente en los tres antecedentes—; (ii) se **relaja la separación choice/outcome** del esquema original, incorporando al clustering un subconjunto acotado de variables de resultado (ROA, eficiencia, cartera irregular) que resultaron necesarias para que los clusters fueran interpretables en un sistema con continuos genuinos (ver §2.1 y §3.5); (iii) se agrega una etapa de **validación supervisada** con LightGBM que confirma que los grupos son estadísticamente diferenciables pese a esa relajación; y (iv) se incorpora **interpretabilidad por SHAP a nivel de cada perfil**, cuantificando qué variables definen cada cluster. La combinación de validación supervisada + SHAP sobre etiquetas de clustering es el principal aporte metodológico frente a la literatura, que se detiene en la validación interna geométrica —y es, además, la herramienta que permite sostener la decisión de relajar el esquema choice/outcome sin caer en circularidad.
 
 ---
 
@@ -235,7 +235,7 @@ El abordaje combina ingeniería de datos sobre fuentes públicas del BCRA, anál
 
 ### 3.5. Selección de características
 
-- **Esquema choice/outcome (Roengpitya et al.).** Las variables de **elección** (estructura de balance + oferta comercial) definen los grupos; las de **resultado** (ROA, ROE, eficiencia, costos) se reservan para caracterizarlos a posteriori, evitando circularidad.
+- **Esquema choice/outcome, adaptado (Roengpitya et al.).** El esquema original reserva las variables de **resultado** (ROA, ROE, eficiencia, costos) para caracterizar los clusters *a posteriori*, sin que entren al algoritmo. En el modelo principal (05A) esa separación se **relaja deliberadamente**: `roa`, `eficiencia` y `cartera_irregular` sí integran el espacio de clustering (junto con las variables de elección: estructura de balance y oferta comercial), porque sin ellas el GMM no logra separar los tres modelos de negocio de forma interpretable — el sistema argentino tiene continuos genuinos que las variables de balance puro no alcanzan a resolver. ROE queda fuera del clustering por su alta colinealidad con ROA (ρ=0,92, §3.3) y sí se usa como variable puramente descriptiva. La relajación se controla ex post: la validación supervisada (§4.2) confirma que la partición resultante es predecible y no circular, ya que el clasificador solo ve las etiquetas de cluster, nunca el proceso que las generó.
 - **Ponderación de las binarias de oferta.** Se evaluaron dos pesos para el bloque de 11 binarias (1.0 y 0.5) frente a las 10 continuas. El peso 1.0 (modelo 05A) maximiza la interpretabilidad y la coincidencia con el modelo base (ver §4.1).
 - **Variables descartadas.** Binarias casi constantes en el panel (plazo fijo, prendario), que SHAP confirma sin poder discriminante.
 
