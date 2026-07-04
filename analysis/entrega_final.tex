@@ -1,0 +1,907 @@
+\documentclass[11pt,a4paper]{article}
+
+% ============================================================
+%  Perfiles bancarios en Argentina — Trabajo Final
+%  Taller de Tesis I — Entrega IV
+%  Victoria Di Liscia — Maestría en Explotación de Datos, FCEN-UBA
+% ============================================================
+
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[spanish,es-noquoting]{babel}
+\usepackage{lmodern}
+\usepackage[a4paper,margin=2.5cm]{geometry}
+\usepackage{graphicx}
+\usepackage{booktabs}
+\usepackage{amsmath,amssymb}
+\usepackage{xcolor}
+\usepackage{caption}
+\usepackage{enumitem}
+\usepackage{fancyhdr}
+\usepackage{titlesec}
+\usepackage[hidelinks,colorlinks=true,linkcolor=azultesis,citecolor=azultesis,urlcolor=rojotesis]{hyperref}
+
+% ---- Paleta (colorblind-friendly, función comunicativa) ----
+\definecolor{azultesis}{RGB}{31,73,125}
+\definecolor{rojotesis}{RGB}{170,50,60}
+\definecolor{gristesis}{RGB}{90,90,90}
+
+% ---- Encabezado / pie ----
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[L]{\small\textcolor{gristesis}{Perfiles bancarios en Argentina}}
+\fancyhead[R]{\small\textcolor{gristesis}{Trabajo Final}}
+\fancyfoot[C]{\thepage}
+\renewcommand{\headrulewidth}{0.4pt}
+
+% ---- Estilo de secciones ----
+\titleformat{\section}{\color{azultesis}\Large\bfseries}{\thesection}{0.6em}{}
+\titleformat{\subsection}{\color{azultesis}\large\bfseries}{\thesubsection}{0.6em}{}
+\titleformat{\subsubsection}{\color{azultesis}\normalsize\bfseries}{\thesubsubsection}{0.6em}{}
+
+\captionsetup{labelfont={color=rojotesis,bf},font=small}
+\setlist{itemsep=2pt,topsep=3pt}
+
+% ---- Caja de nota ----
+\usepackage{tcolorbox}
+\newtcolorbox{notebox}{colback=azultesis!4,colframe=azultesis!40,boxrule=0.5pt,arc=2pt,left=6pt,right=6pt,top=4pt,bottom=4pt}
+
+% ============================================================
+\begin{document}
+
+% ------------------- PORTADA -------------------
+\begin{titlepage}
+\centering
+\vspace*{3cm}
+{\color{azultesis}\rule{\textwidth}{1.2pt}}\\[0.4cm]
+{\Huge\bfseries\color{azultesis} Perfiles bancarios en Argentina}\\[0.3cm]
+{\Large\color{rojotesis} Una segmentación no supervisada del sistema financiero}\\[0.3cm]
+{\color{azultesis}\rule{\textwidth}{1.2pt}}\\[1.5cm]
+
+{\large\bfseries Victoria Di Liscia}\\[0.6cm]
+{Maestría en Explotación de Datos y Descubrimiento del Conocimiento}\\
+{Facultad de Ciencias Exactas y Naturales --- Universidad de Buenos Aires}\\[1.5cm]
+
+\begin{tabular}{rl}
+\textbf{Asignatura} & Taller de Tesis I\\
+\textbf{Instancia} & Trabajo Final (Entrega IV)\\
+\textbf{Fecha} & Julio 2026\\
+\end{tabular}
+
+\vfill
+\begin{notebox}
+\small
+\textbf{Nota sobre el código.} El código fuente completo (script de \textit{scraping} y
+notebooks del análisis, con instrucciones de reproducibilidad y versiones de software)
+se encuentra en el repositorio público del proyecto, referenciado en el Anexo (Sección~\ref{sec:anexos}).
+Este documento no incluye código: las salidas relevantes se presentan como tablas y figuras.
+\end{notebox}
+\end{titlepage}
+
+\tableofcontents
+\newpage
+
+% ============================================================
+\section{Introducción}
+% ============================================================
+
+\subsection{Contexto y motivación}
+
+El sistema bancario argentino reúne alrededor de 70 entidades de naturaleza muy
+heterogénea ---bancos públicos nacionales y provinciales, privados nacionales, filiales
+de bancos extranjeros y entidades de nicho--- cuyas diferencias en modelos de negocio no
+son capturadas por los promedios agregados que publican regularmente el INDEC y el BCRA.
+Un banco público provincial con red de sucursales y fondeo de depósitos minoristas, un
+banco de inversión que opera en el mercado de capitales y una \textit{fintech} 100\,\%
+digital conviven bajo la misma categoría regulatoria de ``entidad financiera'', pero
+responden a lógicas de negocio, estructuras de balance y exposiciones al riesgo distintas.
+Identificar perfiles diferenciados en términos de balance, rentabilidad y riesgo crediticio
+tiene, por eso, implicancias directas para la política macroprudencial: permite diseñar
+marcos regulatorios más precisos, anticipar cómo distintos tipos de entidades responden a
+\textit{shocks} macroeconómicos y monitorear la aparición de modelos de negocio emergentes.
+
+Si bien la literatura internacional sobre \textit{clustering} bancario es robusta
+\citep{roengpitya2014,mercadier2025}, su aplicación al caso argentino permanece escasa.
+La heterogeneidad del sistema local sugiere que los perfiles que emergerían de un análisis
+de este tipo serían sustantivamente distintos a los documentados en economías desarrolladas,
+lo que convierte a la Argentina en un caso de estudio de interés propio y no en una mera
+replicación. Las técnicas modernas de aprendizaje automático permiten, además, ir más allá
+de la identificación de grupos, explicando qué variables financieras los definen y con qué
+peso relativo.
+
+\subsection{Pregunta de investigación}
+
+\begin{quote}
+\textit{¿Existen perfiles diferenciados de bancos en Argentina según balance, rentabilidad
+y riesgo? ¿Qué variables determinan cada perfil?}
+\end{quote}
+
+\noindent El trabajo aborda esta pregunta mediante segmentación no supervisada sobre datos
+públicos del BCRA del período 2023--2025, integrando por primera vez para el caso argentino
+información de balance con indicadores de oferta comercial pública, y validando la partición
+resultante con un clasificador supervisado.
+
+\subsection{Estructura del documento}
+
+El documento sigue el flujo del \textit{pipeline} analítico. El marco teórico
+(Sección~\ref{sec:marco}) releva antecedentes y técnicas. La declaración de objetivos e
+hipótesis (Sección~\ref{sec:objetivos}) formaliza lo que el trabajo se propone. La
+metodología (Sección~\ref{sec:metodologia}) describe datos, preprocesamiento, análisis
+exploratorio y el diseño de modelado. Los resultados y la discusión
+(Sección~\ref{sec:resultados}) presentan la segmentación, su validación supervisada y la
+interpretación. La conclusión (Sección~\ref{sec:conclusion}) sintetiza hallazgos y trabajo
+futuro. Los anexos (Sección~\ref{sec:anexos}) remiten al código y al material complementario.
+
+% ============================================================
+\section{Marco teórico}
+\label{sec:marco}
+% ============================================================
+
+\subsection{Relevamiento de trabajos previos}
+
+La literatura sobre segmentación bancaria no supervisada ofrece a este trabajo tres aportes
+concretos, que se traducen en decisiones de diseño: cómo seleccionar las variables que entran
+al algoritmo, cómo manejar la redundancia entre ratios, y cómo validar que la partición es
+significativa. Se seleccionaron tres referencias que cubren, respectivamente, el diseño de
+variables, el \textit{pipeline} metodológico y el precedente más cercano en contexto.
+
+\paragraph{Roengpitya, Tarashev \& Tsatsaronis (2014).}
+En \textit{Bank business models} \citep{roengpitya2014} identifican tres modelos de negocio
+diferenciados ---banca minorista, banca mayorista de fondeo y banca de inversión orientada al
+\textit{trading}--- sobre una muestra de 222 bancos internacionales, aplicando \textit{clustering}
+jerárquico de Ward sobre ratios de balance. Su aporte central es la distinción metodológica entre
+\textbf{variables de elección} ---que reflejan decisiones estratégicas del banco (estructura de
+balance, mix de fondeo)--- y \textbf{variables de resultado} ---rentabilidad, costos--- que en el
+esquema original se reservan para caracterizar los perfiles \textit{a posteriori}, evitando la
+circularidad de definir grupos con las mismas dimensiones con que luego se los evalúa. Este trabajo
+\textbf{adapta} dicho esquema (ver Sección~\ref{sec:seleccion}): dado el tamaño reducido de la
+muestra y la presencia de solapamientos entre perfiles, se incorpora un subconjunto acotado de
+variables de resultado directamente al espacio de \textit{clustering}, controlando la posible
+circularidad mediante la validación supervisada posterior.
+
+\paragraph{Mercadier, Tarazi, Armand \& Lardy (2025).}
+En \textit{Monitoring bank risk around the world using unsupervised learning}
+\citep{mercadier2025} rankean 256 bancos de 43 países combinando 72 indicadores que reducen a 10
+factores mediante PCA antes de aplicar \textit{k-means}. Aportan dos elementos: respaldo empírico
+para usar \textbf{PCA como paso previo} al \textit{clustering} cuando hay muchas variables
+correlacionadas, y un marco de \textbf{validación interna} basado en \textit{silhouette} y
+Davies-Bouldin como métricas complementarias. Este trabajo adopta ese marco con una salvedad
+sustantiva (Sección~\ref{sec:discusion}): cuando existen bancos en zonas de frontera entre perfiles,
+el \textit{silhouette} tiende a ser bajo aunque la partición sea válida, por lo que se complementa
+con validación supervisada.
+
+\paragraph{Chherawala, Vaidya \& Basu (2025).}
+En \textit{Multidimensional surveillance of the Indian banking system} \citep{chherawala2025}
+aplican \textit{k-means} al sistema bancario indio (30 bancos, 2005--2023), comparando perfiles de
+riesgo entre bancos públicos y privados a lo largo de episodios de estrés financiero. Es el
+precedente más cercano en escala muestral y contexto institucional ---economía emergente, presencia
+estatal significativa, dimensión muestral comparable a la argentina ($n \approx 30$--$50$)--- y
+posiciona al \textit{clustering} como instrumento de supervisión macroprudencial, que es el horizonte
+aplicado de esta tesis.
+
+\paragraph{Diálogo entre los antecedentes y el caso argentino.}
+Los tres trabajos comparten una convicción ---que la heterogeneidad bancaria se organiza en un número
+reducido de modelos de negocio recuperables por métodos no supervisados--- pero difieren en escala y en
+supuestos que el caso argentino tensiona. \citet{roengpitya2014} trabajan con grandes bancos
+internacionales, donde los tres modelos (minorista, mayorista de fondeo, inversión) emergen nítidos
+porque las entidades son grandes y especializadas; en un sistema chico y con fuerte presencia estatal
+como el argentino, esa nitidez se pierde y aparecen bancos ``híbridos'' en zonas de frontera. La
+estrategia de PCA + \textit{k-means} de \citet{mercadier2025} está pensada para muestras grandes
+($n = 256$) donde el \textit{silhouette} es un criterio confiable; con $n = 52$ y perfiles solapados, esa
+métrica pierde poder de decisión ---una limitación que este trabajo aborda de frente incorporando una
+etapa de validación supervisada. El precedente de \citet{chherawala2025} es el más transferible por
+contexto, pero se limita a variables de balance; ninguno de los tres antecedentes integra la oferta
+comercial de productos, que en el caso argentino resulta ser una dimensión discriminante ---en particular
+para separar la banca minorista tradicional de la banca de inversión y para identificar el sub-grupo
+digital emergente. En síntesis, este trabajo hereda el andamiaje metodológico de la literatura pero lo
+adapta a un sistema más chico, más heterogéneo y con una dimensión comercial que los antecedentes no
+contemplan.
+
+\subsection{Conceptos y técnicas de ciencia de datos utilizados}
+
+\begin{itemize}
+  \item \textbf{Reducción dimensional --- PCA.} Transforma variables correlacionadas en componentes
+  ortogonales que retienen la mayor parte de la varianza; mitiga la multicolinealidad antes del
+  \textit{clustering} y revela la estructura latente del sistema.
+  \item \textbf{Clustering.}
+  \begin{itemize}
+    \item \textit{K-Means:} partición que minimiza la suma de cuadrados intracluster; eficiente y
+    equilibrada, requiere fijar $k$.
+    \item \textit{GMM (Gaussian Mixture Model):} modelo probabilístico que asigna a cada banco una
+    \textbf{probabilidad de pertenencia} a cada grupo, útil para caracterizar bancos en zonas de
+    frontera. La implementación proviene de \texttt{scikit-learn} \citep{scikit-learn}.
+    \item \textit{Ward (jerárquico) y DBSCAN (densidad):} usados como contraste para verificar que
+    la partición no es un artefacto del algoritmo.
+  \end{itemize}
+  \item \textbf{Validación supervisada.}
+  \begin{itemize}
+    \item \textit{LightGBM} \citep{lightgbm}: \textit{gradient boosting} sobre árboles, entrenado
+    sobre las etiquetas de \textit{cluster} para comprobar que los grupos son estadísticamente
+    diferenciables.
+    \item \textit{Validación cruzada anidada:} estimación honesta de generalización con muestras
+    chicas, separando la selección de hiperparámetros de la evaluación.
+  \end{itemize}
+  \item \textbf{Interpretabilidad --- SHAP} \citep{lundberg2017}. Valores de Shapley que cuantifican
+  la contribución de cada variable a la predicción, identificando qué ratios definen cada
+  \textit{cluster}.
+\end{itemize}
+
+\subsection{Posicionamiento y aporte de la tesis}
+
+Este trabajo retoma el esquema \textit{choice/outcome} de \citet{roengpitya2014} y la secuencia
+\textit{reducción dimensional} $\rightarrow$ \textit{clustering} $\rightarrow$ \textit{validación} de
+\citet{mercadier2025}, y agrega tres elementos propios: (i) incorpora la \textbf{oferta comercial
+pública} (Régimen de Transparencia) como dimensión de segmentación, además del balance; (ii) suma una
+etapa de \textbf{validación supervisada} con LightGBM para confirmar que los grupos son
+diferenciables; y (iii) usa \textbf{SHAP} para identificar qué variables definen cada \textit{cluster}.
+La combinación de validación supervisada e interpretabilidad sobre las etiquetas del \textit{clustering}
+es el principal aporte metodológico frente a una literatura que se detiene en la validación interna
+geométrica.
+
+% ============================================================
+\section{Objetivos e hipótesis}
+\label{sec:objetivos}
+% ============================================================
+
+\subsection{Objetivos}
+
+\paragraph{Objetivo general.} Identificar y caracterizar perfiles diferenciados de bancos en Argentina
+mediante técnicas de segmentación no supervisada, integrando información de balance con indicadores de
+oferta comercial pública para el período 2023--2025.
+
+\paragraph{Objetivos específicos.}
+\begin{itemize}
+  \item Construir un \textit{dataset} integrado que combine indicadores de balance con información de
+  oferta comercial pública del Régimen de Transparencia del BCRA.
+  \item Describir la heterogeneidad estructural del sistema bancario argentino.
+  \item Aplicar y comparar algoritmos de \textit{clustering} para detectar agrupamientos que no
+  necesariamente coincidan con la clasificación administrativa por tipo de entidad.
+  \item Caracterizar cada \textit{cluster} emergente por sus dimensiones económicas: rentabilidad,
+  riesgo crediticio, estructura de fondeo, escala y oferta comercial.
+  \item Validar la partición resultante con un clasificador supervisado e interpretar los perfiles con
+  valores SHAP, identificando las variables que definen cada uno.
+\end{itemize}
+
+\subsection{Hipótesis de trabajo}
+
+Al tratarse de un estudio de naturaleza exploratoria basado en aprendizaje no supervisado, el trabajo
+se organiza en torno a una hipótesis general de trabajo, sujeta a verificación empírica:
+
+\begin{notebox}
+\textbf{Hipótesis general.} El sistema bancario argentino se organiza en un número reducido de perfiles
+de negocio diferenciados y estables, que \textbf{no coinciden} con la clasificación administrativa por
+tipo de entidad (público / privado nacional / extranjero), y que pueden caracterizarse de forma
+interpretable a partir de un conjunto acotado de variables de balance y de oferta comercial.
+\end{notebox}
+
+\noindent Esta hipótesis es contrastable en dos sentidos operativos que el trabajo evalúa
+explícitamente: (i) si el tipo de entidad estructurara los grupos, los \textit{clusters} coincidirían
+con las categorías administrativas ---lo que se verifica en la Sección~\ref{sec:res1}---; y (ii) si los
+perfiles fueran meros artefactos del algoritmo, un clasificador supervisado independiente no lograría
+reproducirlos ---lo que se evalúa en la Sección~\ref{sec:res2}.
+
+% ============================================================
+\section{Metodología}
+\label{sec:metodologia}
+% ============================================================
+
+\subsection{Presentación y descripción de los datos}
+
+El \textit{dataset} integra dos fuentes públicas del BCRA que capturan dimensiones complementarias del
+negocio bancario: el balance contable (qué tiene y cómo se fondea cada banco) y la oferta comercial
+(qué productos ofrece y bajo qué condiciones).
+
+\begin{itemize}
+  \item \textbf{Portal de entidades financieras:} estados contables, situación de deudores y datos de
+  estructura (dotación de personal). Capturado mediante un \textit{scraper} propio para 56 bancos en
+  tres cortes anuales (Dic-23, Dic-24, Dic-25).
+  \item \textbf{Régimen de Transparencia} (Sección 36 de la normativa BCRA): siete archivos CSV con
+  información comercial estandarizada sobre hipotecas, préstamos personales, prendarios, plazo fijo,
+  tarjetas, paquetes y cajas de ahorro. Cubre 51 de los 56 bancos (5 entidades no publican).
+\end{itemize}
+
+La unión por código BCRA y la consolidación de los archivos de transparencia producen un
+\textbf{panel transversal de 168 observaciones} (56 bancos $\times$ 3 cortes) con 157 variables crudas.
+Sobre el balance se construyeron \textbf{13 ratios estándar} agrupados en seis dimensiones económicas
+(Cuadro~\ref{tab:ratios}).
+
+\begin{table}[htbp]
+\centering
+\caption{Ratios financieros construidos, por dimensión económica.}
+\label{tab:ratios}
+\small
+\begin{tabular}{ll}
+\toprule
+\textbf{Dimensión} & \textbf{Ratios} \\
+\midrule
+Rentabilidad & ROA, ROE \\
+Apalancamiento & Activo / Patrimonio neto \\
+Estructura de fondeo & Depósitos / Activo, Préstamos / Activo \\
+Liquidez & (Efectivo + depósitos en bancos) / Depósitos \\
+Eficiencia & Gastos de administración / Margen (\textit{cost-to-income}) \\
+Riesgo crediticio & Cartera irregular (situaciones 3-4-5) \\
+Productividad & Activo / Empleado \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\subsection{Preprocesamiento y limpieza}
+
+El diagnóstico de calidad identifica las siguientes situaciones, todas explicables y ninguna atribuible
+a errores de carga:
+
+\begin{itemize}
+  \item Cinco bancos no publican el Régimen de Transparencia $\rightarrow$ la oferta comercial queda
+  parcialmente faltante para $\sim$9\,\% de la muestra.
+  \item Algunos bancos pequeños no reportan dotación de personal en todos los cortes $\rightarrow$
+  afecta el ratio activo/empleado.
+  \item Entidades de muy reciente operación (digitales) tienen series incompletas en Dic-23.
+  \item A los 4 mayoristas sin cartera minorista relevante (Bank of China, JPMorgan, BNP Paribas,
+  Cetelem) se les asigna \texttt{NaN} en lugar de 0 en cartera irregular, para que no aparezcan como
+  ``0\,\% de mora'' y distorsionen las medianas por tipo.
+  \item No se detectaron datos corruptos. Los valores extremos de ROA/ROE responden a fenómenos
+  económicos reales (pérdidas de algunos extranjeros en 2024, fin del ciclo de LELIQ). El rango de
+  activo va de $\sim$7\,M a $\sim$48.000\,M de pesos (ratio 7.000$\times$), lo que obliga a trabajar en
+  escala logarítmica y a usar la mediana en lugar de la media en las comparaciones por grupo.
+\end{itemize}
+
+Los valores faltantes en las variables de modelado se imputan por la mediana del panel, criterio robusto
+a valores extremos.
+
+\subsection{Análisis exploratorio de datos}
+
+El análisis exploratorio cumple dos funciones: documentar la heterogeneidad del sistema y orientar el
+modelado (qué transformar, qué excluir, qué variables aportan señal).
+
+\paragraph{Estructura y concentración.} El sistema es estructuralmente competitivo pero con leve
+tendencia a concentrarse: el índice de Herfindahl-Hirschman (HHI) sobre activo pasa de 1.005 (Dic-23) a
+1.056 (Dic-25) y la cuota de los cinco mayores bancos sube de 59,1\,\% a 61,4\,\%. Ningún tramo supera el
+umbral de concentración moderada (1.500). El activo mediano por tipo de entidad (Dic-24) es de 1.085\,M
+para públicos, 216\,M para privados nacionales y 476\,M para extranjeros: los públicos tienen un activo
+mediano $\approx$ 5$\times$ el de los privados nacionales y $\approx$ 2,3$\times$ el de los extranjeros.
+La enorme dispersión de tamaño confirma la necesidad de tratar la escala como variable de control mediante
+el logaritmo del activo.
+
+\paragraph{Correlación entre ratios (Spearman, Dic-24).} La matriz de correlación
+(Figura~\ref{fig:spearman}) revela tres bloques de alta colinealidad que justifican empíricamente reducir
+la dimensión antes de clusterizar: \textit{escala} (activo, patrimonio y dotación con $\rho$ entre 0,91 y
+0,97), \textit{rentabilidad} (ROA y ROE con $\rho = 0{,}92$) y \textit{fondeo} (apalancamiento y
+depósitos/activo con $\rho = 0{,}65$). La eficiencia correlaciona negativamente con escala ($-0{,}61$) y
+con rentabilidad ($-0{,}58$), confirmando su rol de ratio de costos: los bancos más grandes y rentables
+son, en el sistema argentino, los más eficientes. Estos bloques anticipan una advertencia metodológica:
+alimentar el \textit{clustering} con las 13 variables crudas equivaldría a ponderar tres veces la
+dimensión ``escala'' y dos veces la ``rentabilidad'', sesgando la partición hacia esos ejes; de ahí la
+transformación y el escalado robusto que se describen en la Sección~\ref{sec:tecnicas}.
+
+\begin{figure}[htbp]
+\centering
+\includegraphics[width=0.72\textwidth]{figs_entrega3/fig_eda_spearman.png}
+\caption{Matriz de correlación de Spearman entre los 13 ratios (Dic-24). Los colores intensos marcan los
+tres bloques de alta colinealidad ---escala, rentabilidad y fondeo--- y la correlación negativa de la
+eficiencia con escala y rentabilidad. La estructura de bloques justifica la reducción dimensional previa
+al \textit{clustering}.}
+\label{fig:spearman}
+\end{figure}
+
+\paragraph{Validación inferencial (Kruskal-Wallis, Dic-24).} Para verificar formalmente que los ratios
+separan a los tres tipos de entidad ($n = 17$ públicos / 30 privados nacionales / 9 extranjeros), se
+aplicó el test no paramétrico de Kruskal-Wallis. Seis de ocho ratios rechazan la hipótesis nula al 5\,\%
+(Cuadro~\ref{tab:kw}). La liquidez es el ratio de mayor poder discriminante (extranjeros 33,1\,\% vs.
+públicos 13,5\,\%). Que depósitos/activo y activo/empleado \textbf{no} separen univariadamente anticipa
+un hallazgo clave: el tipo administrativo no capta el modelo de negocio, porque dentro de cada tipo hay
+perfiles distintos.
+
+\begin{table}[htbp]
+\centering
+\caption{Test de Kruskal-Wallis por ratio (Dic-24). H$_0$: las tres distribuciones provienen de la misma
+población.}
+\label{tab:kw}
+\small
+\begin{tabular}{lrrc}
+\toprule
+\textbf{Variable} & \textbf{H} & \textbf{p-valor} & \textbf{Sig. 5\,\%} \\
+\midrule
+Liquidez              & 13,33 & 0,0013 & \checkmark \\
+Apalancamiento        & 9,10  & 0,0106 & \checkmark \\
+ROA                   & 6,85  & 0,0325 & \checkmark \\
+Cartera irregular     & 6,67  & 0,0356 & \checkmark \\
+N.º productos ofrecidos & 6,43 & 0,0401 & \checkmark \\
+ROE                   & 6,20  & 0,0451 & \checkmark \\
+Depósitos / Activo    & 3,95  & 0,1386 & --- \\
+Activo / empleado     & 1,65  & 0,4391 & --- \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+La lectura visual de las distribuciones por tipo de entidad (Figura~\ref{fig:boxplots}) refuerza este
+punto. Aun en los ratios que el test declara significativos, las cajas se solapan de forma sustancial: no
+hay un tipo administrativo que domine limpiamente ninguna dimensión. Los extranjeros muestran la mayor
+dispersión ---conviven filiales muy líquidas y rentables con entidades en pérdida--- lo que confirma que
+la etiqueta ``extranjero'' agrupa modelos de negocio dispares. Es la primera evidencia, todavía
+descriptiva, de que la clasificación por propiedad no captura la estructura económica del sistema:
+justamente la hipótesis que el \textit{clustering} pondrá a prueba.
+
+\begin{figure}[htbp]
+\centering
+\includegraphics[width=\textwidth]{figs_entrega3/fig_eda_boxplots_tipo.png}
+\caption{Distribución de ocho ratios por tipo de entidad (Dic-24). El fuerte solapamiento de las cajas
+---incluso en los ratios estadísticamente significativos--- muestra que el tipo administrativo no separa
+nítidamente los perfiles económicos. La escala del activo se grafica en escala logarítmica.}
+\label{fig:boxplots}
+\end{figure}
+
+\paragraph{Dinámica temporal.} Entre Dic-23 y Dic-25, el ROA mediano cae fuerte en los tres tipos
+(públicos 4,15 $\rightarrow$ 0,79; privados nacionales 3,06 $\rightarrow$ 0,35), consistente con el fin
+del ciclo de LELIQ; la cartera irregular se duplica en públicos (2,33 $\rightarrow$ 5,05) y casi se
+duplica en privados (1,85 $\rightarrow$ 3,38); y el ratio préstamos/activo sube de $\sim$14\,\% a
+$\sim$38\,\% en privados nacionales, señal de una reactivación del crédito que aún no se traduce en
+rentabilidad. Esta dinámica motiva modelar sobre el promedio de los tres cortes ---un perfil estructural
+estable--- y dejar el análisis de transiciones como extensión futura.
+
+\paragraph{Oferta comercial.} La oferta de productos aporta información que el balance no refleja
+(Figura~\ref{fig:oferta}): los privados nacionales se especializan en plazo fijo (mediana de 11 variantes)
+y casi no ofrecen hipotecas ni prendarios; los públicos tienen la oferta más balanceada y son los únicos
+con presencia significativa en paquetes (mediana 3,5) e hipotecas; los extranjeros muestran oferta
+diversificada pero acotada en cada categoría, consistente con un foco en segmentos de altos ingresos.
+Estas asimetrías son sustantivas ---no derivan del tamaño ni de la rentabilidad, sino de la estrategia
+comercial--- y son la razón por la cual incorporar la oferta al conjunto de variables permite, como se verá,
+separar perfiles que el balance por sí solo confunde.
+
+\begin{figure}[htbp]
+\centering
+\includegraphics[width=0.85\textwidth]{figs_entrega3/fig_eda_oferta.png}
+\caption{Variedad de oferta comercial: mediana de productos ofrecidos por banco en cada categoría, según
+tipo de entidad (Régimen de Transparencia). Los privados nacionales concentran su oferta en plazo fijo; los
+públicos son los más balanceados y los únicos con paquetes e hipotecas relevantes; los extranjeros
+diversifican pero con baja profundidad por categoría.}
+\label{fig:oferta}
+\end{figure}
+
+\subsection{Técnicas de análisis y modelado}
+\label{sec:tecnicas}
+
+\paragraph{Universo de modelado.} Se trabaja con \textbf{52 bancos} (los 56 menos los 4 mayoristas sin
+cartera minorista: Bank of China, JPMorgan, BNP Paribas, Cetelem, cuyas métricas retail no aplican). El
+\textit{dataset} de modelado es el promedio de los tres cortes por banco.
+
+\paragraph{Espacio de variables (21).} Un espacio mixto que integra balance y oferta:
+\begin{itemize}
+  \item \textbf{10 variables continuas:} logaritmo del activo, préstamos/activo, títulos/activo,
+  depósitos/activo, patrimonio/activo, ROA, liquidez, eficiencia, cartera irregular y logaritmo del
+  activo por empleado. Sobre las variables más sesgadas (liquidez, cartera irregular y eficiencia) se
+  aplica una transformación logarítmica, y luego todas se escalan con un método robusto a valores
+  extremos (\textit{RobustScaler}), apropiado dada la dispersión del sistema.
+  \item \textbf{11 binarias de oferta:} disponibilidad de caja de ahorro (pesos/USD), cuenta corriente,
+  plazo fijo, tarjeta de crédito/débito, préstamo personal/hipotecario/prendario, paquete, segmento
+  premium, entre otras. Concatenadas sin escalar, con peso 1,0.
+\end{itemize}
+
+\paragraph{Reducción dimensional (PCA).} Usada para diagnóstico y visualización. En el espacio mixto, los
+dos primeros componentes explican $\sim$54\,\% de la varianza (Figura~\ref{fig:pca}) y se necesitan
+$\sim$7 componentes para alcanzar el 90\,\%, lo que confirma que la heterogeneidad es genuinamente
+multidimensional y no reducible a un único eje ``tamaño''.
+
+\begin{figure}[htbp]
+\centering
+\includegraphics[width=0.95\textwidth]{figs_entrega3/fig_pca_scree.png}
+\caption{\textit{Scree plot} (izq.) y varianza acumulada (der.) del PCA. La caída es gradual y se
+requieren $\sim$7 componentes para el 90\,\%: el sistema no se resume en pocos ejes dominantes.}
+\label{fig:pca}
+\end{figure}
+
+\paragraph{Comparación sistemática de modelos.} Se exploraron y compararon varias combinaciones de
+espacio y algoritmo:
+\begin{itemize}
+  \item \textbf{K-Means $k=3$} sobre las 21 variables + StandardScaler (modelo base).
+  \item \textbf{GMM $k=3$} sobre las 10 continuas + log + RobustScaler (sin oferta).
+  \item \textbf{GMM $k=3$ sobre espacio mixto}, en dos variantes de ponderación de las binarias
+  (peso 1,0 y peso 0,5).
+  \item \textbf{Contrastes algorítmicos:} \textit{clustering} jerárquico de Ward y DBSCAN (densidad),
+  para chequear si la partición es un artefacto del algoritmo.
+\end{itemize}
+El número de \textit{clusters} se seleccionó con \textit{silhouette}, Davies-Bouldin y método del codo
+($k=3$ robusto en todos los modelos). La elección del modelo final se basa en interpretabilidad sustantiva
+más validación supervisada (Sección~\ref{sec:discusion}).
+
+\paragraph{Validación supervisada.} Un clasificador LightGBM multiclase se entrena sobre las etiquetas del
+\textit{clustering} usando las variables originales. Si un modelo supervisado independiente del algoritmo
+de \textit{clustering} logra predecir las etiquetas con buena performance, la partición refleja estructura
+real en los datos. Se emplea \textbf{validación cruzada anidada} (5 folds externos $\times$ 3 internos)
+para estimar la generalización con un tamaño muestral reducido, \textbf{búsqueda aleatoria de
+hiperparámetros} (30 iteraciones) en el loop interno optimizando macro-F1 ---en lugar de \textit{accuracy},
+por el desbalance entre clases (27/15/10)--- y \textbf{ponderación de clases} (\texttt{class\_weight}
+balanceado) para compensar ese desbalance.
+
+\paragraph{Interpretabilidad (SHAP).} Sobre el modelo final se calculan valores SHAP, tanto globales
+(importancia de cada variable) como por clase (qué variables definen cada perfil y con qué peso).
+
+\subsection{Selección de características}
+\label{sec:seleccion}
+
+El diseño de variables retoma el esquema \textit{choice/outcome} de \citet{roengpitya2014}, pero lo
+\textbf{adapta} a las particularidades del caso. En el esquema original, las variables de resultado (ROA,
+eficiencia, cartera irregular) se reservan para describir los grupos \textit{a posteriori}. En este trabajo,
+en cambio, esas tres variables \textbf{sí integran el espacio de \textit{clustering}} junto con las de
+elección (estructura de balance y oferta comercial), porque sin ellas el algoritmo no separa los tres
+modelos de negocio de forma interpretable: el sistema argentino presenta gradientes entre perfiles que las
+variables de balance ``puro'' no alcanzan a resolver. Se excluye ROE del espacio de \textit{clustering} por
+su alta colinealidad con ROA ($\rho = 0{,}92$), y se lo conserva como variable puramente descriptiva.
+
+Esta relajación introduce un riesgo de circularidad ---definir grupos con variables que luego los
+explican--- que se controla \textit{ex post}: la validación supervisada (Sección~\ref{sec:res2}) opera solo
+sobre las etiquetas resultantes, sin acceso al proceso de \textit{clustering}, de modo que su alta
+\textit{accuracy} constituye evidencia independiente de que la partición es real y no un mero reflejo de las
+variables elegidas. Respecto de la ponderación de las binarias de oferta, se evaluaron dos pesos (1,0 y 0,5):
+el peso 1,0 maximiza la interpretabilidad y la coincidencia con el modelo base. Finalmente, las binarias casi
+constantes en el panel (plazo fijo, prendario) resultan sin poder discriminante, como confirma el análisis
+SHAP.
+
+\subsection{Métricas de evaluación}
+
+\begin{itemize}
+  \item \textbf{Internas (\textit{clustering}):} \textit{silhouette} y Davies-Bouldin (calidad geométrica),
+  Adjusted Rand Index (ARI) y NMI (coincidencia entre particiones).
+  \item \textbf{Supervisadas (validación):} \textit{accuracy} y macro-F1 (esta última como métrica primaria,
+  por el desbalance de clases), con \textit{precision}/\textit{recall}/F1 por clase.
+\end{itemize}
+Las métricas internas guían la elección de $k$; la elección del modelo se argumenta con las métricas
+supervisadas más interpretabilidad (Sección~\ref{sec:discusion}).
+
+\subsection{Métodos estadísticos}
+
+Se emplean el test de \textbf{Kruskal-Wallis} (no paramétrico) para contrastar igualdad de distribuciones
+de ratios entre tipos de entidad; la \textbf{validación cruzada anidada} (5$\times$3) con búsqueda aleatoria
+de hiperparámetros para estimar la generalización; y los \textbf{valores SHAP} para la atribución de
+importancia por variable y por clase.
+
+% ============================================================
+\section{Resultados y discusión}
+\label{sec:resultados}
+% ============================================================
+
+\subsection{Segmentación no supervisada}
+\label{sec:res1}
+
+El modelo principal es el \textbf{GMM $k=3$ sobre el espacio mixto con peso de binarias 1,0}. Produce una
+partición de \textbf{27 / 15 / 10} bancos que mapea limpiamente a tres modelos de negocio reconocibles
+(Figura~\ref{fig:pca_clusters}). La elección de este modelo por sobre alternativas con \textit{silhouette}
+más alto se argumenta en la Sección~\ref{sec:discusion}.
+
+\begin{figure}[htbp]
+\centering
+\includegraphics[width=0.95\textwidth]{figs_entrega3/fig_clustering_pca.png}
+\caption{Proyección PCA (PC1 40,3\,\% $\cdot$ PC2 13,7\,\%) de los 52 bancos coloreada por \textit{cluster}
+del modelo GMM sobre el espacio mixto (peso de las binarias 1,0, \textit{silhouette} 0,145). La nube es
+continua, sin separaciones nítidas entre grupos: las fronteras entre perfiles son difusas, lo que el
+\textit{silhouette} refleja y la validación supervisada explica como solapamiento entre perfiles, no como
+una falla del modelo.}
+\label{fig:pca_clusters}
+\end{figure}
+
+\paragraph{Cluster 0 --- Minoristas masivos (27 bancos).}
+Perfil mediano: ROA 3,1\,\%; depósitos 66\,\% del activo; eficiencia 43\,\%; oferta retail completa
+(paquetes premium 67\,\%, hipotecas 78\,\%, tarjetas premium 59\,\%). Es el núcleo del sistema bancario
+tradicional: Galicia, Nación, BBVA, Santander, todos los públicos provinciales, Macro, Patagonia,
+Supervielle, Credicoop. Representa el modelo de \textbf{banca universal minorista}: entidades grandes,
+con red de sucursales, que se fondean con depósitos del sector privado y ofrecen la gama completa de
+productos ---desde la caja de ahorro hasta el crédito hipotecario y los paquetes premium. Su rentabilidad
+positiva y su eficiencia razonable reflejan economías de escala. Lo relevante es su composición: reúne bajo
+un mismo modelo de negocio a bancos públicos provinciales y a grandes privados y extranjeros, entidades que
+la clasificación administrativa separa pero que operan de forma equivalente. Es la evidencia más directa de
+que el modelo de negocio, y no la propiedad, es el eje que estructura el sistema.
+
+\paragraph{Cluster 1 --- Chicos en transformación (15 bancos).}
+Perfil mediano: ROA $-2{,}3$\,\% (el único cluster con rentabilidad negativa); eficiencia 80\,\%
+(\textit{cost-to-income} deteriorado); cartera irregular 4,3\,\%. Ofrecen préstamos personales (87\,\%) pero
+casi no hipotecas (20\,\%). Es el cluster más heterogéneo en apariencia pero coherente en su lógica: agrupa
+a los 4 bancos 100\,\% digitales (Brubank, Ualá, Voii, Dino), a entidades de \textit{consumer finance}
+(Servicios Financieros, Columbia, Sucrédito, Masventas) y a privados chicos con dificultades (Banco Meridian,
+Banco Julio, Banco Piano). Lo que los une es un modelo de \textbf{banca minorista de nicho o en construcción}:
+foco en crédito al consumo, escala insuficiente para diluir costos, y rentabilidad todavía negativa ---sea
+porque están invirtiendo para crecer (los digitales) o porque enfrentan un negocio estructuralmente difícil
+(los chicos tradicionales). El sub-perfil \textit{fintech} queda anidado aquí y no como clase propia: el
+modelo comparte con el resto del cluster el rasgo de rentabilidad débil y foco en consumo, aunque su causa
+sea distinta. Desde una óptica de supervisión, es el grupo de seguimiento prioritario.
+
+\paragraph{Cluster 2 --- Mayoristas / inversión (10 bancos).}
+Perfil mediano: ROA 3,2\,\%; eficiencia 30\,\% (la más baja, es decir la mejor); depósitos solo 45\,\% del
+activo; cartera irregular 0,6\,\% (morosidad casi nula). Casi no ofrecen productos minoristas (hipotecas
+10\,\%, paquetes 10\,\%). Reúne a Citibank, Banco de Valores, Mariva, BICE, CMF y BACS: es el modelo de
+\textbf{banca corporativa y de mercado de capitales}. Estas entidades se fondean en el mercado mayorista o
+con capital propio ---no dependen del depósito minorista--- e invierten o titulizan en lugar de prestar a
+familias. Su morosidad casi nula no refleja mejor gestión del riesgo minorista sino su ausencia: casi no
+tienen cartera de consumo. Es el perfil que el modelo caracteriza tanto por lo que hace (invertir, operar en
+el mercado) como por lo que no hace (captar depósitos minoristas, ofrecer productos masivos), y el que más
+se aproxima a la ``banca de inversión'' de la tipología de \citet{roengpitya2014}.
+
+\subsubsection{Hallazgos estructurales}
+
+\begin{itemize}
+  \item \textbf{El tipo de entidad no segmenta.} Públicos provinciales y privados grandes comparten el
+  \textit{cluster} minorista cuando comparten modelo de negocio. La propiedad (público/privado/extranjero)
+  no es el eje de segmentación; el modelo de negocio sí. Esto verifica el primer sentido operativo de la
+  hipótesis general (Sección~\ref{sec:objetivos}).
+  \item \textbf{El sub-grupo digital queda identificado.} Los 4 digitales caen juntos en ``Chicos en
+  transformación'', sin dispersarse entre perfiles.
+\end{itemize}
+
+\paragraph{Modelos de contraste.} La comparación sistemática (Cuadro~\ref{tab:modelos}) justifica la
+elección y aporta evidencia sobre la naturaleza del sistema:
+\begin{itemize}
+  \item \textbf{K-Means} logra \textit{silhouette} 0,243 y tres perfiles de balance claros, pero dispersa
+  los 4 digitales entre los tres \textit{clusters}: la dimensión \textit{fintech} no aparece.
+  \item \textbf{GMM solo continuas} es el primero en agrupar los digitales, pero al descartar la oferta
+  pierde la distinción mayorista vs.\ minorista (ARI 0,215 con el base: es esencialmente otra partición).
+  \item \textbf{GMM sobre espacio mixto} recupera ambas cosas: agrupa los digitales y restaura los tres
+  modelos de negocio, con el ARI más alto contra el modelo base (0,594) ---es la versión que más respeta la
+  intuición del K-Means base mejorando sus fronteras.
+  \item \textbf{Ward y DBSCAN} confirman que el sistema no es jerárquico ni denso: el coeficiente cofenético
+  de Ward es 0,457 (no hay subgrupos limpios anidados) y DBSCAN deja 84\,\% de los bancos como ruido (solo
+  los minoristas grandes forman regiones densas). Todos los algoritmos coinciden en el ``esqueleto''
+  (minoristas vs.\ resto) y difieren en las fronteras finas ---evidencia de que los perfiles se solapan en
+  sus fronteras, no de un defecto de un método particular.
+\end{itemize}
+
+\begin{table}[htbp]
+\centering
+\caption{Comparación sistemática de modelos de \textit{clustering}. El modelo elegido (en negrita) no es el
+de mayor \textit{silhouette}, pero es el único que agrupa los digitales sin perder la distinción
+mayorista/minorista, y el de mayor coincidencia con el modelo base.}
+\label{tab:modelos}
+\small
+\begin{tabular}{llrcr}
+\toprule
+\textbf{Modelo} & \textbf{Espacio} & \textbf{Silhouette} & \textbf{Digitales agrup.} & \textbf{ARI vs.\ K-Means} \\
+\midrule
+K-Means $k=3$ & 21 feat + StandardScaler & 0,243 & No (dispersos) & --- \\
+GMM $k=3$ & 10 continuas + log & 0,262 & Sí & 0,215 \\
+\textbf{GMM $k=3$} & \textbf{mixto (peso 1,0)} & \textbf{0,145} & \textbf{Sí (anidados)} & \textbf{0,594} \\
+GMM $k=3$ & mixto (peso 0,5) & 0,174 & Sí & 0,427 \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\subsection{Validación supervisada e interpretabilidad}
+\label{sec:res2}
+
+Un clasificador supervisado independiente aprende a reproducir las etiquetas del \textit{clustering} a
+partir de las variables originales. El propósito no es la predicción en sí, sino determinar si la partición
+es predecible y coherente o, por el contrario, un artefacto del algoritmo ---el segundo sentido operativo de
+la hipótesis general.
+
+\paragraph{Desempeño en validación externa.} \textit{Accuracy} $0{,}867 \pm 0{,}075$ y macro-F1
+$0{,}850 \pm 0{,}081$. Por clase, los F1 quedan entre 0,83 y 0,89: el desbalance 27/15/10 no degrada las
+clases chicas. Para un $n = 52$ con validación cruzada anidada, una \textit{accuracy} de 0,87 es alta y
+supera holgadamente lo esperable de una partición arbitraria. La matriz de confusión
+(Figura~\ref{fig:confusion}) concentra 45 de 52 bancos en la diagonal.
+
+\begin{figure}[htbp]
+\centering
+\includegraphics[width=0.7\textwidth]{figs_entrega3/fig_matriz_confusion.png}
+\caption{Matriz de confusión (validación cruzada anidada, $n = 52$). La diagonal concentra 45 de 52 bancos.
+Los 7 errores se ubican en las fronteras entre perfiles y nunca confunden perfiles opuestos: ningún
+minorista típico se predice como mayorista.}
+\label{fig:confusion}
+\end{figure}
+
+\paragraph{Los errores son los bordes esperados.} Los 7 errores no son casos típicos: BROU (\textit{outlier}
+extremo, ROA $-35$\,\%, eficiencia 407\,\%), Columbia y Dino (\textit{consumer finance}/digital ambiguos),
+Sgo.\ del Estero y Banco de Comercio (borde mayorista/minorista), Municipal Rosario y Coinag (minoristas
+deteriorados al borde de la transformación). Que fallen justamente los bancos que el GMM ya había asignado
+con probabilidad de pertenencia baja confirma que GMM y LightGBM están viendo el mismo continuo subyacente,
+pero lo cortan en lugares levemente distintos.
+
+\paragraph{Variables que definen cada perfil (SHAP).} El análisis global (Figura~\ref{fig:shap_global})
+muestra que dominan tres variables financieras ---ROA, cartera irregular y eficiencia--- seguidas de dos
+comerciales ---oferta de paquetes y de paquetes premium. La descomposición por clase
+(Figura~\ref{fig:shap_clase}) revela que cada \textit{cluster} tiene una ``firma'' distinta y con escaso
+solapamiento:
+\begin{itemize}
+  \item \textbf{Minoristas masivos:} se definen por la oferta retail premium (oferta de paquetes,
+  $|\text{SHAP}| = 1{,}57$; segmento premium, 1,36; hipotecas, 0,68) y por la escala (préstamos/activo, 1,15;
+  log activo, 0,49). La variable discriminante es la oferta comercial más que el balance.
+  \item \textbf{Chicos en transformación:} se definen casi por completo por la rentabilidad y la eficiencia
+  ---ROA negativo ($|\text{SHAP}| = 3{,}30$) y eficiencia deteriorada (1,43)--- mientras que la oferta de
+  productos prácticamente no aporta.
+  \item \textbf{Mayoristas / inversión:} se definen por la baja morosidad (cartera irregular reducida,
+  $|\text{SHAP}| = 2{,}39$), la eficiencia muy baja (\textit{cost-to-income} bajo, típico de banca
+  corporativa) y la baja proporción de préstamos sobre activo. Esta clase queda caracterizada tanto por la
+  ausencia de ciertos rasgos como por su presencia.
+\end{itemize}
+
+\begin{figure}[htbp]
+\centering
+\includegraphics[width=0.9\textwidth]{figs_entrega3/fig_shap_global.png}
+\caption{Importancia global SHAP ($|\text{SHAP}|$ promedio, top 15). Dominan tres variables financieras
+---ROA, cartera irregular y eficiencia--- seguidas de dos comerciales: la oferta de paquetes y la de
+paquetes premium. Las binarias casi constantes (plazo fijo, prendario) no aportan.}
+\label{fig:shap_global}
+\end{figure}
+
+\begin{figure}[htbp]
+\centering
+\includegraphics[width=0.9\textwidth]{figs_entrega3/fig_shap_por_clase.png}
+\caption{Importancia SHAP descompuesta por clase. Cada \textit{cluster} presenta un conjunto de variables
+determinantes distinto y con escaso solapamiento: el ROA define a los chicos en transformación, la baja
+morosidad a los mayoristas, y la oferta retail premium a los minoristas.}
+\label{fig:shap_clase}
+\end{figure}
+
+\paragraph{Coherencia con la segmentación.} El análisis SHAP recupera las mismas variables con que se había
+caracterizado cada perfil ---ROA, cartera irregular, eficiencia, paquetes premium e hipotecas--- sin haberlas
+recibido como entrada explícita para esa tarea. La interpretación del \textit{clustering} y la del
+clasificador convergen de forma independiente.
+
+\paragraph{Alcance de la validación.} El clasificador no demuestra que $k=3$ sea el número óptimo de grupos
+ni que el modelo elegido supere en términos absolutos a las demás particiones; confirma que, dada esa
+partición, es coherente y reproducible a partir de las variables. Tampoco aísla la dimensión digital como
+clase propia: las entidades digitales quedan comprendidas dentro de ``Chicos en transformación''.
+
+\subsection{Discusión de los resultados y su relevancia}
+\label{sec:discusion}
+
+El hallazgo central del trabajo es la coexistencia de un \textit{silhouette} bajo (0,145) con una
+\textit{accuracy} de validación alta (0,867). Lejos de ser una contradicción, esa combinación es el resultado
+más relevante y merece interpretación cuidadosa.
+
+\begin{itemize}
+  \item \textbf{El \textit{silhouette} bajo es información, no una falla.} El \textit{silhouette} mide la
+  compacidad geométrica de los grupos. En un espacio donde los perfiles se diferencian por combinaciones de
+  variables ---y no por una única variable que los separe nítidamente--- y donde existen bancos en zonas de
+  frontera entre perfiles, cualquier partición discreta arrojará un \textit{silhouette} bajo. El valor
+  observado indica límites difusos entre grupos, no un mal agrupamiento.
+  \item \textbf{La validación triangula la calidad de la partición.} El \textit{silhouette} bajo se
+  contrapesa con tres evidencias independientes que apuntan a lo mismo: \textit{accuracy} 0,867 en validación
+  cruzada anidada, atribución SHAP coherente con los perfiles, y ARI 0,594 con el modelo base de K-Means. La
+  partición es real, pero con fronteras difusas.
+  \item \textbf{Elección del modelo.} La decisión se basa en la interpretabilidad y la validación supervisada,
+  no en la métrica geométrica ---criterio consistente con \citet{mercadier2025}, para quienes
+  \textit{silhouette} y Davies-Bouldin son indicadores complementarios y no un veredicto único.
+\end{itemize}
+
+\paragraph{Implicancia macroprudencial.}
+El hallazgo de que el tipo administrativo no segmenta tiene una lectura regulatoria concreta. La supervisión
+bancaria suele organizarse, implícita o explícitamente, en torno a categorías jurídicas ---bancos públicos,
+privados nacionales, extranjeros--- pero los resultados sugieren que esa partición no se corresponde con la
+exposición real al riesgo. Un banco público provincial minorista y un gran banco privado comparten perfil de
+riesgo (Cluster 0) pese a su distinta propiedad, mientras que dos entidades ambas ``privadas nacionales''
+pueden pertenecer a clusters opuestos según sean minoristas masivas o de nicho en pérdida. Una supervisión
+organizada por modelo de negocio ---y no por forma jurídica--- capturaría mejor dónde se concentran las
+vulnerabilidades. En esa clave, el trabajo ofrece un mapa: el Cluster 1 (``Chicos en transformación''), con
+ROA negativo y eficiencia deteriorada, es el de seguimiento prioritario, ya que combina rentabilidad negativa
+con escala insuficiente; y dentro de él, el sub-grupo digital ---emergente y en rápida expansión--- amerita un
+monitoreo específico que distinga la pérdida ``por inversión en crecimiento'' de la pérdida ``por negocio
+inviable''. La dinámica temporal documentada en el análisis exploratorio (caída generalizada del ROA, aumento
+de la morosidad) agrega urgencia: los perfiles no son estáticos, y un banco puede migrar entre ellos ---una
+extensión natural que las probabilidades de pertenencia del GMM habilitan (Sección~\ref{sec:conclusion}).
+
+\subsection{Limitaciones y posibles mejoras}
+
+\begin{itemize}
+  \item \textbf{Muestra chica ($n = 52$):} el desvío de 0,075 implica que la \textit{accuracy} real se ubica
+  aproximadamente entre 0,79 y 0,94. La precisión de la estimación está acotada por el tamaño muestral.
+  \item \textbf{El promedio de los tres cortes oculta la dinámica temporal} documentada en el análisis
+  exploratorio. \textit{Mejora:} analizar transiciones de perfil por corte.
+  \item \textbf{Las variables de oferta capturan disponibilidad, no volumen ni precio.} \textit{Mejora:}
+  incorporar tasas y comisiones como variables continuas.
+  \item \textbf{El clasificador hereda los sesgos del \textit{clustering}:} reproduce los eventuales errores de
+  asignación del modelo de base.
+\end{itemize}
+
+% ============================================================
+\section{Conclusión}
+\label{sec:conclusion}
+% ============================================================
+
+\subsection{Resumen de los hallazgos principales}
+
+El trabajo identifica \textbf{tres perfiles de negocio diferenciados} en el sistema bancario argentino:
+minoristas masivos (27 bancos), chicos en transformación (15, con un sub-grupo digital emergente) y
+mayoristas/inversión (10). Con ello responde afirmativamente a la pregunta de investigación: existen perfiles
+diferenciados y se identifican las variables que los definen. El \textbf{tipo de entidad (propiedad) no
+segmenta}: lo que agrupa a los bancos es el modelo de negocio, no la forma jurídica. Las variables que definen
+cada perfil son interpretables y coherentes económicamente ---rentabilidad y eficiencia separan a los chicos;
+la baja morosidad y el bajo fondeo minorista, a los mayoristas; la oferta retail premium y la escala, a los
+minoristas--- y la partición es \textbf{predecible} (\textit{accuracy} 0,867) pese a un \textit{silhouette}
+bajo: fronteras difusas pero estructura real.
+
+\subsection{Conclusiones generales y su relación con los objetivos}
+
+Se cumplen los objetivos planteados. Se construyó un \textit{dataset} integrado que combina, por primera vez
+para el caso argentino, información de balance y de oferta comercial pública; se describió la heterogeneidad
+estructural del sistema y su dinámica temporal; se aplicaron y compararon múltiples algoritmos de
+\textit{clustering}; se caracterizó cada perfil por sus dimensiones económicas; y se validó la partición con
+un clasificador supervisado interpretado con SHAP. La hipótesis general de trabajo queda respaldada en sus dos
+sentidos operativos: el tipo administrativo no estructura los grupos, y un clasificador independiente reproduce
+la partición con alta \textit{accuracy}.
+
+El principal aporte metodológico, frente a una literatura centrada en métricas internas, es la
+\textbf{estrategia de validación triple} ---interpretabilidad sustantiva, clasificador supervisado
+independiente y coherencia de la atribución SHAP--- que permite sostener la elección de un modelo con
+\textit{silhouette} bajo pero con estructura demostrablemente real. Esta estrategia también habilita la
+decisión metodológica de relajar el esquema \textit{choice/outcome} sin incurrir en circularidad.
+
+\subsection{Recomendaciones para futuros trabajos}
+
+\begin{itemize}
+  \item \textbf{Transiciones temporales (Dic-23 $\rightarrow$ Dic-25).} Usar las probabilidades de pertenencia
+  del GMM y/o aplicar el clasificador a cada corte por separado para detectar migraciones de perfil y evaluar
+  si la digitalización se acelera.
+  \item \textbf{Oferta como variable continua.} Incorporar tasas y comisiones del Régimen de Transparencia, hoy
+  representado solo por la disponibilidad binaria de cada producto.
+  \item \textbf{Dimensión digital explícita.} Tratar el sub-grupo \textit{fintech} como eje propio del análisis
+  si la digitalización se vuelve central a la pregunta de investigación.
+\end{itemize}
+
+% ============================================================
+\section{Bibliografía}
+% ============================================================
+
+\subsection{Referencias citadas}
+
+\begingroup
+\renewcommand{\section}[2]{}
+\begin{thebibliography}{9}
+
+\bibitem[Chherawala et al.(2025)]{chherawala2025}
+Chherawala, T., Vaidya, A., \& Basu, S. (2025). \textit{Multidimensional surveillance of the Indian banking
+system: A cluster approach.} Journal of Applied Economic Sciences, 20(2), 255--272.
+
+\bibitem[Ke et al.(2017)]{lightgbm}
+Ke, G., Meng, Q., Finley, T., Wang, T., Chen, W., Ma, W., Ye, Q., \& Liu, T.-Y. (2017). \textit{LightGBM: A
+highly efficient gradient boosting decision tree.} Advances in Neural Information Processing Systems, 30.
+
+\bibitem[Lundberg \& Lee(2017)]{lundberg2017}
+Lundberg, S. M., \& Lee, S.-I. (2017). \textit{A unified approach to interpreting model predictions.} Advances
+in Neural Information Processing Systems, 30.
+
+\bibitem[Mercadier et al.(2025)]{mercadier2025}
+Mercadier, M., Tarazi, A., Armand, P., \& Lardy, J.-P. (2025). \textit{Monitoring bank risk around the world
+using unsupervised learning.} European Journal of Operational Research, 324(2), 590--615.
+
+\bibitem[Pedregosa et al.(2011)]{scikit-learn}
+Pedregosa, F., et al. (2011). \textit{Scikit-learn: Machine learning in Python.} Journal of Machine Learning
+Research, 12, 2825--2830.
+
+\bibitem[Roengpitya et al.(2014)]{roengpitya2014}
+Roengpitya, R., Tarashev, N., \& Tsatsaronis, K. (2014). \textit{Bank business models.} BIS Quarterly Review,
+December, 55--65.
+
+\end{thebibliography}
+\endgroup
+
+\subsection{Fuentes de datos primarias}
+
+\begin{itemize}
+  \item BCRA --- Portal de Entidades Financieras (estados contables, situación de deudores, datos de estructura).
+  \item BCRA --- Régimen de Transparencia, Sección 36 (información comercial de productos).
+  \item BCRA --- Comunicación ``A'' (clasificación de deudores: situaciones 1 a 5).
+\end{itemize}
+
+% ============================================================
+\section{Anexos}
+\label{sec:anexos}
+% ============================================================
+
+\subsection{Código fuente y reproducibilidad}
+
+El código fuente completo ---el \textit{script} de \textit{scraping} y los notebooks del análisis (ingesta y
+calidad, análisis exploratorio, \textit{clustering} base, alternativo y principal, y validación supervisada)---
+está disponible en el repositorio público del proyecto. El repositorio incluye el archivo de dependencias
+(\texttt{requirements.txt}) con las versiones de las bibliotecas utilizadas y las instrucciones para reproducir
+el análisis de punta a punta.
+
+\begin{notebox}
+\small
+\textbf{Repositorio:} \url{https://github.com/missvico/tesis-perfiles-bancarios}\\
+\textbf{Software:} Python 3, con \texttt{scikit-learn}, \texttt{lightgbm}, \texttt{shap}, \texttt{pandas},
+\texttt{numpy}, \texttt{scipy}, \texttt{matplotlib} y \texttt{seaborn} (versiones en \texttt{requirements.txt}).
+\end{notebox}
+
+\subsection{Tablas y gráficos adicionales}
+
+El repositorio incluye, además, resúmenes en prosa por etapa del análisis (\texttt{resumen\_eda.md},
+\texttt{resumen\_clustering.md}, \texttt{resumen\_clustering\_alternativo.md} y \texttt{resumen\_clasificador.md})
+con tablas y figuras ampliadas que complementan las presentadas en este documento.
+
+\end{document}

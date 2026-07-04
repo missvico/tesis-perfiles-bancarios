@@ -27,3 +27,8 @@ claude-memory-backup/
 claude-*-backup/
 *.credentials.json
 .credentials.json
+
+# Scripts one-shot ya aplicados (quedan locales, fuera del repo público)
+scripts/insert_section7.py
+scripts/patch_notebook_02.py
+scripts/patch_notebook_03.py
