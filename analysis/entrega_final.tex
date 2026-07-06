@@ -180,7 +180,7 @@ posiciona al \textit{clustering} como instrumento de supervisión macroprudencia
 aplicado de esta tesis.
 
 \paragraph{Diálogo entre los antecedentes y el caso argentino.}
-Los tres trabajos comparten una convicción, que la heterogeneidad bancaria se organiza en un número reducido de modelos de negocio recuperables por métodos no supervisados, pero difieren en escala y en supuestos que el caso argentino tensiona. \citet{roengpitya2014} trabajan con grandes bancos internacionales, donde los tres modelos (minorista, mayorista de fondeo, inversión) emergen nítidos porque las entidades son grandes y especializadas; en un sistema chico y con fuerte presencia estatal como el argentino, esa nitidez se pierde y aparecen bancos ``híbridos'' en zonas de frontera. La estrategia de PCA + \textit{k-means} de \citet{mercadier2025} está pensada para muestras grandes (n = 256) donde el \textit{silhouette} es un criterio confiable; con n=52 y perfiles solapados, esa métrica pierde poder de decisión, una limitación que este trabajo aborda de frente incorporando una etapa de validación supervisada. El precedente de \citet{chherawala2025} es el más transferible por contexto, pero se limita a variables de balance; ninguno de los tres antecedentes integra la oferta comercial de productos, que en el caso argentino resulta ser una dimensión discriminante, en particular para separar la banca minorista tradicional de la banca de inversión y para identificar el sub-grupo digital emergente. En síntesis, este trabajo hereda el marco metodológico de la literatura pero lo adapta a un sistema más chico, más heterogéneo y con una dimensión comercial que los antecedentes no contemplan.
+Los tres trabajos comparten una convicción, que la heterogeneidad bancaria se organiza en un número reducido de modelos de negocio recuperables por métodos no supervisados, pero difieren en escala y en supuestos que el caso argentino tensiona. \citet{roengpitya2014} trabajan con grandes bancos internacionales, donde los tres modelos (minorista, mayorista de fondeo, inversión) emergen nítidos porque las entidades son grandes y especializadas; en un sistema chico y con fuerte presencia estatal como el argentino, esa nitidez se pierde y aparecen bancos ``híbridos'' en zonas de frontera. La estrategia de PCA + \textit{k-means} de \citet{mercadier2025} está pensada para muestras grandes ($n = 256$) donde el \textit{silhouette} es un criterio confiable; con $n = 52$ y perfiles solapados, esa métrica pierde poder de decisión, una limitación que este trabajo aborda de frente incorporando una etapa de validación supervisada. El precedente de \citet{chherawala2025} es el más transferible por contexto, pero se limita a variables de balance; ninguno de los tres antecedentes integra la oferta comercial de productos, que en el caso argentino resulta ser una dimensión discriminante, en particular para separar la banca minorista tradicional de la banca de inversión y para identificar el sub-grupo digital emergente. En síntesis, este trabajo hereda el marco metodológico de la literatura pero lo adapta a un sistema más chico, más heterogéneo y con una dimensión comercial que los antecedentes no contemplan.
 
 \subsection{Conceptos y técnicas de ciencia de datos utilizados}
 
@@ -691,7 +691,7 @@ GMM $k=3$ & mixto (peso 0,5) & 0,174 & Sí & 0,427 \\
 Un clasificador supervisado independiente aprende a reproducir las etiquetas del \textit{clustering} a
 partir de las variables originales. Esta etapa permite determinar si la partición es predecible y
 coherente, o si, por el contrario, constituye un artefacto del algoritmo, lo cual corresponde al segundo
-sentido en el que se contrasta la hipótesis general..
+sentido en el que se contrasta la hipótesis general.
 
 \paragraph{Desempeño en validación externa.} El modelo alcanza una \textit{accuracy} de $0{,}867 \pm 0{,}075$
 y un macro-F1 de $0{,}850 \pm 0{,}081$. Al desagregar por clase, los valores de F1 se ubican entre 0,83 y
@@ -758,7 +758,7 @@ paquetes premium. Las binarias casi constantes (plazo fijo, prendario) no aporta
 \includegraphics[width=0.9\textwidth]{figs_entrega3/fig_shap_por_clase.png}
 \caption{Importancia SHAP descompuesta por clase. Cada \textit{cluster} presenta un conjunto de variables
 determinantes distinto y con escaso solapamiento: el ROA define a la banca minorista en transformación, la baja
-morosidad a los mayoristas, y la oferta retail premium a los minoristas.}
+morosidad a los mayoristas, y la oferta retail premium a la banca universal masiva.}
 \label{fig:shap_clase}
 \end{figure}
 
