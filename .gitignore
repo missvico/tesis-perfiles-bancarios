@@ -32,3 +32,9 @@ claude-*-backup/
 scripts/insert_section7.py
 scripts/patch_notebook_02.py
 scripts/patch_notebook_03.py
+
+# Generadores de notebooks (herramientas de desarrollo, no parte del pipeline)
+scripts/gen_notebook_03.py
+scripts/gen_notebook_04.py
+scripts/gen_notebook_05.py
+scripts/gen_notebook_06.py
